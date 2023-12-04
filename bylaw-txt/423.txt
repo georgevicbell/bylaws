@@ -1,0 +1,659 @@
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+Chapter 423 
+
+ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+§ 423-1. Definitions. 
+
+ARTICLE I 
+Interpretation 
+
+ARTICLE II 
+Duty to Report 
+
+§ 423-2. Duty to report. 
+
+§ 423-3. Exemptions from reporting requirement. 
+
+§ 423-4. Content of report. 
+
+§ 423-5. Record-keeping. 
+
+§ 423-6. Inspections. 
+
+§ 423-7. Access to information. 
+
+ARTICLE III 
+Inspections 
+
+ARTICLE IV 
+Access to Information 
+
+ARTICLE V 
+Penalty 
+
+§ 423-8. Offence. 
+
+Schedule A, Priority Substances, Mass Reporting Thresholds and Concentration 
+
+Thresholds 
+
+[HISTORY: Adopted by the Council of the City of Toronto 2008-12-03 by By-law No. 1293-
+2008.1 Amendments noted where applicable.] 
+
+ARTICLE I 
+Interpretation 
+
+§ 423-1. Definitions. 
+
+As used in this chapter, the following terms shall have the meanings indicated: 
+
+ACCOMMODATION SERVICES - Includes hotels and motels. 
+
+1
+
+ Editor's Note: This by-law came into force January 1, 2010. 
+
+423-1 
+
+2011-06-15 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+ARTICLE - A manufactured item that does not release a priority substance when it undergoes 
+processing or other use. 
+
+BY-PRODUCT - A priority substance which is incidentally manufactured, processed or 
+otherwise used at the facility at any concentration and released on site to the environment. 
+
+CONCENTRATION THRESHOLD - The concentration of a priority substance expressed as a 
+weight-to-weight ratio set out in column 3 of Schedule A.2 
+
+DWELLING UNIT - Real property used or designated for use as a home or as a place in which 
+one or more persons may sleep. 
+
+ENVIRONMENT - The air, land or water of the City of Toronto. 
+
+FACILITY - A building, equipment, structure, and other stationary items that are located on a 
+single site or on contiguous or adjacent sites and that are owned and are operated by the same 
+person, or by a person who controls, is controlled by, or is under common control with such 
+person, but does not include a dwelling unit. 
+
+INSPECTOR - Any person undertaking an inspection required for the purposes of the 
+enforcement of this chapter, and shall include a by-law enforcement officer, or officer, employee 
+or agent of the City of Toronto or a local board of the City of Toronto, or any member of the 
+Toronto Police Service. 
+
+MANUFACTURE - To produce, prepare or compound a priority substance and includes the 
+coincidental production of a priority substance as a by-product. 
+
+MASS REPORTING THRESHOLD - The threshold value for each priority substance set out in 
+column 2 of Schedule A.3 
+
+MEDICAL OFFICER OF HEALTH - The Medical Officer of Health for the City of Toronto 
+Health Unit or his or her delegate. 
+
+NATIONAL POLLUTANT RELEASE INVENTORY - The most current National Pollutant 
+Release Inventory Canada Gazette Notice. 
+
+OTHER USE and OTHERWISE USED - Any use, disposal or release of a priority substance at a 
+facility that does not fall under the definitions of "manufacture" or "process." This includes the 
+use of the priority substance as a chemical processing aid, manufacturing aid or some other use. 
+
+PARTICULATE MATTER 2.5 (PM 2.5) - Particulate matter with a diameter less than or equal to 
+2.5 micrometres. 
+
+PERSON - Includes a corporation, partnership or any other business association, as well as an 
+individual. 
+
+POLYCYCLIC AROMATIC HYDROCARBONS (PAHs) - One or more substances listed in 
+Schedule 1, Part 2, of the National Pollutant Release Inventory, as may be amended from time to 
+time. 
+
+2
+
+3
+
+ Editor's Note: Schedule A is included at the end of this chapter. 
+
+ Editor's Note: Schedule A is included at the end of this chapter. 
+
+423-2 
+
+2011-06-15 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+PRIORITY SUBSTANCE - A substance or group of substances identified in Schedule A,4 but 
+does not include a substance that is: 
+
+A.  Present in an article; 
+
+B.  Used as a structural component of a facility; 
+
+C.  Present in a product used for routine janitorial, facility building or grounds maintenance; 
+
+D.  Present in personal items used by persons at a facility; 
+
+E. 
+
+F. 
+
+G. 
+
+Present in emissions from vehicles; 
+
+Present in intake water or air; 
+
+Present in road dust; 
+
+H.  Present in emissions from building heating systems or hot water heaters but does include 
+
+emissions from process equipment; 
+
+I. 
+
+Present in materials used for the purpose of maintaining motor vehicles operated by the 
+facility. 
+
+PRIORITY SUBSTANCE USER - A person who owns or operates a facility that releases, 
+manufactures, processes or otherwise uses any priority substance. 
+
+PROCESS - The preparation of a priority substance, after its manufacture, for commercial 
+distribution and includes the preparation of a substance in the same physical state or chemical 
+form as that received by the facility, or preparation which produces a change in physical state or 
+chemical form. 
+
+RELEASE - The emission or discharge of a priority substance, whether intentional, accidental or 
+coincidental, from a facility into the environment. 
+
+REPORT - A report to the Medical Officer of Health submitted in a form and in a manner 
+prescribed by the Medical Officer of Health. 
+
+STATEMENT OF CERTIFICATION - A statement made by a person reporting information 
+pursuant to this chapter or on behalf of a person required to report, stating that the information in 
+the report is true, accurate and complete. 
+
+TRANSFER - Sending a priority substance off site for recycling or treatment including treatment 
+in a municipal water treatment facility. 
+
+TREATMENT - Subjecting the priority substance to physical, chemical, biological or thermal 
+processes at a location off the facility site prior to final disposal. 
+
+VOLATILE ORGANIC COMPOUNDS (VOCs) - Volatile organic compounds as defined in 
+item 65 in the List of Toxic Substances in Schedule 1 of the Canadian Environmental Protection 
+Act, 1999, as may be amended from time to time. 
+
+4
+
+ Editor's Note: Schedule A is included at the end of this chapter. 
+
+423-3 
+
+2011-06-15 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+ARTICLE II 
+Duty to Report 
+
+§ 423-2. Duty to report. 
+
+A.  A priority substance user for each facility shall submit a report in relation to a priority 
+
+substance listed in Group A of Schedule A5 that is released, manufactured, processed or 
+otherwise used at that facility: 
+
+(1) 
+
+If the priority substance was manufactured, processed or otherwise used in a quantity 
+equal to or greater than the mass reporting threshold for the substance; and 
+
+(2)  The concentration by weight of the substance was equal to or greater than the 
+
+concentration threshold for the substance, unless the substance is a by-product or 
+there is no corresponding value set out in Schedule A for the substance. 
+
+(3)  For the purposes of Subsection A(2), by-products shall be included in the calculation 
+of the mass reporting threshold of the priority substance, regardless of concentration. 
+
+B.  A priority substance user for each facility shall submit a report in relation to polycyclic 
+
+aromatic hydrocarbons (Group B of Schedule A) when: 
+
+(1)  There is a release, disposal and/or transfer for recycling of one or more polycyclic 
+
+aromatic hydrocarbons from a facility if the sum total of the polycyclic aromatic 
+hydrocarbons released on site, disposed of, and/or transferred off site for recycling as 
+a result of manufacturing, processing or other use is 10 kg or more; or 
+
+(2)  There is a release, disposal and/or transfer for recycling of any quantity of polycyclic 
+
+aromatic hydrocarbons from a facility if: 
+
+(a)  The priority substance user carried out at any time wood preservation using 
+
+creosote at that facility; and 
+
+(b)  The polycyclic aromatic hydrocarbons were released on site, disposed of and/or 
+transferred off site for recycling as a result of wood preservation using creosote. 
+
+C.  A priority substance user for each facility shall submit a report in relation to a priority 
+
+substance listed in Group C of Schedule A when there is a release to air of the substance 
+from a facility in a quantity equal to or greater than the mass reporting threshold for that 
+substance. 
+
+D.  The reports referred to in Subsections A, B and C shall be submitted annually and shall be 
+
+submitted to the Medical Officer of Health by June 30 of the year following the calendar 
+year covered by the reporting in a form and in a manner prescribed by the Medical Officer 
+of Health. 
+
+5
+
+ Editor's Note: Schedule A is included at the end of this chapter. 
+
+423-4 
+
+2011-06-15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+§ 423-3. Exemptions from reporting requirement. 
+
+The duty to report in § 423-2 does not apply to the following facilities: 
+
+A.  Facilities engaged solely in retail sales; 
+
+B.  Medical or dental offices; 
+
+C.  Construction and building maintenance sites; 
+
+D.  Accommodation services, but applies to laundry and dry cleaning facilities located within 
+
+E. 
+
+F. 
+
+G. 
+
+such facilities; 
+
+Food services; 
+
+Facilities for the distribution, storage or retail sale of fuels; or 
+
+Facilities for the maintenance and repair of vehicles, such as automobiles, trucks, 
+locomotives, ships or aircraft, but applies where painting or stripping of vehicles or their 
+components, or the rebuilding or remanufacturing of vehicle components, is conducted at 
+the facility. 
+
+§ 423-4. Content of report. 
+
+In addition to information prescribed by the Medical Officer of Health, a report required under 
+this chapter shall be true, accurate and complete, and shall include: 
+
+A.  The name and location of the facility; 
+
+B.  Contact information regarding the person at the facility responsible for the report; 
+
+C.  A statement of certification in a form prescribed by the Medical Officer of Health; 
+
+D.  The quantity of each priority substance manufactured, processed or otherwise used; 
+
+E.  The quantity of each priority substance released to the environment; and 
+
+F. 
+
+The methods used to calculate the quantity of each priority substance. 
+
+§ 423-5. Record-keeping. 
+
+The information upon which reports referred to in this chapter are based shall be retained for a 
+minimum of five years from the date the report is submitted and, upon request, shall be provided 
+to the Medical Officer of Health for audit purposes. 
+
+423-5 
+
+2011-06-15 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+ARTICLE III 
+Inspections 
+
+§ 423-6. Inspections. 
+
+A.  Subject to compliance with section 377 of the City of Toronto Act, 2006,6 an inspector may 
+enter in or upon the property of a facility at any reasonable time for the purposes of 
+inspecting the facility and determining whether this chapter is being complied with, and 
+may for that purpose: 
+
+(1)  Require the production for inspection of documents of things relevant to the 
+
+inspection; 
+
+(2) 
+
+Inspect and remove documents and things relevant to the inspection for the purpose 
+of making copies or extracts; 
+
+(3)  Require information from any person concerning a matter related to the inspection; 
+
+and 
+
+(4)  Alone or in conjunction with a person possessing special or expert knowledge, make 
+examinations or take tests, samples or photographs necessary for the purposes of the 
+inspection. 
+
+ARTICLE IV 
+Access to Information 
+
+§ 423-7. Access to information. 
+
+A.  All information submitted to and collected by the City in a report will, except as otherwise 
+provided in this section, be available for disclosure to the public in accordance with the 
+Municipal Freedom of Information and Protection of Privacy Act (MFIPPA).7 
+
+B.  Where information submitted to the City or to the Medical Officer of Health in any form, 
+as required under this chapter, is confidential or proprietary or may otherwise be exempt 
+from disclosure under MFIPPA, the person submitting the information shall identify that 
+information upon its submission to the City or to the Medical Officer of Health and shall 
+provide sufficient details as to the reason for its purported exemption from disclosure. 
+
+C.  Public access to information reported pursuant to this chapter, unless such access is 
+
+restricted by MFIPPA, shall be provided on the basis that the City of Toronto makes no 
+representation or warranty as to the accuracy or completeness of the information so 
+provided. 
+
+6
+
+7
+
+ Editor's Note: See S.O. 2006, c. 11. 
+
+ Editor's Note: See R.S.O. 1990, c. M.56. 
+
+423-6 
+
+2011-06-15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+ARTICLE V 
+Penalty 
+
+§ 423-8. Offence. 
+
+Every person who contravenes the provisions of this chapter and every director or officer of a 
+corporation who knowingly concurs in a contravention of the provisions of this chapter by the 
+corporation, is guilty of an offence and is liable to a fine of not more than: 
+
+A. 
+
+$5,000 for a first offence; 
+
+B. 
+
+C. 
+
+$25,000 for a second offence; or 
+
+$100,000 for a third or subsequent offence. 
+
+423-7 
+
+2011-06-15 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+SCHEDULE A 
+Priority Substances, Mass Reporting Thresholds and Concentration Thresholds 
+
+Chemical Name 
+
+CAS No.b 
+
+Mass 
+Reporting 
+Threshold 
+kg/yr 
+
+Concentration 
+Threshold 
+% w/w 
+
+GROUP A 
+
+Acetaldehyde 
+Acrolein 
+Benzene 
+1,3-Butadiene 
+Cadmiuma 
+Carbon tetrachloride 
+Chloroform (Trichloromethane) 
+
+Chromium, Hexavalenta 
+Chromium, Non-hexavalenta 
+1,2-Dibromoethane (Ethylene 
+dibromide) [Amended 2011-06-
+15 by By-law No. 813-2011] 
+1,4-Dichlorobenzene 
+1,2-Dichloroethane (Ethylene 
+dichloride) 
+Dichloromethane (Methylene 
+chloride) 
+Formaldehyde 
+Leada 
+Manganesea 
+Mercurya 
+Nickela 
+Tetrachloroethylene 
+(Perchloroethylene) 
+Trichloroethylene 
+Vinyl chloride 
+
+GROUP B 
+
+Polycyclic Aromatic 
+Hydrocarbons (PAHs) 
+GROUP C 
+
+Nitrogen Oxidesc (NOx) 
+Particulate Matter 2.5 (PM2.5) 
+Volatile Organic Compounds 
+(VOCs) total 
+
+75-07-0 
+107-02-8 
+71-43-2 
+106-99-0 
+7440-43-9 
+56-23-5 
+67-66-3 
+18540-29-9[Amended 
+2011-06-15 by By-law 
+No. 813-2011] 
+- 
+
+106-93-4 
+106-46-7 
+
+107-06-2 
+
+75-09-2 
+50-00-0 
+7439-92-1 
+7439-96-5 
+7439-97-6 
+7440-02-0 
+
+127-18-4 
+079-01-6 
+75-01-4 
+
+- 
+
+11104-93-1 
+- 
+
+- 
+
+100 
+100 
+100 
+100 
+1.0 
+100 
+100 
+
+10 
+100 
+
+100 
+100 
+
+100 
+
+100 
+100 
+10 
+10 
+1.0 
+100 
+
+100 
+100 
+100 
+
+10d 
+
+200 
+30 
+
+100 
+
+1.0 
+1.0 
+1.0 
+1.0 
+0.1 
+1.0 
+1.0 
+
+0.1 
+1.0 
+
+1.0 
+1.0 
+
+1.0 
+
+1.0 
+1.0 
+0.1 
+1.0 
+0.0 
+1.0 
+
+1.0 
+1.0 
+1.0 
+
+n/ae 
+
+n/a 
+n/a 
+
+n/a 
+
+423-8 
+
+2011-06-15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE  
+CHAPTER 423, ENVIRONMENTAL REPORTING AND DISCLOSURE 
+
+a.  and its compounds, expressed as the metal 
+b.  Chemical Abstracts Service Registry Number 
+c.  NO + NO2, expressed as NO2 
+d.  PAHs released as a result of wood preservation using creosote must be reported even if below 
+
+the mass reporting threshold 
+
+e.  n/a = not applicable 
+
+423-9 
+
+2011-06-15 
+
+ 
+ 
+ 
+

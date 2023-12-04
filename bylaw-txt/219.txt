@@ -1,0 +1,7595 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Chapter 219 
+
+RECORDS, CORPORATE (LOCAL BOARDS)1 
+
+ARTICLE I 
+Police Services Board 
+
+§ 219-1. Abbreviations and terminology. 
+
+§ 219-2. Records to be retained; time periods. 
+
+§ 219-3. Destruction of certain records. 
+
+ARTICLE II 
+Toronto Transit Commission 
+
+§ 219-4. Records to be maintained; time periods. 
+
+§ 219-5. Destruction of certain records. 
+
+ARTICLE III 
+Toronto Public Library Board 
+
+§ 219-6. Definitions. 
+
+§ 219-7. Responsibility for records. 
+
+§ 219-8. Retention schedule. 
+
+§ 219-8.1. Responsibility of Library staff, volunteers and members. 
+
+§ 219-8.2. Principles of records destruction. 
+
+§ 219-8.3. Destruction of orphan data. 
+
+§ 219-8.4. Documentation prior to destruction of orphan data. 
+
+§ 219-8.5. Retention of documentation. 
+
+§ 219-8.6. Transitory and duplicate records. 
+
+1
+
+ Editor's Note: By-law 989-2004, adopted October 28, 2004, changed the title of this chapter from "Records, Corporate" to "Records, 
+
+Corporate (Local Boards)." Section 3 of said By-law 989-2004 provided that it comes into force upon approval by the City's external 
+auditor; approval was given by the City's external auditor October 28, 2004. 
+
+219-1 
+
+June 16, 2022 
+
+ 
+                                                 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+§ 219-8.7. Archival review period. 
+
+ARTICLE IV 
+The Board of Governors of Exhibition Place 
+
+§ 219-9. Definitions. 
+
+§ 219-10. Responsibility for records. 
+
+§ 219-11. Retention schedule. 
+
+§ 219-12. Transitory and duplicate records. 
+
+§ 219-12.1. Destruction of unusable records. 
+
+§ 219-13. Archival review period. 
+
+§ 219-13.1. Conflicting provisions. 
+
+ARTICLE V 
+Motor Vehicle Licence Plate Registrant Information 
+
+§ 219-14. Retention of receipts, vouchers, instruments, rolls and other documents, records 
+
+and papers. 
+
+§ 219-15. Conflicting provisions. 
+
+§ 219-16. Retention Schedule. 
+
+ARTICLE VI 
+TO Live 
+
+ARTICLE VII 
+Waterfront Neighbourhood Centre Board of Management 
+
+§ 219-17. Definitions. 
+
+§ 219-18. Responsibility for records. 
+
+§ 219-19. Retention schedule. 
+
+§ 219-20. Responsibility of Board staff, volunteers and members. 
+
+§ 219-21. Principles of records destruction. 
+
+§ 219-22. Destruction of orphan data. 
+
+§ 219-23. Documentation prior to destruction of orphan data. 
+
+219-2 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+§ 219-24. Retention of documentation. 
+
+§ 219-25. Transitory and duplicate records. 
+
+Schedule A, Art. I,  Records Retention Schedule, General (Police Services Board) 
+
+Schedule B, Art. I,  Records Retention Schedule, Financial (Police Services Board) 
+
+Schedule C, Art. I,  Records Retention Schedule, Human Resources (Police Services Board) 
+
+Schedule D, Art. II,  Records Retention Schedule (Toronto Transit Commission) 
+
+Schedule E, Art. V,  Records Retention Schedule (Motor Vehicle Licence Plate Registrant 
+
+Information) 
+
+Schedule F, Art. III,  Records Retention Schedule (Toronto Public Library) 
+
+Schedule G, Art. IV,  Records Retention Schedule (Board Of Governors Of Exhibition 
+
+Place) 
+
+Schedule H, Art. VI,  Records Retention Schedule (TO Live) 
+
+Schedule I, Art. VII,  Records Retention Schedule (Waterfront Neighbourhood Centre 
+
+Board of Management) 
+
+[History: Adopted by the Council of the City of Toronto as indicated in article histories. 
+Amendments noted where applicable.] 
+
+General References 
+
+Corporate records (City) - See Ch. 217 
+Municipal Act, 2001 - See S.O. 2001, c.25. 
+Municipal Freedom of Information and Protection of Privacy Act - See R.S.O. 1990, c. M.56. 
+Personal Health Information Protection Act, 2004 - See S.O. 2004, c. 3. 
+
+219-3 
+
+June 16, 2022 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+ARTICLE I 
+Police Services Board 
+[Adopted 2000-10-05 by By-law 689-20002] 
+
+§ 219-1. Abbreviations and terminology. 
+
+As used in this article, the following terms shall have the meanings indicated:  
+
+A. 
+
+The abbreviations in Column A have the same meaning as the expression set out opposite 
+under Column B below: 
+
+Column A 
+
+A.C.C.S. 
+
+A.N.I./A.L.I. 
+
+Column B 
+
+Access Control & Command System 
+
+Automatic Number Identification/Automatic Location 
+Identification 
+
+A.P.S. 
+
+A.T.S. 
+
+C.A.D. 
+
+C.A.S.C. 
+
+C.C.R. 
+
+C.D.I.U. 
+
+C.I.C.B. 
+
+C.I.P.S. 
+
+C.I.S. 
+
+C.I.S.O. 
+
+C.O.P.S. 
+
+C.P.I.C. 
+
+C.P.O. 
+
+Automated Parade System 
+
+Applicant Tracking System 
+
+Computer Assisted Dispatching 
+
+Computer Assisted Scheduling of Courts 
+
+Communications Report 
+
+Central Drug Information Unit 
+
+Criminal Injuries Compensation Board 
+
+Crime Information Processing System 
+
+Corporate Information Services 
+
+Criminal Intelligence Services Ontario 
+
+Centralized Occurrence Processing System 
+
+Canadian Police Information Centre 
+
+Crime Prevention Office 
+
+2
+
+ Editor's Note: This by-law was passed under the authority of subsection 116(1) of the Municipal Act, R.S.O. 1990, c. M.45. This by-law 
+also repealed By-law 378-1998, adopted July 10, 1998. 
+
+219-4 
+
+June 16, 2022 
+
+ 
+                                                 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Column A 
+
+Column B 
+
+F.A.C. 
+
+H.R.M.S. 
+
+I./C.A.D. 
+
+Firearms Acquisition Certificate 
+
+Human Resources Management System 
+
+Intergraph Computer Aided Dispatch System 
+
+M.A.N.I.X. 
+
+Master Name Index 
+
+M.T.P. 
+
+O.I.C. 
+
+O.M.E.R.S. 
+
+P.A.R.I.S. 
+
+P.B.F. 
+
+P.S.A. 
+
+S.A.S. 
+
+T.P.S 
+
+Metropolitan Toronto Police 
+
+Officer in Charge 
+
+Ontario Municipal Employees Retirement System 
+
+Police Automated Registration Information System 
+
+Police Benefit Fund 
+
+Police Services Act 
+
+Special Address System 
+
+Toronto Police Service 
+
+W.S.I.B. 
+
+Workplace Safety and Insurance Board 
+
+Y2K R.D.D. 
+
+Year 2000 Record of Due Diligence 
+
+Y.O.A. 
+
+Young Offenders Act 
+
+B. 
+
+"+ current year" where used in Column 4 of all Schedules means the additional period 
+between the anniversary of the commencement of the retention period in the calendar 
+year which is the stated number of years the record is to be retained and the end of such 
+calendar year. 
+
+C.  Where "stored" or "storage" is part or all of the retention period, the record shall be 
+retained either in its original form or in another form utilized by the Toronto Police 
+Service to preserve the record's integrity. 
+
+D.  Where a number follows T.P.S. or M.T.P., the number refers to the number of the form 
+
+used by the Toronto Police Service and its replacement from time to time. 
+
+219-5 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+§ 219-2. Records to be retained; time periods. 
+
+The Toronto Polices Services Board shall retain the receipts, vouchers, instruments, rolls or other 
+documents, records and papers described under Columns 2 and 3 of Schedule A (General), 
+Schedule B (Financial) and Schedule C (Human Resources) to this article within the 
+classifications set out under Column 1 for the period set out opposite such descriptions in 
+Column 4 and may thereafter destroy them. 
+
+§ 219-3. Destruction of certain records. 
+
+Notwithstanding § 219-2 of this article, records identified under the classification entitled 
+"INTELLIGENCE FILES" in Column 1 of Schedule A to this article may only be destroyed with 
+the authorization of the Unit Commander of Intelligence Services for the Toronto Police Service 
+or any other official of said Service approved by the Toronto Police Services Board from time to 
+time. 
+
+ARTICLE II 
+Toronto Transit Commission 
+[Adopted 1998-11-26 by By-law 867-19983] 
+
+§ 219-4. Records to be maintained; time periods. 
+
+The Commission shall retain the receipts, vouchers, instruments, rolls or other documents, 
+records and papers classified in Column 1 and described under Column 2 of Schedule D to this 
+article, for the period set out in Column 3 opposite such description, and may thereafter destroy 
+them. 
+
+§ 219-5. Destruction of certain records. 
+
+[Amended 2015-10-02 by By-law 1002-2015] 
+
+The Commission's receipts, vouchers, instruments, rolls and all other documents, records and 
+papers described in Schedule D may be destroyed within the scheduled retention period if they 
+are also available in microfilm, electronic or digital form. Thereafter, such microfilm, electronic 
+or digital records shall be retained for the balance of the scheduled retention period and shall be 
+deemed to be the original record. 
+
+3
+
+ Editor's Note: This by-law was passed under the authority of subsection 116(1) of the Municipal Act, R.S.O. 1990, c. M.45. Pursuant to 
+
+this by-law, Schedule "A" to Municipality of Metropolitan Toronto By-law 2696, as amended, is amended by repealing By-law 73-89. 
+
+219-6 
+
+June 16, 2022 
+
+ 
+                                                 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+ARTICLE III4 
+Toronto Public Library Board 
+[Adopted 2006-04-27 by By-law 260-20065] 
+
+§ 219-6. Definitions. 
+
+A. 
+
+As used in this article and in Schedule F to this article, the following terms shall have the 
+meanings indicated: 
+
+ARCHIVAL REVIEW PERIOD - The period of time during which a qualified archivist 
+conducts a systematic appraisal of records having potential archival value. 
+
+ARCHIVAL VALUE - The evidential and informational value of records, which is 
+determined during appraisal and justifies the records' preservation as archives. 
+
+COMPUTER SYSTEM - A device or a group of interconnected or related devices, one or 
+more of which: 
+
+(1) 
+
+Contains computer programs or other data; and 
+
+(2) 
+
+Pursuant to computer programs, performs logic and control, and may perform any 
+other function. 
+
+CONTENT, CONTEXT or STRUCTURE: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+That which conveys information, including text, data, symbols, numerals, images 
+and sound; 
+
+The appearance and arrangement of the content, including relationships between 
+fields, entities, language, style, fonts, page and paragraph breaks, links and other 
+editorial devices; 
+
+Fields, entities, language, style, fonts, page and paragraph breaks, links and other 
+editorial devices; or 
+
+Background information that enhances understanding of technical and business 
+environments to which the data relates, such as metadata, application software, 
+logical business models and the origin, such as address, title, link to function or 
+activity, agency, program or section. 
+
+COUNCIL - The Council of the City of Toronto. 
+
+4
+
+ Editor's Note: Former Art. III, Acquisition of Non-Government Records, adopted July 29, 1999 by By-law 458-1999, as amended, was 
+repealed October 28, 2004 by By-law 989-2004; see now Ch. 217, Records, Corporate (City). Section 3 of said By-law 989-2004 provided 
+that it comes into force upon approval by the City's external auditor; approval was given by the City's external auditor October 28, 2004.  
+5 Editor's Note: This by-law was passed under the authority of section 255 of the Municipal Act, 2001, S.O 2001, c. 25. 
+
+219-7 
+
+June 16, 2022 
+
+ 
+                                                 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+DATA - Representations of information or of concepts, in any form, that are recorded or 
+stored on any medium in or by a computer system or other similar device and that can be 
+read or perceived by a person or a computer system or other similar device, including a 
+display of that data. 
+
+DISPOSE - To destroy a record or to transfer a record to the Library Archives. 
+
+LIBRARY ARCHIVES - The Toronto Public Library Archives. 
+
+ORPHAN DATA: 
+
+(1) 
+
+(2) 
+
+Data that is not machine readable by any of the Library's computer systems 
+because the data exists with no identifiable computer application that can retrieve 
+the data; or 
+
+Data that is machine readable but does not have sufficient content, context or 
+structure to render it understandable by an experienced Library employee who is 
+knowledgeable about the business function or functions to which the data relates. 
+
+RECORD - The same meaning as in subsection 1(1) of the Municipal Act, 2001. [This 
+meaning is noted as follows for reference purposes only: 
+
+"record" means information however recorded or stored, whether in printed form, on 
+film, by electronic means or otherwise, and includes documents, financial statements, 
+minutes, accounts, correspondence, memoranda, plans, maps, drawings, photographs and 
+films;] 
+
+RECORDS SERIES - A group of records that support a particular Library program or 
+operation, that are filed together, and need to be retained for the same period of time. 
+
+RETENTION PERIOD - The period of time during which a specific records series must 
+be kept by the Library before records in that records series may be disposed of. 
+
+RETENTION SCHEDULE - The schedule prescribing how long a specific records series 
+must be retained before they may be disposed of. 
+
+TRANSITORY RECORD - A record that is: 
+
+(1) 
+
+Retained solely for convenience of reference; 
+
+(2) 
+
+Required solely for the completion of a routine action, or the preparation of 
+another record; 
+
+(3) 
+
+Of insignificant or no value in documenting Library business transactions; 
+
+(4) 
+
+Not an integral part of a Library record; 
+
+(5) 
+
+Not filed regularly with records or filing systems; 
+
+219-8 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(6) 
+
+Not required to meet statutory obligations or to sustain administrative or 
+operational functions; 
+
+(7) 
+
+About social events that are not special Library events; 
+
+(8) 
+
+Not related to Library business; or 
+
+(9) 
+
+A voice mail message. 
+
+B. 
+
+As used in the retention schedule in Schedule F to this article, the following abbreviations 
+and terms shall have the meanings indicated: 
+
+A or ACTIVE - The period of time in years, unless otherwise stated, that the records must 
+be kept in the active records office area. 
+
+C or CURRENT YEAR - The calendar year in which the records were created. 
+
+DISPOSITION - The destruction of a record or transfer of a record to the Library 
+Archives, as indicated in a retention schedule by one of the following designations which 
+have the meanings indicated: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+AR or ARCHIVAL REVIEW - Destroy the records after review by an archivist, 
+except for selected records that are transferred for permanent retention in the 
+Library Archives, based on appraisal criteria. 
+
+D or DESTROY - The records are destroyed once the total retention period has 
+expired. 
+
+P or PERMANENT - As defined below in the definition of "P or Permanent," the 
+records are never destroyed, and for purposes of the definition of "disposition" 
+only, are stored in the Library Archives for preservation purposes. 
+
+P/AR or PERMANENT/ARCHIVAL REVIEW - The records will be held 
+indefinitely in the Library Archives for preservation purposes or, if Council 
+changes the retention period total from "permanent" in the future, the records will 
+only be destroyed after archival review. 
+
+I or INACTIVE - The period of time in years, unless otherwise stated, that the records 
+must be kept following the active period, other than in the active records office area. 
+
+M or MONTHS - The period of months that a record must be retained. 
+
+MEDIA: 
+
+(1) 
+
+The physical format of the records series, for example, paper, electronic, 
+microfilm. 
+
+(2) 
+
+If the retention schedule indicates "all media," records in any format are included. 
+
+219-9 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+OFFICE OF RECORD - The Library department or unit responsible for maintaining the 
+records series. 
+
+P or PERMANENT - A record that is never destroyed. 
+
+RECORDS SERIES TITLE - The title and detailed description of the types of records 
+included in each records series. 
+
+S or SUPERSEDED - A record that is replaced by an updated record. 
+
+T or TERMINATED - A retention period that is calculated from a specific type of event, 
+as explained under each records series. 
+
+TOTAL RETENTION - The total retention period, including active and inactive retention 
+periods. 
+
+§ 219-7. Responsibility for records. 
+
+Responsibility for records that are not destroyed after the inactive retention period is based on 
+the disposition set out in the retention schedule as follows: 
+
+A. 
+
+Archival review. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+This disposition is used if preliminary archival analysis indicates that the records 
+have considerable historical and research significance and should be retained, 
+either in their entirety or subject to selection to preserve only those records that 
+possess enduring value. 
+
+After the inactive retention period, responsibility for the records is transferred 
+from the business unit to the custody and control of the Archives. 
+
+After the transfer, the Library Archives is solely responsible for providing access 
+to the records under any provincial or federal access and privacy legislation, 
+including the listing of personal information banks and general classes of records, 
+and for compliance with other legislation. 
+
+(4) 
+
+The records will be reviewed and processed to archival standards. 
+
+(5) 
+
+Records culled by the archivists may be destroyed, with the approval of the City 
+Librarian or designate, without further notice to the business unit that created 
+these records. 
+
+B. 
+
+Permanent. 
+
+(1) 
+
+This disposition is used if there are operational or legal requirements to retain the 
+records for an indefinite period. 
+
+219-10 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(2) 
+
+(3) 
+
+Despite the storage of the records in the Library Archives for preservation 
+purposes, the records remain under the full custody and control of the business 
+unit that created them. 
+
+The business unit is solely responsible for providing access to the records under 
+any provincial or federal access and privacy legislation, including the listing of 
+personal information banks and general classes of records, and for compliance 
+with other legislation. 
+
+C. 
+
+Permanent/archival review. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+This disposition is used if there are operational or legal requirements to retain the 
+records for an indefinite period and if the records have also been identified as 
+records that should only be destroyed after archival review if Council changes the 
+retention period total from "permanent" in the future. 
+
+Despite the storage of the records in the Library Archives for preservation 
+purposes, the records remain under the full custody and control of the business 
+unit that created them. 
+
+The business unit is solely responsible for providing access to the records under 
+any provincial or federal access and privacy legislation, including the listing of 
+personal information banks and general classes of records, and for compliance 
+with other legislation. 
+
+If, as a result of changes in operational needs or statutory requirements, the 
+inactive, "permanent" retention period is reduced by Council, then the records 
+will be transferred to the custody and control of the Library Archives at the end of 
+the retention period and Subsection A applies with necessary changes. 
+
+§ 219-8. Retention schedule. 
+
+A. 
+
+B. 
+
+C. 
+
+The records of the Library shall be retained and may only be destroyed as set out in the 
+retention schedule in Schedule F to this article. 
+
+The City Librarian or designate shall develop and administer the retention schedule. 
+
+In determining the retention period for a records series, the City Librarian or designate 
+shall consult with other Library staff as appropriate, the City Solicitor and the City's 
+municipal auditor. 
+
+D. 
+
+The City Librarian or designate shall: 
+
+(1) 
+
+(2) 
+
+Review and recommend amendments and additions to the retention schedule, for 
+approval by the Library Board and Council; and 
+
+Ensure that the retention schedule complies with all relevant legislative, financial 
+and historical requirements for records retention. 
+
+219-11 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+E. 
+
+A retention period for a records series shall be based on the following: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+The administrative value of the records based on the period of time during which 
+the Library uses a record to perform its functions; 
+
+The legal value of the records, based on the period of time necessary to meet 
+statutory or other regulatory requirements, requirements imposed by an 
+agreement, permit or similar document, or to ensure that records are available in 
+case of litigation or investigation; 
+
+The audit value of the records, based on the period of time required for audit or 
+tax purposes; and 
+
+The archival value of the records, based on the long-term value of the records to 
+document past events or the origins and history of the Library. 
+
+§ 219-8.1. Responsibility of Library staff, volunteers and members. 
+
+All Library staff, volunteers and Board members who work with, create or manage records shall: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+Manage and maintain records in their custody or control as corporate assets that belong to 
+the Library, and not to individual staff, Library business units or departments that have 
+custody of those records; 
+
+Comply with the retention periods in the retention schedule; 
+
+Apply retention periods and dispose of records only in accordance with the retention 
+schedule; 
+
+Ensure preservation and security of records as directed under this chapter; 
+
+Ensure that records in their custody or control are protected from inadvertent destruction 
+or damage, and ensure that records, other than transitory records or duplicate records, are 
+destroyed only with the authorization of designated staff in the department that has 
+custody or control of the records; 
+
+Retain and preserve records in an accessible manner so that the records can be retrieved 
+within a reasonable time and are in a format that allows the content of the records to be 
+readily ascertained by a person inspecting the records; and 
+
+Ensure that transitory and duplicate records in their custody or control are destroyed 
+when they are no longer needed for short-term reference. 
+
+§ 219-8.2. Principles of records destruction. 
+
+The following principles govern the destruction of records: 
+
+A.  When there are no further legal or business reasons for retaining records, the records shall 
+
+be destroyed as a class rather than selectively. 
+
+219-12 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+B. 
+
+C. 
+
+Records pertaining to pending or actual litigation or investigation shall not be destroyed 
+with the class of records to which they relate. 
+
+Records shall be destroyed in a way that preserves the confidentiality of any information 
+they contain. 
+
+§ 219-8.3. Destruction of orphan data. 
+
+Orphan data in the custody or control of the Library may be destroyed. 
+
+§ 219-8.4. Documentation prior to destruction of orphan data. 
+
+Prior to the destruction of any orphan data, the following documents are required: 
+A. 
+
+A written description of the data containing, to the extent that such information is 
+obtainable, the following: 
+
+(1) 
+
+The title of the system. 
+
+(2) 
+
+The identification of the business unit that is responsible for the creation or use of 
+the data. 
+
+(3) 
+
+A brief description of the system's purpose. 
+
+(4) 
+
+(5) 
+
+A brief description of any subsystems, their purpose and relationship to the main 
+system or other subsystems. 
+
+The name of the technical contact person who is responsible for documenting the 
+system. 
+
+B. 
+
+The written approval of the department head or designate who is responsible for the 
+business function to which the data relates. 
+
+C.  Where applicable to satisfy the provisions of the Income Tax Act (Canada), the 
+
+Employment Insurance Act (Canada) or the Canada Pension Plan, an exemption from the 
+requirement to keep records in an electronically readable format from the Minister of 
+National Revenue, on such terms and conditions as are acceptable to the Minister. 
+
+§ 219-8.5. Retention of documentation. 
+
+The documents described in §§ 219-8.4A and B shall be submitted to, and kept by, the City 
+Librarian or designate, as required by this article. 
+
+§ 219-8.6. Transitory and duplicate records. 
+
+A. 
+
+Despite the remainder of this article, but subject to the Municipal Freedom of Information 
+and Protection of Privacy Act, this section applies to the retention of all records created 
+or received by Library staff, volunteers, and Board members. 
+
+219-13 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+B. 
+
+C. 
+
+D. 
+
+A transitory record may be deleted or otherwise destroyed on the same day that the 
+record was created or received. 
+
+A copy of a record may be destroyed at any time if the original is subject to a retention 
+period established by this article. 
+
+A micrographic copy of a record shall be deemed to be the original for the purposes of 
+this article. 
+
+§ 219-8.7. Archival review period. 
+
+A. 
+
+At the end of the archival review period, a record, other than a copy of the record or a 
+transitory record: 
+
+(1) 
+
+Shall be transferred to the Library Archives if it possesses archival value; or 
+
+(2) 
+
+Shall be destroyed if it does not possess archival value and if there is no further 
+business or legal requirement to retain the record. 
+
+B. 
+
+The archival review period shall be deemed to end on the date that the City Librarian or 
+designate certifies that the archival review is complete and the record has no archival 
+value. 
+
+ARTICLE IV6 
+The Board of Governors of Exhibition Place 
+[Adopted 2006-07-27 by By-law 688-2006] 
+
+§ 219-9. Definitions. 
+
+A. 
+
+As used in this article and in Schedule G to this article, the following terms shall have the 
+meanings indicated: [Amended 2008-12-03 by By-law 1303-20087] 
+
+ARCHIVAL REVIEW PERIOD - The period of time during which a qualified archivist 
+working under the direction of the Manager, Records and Archives, Exhibition Place 
+conducts a systematic appraisal of records having potential archival value. 
+
+ARCHIVAL VALUE - The evidential and informational value of records, which is 
+determined during appraisal and justifies the records preservation as archives. 
+
+ARCHIVES - The Board of Governors of Exhibition Place's Archives. 
+
+6
+
+ Editor's Note: Former Art. IV, Destruction of Certain Computer Data; Transitory and Duplicate Records, adopted November 25, 1999 
+
+by By-law 780-1999, as amended, was repealed October 28, 2004 by By-law 989-2004; see now Ch. 217, Records, Corporate (City). 
+Section 3 of said By-law 989-2004 provided that it comes into force upon approval by the City's external auditor; approval was given by 
+the City's external auditor October 28, 2004. 
+7
+
+ Editor's Note: This by-law came into force July 27, 2006. 
+
+219-14 
+
+June 16, 2022 
+
+ 
+                                                 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+BOARD - The Board of Governors of Exhibition Place. 
+
+DISPOSE - To destroy a record or to transfer a record to the Archives. 
+
+RECORD - The same meaning as in subsection 1(1) of the Municipal Act, 2001. 
+[This meaning is noted as follows for reference purposes only: 
+
+"record" means information however recorded or stored, whether in printed form, on 
+film, by electronic means or otherwise, and includes documents, financial statements, 
+minutes, accounts, correspondence, memoranda, plans, maps, drawings, photographs and 
+films;] 
+
+RECORDS SERIES - A group of records that support a particular Board program or 
+operation, that are filed together, and need to be retained for the same period of time. 
+
+RETENTION PERIOD - The period of time during which a specific records series must 
+be kept by the Board before records in that records series may be disposed of. 
+
+RETENTION SCHEDULE - The schedule prescribing how long a specific records series 
+must be retained before they may be disposed of. 
+
+TRANSITORY RECORD - A record that is: 
+
+(1) 
+
+Retained solely for convenience of reference; 
+
+(2) 
+
+Required solely for the completion of a routine action, or the preparation of 
+another record; 
+
+(3) 
+
+Of insignificant or no value in documenting Board business transactions; 
+
+(4) 
+
+Not an integral part of a Board record; 
+
+(5) 
+
+Not filed regularly with records or filing systems; 
+
+(6) 
+
+Not required to meet statutory obligations or to sustain administrative or 
+operational functions; 
+
+(7) 
+
+About social events that are not special Board events; 
+
+(8) 
+
+Not related to Board business; or 
+
+(9) 
+
+A voice mail message. 
+
+UNUSABLE RECORD - A record that is not legible or, if only part of the record is 
+legible, the legible part does not have sufficient content, context or structure to render it 
+understandable by an experienced Board employee who is knowledgeable about the 
+business function or functions to which the record relates. [Added 2008-12-03 by By-
+law 1303-2008] 
+
+219-15 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+B. 
+
+As used in the retention schedule in Schedule G to this article, the following 
+abbreviations and terms shall have the meanings indicated: [Amended 2008-12-03 by 
+By-law 1303-20088] 
+
+ACTIVE - The period of time in years, unless otherwise stated, that the records must be 
+kept in the active records office area. 
+
+C or CURRENT YEAR - The calendar year in which the records were created. 
+
+CNE - Canadian National Exhibition. 
+
+CODE - The reference number for each records series, based on the corporate records 
+classification system (CRCS). 
+
+DISPOSITION - The destruction of a record or transfer of a record to the Archives, as 
+indicated in a retention schedule by one of the following designations which have the 
+meanings indicated: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+AR or ARCHIVAL REVIEW - Destroy the records after review by an archivist, 
+except for selected records that are transferred for permanent retention in the 
+Archives, based on appraisal criteria. 
+
+D or DESTROY - The records are destroyed once the total retention period has 
+expired. 
+
+P or PERMANENT - As defined below in the definition of "P or Permanent", the 
+records are never destroyed, and for purposes of the definition of "disposition" 
+only, are stored in the Archives for preservation purposes. 
+
+P/AR or PERMANENT/ARCHIVAL REVIEW - The records will be held 
+indefinitely in the Archives for preservation purposes or, if Council changes the 
+retention period total from "permanent" in the future, the records will only be 
+destroyed after archival review. 
+
+EXP - Exhibition Place. 
+
+INACTIVE - The period of time in years, unless otherwise stated, that the records must 
+be kept in the Records Centre, following the active period. 
+
+MEDIA: 
+
+(1) 
+
+The physical format of the records series, for example, paper, electronic, 
+microfilm. 
+
+8
+
+ Editor's Note: This by-law came into force July 27, 2006. 
+
+219-16 
+
+June 16, 2022 
+
+ 
+                                                 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(2) 
+
+If the retention schedule indicates "all media", records in any format are included. 
+
+NTC - National Trade Centre. 
+
+ORIGINATING OFFICE - A business unit (including a service area) of one of the 
+following three programs that make up Exhibition Place, that is responsible for creating 
+and maintaining the records: 
+
+(1) 
+
+Exhibition Place (EXP); 
+
+(2) 
+
+Canadian National Exhibition (CNE); and 
+
+(3) 
+
+National Trade Centre (NTC). 
+
+P or PERMANENT - A record that is never destroyed. 
+
+RECORDS SERIES TITLE - The title and detailed description of the types of records 
+included in each records series. 
+
+S or SUPERSEDED - A record that is replaced by an updated record. 
+
+T or TERMINATED - A retention period that is calculated from a specific type of event, 
+as explained under each records series. 
+
+TOTAL - The total retention period, including active and inactive retention periods. 
+
+§ 219-10. Responsibility for records. 
+
+Responsibility for records that are not destroyed after the inactive retention period is based on 
+the disposition set out in the retention schedule as follows: 
+
+A. 
+
+Archival review. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+This disposition is used if preliminary archival analysis indicates that the records 
+have considerable historical and research significance and should be retained, 
+either in their entirety or subject to selection to preserve only those records that 
+possess enduring value. 
+
+After the inactive retention period, responsibility for the records is transferred 
+from the business unit to the custody and control of the Archives. 
+
+After the transfer, the Archives is solely responsible for providing access to the 
+records under any provincial or federal access and privacy legislation, including 
+the listing of personal information banks and general classes of records, and for 
+compliance with other legislation. 
+
+(4) 
+
+The records will be reviewed and processed to archival standards. 
+
+219-17 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(5) 
+
+Records culled by the archivists may be destroyed, with the approval of the 
+Manager, Records and Archives, Exhibition Place without further notice to the 
+business unit that created these records. 
+
+B. 
+
+Permanent. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+This disposition is used if there are operational or legal requirements to retain the 
+records for an indefinite period. 
+
+Despite the storage of the records in the Archives for preservation purposes, the 
+records remain under the full custody and control of the business unit that created 
+them. 
+
+The business unit, in conjunction with the Freedom of Information and Protection 
+of Privacy Coordinator, is responsible for providing access to the records under 
+any provincial or federal access and privacy legislation, including the listing of 
+personal information banks and general classes of records, and for compliance 
+with other legislation. 
+
+C. 
+
+Permanent/archival review. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+This disposition is used if there are operational or legal requirements to retain the 
+records for an indefinite period and if the records have also been identified as 
+records that should only be destroyed after archival review if Council changes the 
+retention period total from "permanent" in the future. 
+
+Despite the storage of the records in the Archives for preservation purposes, the 
+records remain under the full custody and control of the business unit that created 
+them. 
+
+The business unit, in conjunction with the Freedom of Information and Protection 
+of Privacy Coordinator, is responsible for providing access to the records under 
+any provincial or federal access and privacy legislation, including the listing of 
+personal information banks and general classes of records, and for compliance 
+with other legislation. 
+
+If, as a result of changes in operational needs or statutory requirements, the 
+inactive, "permanent" retention period is reduced by Council, then the records 
+will be transferred to the custody and control of the Archives at the end of the 
+retention period and Subsection A applies with necessary changes. 
+
+219-18 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+§ 219-11. Retention schedule. 
+
+[Amended 2008-12-03 by By-law 1303-20089] 
+
+The records of the Board shall be retained and may only be destroyed as set out in the retention 
+schedule in Schedule G to this article. 
+
+§ 219-12. Transitory and duplicate records. 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+Despite § 219-11, but subject to the Municipal Freedom of Information and Protection of 
+Privacy Act and the Personal Health Information Protection Act, 2004, this section 
+applies to the retention of all records created or received by Board employees. 
+
+A transitory record may be deleted or otherwise destroyed on the same day that the 
+record was created or received. 
+
+A copy of a record may be destroyed at any time if the original is subject to a retention 
+period established by this article. 
+
+A micrographic copy of a record shall be deemed to be the original for the purposes of 
+this article and the records that have been microfilmed may be destroyed at any time, 
+subject to § 219-13. 
+
+§ 219-12.1. Destruction of unusable records. 
+
+[Added 2008-12-03 by By-law 1303-2008] 
+
+A. 
+
+Despite § 219-11 or a records retention by-law of the former Municipality of 
+Metropolitan Toronto, an unusable record in the custody or control of the Board may be 
+destroyed. 
+
+B. 
+
+Prior to the destruction of any unusable record, the following documents are required: 
+
+(1) 
+
+A written description of the unusable record containing, to the extent that such 
+information is applicable or obtainable, the following: 
+
+(a) 
+
+The title of the records series. 
+
+(b) 
+
+The identification of the business unit that is responsible for the creation 
+or use of the unusable record. 
+
+(c) 
+
+A brief description of the purpose of the unusable record. 
+
+9
+
+ Editor's Note: This by-law came into force July 27, 2006. 
+
+219-19 
+
+June 16, 2022 
+
+ 
+                                                 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(2) 
+
+The written approval of the division head or designate who is responsible for the 
+business function to which the unusable record relates, if the division head can be 
+identified. 
+
+(3)  Where applicable to satisfy the provisions of the Income Tax Act (Canada), the 
+
+Excise Tax Act (Canada), the Employment Insurance Act (Canada) or the Canada 
+Pension Plan, an exemption from the requirement to keep records in an 
+electronically readable format from the Minister of National Revenue, on such 
+terms and conditions as are acceptable to the Minister. 
+
+C. 
+
+The documents described in Subsection B shall be submitted to and kept by the Manager, 
+Records and Archives, Exhibition Place, as required under § 219-11, or if applicable, a 
+records retention by-law of the former Municipality of Metropolitan Toronto. 
+
+§ 219-13. Archival review period. 
+
+A. 
+
+At the end of the archival review period, a record that has been microfilmed, other than a 
+copy of the record or a transitory record: 
+
+(1) 
+
+(2) 
+
+Shall be transferred to the custody and control of the Archives if the original 
+record possesses archival value; or 
+
+Shall be destroyed if it does not possess archival value, and if there is no further 
+business or legal requirement to retain the record. 
+
+B. 
+
+For the purposes of this section, the archival review period shall be deemed to end on the 
+date the Manager, Records and Archives, Exhibition Place certifies that the archival 
+review is complete and the record has no archival value. 
+
+§ 219-13.1. Conflicting provisions. 
+
+In the case of a conflict between this article and the records retention provisions of any policy of 
+the Board or by-law of the former Municipality of Metropolitan Toronto, this article prevails. 
+
+219-20 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+ARTICLE V 
+Motor Vehicle Licence Plate Registrant Information 
+[Adopted 2000-08-03 by By-law 520-200010] 
+
+§ 219-14. Retention of receipts, vouchers, instruments, rolls and other documents, records 
+
+and papers. 
+
+The City of Toronto shall retain the receipts, vouchers, instruments, rolls or other documents, 
+records and papers described under Column 1 of Schedule E to this article, for the period set out 
+opposite such description in Column 2 and may thereafter destroy them. 
+
+§ 219-15. Conflicting provisions.  
+
+In the case of any conflict between this article and any other by-law of the City of Toronto, of the 
+former Borough of East York, the former Cities of Etobicoke, North York, York, Scarborough or 
+Toronto, or the former Municipality of Metropolitan Toronto, this article shall prevail. 
+
+ARTICLE VI 
+TO Live 
+[Adopted 2019-06-19 by By-law 942-2019] 
+
+§ 219-16. Retention Schedule. 
+
+TO Live shall retain records classified in Column 1 and described under Column 2 of Schedule H 
+to this article for the period set out in Column 3 opposite such description, and may thereafter 
+destroy them. 
+
+10
+
+ Editor's Note: This by-law was passed under the authority of subsection 116(1) of the Municipal Act, R.S.O. 1990, c. M.45; and the 
+Municipal Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. M.56, and Regulation 823 made thereunder. This by-
+law provided that it come into effect upon approval of the City Auditor, and approval of the City Auditor was received August 15, 2000. 
+
+219-21 
+
+June 16, 2022 
+
+ 
+ 
+ 
+                                                 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+ARTICLE VII 
+Waterfront Neighbourhood Centre Board of Management 
+
+[Added 2022-06-16 by By-law 546-2022] 
+
+§ 219-17. Definitions.  
+
+A. 
+
+As used in this article and in Schedule I to this article, the following terms shall have the 
+meanings indicated:  
+
+ARCHIVAL VALUE - The evidential and informational value of records, which is 
+determined during appraisal and justifies the records' preservation as archives.  
+
+BOARD - the Waterfront Neighbourhood Centre Board of Management. 
+
+BOARD ARCHIVES - The Board Archives.  
+
+COMPUTER SYSTEM - A device or a group of interconnected or related devices, one or 
+more of which:  
+
+(1) 
+
+Contains computer programs or other data; and  
+
+(2) 
+
+Pursuant to computer programs, performs logic and control, and may perform any 
+other function.  
+
+CONTENT, CONTEXT or STRUCTURE:  
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+That which conveys information, including text, data, symbols, numerals, images 
+and sound;  
+
+The appearance and arrangement of the content, including relationships between 
+fields, entities, language, style, fonts, page and paragraph breaks, links and other 
+editorial devices;  
+
+Fields, entities, language, style, fonts, page and paragraph breaks, links and other 
+editorial devices; or  
+
+Background information that enhances understanding of technical and business 
+environments to which the data relates, such as metadata, application software, 
+logical business models and the origin, such as address, title, link to function or 
+activity, agency, program or section.  
+
+COUNCIL - The Council of the City of Toronto. 
+
+DATA - Representations of information or of concepts, in any form, that are recorded or 
+stored on any medium in or by a computer system or other similar device and that can be 
+read or perceived by a person or a computer system or other similar device, including a 
+display of that data.  
+
+219-22 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+DISPOSE - To destroy a record or to transfer a record to the Board Archives.  
+
+ORPHAN DATA:  
+
+(1) 
+
+(2) 
+
+Data that is not machine readable by any of the Board's computer systems because 
+the data exists with no identifiable computer application that can retrieve the data; 
+or  
+
+Data that is machine readable but does not have sufficient content, context or 
+structure to render it understandable by an experienced Board employee who is 
+knowledgeable about the business function or functions to which the data relates.  
+
+RECORD - The same meaning as in subsection 3(1) of the City of Toronto Act, 2006. 
+[This meaning is noted as follows for reference purposes only]:  
+
+"record" means information however recorded or stored, whether in printed form, on 
+film, by electronic means or otherwise, and includes documents, financial statements, 
+minutes, accounts, correspondence, memoranda, plans, maps, drawings, photographs and 
+films  
+
+RECORDS SERIES - A group of records that support a particular Board program or 
+operation, that are filed together, and need to be retained for the same period of time.  
+
+RETENTION PERIOD - The period of time during which a specific records series must 
+be kept by the Board before records in that records series may be disposed of.  
+
+RETENTION SCHEDULE - The schedule prescribing how long a specific records series 
+must be retained before they may be disposed of.  
+
+TRANSITORY RECORD - A record that is:  
+
+(1) 
+
+Retained solely for convenience of reference;  
+
+(2) 
+
+Required solely for the completion of a routine action, or the preparation of 
+another record;  
+
+(3) 
+
+Of insignificant or no value in documenting Board business transactions;  
+
+(4) 
+
+Not an integral part of a Board record; 
+
+(5) 
+
+Not filed regularly with records or filing systems;  
+
+(6) 
+
+Not required to meet statutory obligations or to sustain administrative or 
+operational functions;  
+
+(7) 
+
+About social events that are not special Board events;  
+
+(8) 
+
+Not related to Board business; or  
+
+219-23 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(9) 
+
+A voice mail message.  
+
+B. 
+
+As used in the retention schedule in Schedule I to this article, the following abbreviations 
+and terms shall have the meanings indicated:  
+
+A or ACTIVE - The period of time in years, unless otherwise stated, that the records must 
+be kept in the active records office area.  
+
+C or CURRENT YEAR - The calendar year in which the records were created.  
+
+DISPOSITION - The destruction of a record or transfer of a record to the Board 
+Archives, as indicated in a retention schedule by one of the following designations which 
+have the meanings indicated:  
+
+(1) 
+
+(2) 
+
+(3) 
+
+D or DESTROY - The records are destroyed once the total retention period has 
+expired.  
+
+ED - The records are reviewed by the Executive Director who determines whether 
+the records will be destroyed or deemed permanent. 
+
+P or PERMANENT - As defined below in the definition of "P or Permanent," the 
+records are never destroyed, and for purposes of the definition of "disposition" 
+only, are stored in the Board Archives for preservation purposes.  
+
+I or INACTIVE - The period of time in years, unless otherwise stated, that the records 
+must be kept following the active period, other than in the active records office area.  
+
+MEDIA:  
+
+(1) 
+
+The physical format of the records series, for example, paper, electronic, 
+microfilm.  
+
+(2) 
+
+If the retention schedule indicates "all media," records in any format are included.  
+
+ORIGINATING OFFICE - The Board office or title responsible for maintaining the 
+records series. Any reference to a particular Board office or title used will be read to 
+include the person responsible for that office or holding that title and will also include 
+any successor to that office or title. 
+
+P or PERMANENT - A record that is never destroyed.  
+
+RECORDS TITLE - The title and detailed description of the types of records included in 
+each records series.  
+
+S or SUPERSEDED - A record that is replaced by an updated record.  
+
+T or TERMINATED - A retention period that is calculated from a specific type of event, 
+as explained under each records series.  
+
+219-24 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+TOTAL - The total retention period, including active and inactive retention periods.  
+
+§ 219-18. Responsibility for records.  
+
+Responsibility for records that are not destroyed after the inactive retention period is based on 
+the disposition set out in the retention schedule as follows:  
+
+A. 
+
+Permanent.  
+
+(1) 
+
+(2) 
+
+(3) 
+
+This disposition is used if there are operational or legal requirements to retain the 
+records for an indefinite period.  
+
+Despite the storage of the records in the Board Archives for preservation 
+purposes, the records remain under the full custody and control of the Board 
+office or person holding the listed title that created them.  
+
+The Board office or person holding the listed title is solely responsible for 
+providing access to the records under any provincial or federal access and privacy 
+legislation, including the listing of personal information banks and general classes 
+of records, and for compliance with other legislation.  
+
+B. 
+
+Executive Director Review.  
+
+(1) 
+
+(2) 
+
+(3) 
+
+This disposition is used if there is a need for the Executive Director to review the 
+records and determine if they should be destroyed or deemed permanent because 
+of operational or legal requirements to retain the records for an indefinite period. 
+
+Despite the storage of the records in the Board Archives for preservation 
+purposes, the records remain under the full custody and control of the Board 
+office or person holding the listed title that created them.  
+
+The Board office or person holding the listed title is solely responsible for 
+providing access to the records under any provincial or federal access and privacy 
+legislation, including the listing of personal information banks and general classes 
+of records, and for compliance with other legislation.  
+
+§ 219-19. Retention schedule.  
+
+A. 
+
+B. 
+
+C. 
+
+The records of the Board shall be retained and may only be destroyed as set out in the 
+retention schedule in Schedule I to this article.  
+
+The Executive Director of the Board or designate shall develop and administer the 
+retention schedule. 
+
+In determining the retention period for a records series, the Chair of the Board or 
+designate shall consult with other Board staff as appropriate, the City Solicitor and the 
+City's municipal auditor.  
+
+219-25 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+D. 
+
+The Executive Director of the Board or designate shall:  
+
+(1) 
+
+(2) 
+
+Review and recommend amendments and additions to the retention schedule, for 
+approval by the Board and Council; and  
+
+Ensure that the retention schedule complies with all relevant legislative, financial 
+and historical requirements for records retention.  
+
+E. 
+
+A retention period for a records series shall be based on the following:  
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+The administrative value of the records based on the period of time during which 
+the Board uses a record to perform its functions;  
+
+The legal value of the records, based on the period of time necessary to meet 
+statutory or other regulatory requirements, requirements imposed by an 
+agreement, permit or similar document, or to ensure that records are available in 
+case of litigation or investigation;  
+
+The audit value of the records, based on the period of time required for audit or 
+tax purposes; and  
+
+The archival value of the records, based on the long-term value of the records to 
+document past events or the origins and history of the Board.  
+
+§ 219-20. Responsibility of Board staff, volunteers and members.  
+
+All Board staff, volunteers and Board members who work with, create or manage records shall:  
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+Manage and maintain records in their custody or control as corporate assets that belong to 
+the Board, and not to individual staff, Board business units or departments that have 
+custody of those records;  
+
+Comply with the retention periods in the retention schedule;  
+
+Apply retention periods and dispose of records only in accordance with the retention 
+schedule;  
+
+Ensure preservation and security of records as directed under this chapter;  
+
+Ensure that records in their custody or control are protected from inadvertent destruction 
+or damage, and ensure that records, other than transitory records or duplicate records, are 
+destroyed only with the authorization of the Board office or title that has custody or 
+control of the records;  
+
+Retain and preserve records in an accessible manner so that the records can be retrieved 
+within a reasonable time and are in a format that allows the content of the records to be 
+readily ascertained by a person inspecting the records; and  
+
+219-26 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+G. 
+
+Ensure that transitory and duplicate records in their custody or control are destroyed 
+when they are no longer needed for short-term reference.  
+
+§ 219-21. Principles of records destruction.  
+
+The following principles govern the destruction of records:  
+
+A.  When there are no further legal or business reasons for retaining records, the records shall 
+
+be destroyed as a class rather than selectively. 
+
+B. 
+
+C. 
+
+D. 
+
+Records pertaining to pending or actual litigation or investigation shall not be destroyed 
+with the class of records to which they relate. 
+
+Records shall be destroyed in a way that preserves the confidentiality of any information 
+they contain. 
+
+Prior to the destruction of any record, other than orphan data or a transitory record or 
+duplicate record, the following documents are required: 
+
+(1) 
+
+A written description of the record containing, to the extent that such information 
+is obtainable, the following: 
+
+(a) 
+
+The title of the record; 
+
+(b) 
+
+The identification of the Board office or title that is responsible for the 
+creation or use of the record; and 
+
+(c) 
+
+A brief description of the record's purpose. 
+
+(2) 
+
+The written approval of the Board office or title who is responsible for the 
+creation or use of the record. 
+
+(3)  Where applicable to satisfy the provisions of the Income Tax Act (Canada), the 
+Employment Insurance Act (Canada) or the Canada Pension Plan, an exemption 
+from the requirement to keep records in an electronically readable format from the 
+Minister of National Revenue, on such terms and conditions as are acceptable to 
+the Minister. 
+
+§ 219-22. Destruction of orphan data.  
+
+Orphan data in the custody or control of the Board may be destroyed.  
+
+§ 219-23. Documentation prior to destruction of orphan data.  
+
+Prior to the destruction of any orphan data, the following documents are required:  
+
+A. 
+
+A written description of the data containing, to the extent that such information is 
+obtainable, the following:  
+
+219-27 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(1) 
+
+The title of the system;  
+
+(2) 
+
+The identification of the Board office or title that is responsible for the creation or 
+use of the data;  
+
+(3) 
+
+A brief description of the system's purpose;  
+
+(4) 
+
+(5) 
+
+A brief description of any subsystems, their purpose and relationship to the main 
+system or other subsystems; and 
+
+The name of the technical contact person who is responsible for documenting the 
+system. 
+
+B. 
+
+The written approval of the department head or designate who is responsible for the 
+business function to which the data relates. 
+
+C.  Where applicable to satisfy the provisions of the Income Tax Act (Canada), the 
+
+Employment Insurance Act (Canada) or the Canada Pension Plan, an exemption from the 
+requirement to keep records in an electronically readable format from the Minister of 
+National Revenue, on such terms and conditions as are acceptable to the Minister.  
+
+§ 219-24. Retention of documentation.  
+
+The documents described in §§ 219-21D(1) and (2) and §§ 219-23A and B shall be submitted to, 
+and kept by, the Chair of the Board or designate, as required by this article.  
+
+§ 219-25. Transitory and duplicate records.  
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+Despite the remainder of this article, but subject to the Municipal Freedom of Information 
+and Protection of Privacy Act, this section applies to the retention of all records created 
+or received by Board staff, volunteers, and Board members.  
+
+A transitory record may be deleted or otherwise destroyed on the same day that the 
+record was created or received.  
+
+A copy of a record may be destroyed at any time if the original is subject to a retention 
+period established by this article.  
+
+A micrographic copy of a record shall be deemed to be the original for the purposes of 
+this article. 
+
+219-28 
+
+June 16, 2022 
+
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule A, Art. I,  
+Records Retention Schedule, General (Police Services Board) 
+
+[Amended 2000-10-05 by By-law 689-2000; 2000-10-05 by By-law 869-2000] 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+ACCIDENTS 
+
+Marine 
+
+Motor Vehicle 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+1 year 
+Unit 
+Service 
+1 year + current year 
+Reportable & non-reportable   1 year + current year 
+
+Incidents 
+Register 
+
+Fatalities 
+T.P.S. current number 
+Unit 
+
+AGREEMENTS 
+
+Bilateral 
+
+Other services & agencies 
+
+ANNUAL 
+REPORTS 
+
+Toronto Police 
+Services Board 
+
+then stored 4 years  
+Permanent 
+1 year + current year 
+1 year + current year 
+
+Until obsolete or  
+superseded 
+
+Permanent 
+
+ARCHIVES 
+
+Museum records  Of historical value 
+
+Permanent 
+
+AUDIO (see 
+TAPES) 
+
+AUDITS  
+
+Service audits &  
+special reports 
+(operational) 
+Financial 
+General 
+
+Internal Audit & Program  
+Review Unit 
+
+Other 
+
+AUXILIARY 
+
+Unit (Resource Services) 
+
+Service & applicant files  
+
+BAIL RECEIPT 
+BOOK 
+
+Current number  
+Series 
+
+BICYCLE 
+
+Registration  
+
+Database 
+
+BLOCK PARENTS  Applicant list  
+
+Unit (Community Policing 
+Support) 
+
+Permanent  
+(stored when 
+superseded) 
+7 years 
+Superseded + 1 year 
+
+Duration of service +  
+1 year 
+(as per Personnel 
+Records) 
+
+7 years 
+(from last receipt) 
+
+10 years 
+
+1 year 
+
+219-29 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+BREATH TESTING  Alcohol standard, 
+
+Traffic Services 
+
+5 years 
+
+BULLETINS 
+
+BY-LAWS 
+
+etc. 
+& intoxilyzer 
+Maintenance log 
+
+Circulars,  
+wanted posters, 
+(crimes, rewards, 
+etc.)  
+
+Police Services 
+Board 
+Others 
+
+Unit 
+Service 
+
+1 year (if active) 
+2 years then stored 
+
+Permanent 
+(reference) 
+Until superseded/ 
+repealed 
+
+CAMPAIGNS 
+(CANVASSING) 
+
+Blood donors, 
+Charitable drives  United Way, etc. 
+
+Canadian Blood Services,  
+
+Current campaign 
+plus previous one 
+
+C.I.P.S. 
+
+Information 
+database 
+
+Arrests/Charges 
+
+Permanent 
+
+CLEARANCE (see 
+WAIVER) 
+
+CODING 
+
+Guns, police 
+property 
+
+Stolen or lost - identifiable 
+
+Permanent 
+
+COLLECTIVE 
+BARGAINING 
+
+Contracts,  
+Arbitrations etc. 
+
+Human Resources 
+(labour relations)  
+
+Permanent 
+
+COLLEGE - C. O. 
+BICK (see HUMAN 
+RESOURCES -
+Training & 
+Education) 
+
+COLLISION(S) (see 
+ACCIDENTS) 
+
+219-30 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+COMMUNICA-
+TIONS 
+
+A.N.I./A.L.I.  
+
+I./C.A.D. 
+
+Schedule A 
+(Column 3) 
+Description 
+
+Location, name, phone 
+number 
+(hard copy backup to 
+I./C.A.D.) 
+
+Dispatch Record System 
+(archive & reports, 
+includes A.N.I. / A.L.I., 
+S.A.S. 
+& A.P.S.) 
+
+(Column 4) 
+Retention 
+
+1 month 
+
+5 years 
+
+Hand-written 
+dispatch records 
+
+Includes pursuit cards 
+
+5 years 
+
+A.P.S. 
+
+Availability (name/badge)  
+
+5 years 
+
+Divisional Parade 
+Sheets  
+
+Hard copy (not entered on 
+A.P.S.)  
+
+3 months 
+
+Voice Logging  
+
+Reel-to-reel tapes 
+
+Tapes 
+
+(held by request -  
+stored as of 94.10.24) 
+Digital audio tape cartridges 
+
+(replaced reel-to-reel tapes) 
+
+Until request 
+rescinded 
+
+1 year - extended 
+upon 
+request 
+
+Master Audio 
+Tapes 
+
+Extracts from logging tapes 
+(upon request) 
+
+Until request 
+rescinded 
+
+Master Request 
+Files 
+
+Hard copy - (prepared on 
+request) 
+
+Until request 
+rescinded 
+
+Staff 
+Administration 
+
+Statistics 
+
+Internal program  
+
+Hard copy for internal usage 
+(Switchboard Daily Volume 
+& C.C.R. Performance 
+Interval Reports) 
+
+Until 
+superseded/obsolete 
+
+1 year plus current 
+year 
+
+219-31 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+Training Files 
+
+Staff tests & appraisals 
+(time/date/subject) 
+
+COMMUNITY 
+POLICING 
+SUPPORT 
+
+Educational and 
+Promotional 
+materials 
+
+COMPLAINTS 
+
+P.S.A. 
+(public 
+complaints) 
+
+Less serious  
+(concluded informal, 
+discipline by unit commander) 
+
+Serious  
+(investigation commenced - a 
+hearing/trial possible) 
+
+Policy or service provided  
+by T.P.S. 
+Action item  
+Non-action item 
+
+(Column 4) 
+Retention 
+
+7 years 
+
+Until 
+superseded/obsolete 
+
+Upon conclusion 
+2 years from last 
+entry (including 
+appeal/litigation) 
+
+5 years  
+(after conclusion 
+including 
+appeal/litigation) 
+
+Until superseded 
+2 years from 
+conclusion 
+
+CONDITIONAL 
+RELEASE FORM 
+
+Corporate Information 
+Services (Operations) 
+
+Conclusion of court 
+case 
+
+CONFERENCES 
+
+Chief of Police 
+
+Agenda, etc. 
+
+CONFIDENTIAL 
+INSTRUCTIONS 
+CROWN 
+
+Indictable offence 
+(proceed by) 
+
+Homicide (Murder, Attempt 
+Murder, Manslaughter & 
+Infanticide) 
+Robbery (Division is assigned 
+unit) 
+
+2 years 
+
+Permanent 
+
+7 years (after 
+conclusion & expiry 
+of appeal period with 
+selective storage re 
+parole, civil 
+litigation, etc. beyond 
+normal retention) 
+
+219-32 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Hold-Up Squad is assigned 
+unit) 
+
+SEXUAL TYPE OFFENCES 
+(Division is assigned unit) 
+
+(Sexual Assault Unit is 
+assigned unit)  
+
+Aggravated Assault (All) 
+
+Other (indictable) 
+
+(Column 4) 
+Retention 
+
+10 years (after 
+conclusion & expiry 
+of appeal period - 
+with selective storage 
+re parole, civil 
+litigation, etc. beyond 
+normal retention) 
+
+7 years (after 
+conclusion & expiry 
+of appeal period - 
+with selective storage 
+re parole, civil 
+litigation, etc. beyond 
+normal retention) 
+
+25 years (after 
+conclusion & expiry 
+of appeal period - 
+with selective storage 
+re parole, civil 
+litigation etc. beyond 
+normal retention) 
+
+10 years (after 
+conclusion & expiry 
+of appeal period - 
+with selective storage 
+re parole, civil 
+litigation etc. beyond 
+normal retention)  
+
+5 years (after 
+conclusion & expiry 
+of appeal period - 
+with selective storage 
+re parole, civil 
+litigation etc. beyond 
+normal retention) 
+
+219-33 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+Non-Indictable 
+Offence (proceed 
+by summary) 
+
+Municipal By-
+laws 
+
+Provincial 
+Statutes 
+
+Highway Traffic Act, etc. 
+
+C.O.P.S. 
+
+Occurrence 
+processing system   
+
+(Column 4) 
+Retention 
+
+1 year + current year 
+(after conclusion & 
+expiry of appeal 
+period) 
+1 year (after 
+conclusion) 
+
+1 year (after 
+conclusion & expiry 
+of appeal period 
+
+3 years + current year 
+(stored) 
+
+CORONER'S 
+INQUEST FILES 
+
+CORRESPON-
+DENCE 
+
+COURT  
+ATTENDANCE 
+
+COURT  
+CALENDARS 
+
+COURT 
+NOTIFICATION 
+
+Jury recommendations and 
+service responses 
+
+Permanent 
+
+Registers & logs 
+
+Internal and external mail 
+(service-wide) 
+C.I.S. (hard copy - chronic 
+correspondent)- 
+
+1 year + current year 
+
+5 years (from date of 
+last correspondence) 
+
+Police personnel  Record of attendance 
+
+1 year + current year 
+
+Provincial court   Court Officer's copy 
+(docket - 
+disposition) 
+
+Service  
+
+History tape 
+(includes statement request) 
+C.I.S. 5 (posted copy) 
+C.I.S. 6 (officer excused) 
+(computer generated) 
+C.I.S. 8 (list of court dates) 
+(computer generated) 
+Subpoena 
+
+C.A.S.C.  
+Criminal Court 
+Minor traffic 
+Minor traffic  
+(work copy) 
+Accident 
+
+Civil/Criminal 
+and quasi-judicial 
+proceedings 
+(W.S.I.B., 
+C.I.C.B., etc.) 
+
+1 year + current year 
+2 years + current year 
+
+3 years 
+1 year + current year 
+6 months 
+6 months 
+
+6 months 
+
+1 year  
+
+219-34 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+C.P.I.C. (also see 
+INFORMATION 
+SECURITY) 
+
+C.P.I.C. 
+
+Traffic 
+
+Message log sheet - unit 
+
+Message log sheet - Service 
+Toronto/Zone alert 
+Narrative messages - unit 
+
+1 month + current 
+month 
+2 years 
+2 weeks 
+6 months + current 
+month 
+1 month + current 
+month 
+
+Headquarters(terminal -
+Service)  
+Province/Canada alerts - unit  2 weeks 
+Province/Canada alerts - 
+Service 
+
+6 months + current 
+month 
+
+Criminal dossiers  Description sheet  
+(at C.I.S.) 
+
+Record of arrest #3 copy 
+Criminal record (C.R.I.M. 9)  5 years + current year 
+Part A & B 
+
+(stored) 
+
+Upon disposition 
+Upon disposition 
+
+Appeal letters: re 
+sentence/convictio
+n 
+Request for record 
+destruction 
+
+Letter from district court: 
+results of appeal 
+
+Upon disposition 
+
+Fingerprints & photographs  
+
+1 year from Service's 
+last response 
+
+CRIMINAL 
+RECORDS 
+
+DANGEROUS 
+OFFENDER 
+(Application for 
+finding) (see 
+CONFIDENTIAL 
+INSTRUCTIONS 
+CROWN 
+COUNSEL)  
+
+DIRECTIVES (see 
+POLICIES) 
+
+DISCIPLINE 
+
+P.S.A. Trials  
+
+Tapes, transcripts, related 
+
+5 years - discipline 
+free  
+
+219-35 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+documents, etc. 
+
+DOCUMENT 
+EVIDENCE 
+
+Originals or 
+copies of cheques, 
+invoices or other 
+document 
+evidence 
+
+Trial dockets  
+
+Concluded & outstanding 
+(financial documents of which 
+owner does not want returned) 
+
+(Column 4) 
+Retention 
+
+(upon conclusion, 
+including appeal 
+period, civil litigation 
+& arbitration) 
+1 month 
+
+1 year + current year 
+(upon conclusion of 
+case, appeal period & 
+any civil litigation) 
+
+DOCUMENTA-
+TION (see HUMAN 
+RESOURCES - 
+Employee Records) 
+
+DOPE SHEETS (see 
+CONFIDENTIAL 
+INSTRUCTIONS 
+CROWN 
+COUNSEL) 
+
+EMERGENCY 
+PLANNING 
+
+EMPLOYMENT 
+(see HUMAN 
+RESOURCES) 
+
+EVENTS 
+
+Plans, minutes, etc. of 
+emergency measures planning 
+
+5 years (selective 
+storage)  
+
+Emergency By-
+law 
+(plans - 
+formulation & 
+implementation 
+of) 
+
+Personnel 
+Deployment, etc. 
+
+Service District 
+
+5 years (selective 
+storage) 
+3 years (selective 
+storage) 
+
+FINGERPRINTS 
+
+Scenes of crime   Major - unsolved 
+
+Permanent 
+
+Major - solved 
+
+Permanent 
+
+219-36 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+(Indictable offences) 
+Murder, Attempt Murder, 
+Manslaughter & Infanticide 
+
+Robbery, Swarm, Sexual 
+Assault, Kidnap, Abduction 
+and serious assault 
+
+Minor  
+(Indictable offences - other) 
+
+Consent 
+
+Elimination purposes 
+
+FIREARM (also see 
+PROPERTY & 
+EVIDENCE 
+MANAGEMENT)  
+
+Applicant 
+Investigation File 
+(Special 
+Investigation 
+Services) 
+
+Applications, permits, 
+certificates, prohibit and 
+seizure orders (hard copy) 
+
+5 years, upon 
+conclusion, including 
+appeal and litigation, 
+(with selective 
+storage in 
+conjunction with 
+Confidential 
+Instructions Crown 
+Counsel retention) 
+5 years + current year 
+(with selective 
+storage) 
+
+2 years (if 
+eliminated) 
+
+Permanent 
+
+Firearm Discharge  Form M.T.P. 586 
+Report 
+
+2 years + current year 
+
+FLEET & 
+MATERIAL 
+MANAGEMENT 
+
+Clothing, 
+equipment and 
+supplies 
+Receipts for stores   
+Handcuffs & 
+Firearms 
+Transfer of stores 
+
+Requisitions 
+
+Master serial record 
+
+1 year + current year 
+
+1 year 
+Duration of service + 
+1 year 
+1 year 
+
+HONOURS 
+
+T.P.S. employees  Hard copy - unit personnel 
+
+Service career  
+
+file 
+
+(then transfer to 
+Human Resources,  
+Employee Records) 
+
+219-37 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+Human Resources database 
+
+Duration of service  
+(then stored) 
+
+HUMAN 
+RESOURCES (see 
+SCHEDULE C) 
+
+INCIDENT (see 
+ACCIDENTS) 
+
+INFORMANT FILE  General C.D.I.U.  Current T.P.S. form 
+(dormant - 2 years) 
+
+INFORMATION 
+SECURITY 
+
+Computer Access 
+C.P.I.C. 
+
+Intergraph 
+
+System access requests 
+Intergraph C.P.I.C. - 
+communications; 
+Intergraph C.P.I.C. - M.D.T. 
+access (field units) 
+C.P.I.C. 3.1 interface 
+C.O.P.S. to C.P.I.C. interface 
+(maintenance audit log)  
+Log tapes including 
+P.A.R.I.S. log tapes (traffic) 
+Narrative messaging 
+Login/logout records 
+Flat file  
+I./C.A.D. audit log reports 
+
+M.A.N.I.X. 
+
+Search records 
+
+2 years after case 
+concluded - transfer 
+to Special 
+Investigation 
+Services Unit 
+(inactive/status 
+change) 
+
+1 year 
+On-line:  5 day log 
+
+Historical:  5 years 
+
+2 years 
+2 years 
+
+2 years 
+
+On-line: 5 day log 
+Historical: 5 years 
+5 years 
+5 years 
+
+On-line: 30 days 
+Historical: 1 year 
+
+Mainframe 
+
+Network 
+
+Login/logout records 
+Access audit log 
+User code security reports 
+User code security tapes 
+Server login/logout records 
+Security server transactions 
+
+1 year 
+3 years 
+On-line current data 
+1 year 
+1 year 
+1 year 
+
+219-38 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+Off-line search 
+
+Mail logs 
+Server monitoring reports 
+Internal investigations (off-
+line computer system search) 
+
+Administrative & operational 
+investigations 
+
+Security Reports  All security-related 
+
+correspondence dealing with 
+users, units & systems 
+
+(Column 4) 
+Retention 
+
+1 year 
+1 year + current year 
+Until concluded + 1 
+year (including any 
+disciplinary process 
+being completed) 
+Until concluded + 1 
+year  
+1 year + current year 
+or, if related to a 
+further action, until 
+concluded 
+
+INJURY REPORT 
+
+Form M.T.P. 105 
+
+2 years + current year 
+
+INTAKE 
+INFORMATION 
+FORM 
+
+INTELLIGENCE 
+FILES 
+
+Probation Orders  Service 
+
+Unrestricted 
+reports 
+Restricted reports 
+
+Third Party 
+Reports 
+
+Requests for 
+information  
+Physical 
+surveillance 
+reports 
+Privacy Act 
+reports 
+
+Until expiry + 2 
+months 
+
+Until inactive + 3 
+years 
+Until inactive + 5 
+years 
+Review after 3 
+months, (downgrade 
+to restricted, 
+unrestricted or place 
+in dossier file)  
+1 year + current year 
+
+Surveillance finished 
++ 3 years 
+
+Until inactive or 
+subject of another 
+investigation + 10 
+years, unless 
+subject(s) form part 
+of a dossier file 
+
+219-39 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 2) 
+Subject 
+
+Intelligence 
+Services 
+Dossier File 
+
+C.I.S.O. Dossier 
+File 
+
+Major Case File 
+
+Resource 
+Information 
+
+LEGAL 
+
+Legal Service files  Legal opinions 
+
+(Column 4) 
+Retention 
+
+Until inactive + 20 
+years or date of death 
++ 10 years with 
+relevant information 
+being transferred to 
+active dossier files  
+Until inactive + 20 
+years or date of death 
++ 10 years with 
+relevant information 
+being transferred to 
+active dossier files 
+Until inactive + 5 
+years unless 
+subject(s) form part 
+of a dossier file 
+2 years + current year 
+
+2 years after closure 
+of file 
+
+MAJOR NEWS 
+REPORT 
+
+Daily 
+
+Major crimes, arrests 
+& fatalities - Unit 
+Service (electronic disc - 
+Held at C.I.S. - Operations) 
+
+6 months 
+
+Permanent 
+
+M.A.N.I.X. 
+
+Arrest cards 
+Criminal records 
+
+General 
+information 
+Adult/youth 
+caution 
+Suspected 
+Emotional  
+Disturbed 
+Not 'finger-
+printed'  
+records (includes 
+Young 
+
+T.P.S. 208 
+
+T.P.S. 208 
+
+Current year + 1 year 
+Until age 75 - other - 
+than pardons & 
+exceptions 
+1 year 
+
+1 year (from issued 
+date) 
+2 years 
+
+Convictions 
+
+Absolute Discharge 
+
+5 years - date of 
+disposition 
+1 year - date of 
+disposition 
+
+219-40 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+Offenders) 
+
+Conditional Discharge 
+
+(Column 4) 
+Retention 
+
+3 years - date of 
+disposition 
+
+Peace Bonds  
+
+Adult & Young Offender 
+
+Until expiry 
+
+Finger-printed 
+Young Offenders 
+(may be retained   Dismissal (other than 
+
+Acquittal (other than by 
+insanity finding) 
+
+beyond these 
+periods 
+but cannot be 
+disclosed except 
+under provisions 
+of the Y.O.A.) 
+
+acquittal)  
+withdrawal or stay 
+
+Alternative measures 
+disposition, after consent 
+Summary Conviction 
+
+Indictable conviction 
+
+Absolute discharge 
+
+Conditional discharge 
+
+Conviction - with unknown 
+
+Crown proceeding 
+
+4 months -  
+date of disposition 
+1 year - date of 
+disposition 
+
+2 years - date of 
+disposition 
+3 years - date of 
+sentence & 
+conditions completed 
+5 years. - date of 
+sentence & 
+conditions 
+ completed 
+1 year - date of 
+disposition 
+3 years - date of 
+disposition 
+3 years - date of 
+sentence 
+& condition(s) 
+completed 
+
+Master copies 
+
+(held at Corporate Planning)  While valid + 2 years 
+
+MAPS & 
+GRAPHICS 
+
+MEDICAL (see 
+HUMAN 
+RESOURCES - 
+Occupational Health 
+Services) 
+
+MEMORAND-UM  Officer's record of 
+
+activity 
+
+Actively serving, services 
+terminated (any reason) 
+
+8 years from last 
+entry 
+
+BOOKS 
+
+219-41 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Column 1) 
+Grouping 
+
+NOTES 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 2) 
+Subject 
+
+Working papers, 
+used in 
+preparation of 
+other records 
+(rough notes, 
+notations, draft 
+reference only, 
+telephone slip, 
+etc.) 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+(hard copy or data base 
+initiated) 
+Non-investigative matters 
+Criminal investigation - 
+no charge 
+Criminal investigation - 
+charge 
+
+Completion of final 
+record 
+Refer to retention for 
+Occurrence(s) 
+Refer to retention for 
+Confidential 
+Instruction Crown 
+Counsel 
+
+OCCURRENCE (S) 
+(Also see C.I.P.S. 
+and C.O.P.S.) 
+
+Duplicate copies 
+of all occurrences 
+
+In occurrence file (at division 
+level) 
+
+1 year  
+
+Record of Arrest 
+(#1 copy) 
+
+Hard copy 
+
+C.I.P.S. (database) 
+
+Refer to Occurrence 
+retention (by offence 
+type) 
+Permanent 
+
+Bicycle, tricycle  Concluded 
+
+Outstanding 
+
+1 year 
+10 years  
+
+Drugs 
+
+Concluded 
+
+5 years + current year 
+
+Firearms 
+
+Concluded 
+Outstanding 
+
+Fraudulent 
+(document etc.) 
+
+Under $50,000  
+$50,000 & greater 
+
+General - (Major)  Robbery, Arson, 
+
+Sexual type (sexual assault, 
+potential sex offender, etc.), 
+Kidnapping-Abduction, 
+Arrests - prohibitions attached 
+
+General - (Minor)  Theft, Break & Enter, 
+
+5 years 
+Permanent  
+
+5 years 
+Permanent 
+
+Permanent 
+Held at C.I.S. - 
+Operations and 
+specific unit/squad 
+where applicable  
+(i.e. Sexual Assault & 
+Hold-up Units) 
+5 years + current year 
+
+Mischief, 
+Assault, Threatening, Driving    
+Offences, Weapons Offences, 
+
+219-42 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+Mental Health Act etc. 
+
+Homicide  
+
+Murder, Attempt Murder, 
+Manslaughter, Infanticide  
+
+Permanent (held at 
+C.I.S. -  
+Operations & 
+Homicide  
+Unit where 
+applicable) 
+
+Liquor 
+
+Concluded 
+
+1 year + current year 
+
+Lost and Found 
+
+Concluded 
+Outstanding 
+
+Missing Persons  Concluded 
+
+Motor Vehicle 
+
+Sudden Death 
+
+Outstanding 
+
+Concluded 
+Outstanding 
+
+Unit 
+Service 
+
+Suicides 
+
+Unit 
+
+Attempt suicides 
+
+Suicides 
+
+Service 
+
+Attempt suicides 
+
+Tow Card (report)  Unit 
+
+Service 
+
+PARKING TAGS 
+
+Officer's copy 
+Record of tags 
+
+Held for defective meter 
+check 
+
+1 year + current year 
+5 years 
+
+1 year + current year 
+Permanent 
+
+4 years 
+5 years 
+
+1 year + current year 
+3 years after 
+conclusion of 
+investigation 
+
+1 year + current year 
+after conclusion of 
+investigation 
+
+1 year + current year 
+
+5 years + current year  
+(stored) 
+4 years + current year 
+
+1 month 
+3 years 
+
+18 months 
+3 months 
+
+219-43 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+PAWN SHEETS 
+
+Property (pawn 
+shops) 
+
+PAY DUTY 
+
+Record of  
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+Pawn data base  
+
+2 years 
+
+Special Investigation Services  3 years 
+(hard copy) 
+
+(also see Financial Schedule 
+'B') 
+
+7 years 
+
+PEACE BONDS 
+
+Hard copy 
+
+PERMITS 
+
+Parades & filming  Unit  
+
+Service (filed at Traffic 
+Services) 
+Information Technology 
+Service (copy of each licence) 
+
+Radio 
+Transmissions 
+(licences issued 
+to) 
+
+Until expiry + 2 
+months. 
+
+While valid 
+1 year + current year 
+
+Upon annual 
+replacement on April 
+1 
+
+PERSON 
+INVESTIGATED 
+
+T.P.S. 208   
+
+Hard copy (division) 
+(Service - see M.A.N.I.X.) 
+
+1 year 
+
+PERSONNEL 
+RECORDS (see 
+HUMAN 
+RESOURCES - 
+Employee Records) 
+
+PHOTOGRAPHS 
+(Scenes of crime, 
+Victims, etc.) 
+
+Negatives - (major  Unsolved - 
+
+(major) 
+
+indictable 
+offences) 
+Homicide, 
+Robbery, Swarm, 
+Sexual Assault, 
+Kidnap, Abduct, 
+Serious Assault 
+
+Solved  
+
+As retention - 
+Occurrences 
+(with selective 
+storage) 
+
+Final disposition + 5 
+years 
+(with selective 
+storage) 
+
+219-44 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+Negatives 
+Minor indictable 
+offences (other 
+than above 
+Majors) 
+
+Long and short 
+term service  
+planning 
+
+PLANS 
+
+Solved & unsolved 
+
+5 years 
+
+Procedural analysis, 
+special projects 
+
+Permanent 
+
+POLICIES 
+
+Directives 
+
+Unit 
+
+Service 
+
+Unit Instructional  Guidelines or procedures 
+issued 
+by Unit Commander 
+
+Manual 
+
+Until superseded or 
+cancelled 
+Permanent 
+
+Superseded or 
+cancelled + 1 year 
+
+Routine Orders 
+
+Unit (hard copy) 
+Service (electronic format) 
+
+6 months 
+Permanent 
+
+POLYGRAPH 
+
+Forms used in  
+conjunction with 
+tests conducted by 
+Investigative 
+Squad 
+
+Homicides 
+Sexual assaults 
+Other offences 
+
+Permanent 
+10 years 
+5 years 
+
+PROBATION 
+ORDERS (see 
+INTAKE 
+INFORMATION 
+FORM) 
+
+PROPERTY AND 
+EVIDENCE 
+MANAGEMENT 
+UNIT 
+
+Property Receipt  
+Tag T.P.S. 405 
+
+Found Property 
+
+Upon disposition of 
+property 
+1 year + current year 
+
+Other 
+
+Refer to Confidential  
+
+219-45 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+Destruction 
+Record 
+Firearm Storage 
+File 
+
+Destruction of firearm 
+
+(Firearm seized, found or for 
+safekeeping) 
+
+(Column 4) 
+Retention 
+
+Instruction to Crown 
+Counsel/source 
+document retention 
+(i.e. occurrence) 
+Permanent  
+
+Destruction of 
+Records 
+
+T.P.S. 649 describing records 
+destroyed 
+
+1 year + current year 
+
+Pursuit Report (as required by   5 years 
+P.S.A.)  
+Corporate Planning Unit 
+
+PURGE 
+
+PURSUITS 
+
+SCENES OF 
+CRIME (see 
+FINGERPRINTS or 
+PHOTOGRAPHS or 
+TAPES) 
+
+SPECIAL  
+INVESTIGA-TION 
+SERVICES 
+
+Special projects 
+(confidential) 
+
+International 
+Fugitives 
+
+STATIONERY  
+AND PRINTING 
+
+Requisitions 
+
+STATISTICS 
+
+Until inactive 
+(Relevant 
+information being 
+transferred to active 
+files) 
+Conclusion (upon 
+review) (selective 
+storage) 
+
+1 year + current year 
+
+1 year + current year 
+8 years 
+
+Crime etc.  
+History tapes 
+(Statistical Information 
+Centre) 
+
+219-46 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+STORES (see 
+FLEET & 
+MATERIAL) 
+MANAGEMENT 
+
+SUBPOENA 
+
+SUMMONS 
+
+Records, 
+occurrences & 
+criminal 
+information 
+
+Application for, 
+and 
+personal service 
+
+Withdrawn 
+Inquiries 
+Journal 
+
+Accepted by C.I.S. 
+(Information Access Security) 
+
+1 year 
+
+Record of service 
+
+1 year + current year 
+
+Officer's copy for court 
+
+Record of Provincial offence 
+ticket books issued 
+
+Conclusion of case &  
+expiration of appeal 
+period 
+1 year + current year 
+1 year + current year 
+1 year + current year 
+
+SUSPENSIONS 
+
+Ledger 
+
+Record of 12-hour 
+suspensions served 
+
+1 month + current 
+month 
+
+TAPES (INCLUDES 
+VIDEO) also see 
+COMMUNICA-
+TIONS, 
+INFORMATION 
+SECURITY 
+
+TAPES 
+
+Master compiled  Outstanding 
+video or audio 
+tapes; 
+Original 
+evidentiary source 
+tapes; 
+Other source tapes 
+(scenes of crime, 
+victim or witness 
+statements, etc.) 
+
+Concluded - Indictable 
+Homicide  
+(Murder, Attempt Murder, 
+Manslaughter & Infanticide) 
+Robbery, Sexual Type 
+Offences, Aggravated 
+Assault, Other 
+
+Refer to 'Occurrence' 
+retention (by offence 
+type) 
+Refer to 'Confidential 
+Instruction Crown 
+Counsel' (by offence 
+type) 
+
+219-47 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+Concluded / Non-indictable 
+(Summary) 
+
+Municipal By-laws 
+Provincial Statutes 
+
+(Column 4) 
+Retention 
+
+Refer to 'Confidential  
+Instruction Crown 
+Counsel' 
+(by offence type) 
+
+Mobile video 
+system (patrol 
+tape) 
+Training, press 
+release, 
+demonstration or 
+events 
+
+Stand alone tape with no 
+investigation/arrest associated 
+
+1 year 
+
+Until obsolete or 5 
+years (selective 
+storage) 
+
+Held at reporting centres 
+
+1 year + current year 
+
+Community programs 
+
+1 year + current year 
+
+TEMPORARY 
+ABSENCE 
+PERMITS 
+
+Granted to 
+prisoners 
+
+TEMPORARY 
+RELEASES (notice) 
+
+Young Offenders 
+on temporary 
+release in Toronto 
+
+TOW CARD 
+(report) see 
+OCCURRENCES 
+
+UNIT COMMAND-
+ER'S FILES 
+
+Administrative 
+and housekeeping 
+
+Per Appendix 'C' 
+Service regulations, with 
+added unit - specific files  
+
+1 year + current year 
+
+UNIT DUTY BOOK  Records of 
+
+Not computerized 
+
+1 year plus current 
+year 
+
+Personnel Duties: 
+unit 
+Record of 
+Personnel Duties: 
+Service 
+Records of 
+Personnel Duties: 
+unit 
+Record of 
+Personnel Duties: 
+Service 
+
+Not computerized 
+
+7 years (then stored)  
+
+Computerized 
+
+2 years (on-line) 
+
+Computerized 
+
+2 years (on-line) 
+(then electronic  
+storage) 
+
+219-48 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+USE OF FORCE 
+REPORT  
+
+Reg. 926 
+Form 1 - 1993/01 
+
+VEHICLES 
+
+General  
+maintenance, 
+repairs, 
+procurement, etc. 
+
+Part A 
+
+Part B 
+
+Unit 
+Service 
+
+2 years from incident 
+date 
+30 days from incident  
+date 
+
+1 year + current year 
+Duration vehicle in 
+service + 1 year 
+
+Individual 
+Ledgers 
+
+Vehicle record log book 
+
+Parts, materials, record of 
+goods used, received 
+
+Gasoline and Oil  Unit 
+
+(Used by Service)  Service 
+
+Disposal of vehicle + 
+1 year 
+7 years 
+
+3 months + current 
+month 
+1 year + current year 
+
+VIDEO (see 
+TAPES) 
+
+VOLUNTEERS 
+
+Community 
+Policing 
+Support Unit 
+
+Upon termination of 
+volunteer status (and 
+conclusion of any 
+litigation & appeals) 
++ 3 years  
+
+Form C.P.S.U. 1 
+Application/waiver 
+Form C.P.S.U. 2 
+Personal History 
+Form C.P.S.U. 4 
+Application/Waiver & 
+Release 
+Form - for Committee 
+Membership 
+
+WAIVER 
+
+Waiver and 
+Release 
+
+Security 
+Clearances 
+
+To accompany police on duty  7 years 
+
+System access clearances and 
+physical access authorization 
+to T.P.S. sites 
+
+Pound contracts - 2 
+years 
+Others - 1 year 
+
+Required by the  
+Service 
+
+Before action allowed/taken 
+involving physical risk, phys. 
+ed. etc. 
+
+7 years 
+
+219-49 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+Information 
+gathering and 
+criminal record 
+release 
+Arrest 
+
+Criminal reference checks for 
+approved agencies:  reference 
+authorizations by applicants 
+for service employment  
+Concluded 
+
+WARRANTS 
+
+Banks and 
+Banking 
+Cheque 
+Requisitions 
+
+Committal  
+
+Outstanding 
+(Original held at C.I.S. - 
+Operations) 
+Receipts, deposit slips, 
+invoices  
+Payable to provincial courts 
+
+Payable to City of Toronto 
+Outstanding 
+
+Executed (by payment) 
+
+Executed (by arrest) 
+
+Re: Support and Custody 
+Order Enforcement Act 
+
+Correspondence  General 
+Fail to Appear -  
+(held by  
+Community 
+Programs)  
+Inactive working  Showing warrants paid, 
+returned, or executed by 
+cards 
+imprisonment of subject 
+Request for service or  
+returned unable to serve 
+For payment of 
+Record of Warrants received 
+from all sources for execution 
+Receipts for warrants 
+executed by incarceration 
+
+Receipts 
+Registers 
+
+Release Slips 
+
+Letters 
+
+(Column 4) 
+Retention 
+
+1 year + current year 
+
+4 years date of 
+execution  
+Permanent unless 
+rescinded 
+
+7 years 
+
+7 years 
+
+7 years 
+4 years (returned to 
+Court) 
+Upon execution  
+(then sent to courts) 
+Upon execution  
+(then sent to courts) 
+1 year + current year 
+Until enforced or 
+rescinded 
+
+1 year + current year 
+
+1 year + current year 
+
+7 years 
+7 years 
+
+1 year + current year 
+
+7 years 
+
+Search 
+
+Statement of 
+Execution 
+
+To cover service charges 
+
+5 years + current year 
+
+219-50 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule A 
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+WORKING 
+PAPERS (see 
+NOTES) 
+
+Y2K 
+
+Y2K R.D.D. 
+
+7 years 
+
+Year 2000 documents 
+(includes all records related to 
+Y2K inventory items, 
+remediation & testing, 
+business partner readiness, 
+contingency & continuity 
+plans. Includes any related 
+documentation that 
+establishes actions or 
+decisions.) 
+
+219-51 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule B, Art. I,  
+Records Retention Schedule, Financial (Police Services Board) 
+
+[Amended 2000-10-05 by By-law 689-2000] 
+
+(Column 2) 
+Subject 
+
+General 
+
+(Column 1) 
+Grouping 
+
+ACCOUNTS & 
+ACCOUNTING 
+(see also IMPREST 
+ACCOUNTS) 
+
+Schedule B 
+
+(Column 3) 
+Description 
+
+Appropriations & 
+disbursements, invoices, 
+vouchers, etc. 
+
+(Column 4) 
+Retention 
+
+7 years 
+
+Cleaning 
+vouchers 
+
+Records 
+Revenue  
+System 
+
+2 years + current year 
+
+Daily transactions, refunds,  
+
+7 years 
+
+Invoicing 
+
+AUDITS (also see 
+GENERAL 
+SCHEDULE) 
+
+AUDITS 
+
+Finance 
+
+By Internal Audit & Program  7 years 
+Review Unit & Finance 
+
+BANKING 
+
+Receipts, deposit slips, etc. 
+
+7 years 
+
+BONDING 
+
+Employees 
+
+Duration of service + 1 
+year 
+
+BUDGET 
+
+Unit 
+Service 
+
+2 years 
+5 years 
+
+CLAIMS 
+
+By or against the Service 
+
+7 years 
+
+CONTRACTS 
+
+With individuals or firms, etc., 
+for purchases, rentals & 
+services, etc. 
+
+7 years 
+
+219-52 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule B 
+
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+Deductions from salary 
+
+Until superseded 
+
+7 years 
+
+7 years 
+
+Petty cash, investigator 
+expense, automobile mileage 
+allowance, etc. 
+
+Employees hospital, life, 
+medical, death benefits & 
+other 
+
+(Column 2) 
+Subject 
+
+Employee  
+authorization 
+
+Educational & 
+other 
+
+(Column 1) 
+Grouping 
+
+CREDIT UNION 
+
+GRANTS 
+
+IMPREST 
+ACCOUNTS 
+
+INCOME TAX 
+
+T-1 Form 
+
+T-4 Form 
+
+INSURANCE 
+
+Personnel 
+
+Automobile 
+General 
+
+Fire, etc. 
+
+PAY DUTY (also 
+see GENERAL 
+SCHEDULE) 
+
+PENSIONS 
+
+O.M.E.R.S., 
+P.B.F, Toronto 
+City Employees' 
+Benefit Fund, 
+others 
+
+RECEIPTS 
+
+Goods & 
+services 
+received  
+
+Service 
+Unit 
+
+REFUNDS 
+
+REQUISITIONS 
+
+Goods & 
+services  
+Received 
+
+Service 
+
+Unit 
+
+Until superseded + 1 
+year 
+7 years 
+
+While valid 
+
+7 years 
+7 years 
+
+7 years 
+
+Duration of service + 2 
+years 
+
+7 years 
+1 year + current year 
+
+7 years 
+
+3 years 
+
+1 year + current year 
+
+219-53 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule B 
+
+(Column 3) 
+Description 
+
+REVENUE 
+
+From all sources  Unit 
+
+Service 
+
+Including deductions, 
+increases, revisions, acting 
+paying, overtime, stoppages, 
+etc. 
+
+SALARIES 
+
+SICKNESS 
+(Sickness/Injury) 
+(also see HUMAN 
+RESOURCES 
+SCHEDULE) 
+
+(Column 4) 
+Retention 
+
+1 year + current year 
+7 years 
+
+2 years then stored 
+
+STATEMENTS 
+
+Financial 
+
+Reports, summaries, account 
+statements, expenditures, etc. 
+
+7 years 
+
+TRAVEL 
+
+Personnel 
+
+Advances, claims for expenses  7 years 
+
+219-54 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule C, Art. I,  
+Records Retention Schedule, Human Resources (Police Services Board) 
+
+[Added 2000-10-05 by By-law 689-2000] 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule C 
+
+(Column 3) 
+Description 
+
+HUMAN 
+RESOURCES 
+
+Compensation &  No Fault Insurance 
+Benefits 
+
+Central Sick Leave Bank 
+Pensions 
+Retirees - benefits 
+Retirement, resignation, 
+services dispensed with 
+
+(Column 4) 
+Retention 
+
+Duration + 1 year 
+2 years after closure  
+Service + 3 months 
+Duration + 3 months 
+End of year + 3 months 
+
+Employment 
+
+5 years 
+
+2 years + current year 
+2 years + current year 
+
+Civilian Transfer Application  1 year date of application 
+Applicant Tracking System  
+Database 
+B-Pad video tapes 
+Files (other than police 
+constable) 
+Files - police constable 
+Screened out applicants 
+(initial stage due to 
+qualifications not matching 
+the position) 
+Job Calls - external 
+Job Calls - internal 
+
+2 years + current year 
+2 years + current year 
+
+2 years + current year 
+1 year 
+
+Employee 
+Records 
+
+"A" Files - general 
+
+Evaluation & appraisal 
+reports, includes probationary 
+constable evaluations, Work 
+Planning & Performance 
+Development (W.P.P.D.) 
+"B" Files 
+Payroll & Benefits 
+
+Completion service + 1 
+year (then scanned) - 
+excluding evaluation & 
+appraisal  
+
+1 year + current year (then 
+scanned) 
+
+7 years + current year 
+Duration of service + 1 
+year & current year  
+
+219-55 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule C 
+
+(Column 3) 
+Description 
+
+Applicant File - successful 
+reference checks, tests, 
+interview notes, background 
+check, etc.) 
+
+H.R.M.S. Database  
+Employee personal 
+information (includes 
+languages, equipment, 
+discipline, meritorious 
+services, etc.) 
+
+Senior Constables Database 
+(personal information, 
+appraisal & exam scores, 
+evaluations, etc.) 
+
+Unit Personal File - 
+Derogatory or no excuse 
+
+Photographs of members 
+
+(Column 4) 
+Retention 
+
+2 years + current year 
+
+Permanent 
+
+Permanent 
+
+2 years from last 
+concluded  
+negative documentation 
+Duration of service (then 
+to Employee Records) 
+
+Documentation - 
+complimentary 
+
+Duration of service (then 
+to Employee Records) 
+
+Individual records - in 
+member's individual 
+personnel file 
+
+Civilian & uniform 
+evaluations and Work 
+Planning & Performance 
+Development  
+
+Duration of service (then 
+to Employee Records) 
+
+1 year (then to Employee 
+Records)  
+
+Uniform Performance 
+Appraisal/Development Plan 
+
+5 years (then to Employee 
+Records) 
+
+Labour Relations  Secondary Activity 
+(approved, denied & 
+withdrawn) 
+
+Duration of service + 1 
+year 
+
+219-56 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule C 
+
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+Resigned & terminated files  Duration of service + 1 
+
+Legal Indemnification 
+Approved 
+Denied 
+
+Grievance & Appeals 
+
+Occupational 
+Health Services 
+
+Medical records 
+
+year 
+
+2 years + current year 
+2 years + current year 
+upon conclusion of any 
+appeal 
+Permanent 
+
+20 years from date of 
+leaving Service or 5 years 
+after death 
+
+W.S.I.B. (time lost through 
+sick or injury) 
+
+Until death of member 
+
+Workers' Compensation 
+Services Personnel reports 
+(status, election to claim & 
+claim information) 
+
+5 years after death 
+
+Staff Planning and 
+Development 
+
+Promotional competitions 
+(applications, examinations 
+and interview notes) 
+
+1 year + current year 
+(promotional process 
+concluded and not on list 
+for future promotion) 
+
+Human Rights 
+
+Transfer application/records 
+
+1 year + current year 
+
+Human resource policies & 
+procedures, research 
+documents etc. 
+
+Inquiries 
+Investigative reports (less 
+serious allegations - assigned 
+to unit commander & includes 
+informal resolutions) 
+Investigative reports 
+(serious allegations - 
+investigation commenced - a 
+hearing or trial possible) 
+
+Until superseded 
+
+1 year + current year 
+2 years + current year 
+
+5 years + current year 
+
+219-57 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule C 
+
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+Work & Family 
+Care 
+
+Leave of absence & 
+secondment records 
+
+Upon conclusion + 5 
+years 
+
+Training & 
+Education 
+
+Job share/reduced hours - 
+Application, memo  
+understanding, 
+O.M.E.R.S. form, Personnel 
+Action Notice) 
+
+Certificates - driving (operate 
+service motor vehicle, etc.) 
+Driver training course - 
+assessment (motor vehicle 
+etc.) 
+
+Driver training record (C.O.L. 
+3) (ongoing record - training 
+& history) 
+
+Handgun requalification 
+members score (requalifying 
+shoot)- 
+
+Upon conclusion + 5 
+years 
+
+Duration of service 
+
+Duration of service 
+
+Duration of service  
+
+1 year + current year 
+
+Duration of service 
+
+Firearms Training Record 
+Card 
+(C.O.L. 5) (member's record) 
+Probationary Firearms Issue  Duration of service  
+(receipt signed by recruit) 
+Shoot Score Sheet - college 
+(any) 
+Annual inspection of unit 
+emergency weapons 
+(inventory) 
+Decentralised training topics  Permanent 
+Permanent 
+Roll-call, parade, training 
+scenarios 
+Course training standard 
+
+Permanent  
+
+7 years 
+
+2 years 
+
+Training & 
+Education (Cont.) 
+
+Individual fitness (continual 
+record of body fat & vol. 02) 
+
+Duration of service 
+
+219-58 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+(Column 1) 
+Grouping 
+
+(Column 2) 
+Subject 
+
+Schedule C 
+
+(Column 3) 
+Description 
+
+(Column 4) 
+Retention 
+
+Class (other than pre-Aylmer) 
+T.P. Fitness Test Record 
+Sheet 
+
+5 years 
+
+2 years 
+
+Recruit fitness testing  
+(pre-Aylmer) 
+
+Probationary Constables 
+physical training results 
+(recruit training progress) 
+
+Duration of service 
+
+219-59 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule D, Art. II,  
+Records Retention Schedule (Toronto Transit Commission) 
+
+[Amended 2015-10-02 by By-law 1002-2015] 
+
+Schedule D, Art. II, Records Retention Schedule (Toronto Transit Commission) 
+
+219-60 
+
+June 16, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule E, Art. V,  
+Records Retention Schedule (Motor Vehicle Licence Plate Registrant Information) 
+
+(Column 1) 
+
+(Column 2) 
+
+Motor vehicle licence plate registrant information 
+obtained from the Ministry of Transportation for 
+Ontario 
+
+30 days after completion of the 
+authorized use of the information by 
+the City of Toronto 
+
+219-61 
+
+June 16, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule F, Art. III,  
+Records Retention Schedule (Toronto Public Library) 
+
+[Added 2006-04-27 by By-law 260-2006; amended 2016-02-04 by By-law 118-2016] 
+
+Schedule F, Art. III, Records Retention Schedule (Toronto Public Library) 
+
+219-62 
+
+June 16, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule G, Art. IV,  
+Records Retention Schedule (Board Of Governors Of Exhibition Place) 
+
+[Added 2006-07-27 by By-law 688-2006; amended 2008-12-03 by By-law 1303-2008; 2014-
+07-11 by By-law 700-2014; 2019-01-31 by By-law 248-2019] 
+
+Schedule G, Art. IV, Records Retention Schedule (Board of Governors of Exhibition Place) 
+
+219-63 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule H, Art. VI,  
+Records Retention Schedule (TO Live) 
+
+[Added 2019-06-19 by By-law 942-2019] 
+
+Department  Description 
+
+Management 
+
+Schedule H 
+
+Retention 
+Period 
+
+Trigger 
+
+File closed upon 
+termination and/or 
+superseded by new 
+terms of condition of 
+the particular contracts, 
+agreements and/or 
+warranties. 
+File closed at 
+Executive's discretion 
+
+File closed upon 
+termination of 
+employment, or 
+termination of 
+retirement benefits, 
+whichever is longer 
+
+Board minutes 
+Contracts 
+
+20 years 
+15 years 
+
+Payroll 
+
+Executive 
+Records 
+
+11 years 
+
+All payroll 
+history 
+
+7 years 
+
+EI history 
+Attendance 
+records 
+Payroll process 
+files 
+
+3 years 
+3 years 
+
+8 years 
+
+7 years 
+
+Accounting Department  
+Operating 
+Budget 
+Capital Budget   7 years 
+7 years 
+Accounting 
+and Finance 
+Administration 
+records 
+
+Notes/*City reference 
+
+G0006 
+L6601, non-show related 
+contracts 
+
+I1000, non-Board records 
+
+F1301 
+
+F1303 
+
+F1325 
+
+F3307 
+
+F3305 
+F1500: Records relating to 
+the overall management of 
+TO Live's financial and 
+accounting functions and 
+processes. May include 
+information on accounting 
+systems, workflow reports 
+and diagrams, financial 
+signing authority, copies 
+
+219-64 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Department  Description 
+
+Schedule H 
+
+Retention 
+Period 
+
+Trigger 
+
+Financial 
+Statements  
+General Ledger 
+Register 
+Show Files 
+
+Permanent 
+
+Permanent 
+
+Permanent 
+
+Leases 
+
+21 years 
+
+Files closed at 
+termination of lease 
+
+GL journal 
+entry and 
+transition 
+register 
+Year-end 
+working papers 
+Bank  deposits 
+and statements/ 
+reconciliations 
+Ticket 
+Statistics 
+Taxation file 
+(GST/PST etc.) 
+Federal 
+Non-Resident 
+Tax files 
+
+7 years 
+
+7 years 
+
+7 years 
+
+10 years 
+
+7 years 
+
+7 years 
+
+Accounts Payable 
+
+Accounts 
+payable 
+invoices 
+Purchasing of 
+Goods and 
+Services  (POs) 
+Cheque 
+registers and 
+reconciliation 
+Cheques 
+
+7 years 
+
+7 years 
+
+7 years 
+
+7 years 
+
+Notes/*City reference 
+
+of federal and provincial 
+guidelines and compliance 
+requirements, and 
+correspondence.  
+F2157 
+
+F2313 
+
+R0193: All documents 
+related to performances, 
+including show contracts 
+L2200, real estate files 
+only 
+F2350 
+
+F2301 
+
+F2430 
+
+F2401 
+
+F1541 
+
+F2207 
+
+F2303 
+
+219-65 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule H 
+
+Department  Description 
+
+Petty cash 
+transaction 
+files 
+Personal 
+expense claims 
+
+Accounts Receivable 
+
+Accounts 
+Receivable 
+customer 
+database 
+Accounts 
+Receivable 
+invoice files 
+Cash receipts 
+files 
+
+Retention 
+Period 
+7 years 
+
+7 years 
+
+7 years 
+
+7 years 
+
+7 years 
+
+Concessions, Bars and Merchandising 
+Sales reports 
+7 years 
+Cashier reports  7 years 
+3 years 
+Inventories – 
+Bar & 
+Restaurant 
+
+Development  
+
+Fundraising & 
+Donation files 
+Tax Receipts 
+Sponsorship 
+records 
+Grants and 
+Subsidy 
+records 
+
+7 years 
+
+7 years 
+21 years 
+
+7 years 
+
+Human Resources 
+
+Benefit records  7 years 
+
+Terminated 
+employee 
+records files 
+
+7 years 
+
+Trigger 
+
+Notes/*City reference 
+
+F1560 
+
+F1562 
+
+F1570 
+
+F1570 
+
+F1570 
+
+F1570 
+F1570 
+F1570 
+
+F0169 
+
+I0199 
+
+F5857 
+
+F2801 
+
+H1201 
+
+File closed upon 
+Termination of 
+employment or 
+cessation of benefits 
+ File closed on 
+termination date of 
+employee, or upon 
+resolution of 
+outstanding issues  
+
+219-66 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule H 
+
+Department  Description 
+
+Other 
+
+Staff 
+Competition & 
+Recruitment 
+Pension plan 
+administration 
+
+Labour 
+Negotiation 
+files 
+
+Construction 
+and 
+Renovation 
+
+Property 
+Maintenance 
+records 
+Risk 
+Management 
+files 
+Insurance 
+claims 
+News Releases 
+and Official 
+Statements 
+Media 
+Releases 
+
+Retention 
+Period 
+7 years 
+
+7 years 
+
+21 years 
+
+25 years 
+
+25 years 
+
+7 years 
+
+16 years 
+
+7 years 
+
+7 years 
+
+Trigger 
+
+Notes/*City reference 
+
+File closed at closing 
+of competition 
+
+H1210 
+
+File closed with 
+termination of the last 
+surviving beneficiary 
+of the pension policy 
+File closed at 
+resolution or settlement 
+of case 
+
+File closed at 
+completion of 
+construction and/or 
+renovation project 
+File closed at 
+expiration of contract  
+
+File closed upon 
+resolution of case  
+
+F4000 
+
+H1246 
+
+A0501 
+
+A0502 
+
+F3100 
+
+F4307 
+
+I0201 
+
+I0203 
+
+The above books, records and files of TO Live are to be retained as indicated in this table. 
+Retention period starts when the file/year is closed, unless otherwise indicated. 
+
+*City reference is taken from Toronto Municipal Code Chapter 217, Records, Corporate (City) 
+Schedule A. If more detailed explanation of retention policy as it relates to TO Live is required, 
+it is included here. 
+
+219-67 
+
+June 16, 2022 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 219, RECORDS, CORPORATE (LOCAL BOARDS) 
+
+Schedule I, Art. VII,  
+Records Retention Schedule (Waterfront Neighbourhood Centre Board of Management) 
+
+[Added 2022-06-16 by By-law 546-2022] 
+
+Records Retention Schedule (Waterfront Neighbourhood Centre Board of Management) 
+
+219-68 
+
+June 16, 2022 
+
+ 
+

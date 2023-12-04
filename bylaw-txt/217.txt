@@ -1,0 +1,788 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+Chapter 217 
+
+RECORDS, CORPORATE (CITY) 
+
+§ 217-1. Definitions. 
+
+§ 217-2. Corporate objectives for managing information and records. 
+
+§ 217-3. Information and records management responsibilities. 
+
+§ 217-4. Record retention and disposition. 
+
+§ 217-5. Establishment of retention schedules. 
+
+§ 217-6. Transition. 
+
+Schedule A, Records Retention Schedule 
+
+Schedule B, City Agencies in scope for the purposes of Chapter 217 
+
+Schedule C, Former Records Retention By-laws 
+
+[History: Adopted by the Council of the City of Toronto October 28, 2004 by By-law 989-
+2004.1; amended in its entirety (except for Schedule A) August 28, 2014 by By-law 1067-
+20142. Amendments noted where applicable.] 
+
+General References 
+
+Corporate (local boards) records - See Ch. 219. 
+City of Toronto Act, 2006 - See S.O. 2006, c. 11. 
+Municipal Freedom of Information and Protection of Privacy Act - See R.S.O. 1990, c. M.56. 
+
+§ 217-1. Definitions. 
+
+As used in this chapter, the following terms have the meanings indicated: 
+
+AGENCY - An agency of the City of Toronto listed in Schedule B. 
+
+ARCHIVAL RECORDS - Records designated by the City Archivist that warrant continued 
+preservation. 
+
+AUTHORITATIVE SOURCE - A recognized set of trusted and reliable information and data 
+managed under the custodianship of an organizational unit. 
+
+CITY RECORD - A record created or received in the course of City administration or delivery of 
+City services. 
+
+1
+
+ Editor's Note: By-law 989-2004 was passed under the authority of section 255 of the Municipal Act, 2001, S.O. 2001, c. 25. Section 3 of 
+
+this by-law provided that it comes into force upon approval by the City's external auditor; approval was given by the City's external 
+auditor October 28, 2004. 
+2
+
+ Editor's Note: By-law 1067-2014 was passed under the authority of the City of Toronto Act, 2006, S.O. 2006, c. 11.  
+
+217-1 
+
+December 13, 2018 
+
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+CONFIDENTIAL INFORMATION - Confidential information includes information in the 
+possession of, or received in confidence by the City that the City is either prohibited from 
+disclosing, or is required to refuse to disclose, under the Municipal Freedom of Information and 
+Protection of Privacy Act, or other legislation. 
+
+DIVISION - An organizational unit of the City, whether or not it is called a division or office, 
+that is headed by a division head. [Amended 2017-05-26 by By-law 552-2017] 
+
+DIVISION HEAD - Any General Manager or any director or executive director reporting to the 
+City Manager, a Deputy City Manager, the Chief Financial Officer and Treasurer, or the 
+Controller. [Amended 2018-07-27 by By-law 1206-2018; 2018-12-13 by By-law 17-2019] 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+The City Clerk, the City Solicitor and the Medical Officer of Health. 
+
+The Auditor General, the Integrity Commissioner, the Lobbyist Registrar and the 
+Ombudsman. 
+
+For the purpose of making a commitment under this chapter for their office, a Deputy 
+City Manager, the Chief Financial Officer and Treasurer and the Controller. 
+
+A person authorized to act in the place of an official listed in Subsections A, B, C or D by 
+Council or by the City Manager or another official under delegated authority. 
+
+FORMER RECORDS RETENTION BY-LAW - A retention by-law of one of the former 
+municipalities and Municipal Code Chapter 217, Records, Corporate (City), as it existed 
+immediately before this by-law came into force, listed in Schedule C. 
+
+INFORMATION HOLD - A process that prevents recorded information from expiring or being 
+destroyed before the event to which they are relevant has been resolved. 
+
+PERSONAL INFORMATION - Has the same meaning as that set out in the Municipal Freedom 
+of Information and Protection of Privacy Act. 
+
+RECORD - Information, however recorded or stored, whether in printed form, on film, by 
+electronic means or otherwise, and includes documents, financial statements, minutes, accounts, 
+correspondence, memoranda, plans, maps, drawings, photographs and films. 
+
+RECORDED INFORMATION - Information that is recorded on or in a medium irrespective of 
+form, recording medium or technology utilized, and in a manner allowing for storage and 
+retrieval. See also RECORD. 
+
+RETENTION PERIOD - A retention rule stating how long records must be retained. 
+
+RETENTION SCHEDULE - An authority comprising of a description of a body of records, a 
+retention period for those records and a disposition rule stating whether, at the expiry of the 
+retention period, the records are to be destroyed or preserved by the City Archives. 
+
+TRANSITORY RECORD - A record that meets at least one of the following criteria: 
+
+A. 
+
+Required solely for the completion of a routine action, or the preparation of another 
+record. 
+
+217-2 
+
+December 13, 2018 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+B. 
+
+C. 
+
+D. 
+
+Not an integral part of a City record (for example, a photocopy of a record or a record 
+filed with other, transitory, records). 
+
+Not required to meet statutory obligations or to sustain administrative or operational 
+functions. 
+
+Records that have been transferred to and reviewed by the City Archives, in accordance 
+with the retention schedule, that have insufficient value to warrant retention by the 
+Archives. 
+
+§ 217-2. Corporate objectives for managing information and records. 
+
+A. 
+
+The City Clerk will, in accordance with applicable legislation, establish a framework of 
+standards and policies relating to information and records management, including 
+policies for: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+the management of records by the divisions, including, but not limited to, 
+documentation, classification, and data quality standards;  
+
+the collection and management of personal information; 
+
+the retention and disposal of City records, subject to approved retention periods; 
+
+the acquisition of records or collections from private sources by the City 
+Archives; 
+
+the auditing of information and records management practices in divisions; and 
+
+the designation of authoritative sources of records and data. 
+
+B. 
+
+C. 
+
+The City Clerk is authorized to enter into agreements with agencies, Accountability 
+Officers, and other City-related bodies to provide services, advice or assistance in the 
+creation and implementation of policies, as required, that reflect the general intent of the 
+policies established in accordance with this section. 
+
+The City Clerk shall maintain an up-to-date and publicly accessible retention schedule 
+that includes retention and dispositions approved and established by City Council 
+together with those approved and established by the City Clerk, which shall be 
+Schedule A to this chapter. 
+
+D. 
+
+Unless repealed or superseded, a former retention schedule by-law shall be publicly 
+available. 
+
+§ 217-3. Information and records management responsibilities. 
+
+A. 
+
+The implementation of policies established under § 217-2A relating to information and 
+records management is a shared responsibility of the City Clerk, the Chief Information 
+Officer and all division heads. 
+
+217-3 
+
+December 13, 2018 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+B. 
+
+In accordance with Subsection A, the City Clerk shall oversee the implementation of 
+information and records management policies and standards established under § 217-2A, 
+by: 
+
+(1) 
+
+(2) 
+
+confirming that practices and systems optimize access to records while protecting 
+the security of personal and confidential information, in accordance with 
+established policies and applicable law; and 
+
+providing corporate services to enhance the effective and efficient lifecycle 
+management of information and records. 
+
+The City Clerk shall maintain a record designated as archival in a secure and accessible 
+manner, following the expiry of its authorized retention period. 
+
+Subsection C does not apply to a record reviewed in accordance with § 3-41C of 
+Chapter 3, Accountability Officers. [Added 2017-05-26 by By-law 552-2017] 
+
+C. 
+
+C.1 
+
+D. 
+
+The Chief Information Officer will:  
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+develop and implement architecture and technology standards applicable to 
+information and records management; 
+
+develop policies specific to technological resources to be used for information and 
+records management; 
+
+ensure the security and integrity of technological systems and digital information; 
+
+where applicable, conduct privacy impact assessments of information technology 
+projects that collect or use personal information; and 
+
+integrate information and records management requirements, in particular the 
+accessibility and protection of personal and confidential information, into 
+technology architectures, policies, standards, and implementation actions.  
+
+E. 
+
+Each division and division head will: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+ensure that records are created and maintained to effectively document the 
+services their divisions provide;  
+
+make divisional records easily accessible to members of the public, in accordance 
+with established policies;  
+
+take proper measures to protect the security of personal and confidential 
+information, in accordance with established policies and applicable law; and 
+
+maintain records in accordance with established records retention policies until 
+disposition is implemented in accordance with the retention schedule. 
+
+§ 217-4. Record retention and disposition. 
+
+A. 
+
+No record shall be destroyed unless:  
+
+217-4 
+
+December 13, 2018 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+(1) 
+
+the retention period established for the record in accordance with this chapter has 
+expired and no information hold is applied on the record; or 
+
+(2) 
+
+the record is a copy of the original record. 
+
+B. 
+
+The information and records of the City shall be retained in accordance with: 
+
+(1) 
+
+(2) 
+
+the applicable retention schedule established under this chapter; or 
+
+if not superseded by the City's current retention schedule, the retention period or 
+schedule of a former records retention by-law. 
+
+C. 
+
+Transitory records. 
+
+D. 
+
+E. 
+
+(1) 
+
+A transitory record may be deleted or otherwise destroyed on the same day that 
+the record was created or received. 
+
+(2) 
+
+This subsection constitutes the retention schedule for a transitory record. 
+
+The City Archivist will, in accordance with policies established under this chapter, 
+determine which records warrant continued preservation as archival records, such 
+indication will form disposition rule in the retention schedule.  Records not designated for 
+continued preservation will be destroyed. 
+
+A Corporate Records Retention Committee, comprised of the City Solicitor, the Internal 
+Auditor, the Chief Information Officer, the City Clerk, or their delegates, shall meet as 
+required to: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+review proposed amendments and additions to the retention schedule, prior to 
+submission for approval by the City Clerk or City Council under § 217-5;  
+
+confirm that the retention schedule complies with all relevant legislative, financial 
+and historical requirements for records retention; and  
+
+review record keeping matters, including but not limited to an annual review of 
+information holds, in accordance with policies established under § 217-2. 
+
+§ 217-5. Establishment of retention schedules. 
+
+A. 
+
+Corporate Records Retention Committee approval. 
+
+(1) 
+
+(2) 
+
+No retention period shall be established unless the Corporate Records Retention 
+Committee has approved the retention period. 
+
+Corporate Records Retention Committee approval shall be obtained prior to a 
+review, establishment or amendment of a retention schedule by the City Clerk or 
+Council in accordance with this section. 
+
+B. 
+
+(Reserved)3 
+
+3
+
+ Editor's Note: Subsection 217-5B was deleted December 8, 2017 by By-law 1392-2017. 
+
+217-5 
+
+December 13, 2018 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+C. 
+
+City Council authority to establish or amend retention periods or schedules. 
+
+(1) 
+
+Subject to the requirements of this section, Council will make a decision with 
+respect to the establishment or amendment of a retention schedule, including but 
+not limited to: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+a recommended retention period that is permanent; 
+
+a retention period that exceeds a statutory retention requirement by more 
+than five years; 
+
+a retention period that is less than a statutory retention requirement; 
+
+a retention period that is based on conflicting or inconsistent statutory 
+retention requirements and the extent of conflict or inconsistency is more 
+than five years in length;  
+
+(e) 
+
+a recommended retention schedule that is in relation to a record of:  
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+an agency of the City;  
+
+the office of the Auditor General; 
+
+the office of the Integrity Commissioner; 
+
+the office of the Ombudsman; or  
+
+the office of the Lobbyist Registrar; 
+
+(f) 
+
+a recommended retention schedule in relation to a decision or deliberation 
+of City Council, including but not limited to:  
+
+[1] 
+
+[2] 
+
+[3] 
+
+agendas, meeting minutes, by-laws, proceedings and decisions; 
+
+agreements; and 
+
+judicial inquiries. 
+
+(2) 
+
+Upon referral by the City Clerk pursuant to § 217-5D(1), City Council will make 
+a decision with respect to the establishment or amendment of a retention schedule. 
+
+D. 
+
+City Clerk authority to establish or amend retention periods or schedules or refer 
+establishment to City Council. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+Subject to the requirements of this section, the City Clerk shall make a decision 
+with respect to the establishment or amendment of a retention schedule or refer 
+the establishment or refer the matter to City Council for decision.  
+
+The City Clerk shall not establish or amend a retention schedule if any of the 
+conditions set out in § 217-5C(1) apply. 
+
+The City Solicitor may submit, for enactment by Council, amendments to 
+Schedule A to this chapter to give effect to a decision to establish or amend a 
+retention schedule delegated to the City Clerk in accordance with § 217-5D. 
+
+217-6 
+
+December 13, 2018 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+§ 217-6. Transition. 
+
+A. 
+
+B. 
+
+A records retention period established by a former records retention by-law shall remain 
+in force unless repealed or superseded by a retention period established pursuant to this 
+chapter. 
+
+In the case of a conflict between this chapter and the records retention provisions of a 
+former records retention by-law or any by-law not listed in the definition of former 
+records retention by-law, this chapter prevails. 
+
+217-7 
+
+December 13, 2018 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+SCHEDULE A 
+RECORDS RETENTION SCHEDULE 
+
+[Amended 2005-07-21 by By-law 690-2005; 2006-04-27 by By-law 262-2006; 2006-09-27 by 
+By-law 923-2006; 2007-05-25 by By-law 590-2007; 2007-11-20 by By-law 1243-2007; 2008-
+04-29 by By-law 350-2008; 2008-04-29 by By-law 351-2008; 2009-01-28 by By-law 130-
+2009; 2009-01-28 by By-law 131-2009; 2010-01-27 by By-law 127-2010; 2010-01-27 by By-
+law 128-2010; 2010-07-08 by By-law 851-2010; 2010-07-08 by By-law 852-2010; 2011-04-13 
+By-law 519-2011; 2011-04-13 by By-law 520-2011; 2012-04-11 by By-law 531-2012; 2015-10-
+02 by By-law 1048-2015; 2017-12-08 by By-law 1392-2017] 
+
+Schedule A, Records Retention Schedule 
+
+217-8 
+
+December 13, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+SCHEDULE B 
+City Agencies in scope for the purposes of Chapter 217 
+
+Service Agencies 
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+
+Board of Directors of the Hummingbird Centre for the Performing Arts 
+Board of Governors of Exhibition Place  
+Board of Health 
+Board of Management of the St. Lawrence Centre for the Arts 
+Board of Management of the Toronto Zoo  
+Heritage Toronto 
+North York Performing Arts Centre Corporation 
+Toronto Atmospheric Fund 
+Toronto Parking Authority 
+Toronto Police Services Board 
+Toronto Public Library Board 
+Toronto Transit Commission 
+Yonge-Dundas Square Board of Management 
+
+Community-Based Service Agencies 
+
+14. 
+
+Arena Boards of Management: 
+
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+g. 
+h. 
+
+George Bell Arena 
+Larry Grossman Forest Hill Memorial Arena 
+Leaside Memorial Community Gardens Arena 
+McCormick Playground Arena 
+Moss Park Arena 
+North Toronto Memorial Arena 
+Ted Reeve Community Arena 
+William H. Bolton Arena 
+
+15. 
+
+Business Improvement Area Boards of Management as set out under Chapter 19, 
+Business Improvement Areas 
+
+16. 
+
+Community Centre Boards of Management: 
+
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+g. 
+h. 
+i. 
+
+519 Church Street Community Centre 
+Applegrove Community Complex 
+Cecil Street Community Centre 
+Central Eglinton Community Centre 
+Community Centre 55 
+Eastview Neighbourhood Community Centre 
+Waterfront Neighbourhood Centre [Amended 2016-12-15 by By-law 1257-2016] 
+Ralph Thornton Community Centre 
+Scadding Court Community Centre 
+
+217-9 
+
+December 13, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+j. 
+
+Swansea Town Hall 
+
+Quasi-Judicial and Adjudicative Boards 
+
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+
+Committee of Adjustment 
+Committee of Revision 
+Compliance Audit Committee 
+Property Standards Committee / Fence Viewers 
+Sign Variance Committee 
+Toronto Licensing Tribunal 
+
+217-10 
+
+December 13, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 217, RECORDS, CORPORATE (CITY) 
+
+SCHEDULE C 
+Former Records Retention By-laws 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+H. 
+
+I. 
+
+Former Borough of East York By-law 26-91, being a by-law "To establish schedules of 
+retention periods for Municipal Records", as amended; 
+
+Former City of Etobicoke Municipal Code Chapter 28, Document Retention; 
+
+Former Municipality of Metropolitan Toronto By-law 2561, being a by-law "To establish 
+schedules of retention periods for records of the Municipality of Metropolitan Toronto", 
+as amended; 
+
+Former Municipality of Metropolitan Toronto By-law 2696, being a by-law "To establish 
+schedules of retention for local boards of The Municipality of Metropolitan Toronto", as 
+amended; 
+
+Former City of North York By-law 27502, being a by-law "To establish a schedule of 
+retention periods for records in the possession of the City of North York and the Hydro-
+Electric Commission of the City of North York", as amended; 
+
+Former City of Scarborough By-law 24987, being a by-law "To establish a schedule of 
+retention periods for records in the possession of the City of Scarborough", as amended; 
+
+Former City of Toronto Municipal Code Chapter 97, Records Retention;  
+
+Former City of York By-law 2371-76, being a by-law "To establish schedules of retention 
+periods for municipal records", as amended; and 
+
+City of Toronto Municipal Code Chapter 217, Records, Corporate (City), as it appeared 
+immediately prior to the coming into force of this by-law. 
+
+217-11 
+
+December 13, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

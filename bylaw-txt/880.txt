@@ -1,0 +1,980 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+Chapter 880 
+
+FIRE ROUTES 
+
+§ 880-1. Definitions. 
+
+§ 880-2. Application for designation of private road as fire route. 
+
+§ 880-3. Consideration of application. 
+
+§ 880-4. Disposition of application. 
+
+§ 880-5. Appeals. 
+
+§ 880-6. Designation of private road as fire route. 
+
+§ 880-7. Fire route designated under prior by-laws. 
+
+§ 880-8. Fire route costs. 
+
+§ 880-9. Fire route signs. 
+
+§ 880-10. Fire route signs under prior by-laws. 
+
+§ 880-11. Fire route sign costs. 
+
+§ 880-12. Interference with fire route signs. 
+
+§ 880-13. Maintenance. 
+
+§ 880-14. Parking prohibition. 
+
+§ 880-15. Offences and administrative penalties. 
+
+§ 880-16. Removal and impounding. 
+
+§ 880-17. Other remedies. 
+
+§ 880-18. Power of entry. 
+
+§ 880-19. Service. 
+
+Schedule A, Fire Route Designations 
+
+Schedule B, Fire Route Signs 
+
+[History: Adopted by the Council of the City of Toronto October 28, 2004 by By-law 987-
+2004.1 Amendments noted where applicable.] 
+
+1
+
+ Editor's Note: This by-law was passed under the authority of section 7.1 of the Fire Protection and Prevention Act, 1997, S.O. 1997, c. 
+4. Section 3, Transition and repeal, of this by-law provided: A. Subject to Subsection B of Section 3, this by-law repeals By-law 647 of the 
+former Borough of East York and all related amendments; Chapter 134, Fire Routes, of the Municipal Code of the former City of 
+Etobicoke and all related amendments; By-law 29704 of the former City of North York and all related amendments; §§ 400-8, 400-45 
+and 400-87 and §§ 400-2B(5), 400-10C, 400-52C(1)(c) and, in respect of fire routes only, §§ 400-3A, 400-10A(1), 400-10E(1), 400-11B(1) 
+
+880-1 
+
+July 27, 2018 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+General References 
+
+Idling of vehicles and boats -  See Ch. 517. 
+Use of streets and sidewalks - See Ch. 743. 
+Parking machines and meters - See Ch. 910. 
+Parking on private or municipal property - See Ch. 915. 
+Permit parking - See Ch. 925. 
+Traffic and parking - See Ch. 950. 
+Building Code Act, 1992 - See S.O. 1992, c. 23. 
+Condominium Act, 1998 - See S.O. 1998, c. 19. 
+Fire Protection and Prevention Act, 1997 - See S.O. 1997, c. 4. 
+Highway Traffic Act - See R.S.O. 1990, c. H.8. 
+Repair and Storage Liens Act - See R.S.O. 1990, c. R.25. 
+
+§ 880-1. Definitions. 
+
+A.  As used in this chapter, unless the context otherwise requires, the following terms have the 
+
+meanings indicated: 
+
+ADMINISTRATIVE PENALTY - As defined in Chapter 610, Penalties, Administration of. 
+[Added 2017-07-07 by By-law 805-20172] 
+
+APPEAL - An appeal to the Committee of the decision on an application or of an order, as 
+the case may be, under § 880-5. 
+
+APPLICATION - An application made under § 880-2 for the designation of a private road 
+as a fire route under this chapter. 
+
+BUILDING - A building as defined in the Building Code Act, 1992 that is used for Group 
+A or assembly occupancy, Group B or care or detention occupancy, Group C or residential 
+occupancy, Group D or business and personal services occupancy, Group E or mercantile 
+occupancy, or Group F or industrial occupancy, as each such occupancy is classified and 
+defined in the Building Code, and includes any such building owned by the City. 
+
+CITY SOLICITOR - The chief legal officer of the City as appointed by the Council of the 
+City of Toronto from time to time and includes authorized designates. 
+
+CLERK - The Clerk of the City as appointed by the Council of the City of Toronto from 
+time to time and includes authorized designates. 
+
+COMMITTEE - A community council established under Chapter 27, Council Procedures. 
+
+and (3) of the Municipal Code of the former City of Toronto and all related amendments; By-law 13897 of former City of Scarborough 
+and all related amendments; By-law 3387-79 of the former City of York and all related amendments; any other by-law (or part of it) and 
+all related amendments and any resolution of any of the six old area municipalities of the former Metropolitan Toronto relating to the 
+designation of private roads as fire routes and not expressly mentioned in this Subsection A, but only to the extent to which it pertains to 
+the designation of fire routes; B. A fire route by-law or resolution repealed by Subsection A of Section 3 of this by-law shall survive only 
+to the extent required to permit, and otherwise for the limited purpose of enabling, the City or anyone so authorized under this chapter 
+to enforce compliance or prosecute or otherwise remedy non-compliance with: (1) Pursuant to § 880-7A of the Municipal Code, the 
+conditions for the designation of fire routes or the like established under such repealed by-law or resolution; and (2) Pursuant to § 880-
+10A of the Municipal Code, the requirements for the design and location of fire route signs established under such repealed by-law or 
+resolution. 
+Section 4 of this by-law stated that it comes into force upon the date of approval by the Regional Senior Justice of the set fines required 
+for the offences created by this by-law; the date of said approval was December 19, 2005. 
+2
+
+ Editor's Note: By-law 805-2017 came into effect August 28, 2017. 
+
+880-2 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+FIRE CHIEF - The Fire Chief appointed by the Council of the City of Toronto under the 
+Fire Protection and Prevention Act, 1997 for the Fire Department of the City of Toronto 
+and includes, in the absence of the Fire Chief, a Deputy Fire Chief, and, except for the 
+purposes of §§ 880-2C, 880-2E(3), 880-3A(1), 880-4C, 880-4D, 880-9C(7), 880-9C(11) 
+and 880-17A and for the purposes of prescribing anything under § 880-2E or 2E(1), also 
+includes such fire prevention officer or other officer employed in the Fire Department as 
+the Fire Chief may designate in writing to do anything that the Fire Chief is authorized to 
+do under this chapter. 
+
+FIRE DEPARTMENT - The Fire Department of the City of Toronto established under 
+Chapter 79, Fire Services, and includes its officers and members. 
+
+FIRE DEPARTMENT EQUIPMENT - Any Fire Department equipment, regardless of 
+whether owned or leased by or under the control of or in the possession of the Fire 
+Department of the City or not. 
+
+FIRE DEPARTMENT VEHICLE - Any Fire Department vehicle, regardless of whether 
+owned or leased by or under the control of or in the possession of the Fire Department of 
+the City or not. 
+
+FIRE PROTECTION SERVICES - The same meaning as in the Fire Protection and 
+Prevention Act, 1997. 
+
+FIRE ROUTE - Subject to § 880-7A, that part or those parts of a private road or roads set 
+out on a site plan filed with the Fire Chief, in respect of a municipal address set out in 
+Schedule A, and designated as a fire route under § 880-6. [Amended 2005-12-07 by By-
+law 1048-2005] 
+
+FIRE ROUTE SIGN - A road, curb or sidewalk marking or other device prescribed by this 
+chapter that is required to be placed, erected or installed on a fire route for the purpose of 
+identifying the fire route and regulating, warning or guiding traffic in relation to the fire 
+route for the safety of the public, and includes signs replacing existing fire route signs. 
+
+OCCUPANT - When used in relation to Subsection (6) of the definition of owner: 
+
+(1)  The tenant of the property or part of it whose authority shall extend only to the 
+
+control of the land held by the tenant; 
+
+(2)  The spouse or same-sex partner of the tenant; 
+
+(3)  A person or a municipality, or a local board of the municipality, having an interest in 
+the property under an easement or right-of-way granted to or expropriated by the 
+person, municipality or local board whose consent shall extend only to the part of the 
+property that is subject to the easement or right-of-way; or 
+
+(4)  A person authorized in writing by the occupant as defined in Subsection (1), (2) or (3) 
+of this definition to act on the occupant's behalf for the purpose of requesting the 
+enforcement of this chapter. 
+
+OWNER - When used in relation to property on which a private road or fire route is 
+situated:  
+
+880-3 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+(1)  The registered owner of the property; 
+
+(2)  The registered owner of a condominium unit, but only in relation to the owner's unit 
+and any parking spaces allotted to the owner by the condominium corporation or 
+reserved for the owner's exclusive use in the declaration or description of the 
+property; 
+
+(3)  The spouse or same-sex partner of the owner described in Subsection (1) or (2) of this 
+
+definition; 
+
+(4)  Where the property is included in a description registered under the Condominium 
+
+Act, 1998, the board of directors of the condominium corporation; 
+
+(5)  A person authorized in writing by the owner as defined in Subsection (1), (3) or (4) of 
+
+this definition to act on the owner's behalf for making an application for the 
+designation of a private road as a fire route; or 
+
+(6)  An occupant or a person authorized in writing by the owner as defined in 
+
+Subsection (1), (2), (3) or (4) of this definition to act on the owner's behalf for the 
+purpose of requesting the enforcement of this chapter. 
+
+OWNER - When used in relation to a vehicle, the registered owner of the vehicle and 
+includes a person who has leased or rented a vehicle under written contract. 
+
+PARK or PARKING - When prohibited, the standing of a vehicle, whether occupied or not, 
+except when standing temporarily for the purpose of and while actually engaged in loading 
+or unloading merchandise or passengers. 
+
+PENALTY NOTICE - As defined in Chapter 610, Penalties, Administration of. [Added 
+2017-07-07 by By-law 805-20173] 
+
+PRIVATE ROAD - Any private road, lane, ramp or other means of vehicular access to or 
+egress from a building or structure and includes a private roadway or yard as referenced in 
+the Building Code in connection with Fire Department equipment access to buildings, and 
+may include part of a parking lot. 
+
+VEHICLE - Includes a motor vehicle, trailer, traction engine, farm tractor or road-building 
+machine. 
+
+VEHICLE OWNER - As defined in Chapter 610, Penalties, Administration of. [Added 
+2017-07-07 by By-law 805-20174] 
+
+B.  A term not defined in Subsection A shall have the same meaning as the term in the Building 
+Code Act, 1992 or in the Building Code or the Fire Protection and Prevention Act, 1997. 
+
+3
+
+4
+
+ Editor's Note: By-law 805-2017 came into effect August 28, 2017. 
+
+ Editor's Note: By-law 805-2017 came into effect August 28, 2017. 
+
+880-4 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+§ 880-2. Application for designation of private road as fire route. 
+
+A.  The owner of a private road to a building may apply in writing to the Fire Chief requesting 
+
+that the private road be designated, in whole or in part, as a fire route under this chapter. 
+
+B.  Where the Building Code requires that a building be provided with access routes for Fire 
+Department vehicles or that access for Fire Department equipment be provided to a 
+building by private roadway or yard and the Fire Chief so orders, the owner of the private 
+road to a building shall make an application for the designation of the private road as a fire 
+route under this chapter. 
+
+C.  Where the Fire Chief, having regard to his or her responsibility for the delivery of fire 
+
+protection services under the Fire Protection and Prevention Act, 1997, determines that a 
+private road or any part of it requires a fire route for the delivery of fire protection services 
+and the Fire Chief so orders, the owner of a private road to the building shall make an 
+application for the designation of the private road as a fire route under this chapter. 
+
+D.  An application required under Subsection B or C shall be made within two months from 
+
+the date of the receipt of the Fire Chief's order. 
+
+E.  The application shall be in such form as the Fire Chief may prescribe from time to time and 
+
+shall include: 
+
+(1)  Two copies of a site plan of the private road to the building in the form and size 
+
+prescribed by the Fire Chief, clearly showing: 
+
+(a)  The location of every building and structure on the site; 
+
+(b)  The location of all pedestrian walks, parking areas, parking aisles, and 
+
+driveways on the site;  
+
+(c)  The location, number and proximity to the building of all fire hydrants and Fire 
+
+Department connections on the site; 
+
+(d)  The location and design of the proposed fire route; and 
+
+(e)  Proof of compliance with the requirements in the Building Code as required in 
+
+§ 880-3A(2). 
+
+(2)  Proof of ownership of the private road and building. 
+
+(3)  Such other information as the Fire Chief, having regard to his or her responsibility for 
+
+the delivery of fire protection services under the Fire Protection and Prevention Act, 
+1997, may prescribe in writing from time to time. 
+
+§ 880-3. Consideration of application. 
+
+A. 
+
+In considering the application, the Fire Chief shall determine whether there is compliance 
+with the following conditions for the designation of a fire route: 
+
+(1)  Having regard to his or her responsibility for the delivery of fire protection services 
+
+under the Fire Protection and Prevention Act, 1997, the designation of the private 
+
+880-5 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+road or any part of it as a fire route is necessary for the delivery of fire protection 
+services. 
+
+(2)  Where the Building Code requires that access routes for Fire Department vehicles or 
+equipment be provided to a building by private roadway or yard, and in all other 
+cases, the private road has or can provide: 
+
+(a)  The minimum width capable of allowing any Fire Department vehicle or Fire 
+
+Department equipment unobstructed access to the building; 
+
+(b)  The minimum centre line radius capable of allowing any Fire Department 
+vehicle or Fire Department equipment unobstructed access to the building; 
+
+(c)  Sufficient overhead clearance to allow any Fire Department vehicle or Fire 
+
+Department equipment unobstructed access to the building; 
+
+(d)  A gradient change ratio sufficient to allow any Fire Department vehicle or Fire 
+
+Department equipment unobstructed access to the building; 
+
+(e)  The capacity of supporting loads imposed by any Fire Department vehicle or 
+
+Fire Department equipment;  
+
+(f)  A concrete, asphalt or other surface designed for year-round accessibility; 
+
+(g)  Turnaround facilities where the private road has a dead-end that exceeds 
+
+90 metres and such facilities are considered necessary for the proper operation 
+of any Fire Department vehicle or Fire Department equipment; and 
+
+(h)  A direct connection to a public thoroughfare. 
+
+(3)  The application otherwise complies with this chapter and the policies and other by-
+laws of the Council and any other conditions imposed by the Council in respect of 
+such applications or in respect of fire prevention, including the prevention of the 
+spreading of fires. 
+
+B. 
+
+In determining whether there is compliance with the condition set out in Subsection A(2), 
+the Fire Chief may obtain the assistance of any other official of the City, including the local 
+councillor, as the Fire Chief considers advisable. 
+
+C.  The Fire Chief may call a public meeting to seek input on the details of the proposed fire 
+
+route if he or she so requires, prior to final approval under § 880-4. 
+
+§ 880-4. Disposition of application. 
+
+A.  Where the Fire Chief, acting in accordance with this chapter, determines that the 
+
+application complies with all the conditions set out in § 880-3A, the application shall be 
+approved, and the owner of the private road shall be so notified in writing. 
+
+B.  Subject to § 880-5, where the Fire Chief determines that the application does not comply 
+with all the conditions set out in § 880-3A, the application shall be refused, with reasons, 
+and the owner of the private road shall be so notified in writing. 
+
+880-6 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+C.  Where the Building Code does not apply to the construction of a private road or a related 
+
+building that is the subject of an application and where the application may be refused 
+under Subsection B for the reason that it does not comply with a condition set out in § 880-
+3A(2) in whole or in part, the Fire Chief, having regard to his or her responsibility for the 
+delivery of fire protection services under the Fire Protection and Prevention Act, 1997, and 
+to the extent that the Fire Chief is not prevented from doing so by the Building Code Act, 
+1992 or any other legislation, may, prior to making a final determination on the application, 
+request or order, in writing, the owner of the private road to take such measures as are 
+necessary to comply with the condition.  
+
+D.  The measures referred to in Subsection C shall be taken at the owner's own expense and 
+
+shall be completed within such time as the Fire Chief may specify in writing.  
+
+§ 880-5. Appeals. 
+
+A.  Where the application has been refused under § 880-4B, or where the owner of the private 
+road objects to an order made under § 880-2C or 880-4C, the decision on the application or 
+the order may be appealed to the committee, but such appeal must be submitted to the Fire 
+Chief for the consideration of the committee within two months of receipt of notice of the 
+decision or of the order, unless the Council enlarges or extends the period to allow or 
+provide for the appeal. 
+
+B.  The appeal shall be made to the committee that is the community council representing the 
+
+urban area where the private road that is the subject of the application is situated. 
+
+C.  Where the appeal is of an order, the order is stayed until the final disposition of the appeal. 
+
+D.  An appeal shall be in writing and set out the reasons why the application complies or does 
+not comply with the conditions set out in § 880-3A or why the order made under § 880-2C 
+or 880-4C should be rescinded, as the case may be. 
+
+E.  Where an appeal is made, the Fire Chief shall forward a report on the application to the 
+
+committee setting out the grounds of refusal or approval or the reasons for the order, as the 
+case may be. 
+
+F.  Upon hearing the representations of the owner of the private road and considering the 
+
+report and representations of the Fire Chief, the committee, having regard to the conditions 
+set out in § 880-3A, shall: [Amended 2007-03-06 by By-law 176-20075] 
+
+(1)  Recommend to the Council whether to approve or refuse the application or to confirm 
+
+or amend the order, as the case may be; or 
+
+(2)  Under delegated authority, approve or refuse the application or confirm or amend the 
+
+order, as the case may be. 
+
+5
+
+ Editor's Note: By-law 176-2007 stated that the amendment to this subsection would come into force upon a Regulation being filed 
+prescribing the Acts under which these powers are exercised as Acts under which the City may delegate its legislative or quasi-judicial 
+power. The delegation for fire routes came into effect on March 2, 2018 under Ontario Regulation 57/18 which amended Ontario 
+Regulation 447/07. 
+
+880-7 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+G.  The decision of the Council, or of the community council under delegated authority, shall 
+be final and shall not be appealable or reviewable. [Amended 2007-03-06 by By-law 176-
+20076] 
+
+§ 880-6. Designation of private road as fire route. 
+
+[Amended 2005-07-21 by By-law 683-2005; 2005-12-07 by By-law 1048-2005; 2007-03-06 by 
+By-law 176-20077] 
+
+A.  Where an application is approved under § 880-4, or an appeal is approved under § 880-5G, 
+and upon the enactment of a by-law to that effect, that part or those parts of the private road 
+or roads shown on the site plan filed with the Fire Chief in respect of the municipal address 
+set out in the by-law shall be designated as a fire route for the purposes of this chapter. 
+
+B.  Any person may view the site plan filed with the Fire Chief in respect of a fire route 
+
+designated under § 880-6A and may obtain a photocopy of it. 
+
+C. 
+
+(Reserved) 
+
+D.  The Fire Chief shall notify the owner of the private road and the Toronto Police Service of 
+
+the designation of any private road as a fire route under Subsection A. 
+
+§ 880-7. Fire route designated under prior by-laws. 
+
+A.  A private road designated or established as a fire route or the like under a by-law of an old 
+area municipality, of the former Metropolitan Toronto, preceding the enactment of this 
+chapter shall be conclusively considered for all purposes to be a fire route under this 
+chapter, and the municipal address in relation to the fire route shall be listed in Schedule A 
+as if originally designated under this chapter, despite the repeal of such by-law by section 3 
+of By-law 987-2004 and despite the fact that such route does not comply with the 
+conditions established under this chapter for the designation of a private road as a fire 
+route, so long as (and subject to Subsection B) that route continues to comply with the 
+conditions established under such old area municipal by-law for the designation of such 
+routes. [Amended 2005-12-07 by By-law 1048-2005] 
+
+B.  Nothing in Subsection A precludes the owner of a private road to a building from making 
+
+an application under this chapter for designation of the private road as a fire route under 
+this chapter. 
+
+6
+
+ Editor's Note: By-law 176-2007 stated that the amendment to this subsection would come into force upon a Regulation being filed 
+prescribing the Acts under which these powers are exercised as Acts under which the City may delegate its legislative or quasi-judicial 
+power. The delegation for fire routes came into effect on March 2, 2018 under Ontario Regulation 57/18 which amended Ontario 
+Regulation 447/07. 
+7
+
+ Editor's Note: By-law 176-2007 stated that the amendment to this subsection would come into force upon a Regulation being filed 
+prescribing the Acts under which these powers are exercised as Acts under which the City may delegate its legislative or quasi-judicial 
+power. The delegation for fire routes came into effect on March 2, 2018 under Ontario Regulation 57/18 which amended Ontario 
+Regulation 447/07. 
+
+880-8 
+
+July 27, 2018 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+§ 880-8. Fire route costs. 
+
+The City shall not be responsible in any way for the design, construction or maintenance of a 
+private road or part of it as a fire route or for any cost incurred by the owner of a private road 
+relating to the designation of the private road or part of it as a fire route under this chapter, 
+unless, in either case, the City is the owner of the private road, or for any costs incurred by any 
+person in connection with any application, order, objection, comment, appeal, decision or other 
+action or thing made or taken in relation to the designation of the private road or part of it as a 
+fire route under this chapter. 
+
+§ 880-9. Fire route signs. 
+
+A.  The owner of a private road designated as a fire route under this chapter shall erect or cause 
+
+to be erected, at the owner's own cost, fire route signs on the fire route in accordance with 
+the requirements set out in this chapter. 
+
+B.  Fire route signs required to be erected under Subsection A shall be erected on the fire route 
+no later than 10 days after service on the owner of the private road designated as a fire 
+route of notice of the designation of the fire route under § 880-6. 
+
+C.  A fire route sign shall: 
+
+(1)  Be a permanent structure. 
+
+(2)  Be legible in appearance. 
+
+(3)  Not be obstructed by any structure or vegetation. 
+
+(4)  Be sized in accordance with Schedule B of this chapter. 
+
+(5)  Prominently bear the symbol and show the wording, colour and numbers as indicated 
+
+in Schedule B of this chapter. 
+
+(6)  Where the owner of a private road designated as a fire route intends to act under 
+
+§ 880-16B to cause the removal of any vehicle parked or left along the fire route and 
+such vehicles will be removed and impounded by persons not acting under the 
+immediate supervision of a police officer or police cadet, have posted immediately 
+below the fire route sign a sign of the same width as the fire route sign that contains a 
+clearly visible statement that vehicles parked or left in contravention of this chapter 
+are subject to being removed from the premises at the owner's expense and a clearly 
+visible reference to a service and its telephone number answerable 24 hours of each 
+day where the driver or owner of the vehicle may determine the location of the 
+impounded vehicle, and such second sign shall be considered as forming part of the 
+fire route sign for the purposes of this chapter. 
+
+(7) 
+
+Include such other information as the Fire Chief, having regard to his or her 
+responsibility for the delivery of fire protection services under the Fire Protection and 
+Prevention Act, 1997, may determine. 
+
+(8)  Be affixed to a building, pole or other structure in accordance with Schedule B. 
+
+880-9 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+(9)  Be installed and located in accordance with Schedule B of this chapter. 
+
+(10)  Be at all locations where the continuity of the fire route is interrupted by any 
+
+highway, private road, public or private lane, intersection, or ramp. 
+
+(11)  Be at such other locations as the Fire Chief, having regard to his or her responsibility 
+
+for the delivery of fire protection services under the Fire Protection and Prevention 
+Act, 1997, may determine. 
+
+D.  No person shall erect a fire route sign unless an application for a fire route has been made 
+and approved under this chapter or a fire route by-law of an old area municipality. [Added 
+2011-12-01 by By-law 1405-2011; amended 2012-07-13 by By-law 1012-20128]. 
+
+§ 880-10. Fire route signs under prior by-laws. 
+
+A.  Any sign placed, erected or installed for the purpose of identifying or regulating, warning 
+or guiding traffic on a fire route or the like under a by-law of an old area municipality of 
+the former Metropolitan Toronto preceding the enactment of this chapter shall be 
+conclusively considered for all purposes to be a fire route sign under this chapter, despite 
+the repeal of such by-law by this chapter and despite the fact that such sign does not 
+comply with the requirements established under this chapter for the design and location of 
+fire route signs, so long as (and subject to Subsection B) it can be demonstrated that the 
+sign was erected in compliance with the by-law of the former area municipality; and any 
+reference on such sign to the old area municipal by-law shall be conclusively considered to 
+be a reference to this chapter, and such signs on fire routes existing on the day of the 
+enactment of this chapter shall not require replacement until physical deterioration, damage 
+or loss require their replacement and such replacement shall be in accordance with § 880-9. 
+
+B.  Nothing in Subsection A precludes the owner of a private road designated as a fire route 
+
+from replacing a sign authorized under an old area municipal by-law with a fire route sign 
+authorized under this chapter. 
+
+§ 880-11. Fire route sign costs. 
+
+The City shall not be responsible in any way for the erection or maintenance of fire route signs or 
+for any cost incurred by the owner of a private road designated as a fire route relating to the fire 
+routes, unless the City is the owner of the private road. 
+
+§ 880-12. Interference with fire route signs. 
+
+Except as otherwise provided in this chapter, no person shall, without the prior permission of the 
+Fire Chief, place, erect, install, alter, move, remove or deface or in any manner obstruct or 
+interfere with a fire route sign or in any manner change the design of or the contact identified in 
+a fire route sign. 
+
+8
+
+ Editor's Note: By-law 1405-2011, as amended by By-law 1012-2012, has received set fine approval and came into force January 23, 
+
+2014. 
+
+880-10 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+§ 880-13. Maintenance. 
+
+A.  The owner of a private road designated as a fire route shall at the owner's own expense 
+
+maintain the fire route in accordance with the Fire Code. 
+
+B.  The owner of a private road designated as a fire route shall at the owner's own expense 
+
+maintain any fire route sign erected on the fire route: 
+
+(1) 
+
+In compliance with the requirements for fire route signs under this chapter; 
+
+(2) 
+
+In good repair; 
+
+(3)  Clear of snow and ice; and 
+
+(4)  Free of blockage by any means or obstruction of any kind. 
+
+§ 880-14. Parking prohibition. 
+
+A.  No person shall park or leave a vehicle in a fire route. 
+
+B.  Subsection A does not apply to the owner or driver of an ambulance, police, Fire 
+
+Department, public utility or other emergency, rescue or repair vehicle or other equipment 
+while actually engaged in emergency, rescue or repair activities or operations, as the case 
+may be. 
+
+§ 880-15. Offences and administrative penalties. 
+
+[Amended 2011-12-01 by By-law 1405-2011; 2012-07-13 by By-law 1012-20129; 2017-03-29 
+by By-law 311-201710; 2017-07-07 by By-law 805-201711] 
+
+A.  Every person who contravenes any provision of this chapter is guilty of an offence or is 
+
+liable to an administrative penalty. 
+
+B.  Unless at the time of the contravention the vehicle was in the possession of another person 
+without the vehicle owner's consent, if a vehicle has been left parked, standing or stopped 
+in contravention of § 880-14A, the vehicle owner shall, upon issuance of a penalty notice, 
+be liable to an administrative penalty. 
+
+C.  Every person convicted of an offence under this chapter, other than an administrative 
+
+penalty under § 880-14A, is liable to a fine as provided for in the Provincial Offences Act. 
+
+§ 880-16. Removal and impounding. 
+
+A.  A police officer, police cadet, municipal law enforcement officer acting in the 
+
+circumstances and the manner set out in Subsection D, or an officer appointed for the 
+carrying out of the provisions of the Highway Traffic Act, upon discovery of any vehicle 
+
+9
+
+ Editor's Note: By-law 1405-2011, as amended by By-law 1012-2012, has received set fine approval and came into force January 23, 
+
+2014. 
+10
+
+ Editor's Note:  By-law 311-2017 removed the fixed fine system for all parking ticket offences and came into effect April 10, 2017. 
+
+11
+
+ Editor's Note: By-law 805-2017 came into effect August 28, 2017. 
+
+880-11 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+parked or left in contravention of this chapter, may cause it to be moved or taken to and 
+placed or stored in a suitable place, and all costs and charges for removal, care, and storage 
+of the vehicle, if any, are a lien against the vehicle, which may be enforced in the manner 
+provided by the Repair and Storage Liens Act. 
+
+B.  Subject to Subsection D, where the owner of a private road designated as a fire route has 
+
+erected fire route signs in accordance with this chapter, any vehicle parked or left along the 
+fire route in contravention of this chapter may be removed and impounded, and the owner 
+of the vehicle shall be responsible for any expenses incurred in removing and impounding 
+the vehicle. 
+
+C.  Any lien against a vehicle removed under Subsection A or any charges for the expense of 
+removing and impounding of a vehicle parked or left in contravention of this chapter and 
+removed and impounded under Subsection B may be enforced by the person who has care 
+and control of the vehicle after the vehicle has been removed and impounded. 
+
+D.  No owner of a private road designated as a fire route shall, in acting under Subsection B, 
+cause to be removed or impounded any vehicle parked or left in contravention of this 
+chapter, unless the owner of the private road designated as a fire route: 
+
+(1)  Requests a police officer or police cadet or municipal law enforcement officer acting 
+under the supervision of a police officer or police cadet to supervise the removal and 
+impounding of the vehicle; or  
+
+(2)  Requests a municipal law enforcement officer not acting under the supervision of a 
+police officer or police cadet to remove or cause to remove, or impound the vehicle, 
+or both, in which case the owner of the private road designated as a fire route shall 
+ensure that: 
+
+(a)  The vehicle is removed to or impounded in an area that is secured by fences 
+locked to the public and with respect to which security personnel are present 
+24 hours of each day; 
+
+(b)  A clearly visible sign or signs are posted in the immediate vicinity of the fire 
+
+route, which sign shall state that vehicles parked or left in contravention of this 
+chapter are subject to being removed from the premises at the owner's expense 
+and indicating a service and its telephone number, answerable 24 hours a day of 
+each day, that the owner or driver of any motor vehicle that has been removed 
+may call to determine the location of the vehicle; and 
+
+(c)  Prior to requesting any municipal law enforcement officer not acting under the 
+supervision of a police officer or police cadet to remove or cause to remove, or 
+impound the vehicle, or both, the owner's property has been inspected by the 
+Toronto Police Service to ensure the requisite towing signage has been posted 
+and the sign has been approved by the Toronto Police Service. 
+
+§ 880-17. Other remedies. 
+
+A.  Where any person defaults in doing what this chapter directs or requires the person to do or 
+to have done and where the Fire Chief, having regard to his or her responsibility for the 
+
+880-12 
+
+July 27, 2018 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 880, FIRE ROUTES 
+
+delivery of fire protection services under the Fire Protection and Prevention Act, 1997, 
+considers the matter or thing necessary for the delivery of fire protection services by the 
+Fire Department and where no appeal is available under this chapter to the person in 
+default or, if an appeal under this chapter is available, the time within which the appeal is to 
+be made has expired, the City may, in addition to any other remedy available under this 
+chapter or otherwise at law or in equity or by statute and in addition to any penalty that 
+may be imposed under this chapter, do or cause to have done such matter or thing at the 
+expense of the person in default and the City may recover any costs incurred by the City in 
+doing it or having it done by legal action, or by adding the costs to the municipal tax roll 
+and collecting them in the same manner as taxes. 
+
+B 
+
+The costs incurred by the City under Subsection A shall include interest at a rate of 15 per 
+cent or such lower rate determined by the City commencing on the day the City incurs the 
+costs and ending on the day the costs, including the interest, are paid in full. 
+
+§ 880-18. Power of entry. 
+
+A.  The Fire Chief and any person employed by the City as a fire prevention officer in the Fire 
+
+Department are appointed as officers for the purpose of entering upon the land or into the 
+structures to which this chapter applies at any reasonable time to inspect the land or 
+structures or both to determine whether this chapter is being complied with. 
+
+B.  Any person who has been appointed by the City for the purpose of determining whether 
+
+any other by-law of the City or other law regulating fire prevention or fire safety has been 
+complied with and whose appointment has not been suspended or revoked is also appointed 
+as an officer for the purpose of exercizing the power given under Subsection A. 
+
+§ 880-19. Service. 
+
+A.  Any notice, invoice or other things required to be given or served under this chapter may 
+be served personally, by regular letter mail, by electronic transmission, by telephone 
+transmission of a facsimile or by some other method that allows proof of receipt. 
+
+B.  Service by regular letter mail under Subsection A shall be deemed to be received by the 
+
+person on the fifth day after mailing unless the person establishes that the person did not, 
+acting in good faith, through absence, accident, illness or other cause beyond the person's 
+control receive a copy until a later date than the deemed date of receipt. 
+
+C.  Service by electronic transmission or by telephone transmission of a facsimile under 
+Subsection A shall be deemed to be received the day after it is sent or, if that day is a 
+Saturday or holiday, on the next day that is not a Saturday or holiday, unless the person 
+establishes that the person did not, acting in good faith, through absence, accident, illness 
+or other cause beyond the person's control receive a copy until a later date than the deemed 
+date of receipt. 
+
+880-13 
+
+July 27, 2018 
+
+ 
+ 
+ 
+

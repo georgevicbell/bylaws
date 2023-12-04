@@ -1,0 +1,1879 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+Chapter 71 
+
+FINANCIAL CONTROL 
+
+ARTICLE I 
+Definitions; Authority; Purpose; Applicability 
+
+§ 71-1. Definitions. 
+
+§ 71-1.1. Monetary references. 
+
+§ 71-2. Sole authority. 
+
+§ 71-3. Purpose. 
+
+§ 71-4. Applicability. 
+
+ARTICLE II 
+Budgets 
+
+§ 71-5. Interim operating budget. 
+
+§ 71-6. Operating budget. 
+
+§ 71-7. Capital budget. 
+
+§ 71-8. Spending authority; operating budget. 
+
+§ 71-9. Spending authority; capital budget. 
+
+ARTICLE III 
+Compliance 
+
+§ 71-10. Expenditure compliance. 
+
+§ 71-10.1. Commitment compliance. 
+
+§ 71-10.2. Reporting of certain financial information. 
+
+ARTICLE IV 
+Commitments 
+
+§ 71-11. Spending authorities. 
+
+§ 71-11.1. Over-expenditures on commitments. 
+
+§ 71-12. Petty cash. 
+
+§ 71-13. Deposits with Chief Financial Officer and Treasurer. 
+
+71-1 
+
+October 2, 2020 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+ARTICLE V 
+Chief Financial Officer and Treasurer's Authority 
+
+§ 71-14. Authority to pay certain accounts. 
+
+ARTICLE VI 
+Reserves and Reserve Funds 
+
+§ 71-15. Reserve and reserve funds. 
+
+ARTICLE VII 
+Contingency Funds 
+
+§ 71-16. Use of contingency funds. 
+
+ARTICLE VIII 
+Authority for Write-Offs 
+
+§ 71-17.1. Authority to write off outstanding debt. 
+
+§ 71-17.2. Authority to adjust outstanding payments in lieu of taxes. 
+
+ARTICLE IX 
+Administration 
+
+§ 71-18. Divisional signing authorities. 
+
+ARTICLE X 
+Donated Funds 
+
+ARTICLE X.1 
+Sponsorships 
+
+ARTICLE XI 
+Review 
+
+§ 71-19. Donation authorities. 
+
+§ 71-19.1 Sponsorship authorities. 
+
+§ 71-20. Comprehensive review. 
+
+71-2 
+
+October 2, 2020 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+ARTICLE XII 
+Title 
+
+§ 71-21. Short title. 
+
+Schedule A 
+
+[History: Adopted by the Council of the City of Toronto March 2, 2000 by By-law 152-
+2000.1 Amendments noted where applicable.] 
+
+General References 
+
+Auditor General - See Ch. 169, Art. VI. 
+Purchasing - See Ch. 195. 
+Reserves and reserve funds - See Ch. 227. 
+City of Toronto Act 2006 - See S.O. 2006, c. 11. 
+
+ARTICLE I 
+Definitions; Authority; Purpose; Applicability 
+
+§ 71-1. Definitions.2 
+
+As used in this chapter, the following terms shall have the meanings indicated:  
+
+ACCOUNT - A financial liability of the City arising from a commitment and evidenced by any 
+invoice, pay sheet, receipt or other document indicating payment is due for the goods or services 
+specified in the account. 
+
+APPROVAL OF COUNCIL - The funding approval authorized by the adoption of interim or 
+final operating budgets or the capital budget. [Amended 2004-09-30 by By-law 778-20043] 
+
+CAPITAL PROJECT - An undertaking in respect of which an expenditure is incurred to acquire, 
+improve, demolish or maintain land, buildings, engineering structures, machinery and 
+equipment, including installation of computer software, and is the level at which Council 
+approves funding and funds control in the capital budget. [Amended 2004-09-30 by By-law 
+778-2004] 
+
+CHIEF FINANCIAL OFFICER AND TREASURER - The person appointed by Council as the 
+Chief Financial Officer and Treasurer. [Added 2005-04-14 by By-law 331-2005; amended 
+2018-07-27 by By-law 1206-2018; 2018-12-13 by By-law 17-20194] 
+
+1
+
+ Editor's Note: This by-law also repealed By-law 7-1998, a by-law "To confer certain authorities and responsibilities with respect to the 
+
+appropriation and commitment of funds and the payment of accounts of the City of Toronto and other related matters on an interim 
+basis." 
+   By-law 331-2005, adopted April 14, 2005, enacted the 2005 administrative reorganization amendments to this chapter and came in 
+force April 15, 2005. 
+2
+
+ Editor's Note: This section was amended April 14, 2005 by By-law 331-2005 to delete the definitions of "Chief Administrative Officer," 
+
+"department," "department head" and "director." 
+3
+
+ Editor's Note: This by-law comes into force November 1, 2004. 
+
+4
+
+ Editor's Note: By-law 17-2019 deleted all references to the title "Chief Financial Officer" and replaced the title with "Chief Financial 
+
+Officer and Treasurer".  By-law 17-2019 is deemed to have come into force on October 23, 2018. 
+
+71-3 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+CHIEF PROCUREMENT OFFICER - The person holding the position of Chief Procurement 
+Officer whose responsibility it is to supervise and carry out the procurement function on behalf 
+of the City and includes his or her designate. [Added 2004-09-30 by By-law 778-20045; 
+amended 2005-04-14 by By-law 331-2005; amended 2020-10-02 by By-law 804-2020] 
+
+CITY MANAGER - The person appointed by Council as the City's chief administrative officer 
+under section 140 of the City of Toronto Act, 2006. [Added 2005-04-14 by By-law 331-2005; 
+amended 2007-12-13 by By-law 1405-2007] 
+
+COMMITMENT - [Amended 2004-09-30 by By-law 778-2004; 2005-04-14 by By-law 331-
+2005] 
+
+A. 
+
+B. 
+
+A contractual obligation for the purchase of goods, services or construction, including the 
+execution of any document evidencing the obligation. 
+
+A settlement of a legal action, if the settlement complies with the spending authorities in 
+this chapter and has the concurrence of the City Solicitor and, where appropriate, the 
+Manager of Insurance and Risk Management within the Corporate Finance Division. 
+
+CONTINGENCY FUND - The money approved in the operating budget to provide for funding 
+of one-time expenditures that were not known or expected at the time the operating budget was 
+approved by Council. [Amended 2000-10-05 by By-law 869-2000] 
+
+CONTROLLER - A person appointed to the management position of Controller in the City's 
+administrative organization and who has also been appointed as a deputy treasurer under section 
+138 of the City of Toronto Act, 2006. [Amended 2005-04-14 by By-law 331-2005; 2007-12-13 
+by By-law 1405-2007; 2018-12-13 by By-law 17-20196] 
+
+DIVISION: [Added 2005-04-14 by By-law 331-2005] 
+
+A. 
+
+B. 
+
+An organizational unit of the City, whether or not it is called a division or office, that is 
+headed by a division head. 
+
+For the purpose of making a commitment under this chapter, includes the office of the 
+City Manager. 
+
+DIVISION HEAD: [Added 2005-04-14 by By-law 331-2005] 
+
+A. 
+
+B. 
+
+Any General Manager or any director or executive director reporting to the City 
+Manager, a Deputy City Manager, the Chief Financial Officer and Treasurer or the 
+Controller. [Amended 2005-05-04 by By-law 338-20057] 
+
+The City Clerk, the City Solicitor and the Medical Officer of Health. [Amended 2007-
+12-13 by By-law 1405-2007; 2009-10-27 by By-law 1098-2009] 
+
+5
+
+ Editor's Note: This by-law comes into force November 1, 2004. This by-law also repealed the definition of "Purchasing Agent," 
+
+previously included in this section. 
+6
+
+ Editor's Note: By-law 17-2019 deleted all references to the title "Treasurer" and replaced the title with "Controller".  By-law 17-2019 
+
+is deemed to have come into force on October 23, 2018. 
+7
+
+ Editor's Note: This by-law came into force April 15, 2005. 
+
+71-4 
+
+October 2, 2020 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+C. 
+
+D. 
+
+E. 
+
+The Auditor General, the Integrity Commissioner, the Lobbyist Registrar and the 
+Ombudsman. [Added 2009-10-27 by By-law 1098-20098] 
+
+For the purpose of making a commitment under this chapter for their office, a Deputy 
+City Manager, the Chief Financial Officer and Treasurer and Controller. 
+
+A person authorized to act in the place of an official listed in Subsections A, B, C or D by 
+Council or by the City Manager or another official under delegated authority. [Amended 
+2009-10-27 by By-law 1098-2009] 
+
+PROGRAM - An organizational unit that may encompass one or more related municipal 
+services, usually a division, that is aimed at one or more target groups and is either mission 
+driven or mandate driven and is the level at which Council approves funding and funds control in 
+the operating budget. [Amended 2005-04-14 by By-law 331-2005] 
+
+SERVICES - Further defines a program identified in the annual operating budget. 
+
+STANDING COMMITTEE - A standing committee established under the Chapter 27, Council 
+Procedures. [Amended 2005-04-14 by By-law 331-2005] 
+
+SUBPROJECT - A level within a capital project that a division head may wish to use to track 
+expenditures within the capital project. [Amended 2005-04-14 by By-law 331-2005] 
+
+§ 71-1.1. Monetary references. 
+
+[Added 2004-09-30 by By-law 778-20049] 
+
+All references in this chapter to dollar amounts are Canadian dollars and shall be considered to 
+be exclusive of taxes unless otherwise provided. 
+
+§ 71-2. Sole authority. 
+
+Except as otherwise provided in this chapter, Council has the sole authority for approving 
+funding to operating programs and capital projects. 
+
+§ 71-3. Purpose. 
+
+The budgeting, commitment of funds and payment of accounts of the City shall be carried out in 
+accordance with the provisions of this chapter. 
+
+§ 71-4. Applicability. 
+
+[Amended 2005-04-14 by By-law 331-2005] 
+
+The provisions of this chapter shall apply to all divisions. 
+
+8
+
+9
+
+ Editor's Note: This by-law also redesignated former Subsections C and D as Subsections D and E, respectively. 
+
+ Editor's Note: This by-law comes into force November 1, 2004. 
+
+71-5 
+
+October 2, 2020 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+ARTICLE II 
+Budgets 
+
+§ 71-5. Interim operating budget. 
+
+A.  Council shall, before the adoption of the final operating budget for a year, adopt an interim 
+
+operating budget. 
+
+B.  Council, in adopting the interim operating budget, shall determine the sums required for 
+every purpose and the sums required for the various categories of purposes for the period 
+from the 1st day of January to the date the operating budget for the next following year is 
+adopted. 
+
+C.  The interim operating budget shall be approved by Council prior to the 1st day of January 
+
+of the year in which the operating budget will be adopted. 
+
+§ 71-6. Operating budget. 
+
+[Amended 2007-12-13 by By-law 1405-2007] 
+
+Council, in adopting the total of all sums required during the year for the operating purposes of 
+the City, shall, in accordance with the City of Toronto Act, 2006, determine the operating budget 
+required to provide for the sums required for every purpose and the sums required for the various 
+categories of purposes. 
+
+§ 71-7. Capital budget. 
+
+[Amended 2005-04-14 by By-law 331-2005] 
+
+A.  Council, in adopting the capital budget, shall determine the sums required for each capital 
+
+project listed in the capital budget, and each sum provided for a capital project shall be a 
+capital account. 
+
+B.  The Chief Financial Officer and Treasurer shall certify that funding for the capital projects 
+in the capital budget is within the City's updated debt and financial obligation limit. 
+
+§ 71-8. Spending authority; operating budget. 
+
+[Amended 2000-10-05 by By-law 869-2000; 2002-11-28 by By-law 1076-2002; 2004-09-30 by 
+By-law 778-200410; 2005-04-14 by By-law 331-2005] 
+
+A.  Review of expenditure levels. 
+
+(1)  The operating budget approved by Council establishes the spending authority for a 
+
+program. 
+
+(2)  Subject to § 71-19, division heads shall ensure that expenditures do not exceed the 
+
+approved program budget. [Amended 2008-06-24 by By-law 616-2008] 
+
+10
+
+ Editor's Note: This by-law comes into force November 1, 2004. 
+
+71-6 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+(3)  Spending or funds control is based on the total gross expenditures approved for a 
+
+program. 
+
+(4)  Division heads must review expenditure levels to address revenue shortfalls. 
+
+(5)  A division head may request funds control to be implemented at a lower level than the 
+
+program level. 
+
+(6)  Subject to § 71-19, division heads shall report any anticipated over-expenditure to the 
+Chief Financial Officer and Treasurer and the appropriate standing committee as soon 
+as the potential over-expenditure is known. [Amended 2008-06-24 by By-law 616-
+2008] 
+
+B.  Any expenditure that would result in a division exceeding the funding available in a 
+
+program requires Council approval before a commitment is made to incur the expenditure, 
+except for purchases made under § 195-9B(1) or 195-10F of Chapter 195, Purchasing. 
+
+C.  Reallocations; transfer between programs and services. 
+
+(1)  Reallocation of approved budgets of more than $500,000 requires Council approval. 
+
+(2)  The transfer of approved budgets of more than $500,000 between programs or 
+
+services or between programs and services affecting the net operating budget for a 
+program requires the approval of the Chief Financial Officer and Treasurer, the City 
+Manager and Council. 
+
+(3)  The transfer of approved budgets of not more than $500,000 in respect of each 
+
+reallocation between services within a program which do not affect the net operating 
+budget for the program requires the approval of the Chief Financial Officer and 
+Treasurer and the City Manager. 
+
+(4)  Any reallocation under Subsection C(3) shall be reported to Council not later than the 
+
+second regular Council meeting following the reallocation. 
+
+(5)  Transfers during the year between non-tax-supported services, such as water and 
+wastewater, can be made where it is not contrary to law, only within that program 
+area and not to other programs within a division. 
+
+D.  Auditor General. 
+
+(1)  Despite Subsection C(2), the transfer of approved budgets between services within 
+
+the office of the Auditor General affecting the net operating budget of the office of the 
+Auditor General requires the approval of the Audit Committee, the Chief Financial 
+Officer and Treasurer and Council. 
+
+(2)  Despite Subsection C(3), the transfer of approved budgets of not more than $500,000 
+in respect of each reallocation between services within the office of the Auditor 
+General which do not affect the net operating budget for the office of the Auditor 
+General requires the approval of the Audit Committee, the Chief Financial Officer 
+and Treasurer and Council. 
+
+71-7 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+§ 71-9. Spending authority; capital budget. 
+
+[Amended 2004-09-30 by By-law 778-200411; 2005-04-14 by By-law 331-2005] 
+
+A.  Review of expenditure levels. 
+
+(1)  The capital budget approved by Council establishes the spending authority for a 
+
+capital project.  
+
+(2)  Subject to § 71-19, division heads shall ensure that expenditures do not exceed the 
+
+approved budget. [Amended 2008-06-24 by By-law 616-2008] 
+
+(3)  Subject to § 71-19, division heads shall report any anticipated over-expenditure to the 
+Chief Financial Officer and Treasurer and the appropriate standing committee as soon 
+as the potential over-expenditure is known. [Amended 2008-06-24 by By-law 616-
+2008] 
+
+B.  Over-expenditures on a capital project. 
+
+(1)  A division head is authorized to approve additional expenditures where costs for a 
+capital project increase to the extent that they exceed the original funding approval 
+for the capital project by the lesser of 10 percent or $500,000, if excess funds are 
+available in another capital project to fund the over-expenditure or are available 
+pursuant to § 71-19. [Amended 2008-06-24 by By-law 616-2008] 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+If costs for a capital project exceed the original funding by more than 10 percent or 
+$500,000 or excess funds are not available in another capital project or are available 
+pursuant to § 71-19, Council approval must be obtained before any payment can be 
+made to incur the additional cost, except for purchases made under § 195-9B(1) or 
+195-10F of Chapter 195, Purchasing. [Amended 2008-06-24 by By-law 616-2008] 
+
+If § 195-9B(1) or 195-10F of Chapter 195, Purchasing, applies, the approval of the 
+City Manager or a Deputy City Manager is required before any payment may be 
+made for the additional costs, and the additional costs shall be reported to Council. 
+
+If the additional funding is to be provided through the issuance of debentures, the 
+Chief Financial Officer and Treasurer shall certify that the funding is within the City's 
+updated debt and financial obligation limit. 
+
+If Council approval must be obtained under Subsection B(2), the Chief Financial 
+Officer and Treasurer together with the division head and the appropriate Deputy City 
+Manager shall prepare a report to Council identifying suggested sources of funding 
+for the over-expenditure. 
+
+C.  Unspent funds. 
+
+(1)  Except where a capital project has been financed through the issuance of debentures 
+and subject to compliance with Chapter 227, Reserves and Reserve Funds, unspent 
+funds in any capital project that is completed shall be applied, subject to the approval 
+of the Chief Financial Officer and Treasurer, against other capital projects that may be 
+
+11
+
+ Editor's Note: This by-law comes into force November 1, 2004. 
+
+71-8 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+overspent before any reallocation is requested to fund a new capital project within the 
+division. 
+
+(2)  A reallocation under Subsection C(1) shall be reported to Council. 
+
+D.  Allocations between subprojects within a capital project and any subsequent reallocations 
+
+of these funds among other subprojects or the addition of subprojects may be made by a 
+division head, if the reallocation does not exceed the approval by Council for the capital 
+project. 
+
+E.  Reallocations. 
+
+(1)  Any reallocation of budget between capital projects in an amount of not more than 
+
+$250,000 requires approval of the Chief Financial Officer and Treasurer. 
+
+(2)  Any reallocation of budget between capital projects of more than $250,000 requires 
+approval of the Chief Financial Officer and Treasurer and subsequent Council 
+approval of the reallocation. 
+
+(3)  The Chief Financial Officer and Treasurer shall have the authority to approve any 
+reallocation of budget between capital projects in an amount of not more than 
+$1,000,000, in the following circumstances: [Added 2009-10-27 by By-law 1065-
+2009; amended 2010-08-27 by By-law 981-2010] 
+
+(a)  During the period between when Council breaks for the summer recess and the 
+first agenda closing deadline for the appropriate standing committee following 
+the break; or 
+
+(b)  During the period between the last scheduled meeting of Council and the first 
+
+meeting of a new Council after an election; or 
+
+(c) 
+
+If regularly scheduled meetings of standing committees and Council are not 
+held, for any reason, for a period of two months or longer. 
+
+F.  Divisions in preparing their annual capital budgets must include in their submissions a cash 
+flow forecast which indicates the entire capital expenditure for each capital project, 
+including those capital projects approved in previous years. 
+
+G.  Closure review. 
+
+(1)  Any capital project approved in a previous year for which a cash flow forecast is not 
+included in a subsequent capital budget shall be considered to be completed and may 
+be closed by the Chief Financial Officer and Treasurer after consultation with the 
+division head. 
+
+(2)  A division head shall advise the Chief Financial Officer and Treasurer if additional 
+
+expenditures are expected to occur as a result of litigation or claims as it may not be 
+appropriate to reflect those expenditures in the capital forecasts. 
+
+H.  The Chief Financial Officer and Treasurer, after consultation with the division head, shall 
+close any capital project that is considered to be complete and shall submit a report to 
+Council on an annual basis detailing all capital projects closed during the year. 
+
+71-9 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+ARTICLE III 
+Compliance 
+[Amended 2002-05-23 by By-law 438-2002; 2002-06-20 by By-law 574-2002; 2004-09-30 by 
+By-law 778-200412] 
+
+§ 71-10. Expenditure compliance. 
+
+No expenditure shall be made and no account shall be paid by or on behalf of the City, except 
+with Council approval and in accordance with the provisions of this chapter. 
+
+§ 71-10.1. Commitment compliance. 
+
+No commitment shall be made except in accordance with the provisions of this chapter and the 
+provisions of Chapter 195, Purchasing. 
+
+§ 71-10.2. Reporting of certain financial information. 
+
+[Amended 2005-04-14 by By-law 331-2005] 
+
+A.  Prior to any division head or director, or his or her designate, signing any report and 
+
+submitting it to a standing committee, a community council or Council:  
+
+(1)  The following information, where applicable, must be included in the report under the 
+
+heading "Financial Implications": 
+
+(a)  Current year impacts, which are to include the current approved budget, the 
+current year incremental cost of the proposed change and the total amended 
+approved budget as proposed, including gross expenditures, revenue and net 
+amounts in all cases, and any appropriate budget adjustments that may be 
+required; 
+
+(b)  Future year impacts, which are to include the current year's and the following 
+year's incremental costs for full implementation, the total project cost, the five-
+year cash flow for capital works and the operating impacts of capital projects 
+including debt service costs; 
+
+(c)  Corporate impacts, which are to include financial impacts to other programs and 
+agencies, including their potential precedent setting ability and any opportunity 
+costs; 
+
+(d) 
+
+Identification of sustainable funding sources and resultant impact on service 
+levels and standards or on capital program work plans so as to offset the total 
+new financial impacts; 
+
+(e)  Resultant budget adjustments to capture cost-savings and revenue sources for 
+
+current and future years; 
+
+12
+
+ Editor's Note: This by-law comes into force November 1, 2004. 
+
+71-10 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+(f) 
+
+Impact on reserves or reserve funds or both, including current and future 
+liabilities; 
+
+(g) 
+
+Impact on staffing levels; and 
+
+(h)  Consistency with Council's strategic directions and fiscal priorities. 
+
+(2)  The Chief Financial Officer and Treasurer shall review the report, and: 
+
+(a)  Approve the financial implications identified in the report; or 
+
+(b) 
+
+If the Chief Financial Officer and Treasurer does not concur with the financial 
+implications of the report or is of the opinion that the financial implications are 
+not fully reflected in the report, the Chief Financial Officer and Treasurer shall 
+submit a companion report to the standing committee, community council or 
+Council, as the case may be, outlining his or her concerns in respect of the 
+financial implications and making further recommendations with respect to the 
+financial implications. 
+
+B. 
+
+If a standing committee or a community council makes recommendations which have 
+financial implications for the City, or which amend the financial implications identified in a 
+report, the Chief Financial Officer and Treasurer shall review the recommendations and 
+submit a fiscal impact statement to Council prior to Council's consideration of the 
+recommendation. 
+
+ARTICLE IV 
+Commitments 
+
+§ 71-11. Spending authorities. 
+
+[Amended 2004-09-30 by By-law 778-200413; 2005-04-14 by By-law 331-2005] 
+
+A.  A commitment of more than $500,000 requires Bid Committee, Standing Committee or 
+
+Council approval as required by Chapter 195, Purchasing, before expenditures may be 
+made. 
+
+B.  The City Manager or his or her designate may make a commitment of not more than 
+
+$500,000 in any one instance, if the purchasing procedures in Chapter 195, Purchasing, 
+have been followed and cash flow funding has been provided in the interim operating 
+budget, operating budget or capital budget or pursuant to § 71-19 to the satisfaction of the 
+Chief Financial Officer and Treasurer. [Amended 2008-06-24 by By-law 616-2008] 
+
+C.  The City Manager may delegate commitment authority in any amount within the limit of 
+
+$500,000 to a division head. 
+
+13
+
+ Editor's Note: This by-law comes into force November 1, 2004. 
+
+71-11 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+D.  The following officials may delegate any amount within the commitment authority 
+
+delegated to him or her by the City Manager to a person holding a management position 
+directly reporting to them: [Amended 2005-05-04 by By-law 338-200514] 
+
+(1)  A Deputy City Manager, the Chief Financial Officer and Treasurer and the Controller. 
+
+(2)  A General Manager and the Medical Officer of Health. 
+
+(3)  The Chief Building Official and Executive Director of Building, the Chief Planner 
+
+and Executive Director of City Planning, the Director of Court Services and the 
+Executive Director of Municipal Licensing and Standards. 
+
+E.  Despite Subsections C and D, the City Manager may amend the spending authority of any 
+staff member and may place conditions or restrictions on the delegation of authority to any 
+staff member within the $500,000 limit of the commitment authority applicable to the City 
+Manager. 
+
+F. 
+
+(1)  Despite Subsection C, the City Manager may not delegate commitment authority to 
+
+the following officials: [Added 2007-12-13 by By-law 1405-2007] 
+
+(a)  The Auditor General; 
+
+(b)  The Integrity Commissioner; 
+
+(c)  The Ombudsman; and [Amended 2009-10-27 by By-law 1098-2009] 
+
+(d)  The Lobbyist Registrar. 
+
+(2) 
+
+If the purchasing procedures in Chapter 195, Purchasing, have been followed and 
+cash flow funding has been provided in the interim operating budget, operating 
+budget or capital budget to the satisfaction of the Chief Financial Officer and 
+Treasurer, the following officials may make commitments of not more than $500,000 
+in any one instance: 
+
+(a)  The Auditor General. 
+
+(b)  The Integrity Commissioner. 
+
+(c)  The Ombudsman. [Amended 2009-10-27 by By-law 1098-2009] 
+
+(d)  The Lobbyist Registrar. 
+
+§ 71-11.1. Over-expenditures on commitments. 
+
+[Added 2004-09-30 by By-law 778-200415] 
+
+A.  A division head, or his or her delegate, may authorize expenditures in excess of the amount 
+
+of a commitment, entered into in compliance with this chapter and Chapter 195, 
+
+14
+
+15
+
+ Editor's Note: This by-law came into force April 15, 2005. 
+
+ Editor's Note: This by-law comes into force November 1, 2004. 
+
+71-12 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+Purchasing, to a maximum of 10 percent of the original amount of the commitment, 
+provided that: [Amended 2005-04-14 by By-law 331-2005] 
+
+(1)  Such additional amount shall not exceed $500,000; and 
+
+(2)  Council has: 
+
+(a)  Provided funds in the operating or capital budget for that purpose or funds are 
+provided pursuant to § 71-19; or [Amended 2008-06-24 by By-law 616-2008] 
+
+(b)  Approved the project and the funding therefor; and 
+
+(c)  Sufficient funds remain in the project or program; and 
+
+(3) 
+
+If the commitment was within the spending authority of staff, the person authorizing 
+the additional amount is in a management position superior to that of the person 
+which authorized the original amount of the commitment. 
+
+B.  Despite Subsection A, the City Manager, or his or her delegate, may authorize additional 
+
+expenditures in excess of the original amount of a commitment, entered into in compliance 
+with this chapter and with Chapter 195, Purchasing, of up to $500,000, provided there is 
+compliance with the conditions contained in Subsection A(2) and, in the event of any 
+delegation under this Subsection B by the City Manager, additional compliance with the 
+condition contained in Subsection A(3). [Amended 2005-04-14 by By-law 331-2005] 
+
+C.  Any amendment to a commitment which requires expenditures in excess of the amounts 
+that may be authorized under Subsection A or B requires approval of the appropriate 
+standing committee prior to the making of a payment for the expenditure except for 
+purchases made under § 195-9B(1) or 195-10F of Chapter 195, Purchasing. 
+
+§ 71-12. Petty cash. 
+
+A.  There may be established in a division petty cash funds in amounts, following policy and 
+procedures, which have been approved by the Controller having regard to the operational 
+requirements of the division. [Amended 2005-04-14 by By-law 331-2005] 
+
+B.  The Controller is authorized to reimburse a petty cash fund upon delivery of original 
+
+receipts and such other documentation as the Controller may require from time to time. 
+
+C.  Petty cash payments for any individual purchase shall not exceed $200. 
+
+§ 71-13. Deposits with Chief Financial Officer and Treasurer. 
+
+[Amended 2005-04-14 by By-law 331-2005] 
+
+Duly executed copies of all agreements, including all insurance and certificates thereof, all 
+contracts, bonds, letters of credit and other security for the due performance thereof, and all other 
+documents executed by or on behalf of the City shall be delivered to the Chief Financial Officer 
+and Treasurer for safekeeping. 
+
+71-13 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+ARTICLE V 
+Chief Financial Officer and Treasurer's Authority 
+
+§ 71-14. Authority to pay certain accounts. 
+
+[Amended 2004-09-30 by By-law 778-200416; 2005-04-14 by By-law 331-2005; 2020-10-02 
+by By-law 804-2020] 
+
+Despite any other provision in this chapter or any provision of Chapter 195, Purchasing, the 
+Chief Financial Officer and Treasurer is authorized to pay the accounts and expenditures set out 
+in Schedule A at the end of this chapter without the involvement of the Chief Procurement 
+Officer or the issuance of a purchase order, if funds are available in the operating budget or a 
+capital project for that purpose. 
+
+ARTICLE VI 
+Reserves and Reserve Funds 
+
+§ 71-15. Reserve and reserve funds. 
+
+The administration of reserves and reserve funds is contained in Chapter 227, Reserves and 
+Reserve Funds. 
+
+ARTICLE VII 
+Contingency Funds 
+
+§ 71-16. Use of contingency funds. 
+
+A.  Purpose of contingency funds. 
+
+(1)  Expenditures from contingency may only be made for: [Amended 2001-06-01 by 
+
+By-law 370-2001] 
+
+(a)  One-time non-recurring costs that were not identified at the time the operating 
+
+budget was approved; 
+
+(b)  Unforeseen expenditures resulting from economic, climatic, in-year legislative 
+
+changes from senior levels of government and legal settlements. 
+
+(2)  Contingency funds shall not be used for over-expenditures by programs. [Amended 
+
+2005-04-14 by By-law 331-2005] 
+
+B.  Approval must be obtained from the Chief Financial Officer and Treasurer for any use of 
+contingency funds for any purpose. [Amended 2005-04-14 by By-law 331-2005] 
+
+C.  The Chief Financial Officer and Treasurer shall report to Council requesting approval for 
+
+the use of contingency funds. [Amended 2005-04-14 by By-law 331-2005] 
+
+16
+
+ Editor's Note: This by-law comes into force November 1, 2004. 
+
+71-14 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+ARTICLE VIII 
+Authority for Write-Offs 
+
+§ 71-17.1. Authority to write off outstanding debt.17 
+
+[Amended 2005-04-14 by By-law 331-2005; 2006-04-27 by By-law 258-2006; 2007-12-13 by 
+By-law 1405-2007] 
+
+A.  The Controller is authorized to write off outstanding amounts owing to the City as 
+
+uncollectible, if the amount is not more than $50,000 and is not an amount raised as 
+taxation or deemed to be taxes, except for items added to the tax bills for collection 
+purposes only and not as a result of a tax or assessment appeal. 
+
+A.1.  Despite the provisions of Subsection A, the Controller is authorized to write off outstanding 
+tax arrears as uncollectible, following a failed tax sale, if the amount is not more than 
+$50,000.  
+
+B.  Write-offs of amounts owing to the City of more than $50,000 must be approved by 
+
+Council except for tax reductions as a result of a successful appeal of assessment or taxes 
+by a taxpayer. 
+
+C.  Despite Subsections A, A.1 and B, the Controller is authorized to write off outstanding 
+
+amounts owing to the City as uncollectible, if all of the following conditions are met: 
+[Added 2008-06-24 by By-law 609-2008] 
+
+(1)  The City Solicitor has been asked to try to recover the amount owing; 
+
+(2)  The amount owing is not more than $500,000, exclusive of taxes; and 
+
+(3)  The City Solicitor concludes that the amount is uncollectible and the write-off is 
+
+appropriate under the circumstances. 
+
+§ 71-17.2. Authority to adjust outstanding payments in lieu of taxes. 
+
+[Added 2015-11-04 by By-law 1171-2015] 
+
+The Controller, in consultation with the City Solicitor, is authorized to adjust for accounting 
+purposes, outstanding amounts of receivables in respect of payments in lieu of taxes which 
+amounts the Controller determines are unlikely to be paid.  
+
+ARTICLE IX 
+Administration 
+
+§ 71-18. Divisional signing authorities. 
+
+[Amended 2005-04-14 by By-law 331-2005] 
+
+A.  The City Manager and each division head shall formulate and maintain a current schedule 
+specifying the delegation of financial signing authority within their division, including 
+
+17
+
+ Editor's Note: By-law 1171-2015, enacted November 4, 2015 renumbered this section to § 71-17.1. and added new § 71-17.2.  
+
+71-15 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+commitment and payment authorities and the authority levels for each level of management 
+within the division. 
+
+B.  The schedule shall be signed by the City Manager or division head respectively, and a copy 
+
+of the schedule, and specimen signatures of the relevant officers and staff of the division, 
+shall be forwarded to the Controller at least annually. 
+
+ARTICLE X 
+Donated Funds18 
+[Added 2008-06-24 by By-law 616-2008] 
+
+§ 71-19. Donation authorities. 
+
+A.  A division head may accept and spend donated funds in respect of a program or capital 
+
+project for which he or she is responsible, provided that: 
+
+(1)  The donation has not been solicited by the City through a fundraising campaign or 
+
+otherwise; 
+
+(2)  The donation does not exceed $50,000; 
+
+(3)  The sum of the donation and any other donations accepted by the City from the same 
+
+donor for the same purpose within the fiscal year does not exceed $50,000; 
+
+(4)  The donation is not conditional upon and does not involve a proposal to name or 
+
+rename a City asset; and 
+
+(5)  The donation complies with the City's Donation Policy. 
+
+B.  Division heads shall report any donations expended pursuant to Subsection A to Council 
+
+through the variance reporting process at the next available opportunity. 
+
+C.  The City Manager is authorized to accept and spend donated funds in excess of $50,000 
+
+and up to $500,000 in respect of a program or capital project, in the following 
+circumstances: [Added 2010-08-27 by By-law 981-2010] 
+
+(1)  During the period between the last scheduled meeting of Council and the first 
+
+meeting of a new Council after an election; or 
+
+(2) 
+
+If regularly scheduled meetings of standing committees and Council are not held, for 
+any reason, for a period of two months or longer; and 
+
+(3)  The conditions specified in Subsections A(1), (4) and (5) are met. 
+
+D.  The City Manager shall report any donations expended pursuant to Subsection C to 
+
+Council through the Executive Committee at the next available opportunity. [Added 2010-
+08-27 by By-law 981-2010] 
+
+ARTICLE X.1 
+
+18
+
+ Editor's Note: Former Art. X, Delegation, added September 24, 2003 by By-law 888-2003, was repealed April 14, 2005 by By-law 331-
+
+2005. 
+
+71-16 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+Sponsorships 
+[Added 2011-12-01 by By-law 1368-2011] 
+
+§ 71-19.1. Sponsorship authorities. 
+
+A. 
+
+A division head may accept a sponsorship and execute an agreement in respect of a 
+sponsorship as permitted under the Sponsorship Policy where: 
+
+(1) 
+
+The total value of the agreement does not exceed $500,000 in a given fiscal year; 
+
+(2) 
+
+(3) 
+
+The total value of sponsorships from a particular third party for the same purpose 
+does not exceed $500,000 in a given fiscal year; and 
+
+The sponsorship does not include naming rights and is in compliance with the 
+Sponsorship Policy. 
+
+A division head may accept and spend sponsorship funds received from a sponsorship 
+under Subsection A. 
+
+All sponsorship funds shall be credited to the appropriate accounts and, where the funds 
+have not already been accounted for in the budget, each division shall disclose the 
+amount of all sponsorships received to date and report on how the funds were used as part 
+of the quarterly budget variance reporting process. 
+
+References in this Article to the "Sponsorship Policy" shall be deemed to refer to the 
+sponsorship policy adopted by Council as Item EX12.2 on November 29, 30 and 
+December 1, 2011, as amended from time to time, and "sponsorship" and "naming rights" 
+shall have the same meaning as those terms are defined in the Sponsorship Policy. 
+
+B. 
+
+C. 
+
+D. 
+
+ARTICLE XI 
+Review 
+[Added 2004-09-30 by By-law 778-200419] 
+
+§ 71-20. Comprehensive review. 
+
+[Amended 2005-04-14 by By-law 331-2005] 
+
+The Chief Financial Officer and Treasurer shall undertake a comprehensive review of this 
+chapter every five years. 
+
+19
+
+ Editor's Note: This by-law also redesignated former Art. XI, Title, as Art. XII. This by-law comes into force November 1, 2004. 
+
+71-17 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+ARTICLE XII 
+Title 
+
+§ 71-21. Short title. 
+
+The short title of this chapter is the "Financial Control By-law." 
+
+71-18 
+
+October 2, 2020 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+SCHEDULE A 
+
+[Added 2004-09-30 by By-law 778-200420; amended 2005-04-14 by By-law 331-2005; 2005-
+05-25 by By-law 597-2007; 2008-03-05 by By-law 207-2008; 2014-02-20 by By-law 134-
+2014; amended in its entirety 2014-06-13 by By-law 541-2014; amended 2019-10-03 by 
+By-law 1392-2019] 
+
+In accordance with § 71-14, the following items can be processed without purchase order or a 
+sole source request form: 
+
+1 
+
+1.1 
+1.2 
+1.3 
+1.4 
+
+2 
+
+2.1 
+
+2.2 
+
+3 
+
+3.1 
+3.2 
+3.3 
+
+4 
+
+4.1 
+4.2 
+4.3 
+4.4 
+4.5 
+4.6 
+
+5 
+
+5.1 
+5.2 
+
+Utilities 
+
+Utility usage fees 
+Television cable usage fees 
+Internet usage fees 
+Toll road usage fees 
+
+Training and Education 
+
+Magazine, periodical, Web subscription fees and books purchased from a proprietary 
+vendor including on-line purchases, excluding 3rd party providers 
+Training through a proprietary vendor including training materials (except where 
+training is arranged or can be arranged through a competitive bid process) 
+
+Refundable Employee Expenses 
+
+Meal allowances for Members of Council and their staff 
+Hospitality Allowance 
+Employee Expense Claims - Non Travel 
+
+Conference, Seminars & Business Travel (in accordance with existing City 
+policies and procedures) 
+
+Registration fees 
+Accommodation Fees 
+Ground Transportation Fees 
+Business Kilometrage 
+Per Diem 
+Travel Advances 
+
+General Expenses 
+
+Postage, not including 3rd party service charges 
+Licenses and Recertification 
+
+20
+
+ Editor's Note: This by-law came into force November 1, 2004. 
+
+71-19 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+Professional Designation Fees 
+Payments to non-profit community based organizations and resident associations 
+working with the City on City projects 
+Grants and Donations 
+All costs associated with Council approved land purchases, leases, survey records 
+and expropriations or Councillor negotiated leases 
+Refunds 
+Legal Settlements 
+Experts and witnesses for civil actions or administrative hearings 
+Arbitrators and mediators 
+Advertising to a specific audience.  All advertising services in all mediums including 
+but not limited to print, radio, TV, etc. in order to reach a specific target audience 
+i.e. seniors, adolescents, ethnic groups, industry or business groups, specific 
+neighbourhoods or geographical areas, statutory or special public notices, etc. 
+Advertising job postings targeting a specific profession through a professional 
+association 
+Meeting arrangements for public consultation meetings, City hosted conferences, 
+co-hosted events, ceremonies and special events at City owned an non-City owned 
+locations including, but not limited to, charges for equipment, catering and booth 
+rentals, when dictated by venues as to specific vendors to use 
+Labour negotiation arrangements per the Collective Agreement including hotel 
+accommodations, meeting room rentals, catering and technical services 
+Specialized performing artists or entertainers for City hosted, supported or Council 
+approved events including audio-visual equipment, specialized displays and 
+technical services and curators integral to such performers or entertainers 
+Honorarium.  Amount not to exceed $500.00 
+Entertainment Admission Fees 
+Emergency Hospital Linen Services 
+Copyright/Certification Fees 
+
+Federal, Provincial and Municipal Mandated Programs 
+
+Ontario Works Act - Toronto Employment and Social Services.  Delivery of related 
+assistance programs such as funerals, cemetery and burial services, dental program 
+and medical programs administered by Toronto Employment and Social Services. 
+Doctors providing services at Sexual Health Clinics including contracted and 
+partnership clinics 
+Medical Services, Assessments and Pharmaceutical Drugs 
+Contraceptive devices for Toronto Public Health mandated programs 
+Court Translators / Interpreters / Process Servers 
+Purchase of supplies and or services from a supplier mandated by the Province or 
+Federal governments i.e.: Technical Service and Standards (TSSA) 
+Municipal Elections, By-Elections and Referenda 
+
+5.3 
+5.4 
+
+5.5 
+5.6 
+
+5.7 
+5.8 
+5.9 
+5.10 
+5.11 
+
+5.12 
+
+5.13 
+
+5.14 
+
+5.15 
+
+5.16 
+5.17 
+5.18 
+5.19 
+
+6 
+
+6.1 
+
+6.2 
+
+6.3 
+6.4 
+6.5 
+6.6 
+
+6.7 
+
+71-20 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+7 
+
+7.1 
+7.2 
+7.3 
+
+8 
+
+9 
+
+Toronto Transit Commission (TTC) 
+
+Tokens  
+Metro Pass 
+Use of TTC Vehicles (e.g. buses, subways, streetcars) 
+
+Petty Cash Replenishment 
+
+Payments to Past and Current Employees 
+
+All salaries, wages, benefits and grievance payments due to any person in the employ 
+of the City.  All retirement allowances and mandatory sick pay grants due to any 
+person previously in the employ of the City.  Payments to past employees who attend 
+arbitration hearings on behalf of the City. 
+
+10 
+
+Government Payments 
+
+Payments to Federal, Provincial or other municipal governments for taxes or goods 
+and services that can only be purchased from such entities i.e.: Wedding licenses, 
+Court Services, Vehicle licenses, Statistics Canada, Property Taxes, Land Registry 
+Fees, etc. 
+
+11 
+
+Debt 
+
+11.1 
+
+11.2 
+
+All accounts for payment of principal or interest on debentures, loans or overdrafts, 
+foreign exchange in accordance with Council's investment policy and including legal 
+expenses incurred by the issuance of debt in accordance with the City's Financing of 
+Capital Works Policy 
+Credit rating agencies 
+
+12 
+
+School Board Capital Work 
+
+All accounts for payment to the school boards of amounts raised for them by tax levy 
+
+71-21 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+13 
+
+Agencies and Corporations 
+
+13.1 
+
+Payments to City Agencies and Corporations and/or their contractors, as determined 
+by the Agency or Corporation,  for work performed as part of a capital project 
+subject to the following criteria: 
+
+A.  The work to be performed relates to an approved Capital Project; 
+
+B.  The Agency or Corporation uses an open, competitive bidding process 
+
+consistent with the City's procurement policies and processes; 
+
+C.  The Agency or Corporation complies with and requires that all vendors comply 
+
+with the City's 
+
+(i)  Fair Wage Policy; 
+(ii)  Labour Trades and Contractual Obligations in the Construction Industry 
+
+Policy; and 
+
+(iii)  Non -Discrimination Policy; and 
+
+D.  An agreement is entered into with the Agency or Corporation on terms and 
+conditions satisfactory to the Deputy City Managers and City Solicitor 
+
+13.2 
+
+Monthly/quarterly operating budget account payments approved by Council for 
+agencies and corporations. 
+
+14 
+
+Payroll and Pension Deductions and Contributions 
+
+All accounts relating to statutory deductions, as well as employee pension deductions 
+and employer pension contributions in respect of salaries and wages to those persons 
+who are paid by or employed by the City, including those which are payable in 
+respect of any duly authorized registered pension plan on behalf of the respective 
+employee. 
+
+15 
+
+Capital Projects 
+
+Charges to or from federal, provincial or municipal government Agencies and 
+Corporations and railways and utility companies for goods and service incidental to 
+an approved capital project provided that the goods and services of the main project 
+shall be subject to the by-law.  If directed by the aforementioned entity payment may 
+be issued directly to their vendor. 
+
+16 
+
+Taxi Services 
+
+16.1 
+16.2 
+
+Metered taxi services excluding administrative fees 
+Metered taxi services for Members of Council and their staff 
+
+71-22 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+17 
+
+Paid Duty 
+
+Payment to police officers for off duty services performed on behalf of the City of 
+Toronto 
+
+18 
+
+Council Functions 
+
+18.1 
+18.2 
+
+19 
+
+20 
+
+Council appointed citizen members 
+Payment of costs to hold emergency off-site meetings of City Council, Committees 
+of Council or Agencies and Corporations established and appointed by City Council 
+in City or non-City owned locations, when Council Chamber and Committee Rooms 
+in all city buildings are not available due to unforeseen circumstances, to ensure 
+meeting functionality, accessibility, safety and compliance with legislated 
+requirements or as may be directed by City Council, on an interim basis (including 
+but not limited to meeting locations, alternate off-site facilities, security, audio/visual 
+equipment and operators, modifications to facility accessibility, etc.) 
+
+Non Union Secondments from an External Organizations 
+
+Rents, Leases, Maintenance 
+
+Payments to landlords for rents/leases and facility maintenance outside of regular 
+lease payments for maintenance repairs that are the responsibility of the City as the 
+renter, and the contractors are determined by the landlords for repairs. 
+
+21 
+
+Toronto Water and Solid Waste Management Services Research Initiatives or 
+Projects 
+
+Payments to post-secondary education institutions, other municipalities, government 
+agencies and/or not for profit professional organizations in respect to the funding, 
+participation or procurement of services related to research initiatives or projects 
+which directly contribute to achieving the goals and objectives of Toronto Water or 
+the goals and objectives of Solid Waste Management Services, as applicable, subject 
+to the following criteria: 
+
+A.  The research initiative or project is of a scientific or technical nature utilizing 
+
+specialized academic or professional expertise at competitive rates; 
+
+B.  Toronto Water's contribution or Solid Waste Management Services' 
+
+contribution, as applicable, to each research initiative prior project does not 
+exceed a value of $500,000.00 (exclusive of taxes) per year; and 
+
+C.  An agreement is entered into among all participants involved in the research 
+initiative or project on terms and conditions satisfactory to the City Solicitor. 
+
+71-23 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+22 
+
+Payments to the Toronto and Region Conservation Authority (TRCA) 
+
+Payments to the TRCA for the delivery of approved capital projects, operating 
+programs and partner funded projects provided that: 
+A.  The work to be performed relates to waterways, ravines and Lake Ontario 
+
+waterfront lands; 
+
+B.  The TRCA uses an open, competitive bidding process consistent with the City's 
+
+procurement policies and processes; 
+
+C.  The TRCA complies with and requires that all vendors comply with the City's 
+
+(i)  Fair Wage Policy; 
+(ii)  Labour Trades and Contractual Obligations in the Construction Industry 
+
+Policy; and 
+
+(iii)  Non -Discrimination Policy; and 
+
+D.  The TRCA undertakes the work on a cost recovery basis; and 
+
+E.  An agreement is entered into with the TRCA on terms and conditions 
+
+satisfactory to the Deputy City Managers and City Solicitor. 
+
+71-24 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 71, FINANCIAL CONTROL 
+
+23 
+
+Transportation Research Initiatives or Projects 
+
+Payments associated with City funding and participating in research initiatives or 
+projects related to road and sidewalk management, transportation safety and 
+operations, as well as permits and applications with post-secondary educational 
+institutions, governmental agencies and/or non-governmental professional 
+organizations, including any procurement of services related thereto subject to 
+meeting the following criteria: 
+
+A.  The research initiative or project directly contributes to achieving the mission 
+
+of Transportation Services; 
+
+B.  The project participants are post-secondary educational institutions in Canada, 
+other municipalities or governmental entities, and/or non-governmental 
+professional organizations with a transportation-focused mission who can 
+provide objective, qualified and professional expertise; 
+
+C.  The  project is of a scientific or technical nature utilizing specialized academic 
+or professional expertise at competitive rates and without a profit margin; 
+Transportation Services' contribution to each research initiative or project does 
+not exceed a value of $100,000 (before taxes) per year; and 
+
+D.  An agreement be entered into among all participants in the research initiative 
+
+or project on terms and conditions satisfactory to the City Solicitor. 
+
+71-25 
+
+October 2, 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

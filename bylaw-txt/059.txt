@@ -1,0 +1,684 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+Chapter 59 
+
+EMERGENCY MANAGEMENT 
+
+ARTICLE 1 
+Definitions 
+
+§ 59-1.1. Definitions. 
+
+ARTICLE 2 
+Emergency Management Structure 
+
+§ 59-2.1. Composition of the TEMPC and the Control Group. 
+
+§ 59-2.2. Composition of the Working Group. 
+
+ARTICLE 3 
+Emergency Management Functions 
+
+§ 59-3.1. Roles and responsibilities in the emergency management structure. 
+
+ARTICLE 4 
+Procedure for Emergency Management Functions 
+
+§ 59-4.1. Meetings of the TEMPC and the Control Group. 
+
+§ 59-4.2. Meetings of the Working Group. 
+
+§ 59-4.3. Quorum and delegation. 
+
+§ 59-4.4. Reporting relationships. 
+
+ARTICLE 5 
+Declaration and Termination of Emergency 
+
+§ 59-5.1. Role of Mayor. 
+
+§ 59-5.2. Contents of declaration. 
+
+ARTICLE 6 
+Delegation of Authority to Mayor 
+
+§ 59-6.1. Mayor's powers in emergencies. 
+
+59-1 
+
+October 3, 2019 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+ARTICLE 7 
+Additional Authority in an Emergency 
+
+§ 59-7.1. Authority of Control Group. 
+
+§ 59-7.2. Authorization to act. 
+
+ARTICLE 8 
+Administration 
+
+§ 59-8.1. Public inspection of Plan. 
+
+§ 59-8.2. Role of Executive Committee. 
+
+[History: Adopted by the Council of the City of Toronto May 27, 2009 by By-law 606-2009.1 
+Amended in its entirety November 9, 2017 by By-law 1233-20172. Amendments noted 
+where applicable.] 
+
+General References 
+
+City of Toronto Act, 2006 - See S.O. 2006, c. 11. 
+Emergency Management and Civic Protection Act - See R.S.O. 1990, c. E.9. 
+
+ARTICLE 1 
+Definitions 
+
+§ 59-1.1. Definitions. 
+
+As used in this chapter, the following terms shall have the meanings indicated: 
+
+ACT - The Emergency Management and Civil Protection Act, or any successor legislation. 
+
+CONTROL GROUP - The Toronto Emergency Management Program Committee Control Group 
+identified in § 59-2.1. 
+
+EMERGENCY - A situation or an impending situation that constitutes a danger of major 
+proportions that could result in serious harm to persons or substantial damage to property and 
+that is caused by the forces of nature, a disease, an accident or other health risk or an act whether 
+intentional or otherwise or an emergency as otherwise defined in the Act from time to time. 
+
+EMERGENCY MANAGEMENT - The process for planning, decision-making and assigning 
+resources for mitigation, preparation, response and recovery from emergencies. 
+
+1
+
+2
+
+ Editor's Note: This by-law repealed former Ch. 59, Emergency Planning, adopted May 20, 2004 by By-law 360-2004, as amended.  
+
+ Editor's Note: By-law 1233-2017 enacted on November 9, 2017, deleted and replaced previous Chapter 59, Emergency Management in 
+
+its entirety. 
+
+59-2 
+
+October 3, 2019 
+
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+EXECUTIVE COMMITTEE - The Executive Committee of Council of the City of Toronto or 
+any successor standing committee of City Council responsible for emergency management and 
+planning issues. 
+
+MINISTER - The Minister of Community Safety and Correctional Services of the Province of 
+Ontario or any successor minister of the Province of Ontario responsible for emergency 
+management, planning and response issues. 
+
+MITIGATION - Activities and practices designed to prevent or avoid an emergency or to 
+minimize its impact. 
+
+OFFICE OF EMERGENCY MANAGEMENT or OEM - The Toronto Office of Emergency 
+Management or any successor administrative division or unit of the City of Toronto responsible 
+for the overall co-ordination of the emergency management function for the City. 
+
+PLAN - A plan governing the provision of necessary services during an emergency and the 
+procedures under, and the manner in which, employees of the City of Toronto and other persons 
+respond to the emergency and which meets all requirements for a plan as identified in the Act. 
+
+PREPARATION - Activities taken to prepare for an emergency including the preparation of a 
+plan and a program. 
+
+PROGRAM - A program for emergency management consisting of: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+The Plan. 
+
+Training programs and exercises for employees of the City of Toronto and other persons 
+with respect to the provision of necessary services and the procedures to be followed in 
+emergency response and recovery activities. 
+
+Public education on risks to public safety and on public preparedness for emergencies. 
+
+Any other elements required by the standards for the development and implementation of 
+a program and the formulation and implementation of a plan set out in regulations made 
+under the Act. 
+
+RECOVERY - Actions taken both during and after the end of an immediate emergency and the 
+response phase of an emergency, to restore normal conditions. 
+
+RESPONSE - Actions taken and activities designed to address the short-term effects of an 
+emergency, including immediate response, resource co-ordination and communications. 
+
+TORONTO EMERGENCY MANAGEMENT PROGRAM COMMITTEE or TEMPC - The 
+Toronto Emergency Management Program Committee referred in § 59-2.1. 
+
+WORKING GROUP - The Emergency Management Working Group referred to § 59-2.2. 
+
+ARTICLE 2 
+Emergency Management Structure 
+
+§ 59-2.1. Composition of the TEMPC and the Control Group. 
+
+59-3 
+
+October 3, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+The TEMPC and the Control Group shall be composed of the persons from time to time holding 
+the following positions: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+H. 
+
+I. 
+
+J. 
+
+K. 
+
+L. 
+
+The Mayor. 
+
+The Deputy Mayor. 
+
+The City Manager. 
+
+The Deputy City Managers. 
+
+The Fire Chief and General Manager of Fire Services. 
+
+The Chief and General Manager of Toronto Paramedics Services. 
+
+The Medical Officer of Health. 
+
+The Director of Strategic Communications. 
+
+The Chief People Officer. [Amended 2019-10-03 by By-law 1397-2019] 
+
+The General Manager of Transportation Services. 
+
+The General Manager of Toronto Water. 
+
+The General Manager of Shelter, Support and Housing Administration. 
+
+M. 
+
+The City Solicitor. 
+
+N. 
+
+O. 
+
+P. 
+
+Q. 
+
+R. 
+
+S. 
+
+T. 
+
+U. 
+
+V. 
+
+W. 
+
+X. 
+
+The Chief Financial Officer and Treasurer. [Amended 2018-12-13 by By-law 17-20193] 
+
+The Chief Building Official and Executive Director of Toronto Building. 
+
+The General Manager of Parks, Forestry and Recreation. 
+
+The General Manager of Solid Waste Management. 
+
+The General Manager of Facilities Management. 
+
+The Chief Information Officer. 
+
+The Director of Insurance and Risk Management. 
+
+The Director of Office of Emergency Management. 
+
+The City Clerk. 
+
+The Chief Resilience Officer. 
+
+The Executive Director of Engineering and Construction Services. 
+
+Y.  With the consent of the appropriate organization: 
+
+(1) 
+
+The Chief of Police. 
+
+3
+
+ Editor's Note:  By-law 17-2019 is deemed to have come into force on October 23, 2018. 
+
+59-4 
+
+October 3, 2019 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+(2) 
+
+(3) 
+
+The Chief General Manager of the Toronto Transit Commission. 
+
+The Chief Executive Officer and Secretary Treasurer of the Toronto Region 
+Conservation Authority. 
+
+(4) 
+
+The Executive Vice-President of Toronto Hydro. 
+
+§ 59-2.2. Composition of the Working Group. 
+
+The Working Group shall be composed of those persons selected by the TEMPC from time to 
+time. 
+
+ARTICLE 3 
+Emergency Management Functions 
+
+§ 59-3.1. Roles and responsibilities in the emergency management structure. 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+The respective roles and the responsibilities of the TEMPC, the Control Group and the 
+Working Group during the phases of emergency management are as set out in the Plan. 
+
+In carrying out their respective functions, the TEMPC, the Control Group and the 
+Working Group may request advice and assistance from external agencies, boards, 
+commissions and organizations as each considers necessary. 
+
+Each member of TEMPC shall notify the Mayor and the Director of OEM upon 
+becoming aware of the existence of an emergency that the Plan identifies as one that 
+requires notification of the TEMPC, and the Director of OEM shall, in turn, notify the 
+members of TEMPC of the existence of the emergency. 
+
+Subject to any restrictions on such delegation identified in the City of Toronto Act, 2006, 
+other legislation or at common law, City Council hereby delegates to the TEMPC its 
+authority under section 2.1 of the Act to adopt the Program, and to make changes to it, 
+and the TEMPC shall report annually to the Executive Committee in each calendar year 
+on any such adoption or changes made during the preceding calendar year. 
+
+ARTICLE 4 
+Procedure for Emergency Management Functions 
+
+§ 59-4.1. Meetings of the TEMPC and the Control Group. 
+
+A. 
+
+B. 
+
+The TEMPC shall meet as the Chair considers necessary, but not less than four times a 
+year. 
+
+The Control Group shall meet as the Chair considers necessary and otherwise in 
+accordance with the emergency levels and related mobilization procedures identified in 
+the Plan. 
+
+59-5 
+
+October 3, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+C. 
+
+The Mayor shall be the Chair of the TEMPC and the Control Group and shall be 
+responsible for directing their operations, co-ordinating their activities and convening 
+their meetings and shall, with the assistance of OEM, report on their behalf to the 
+Executive Committee and Council as required by this chapter. 
+
+D. 
+
+In the absence or unavailability of the Mayor, the City Manager shall be the Chair of the 
+Control Group. 
+
+§ 59-4.2. Meetings of the Working Group. 
+
+A. 
+
+B. 
+
+The Working Group shall meet as the Chair considers necessary, but not less than four 
+times a year. 
+
+The Director, OEM, shall be the Chair of the Working Group and shall have the 
+responsibility and authority to direct its operations, co-ordinate its activities and convene 
+its meetings, and shall report on its behalf to the TEMPC and the Control Group as 
+required by this chapter. 
+
+§ 59-4.3. Quorum and delegation. 
+
+A. 
+
+Subject to Subsection B, a majority of the members of the TEMPC, the Control Group 
+and the Working Group are required to constitute quorum and all decisions within each 
+body shall be determined by majority vote. 
+
+B.  When the Control Group is engaged in the response and recovery phases of an 
+
+emergency, no quorum is required and members of each body shall attempt to make 
+decisions by consensus, but if, in the opinion of the Chair, no consensus can be reached, a 
+majority vote of the members present shall determine all decisions. 
+
+C.  With the exception of the authority delegated to the Mayor under § 59-6.1A, any member 
+of any of the TEMPC, the Control Group and the Working Group may designate another 
+individual or individuals to carry out some or all of his or her functions under this 
+chapter, including attending a meeting or meetings of those bodies, and any such 
+designate shall have all the powers and responsibilities of the member. 
+
+D. 
+
+In the absence of the Chair of any of the TEMPC, the Control Group or the Working 
+Group and any designation of an individual to replace the Chair under Subsection C, the 
+members of each body shall designate one of its members in attendance to act as Chair 
+until the Chair or his or her designates are present. 
+
+§ 59-4.4. Reporting relationships. 
+
+A. 
+
+The Director, OEM, shall report to the TEMPC or the Control Group at all of their 
+regularly scheduled meetings on the activities of the Working Group undertaken since the 
+previously scheduled meeting of the TEMPC or the Control Group, on any matters 
+considered appropriate for consideration by the TEMPC or the Control Group or as 
+requested by the TEMPC or the Control Group. 
+
+59-6 
+
+October 3, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+ARTICLE 5 
+Declaration and Termination of Emergency 
+
+§ 59-5.1. Role of Mayor. 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+The Mayor may declare that an emergency exists in the City of Toronto or in any part of 
+it and may take such action and make such orders as he or she considers necessary and 
+not contrary to law to implement the Plan and to protect property and the health, safety 
+and welfare of the inhabitants of the emergency area. 
+
+The Mayor shall ensure that members of City Council and the Control Group are notified 
+within a reasonable time of a declaration made under Subsection A, and shall ensure that 
+the Minister is also notified. 
+
+The Mayor may declare the termination of an emergency at any time and shall ensure that 
+members of City Council and the Control Group are notified forthwith of such 
+declaration, and shall ensure that the Minister is also notified. 
+
+The Mayor shall ensure that members of City Council are kept informed of the progress 
+of the response to an emergency, whether or not an emergency has been declared. 
+
+§ 59-5.2. Contents of declaration. 
+
+A declaration made under § 59-5.1A shall contain: 
+
+A. 
+
+B. 
+
+A statement of the circumstances which caused it to be made; and 
+
+A designation of the part or parts of the City of Toronto to which the declaration applies. 
+
+ARTICLE 6 
+Delegation of Authority to Mayor 
+
+§ 59-6.1. Mayor's powers in emergencies. 
+
+A. 
+
+B. 
+
+Subject to the provisions of Subsections B and D, any restrictions on such delegation 
+identified in the City of Toronto Act, 2006, other legislation or at common law, City 
+Council delegates its statutory authority under the City of Toronto Act, 2006, and under 
+any other legislation, to the Mayor, exclusively for use in emergencies. 
+
+The authority delegated to the Mayor in Subsection A may only be exercised in 
+accordance with the following criteria: 
+
+(1) 
+
+(2) 
+
+It is necessary to utilize the authority to address the situation in a timely manner. 
+
+In the opinion of the Mayor, it is reasonable to believe that the harm or damage 
+will be alleviated by the exercise of the delegated authority and exercising the 
+delegated authority is a reasonable alternative to other measures that might be 
+taken to address the situation. 
+
+59-7 
+
+October 3, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+(3) 
+
+(4) 
+
+(5) 
+
+The actions authorized under the delegated authority are exercised in a manner 
+which, consistent with the objectives of the exercise of the delegated authority, 
+reasonably limits their intrusiveness. 
+
+The exercise of the delegated authority only applies to the areas of the City of 
+Toronto where it is necessary. 
+
+The exercise of the delegated authority is effective only for as long as is 
+reasonably necessary. 
+
+The Mayor, through OEM, shall advise the members of City Council of any exercise of 
+authority delegated under this article within 24 hours of the date of exercise of the 
+authority. 
+
+The delegation of authority to the Mayor under Subsection A shall only be effective for 
+30 days from the first exercise of the authority in response to an emergency, unless City 
+Council authorizes an extension of such delegated authority. 
+
+Within 30 days of the Mayor's first exercise of the authority delegated under 
+Subsection A in response to an emergency, the Mayor shall prepare a report to City 
+Council for submission to the next scheduled meeting of the Executive Committee 
+providing: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+The justification for having exercised the delegated authority. 
+
+An outline of the actions taken with the delegated authority. 
+
+Any recommendations arising from the emergency. 
+
+To the extent of a conflict between this article and any chapter of the City of Toronto 
+Municipal Code, any other City by-law or the delegation of authority by City Council to 
+any person or body, or to the extent of a conflict between the exercise of the authority 
+delegated under this article and the exercise of any other authority delegated by City 
+Council, this article and the exercise of authority delegated under this article prevail, 
+despite the fact that any other delegated authority provides that it prevails in the event of 
+conflict. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+ARTICLE 7 
+Additional Authority in an Emergency 
+
+§ 59-7.1. Authority of Control Group. 
+
+In the event of an emergency, whether or not declared under this chapter or under the Act, the 
+Control Group is authorized to: 
+
+A. 
+
+B. 
+
+Initiate, co-ordinate, direct and otherwise bring about the implementation of the Plan and 
+undertake such other activities as they consider necessary to address the emergency. 
+
+Expend funds for the purposes of responding to and recovering from the emergency, 
+including obtaining and distributing emergency materials, equipment and supplies, 
+
+59-8 
+
+October 3, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 59, EMERGENCY MANAGEMENT 
+
+notwithstanding the requirements of any by-law governing the commitment of funds and 
+the payment of accounts. 
+
+C. 
+
+Obtain volunteer support from public agencies and other persons as considered necessary 
+and to indemnify such agencies, their personnel, and other persons engaged in work that 
+has been authorized under this chapter or any other law, from liability for any acts or 
+omissions resulting from any actions taken under this chapter or any other law. 
+
+§ 59-7.2. Authorization to act. 
+
+A. 
+
+B. 
+
+Notwithstanding any other provision of this chapter, City employees are authorized to 
+take such action under the Plan consistent with their usual duties as is reasonable and 
+necessary where an emergency exists but has not yet been declared to exist. 
+
+The authority conferred under this chapter may be exercised in order to address 
+emergencies affecting the City's property or other City interests outside the boundaries of 
+the City. 
+
+ARTICLE 8 
+Administration 
+
+§ 59-8.1. Public inspection of Plan. 
+
+A. 
+
+B. 
+
+C. 
+
+The Plan shall be made available to the public for inspection and copying at the office of 
+the City Clerk during ordinary business hours. 
+
+The Plan, or any amendments to the Plan, shall be filed immediately with the City Clerk 
+and shall be submitted to the Chief, Emergency Management Ontario, identified in the 
+Act. 
+
+In the event of any dispute with respect to the contents of the Plan, the information 
+contained in the Plan held by the City Clerk shall be deemed to be correct. 
+
+§ 59-8.2. Role of Executive Committee. 
+
+The Executive Committee shall be responsible for reporting to Council on all matters relating to 
+the planning and co-ordination of responses to emergencies affecting the City of Toronto or any 
+part or parts of it. 
+
+59-9 
+
+October 3, 2019 
+
+ 
+ 
+ 
+

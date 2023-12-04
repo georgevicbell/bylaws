@@ -1,0 +1,5244 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Chapter 227 
+
+RESERVES AND RESERVE FUNDS 
+
+ARTICLE I 
+Definitions 
+
+§ 227-1. Definitions. 
+
+ARTICLE II 
+Establishment of Reserves and Reserve Funds 
+
+§ 227-2. Authority to establish funds; report recommending establishment of reserve or 
+reserve fund. 
+
+ARTICLE III 
+Use and Administration of Reserves and Reserve Fund Moneys 
+
+§ 227-3. Quarterly report. 
+
+§ 227-4. Determinations made by Chief Financial Officer and Treasurer. 
+
+§ 227-5. Unused funds; transfer of funds; return of funds after sale of asset. 
+
+§ 227-6. Contributions to tax-supported reserves and reserve funds. 
+
+§ 227-7. Changes to be reported as appropriations. 
+
+§ 227-8. Legislative restrictions; authorization by Council required. 
+
+ARTICLE IV 
+(Reserved) 
+
+ARTICLE V 
+Reserves 
+
+ARTICLE VI 
+Reserve Funds 
+
+§ 227-9. (Reserved) 
+
+§ 227-10. Reserves. 
+
+§ 227-11. Reserve funds. 
+
+227-1 
+
+October 12, 2023 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+ARTICLE VII 
+Interest Earned on Reserves and Reserve Funds 
+
+§ 227-12. Reporting of earned interest. 
+
+§ 227-13. Earned interest to be credited to balance of fund. 
+
+ARTICLE VIII 
+Closing Reserves and Reserve Funds 
+
+§ 227-14. Recommendations on closure of account, disposition of funds and amendments. 
+
+ARTICLE IX 
+Title 
+
+ARTICLE X 
+When Effective 
+
+§ 227-15. Short title. 
+
+§ 227-16. Effective date. 
+
+SCHEDULE A 
+
+Appendix A   Reserves 
+
+Schedule 1 - Corporate Reserves 
+Schedule 2 - Toronto Water Reserves 
+Schedule 3 - Stabilization Reserves 
+Schedule 4 - Community Initiatives Reserve 
+Schedule 5 - Donations Reserves 
+
+Appendix B   Discretionary Reserve Funds 
+
+Schedule 6 - Employee Benefits Reserve Funds 
+Schedule 7 - Corporate Discretionary Reserve Funds 
+Schedule 8 - State Of Good Repair Discretionary Reserve Funds 
+Schedule 9 - Community Initiatives Discretionary Reserve Funds 
+
+Appendix C   Obligatory Reserve Funds 
+
+Schedule 10 - Parkland Acquisitions/New Development Obligatory Reserve Funds 
+Schedule 11 - Development Charges Obligatory Reserve Funds 
+Schedule 12 - Planning Act Obligatory Reserve Funds 
+Schedule 13 - Community Services Obligatory Reserve Funds 
+Schedule 14 - State Of Good Repair Obligatory Reserve Funds 
+Schedule 15 - Third Party Agreements Obligatory Reserve Funds 
+Schedule 16 - Toronto Water Reserve Funds 
+
+227-2 
+
+October 12, 2023 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 17 - Parking Authority Reserve Funds 
+
+Appendix D   Reserve Funds to be Transferred and then Closed 
+
+[History: Adopted by the Council of the City of Toronto September 30, 2004 by By-law 874-
+2004.1 Amendments noted where applicable.] 
+
+General References 
+
+Financial control - See Ch. 71. 
+Purchasing - See Ch. 195. 
+City of Toronto Act, 2006 - See S.O. 2006, c. 11. 
+Planning Act - See R.S.O. 1990, c. P.13. 
+
+ARTICLE I 
+Definitions 
+
+§ 227-1. Definitions. 
+
+As used in this chapter, the following terms shall have the meanings indicated: 
+
+ACCOUNT - A subaccount of a reserve or reserve fund used to track the in flow and out flow of 
+funds for a particular purpose within the main reserve/reserve fund. [Added 2006-02-02 by By-
+law 90-2006] 
+
+ACCOUNT GROUP - A subaccount of a reserve or reserve fund which summarizes a group of 
+accounts for reporting purposes. [Added 2006-02-02 by By-law 90-2006] 
+
+CAPITAL PROJECT- Any undertaking in respect of which an expenditure is incurred to acquire, 
+improve and maintain land, buildings, engineering structures, machinery and equipment, 
+including installation of computer software, and is the level at which Council approves funding 
+and funds control in the capital budget. 
+
+CHIEF FINANCIAL OFFICER AND TREASURER - A person appointed by Council as Chief 
+Financial Officer and Treasurer. [Added 2006-02-02 by By-law 90-2006; amended 2018-07-27 
+by By-law 1206-2018; 2018-12-13 by By-law 17-20192] 
+
+CONFIRMATORY BY-LAW - The by-law adopted by a Council at the end of a Council meeting 
+to confirm the proceedings taken at that meeting.3 
+
+CONTROLLER - A person appointed to the management position of Controller in the City's 
+administrative organization and who has also been appointed as a deputy treasurer under 
+
+1
+
+ Editor's Note: This by-law was passed under the authority of section 417 of the Municipal Act, 2001, S.O. 2001, c. 25. This by-law also 
+
+repealed former Ch. 227, Reserves and Reserve Funds, adopted April 13, 2000 by By-law 181-2000, as amended. 
+2
+
+ Editor's Note: By-law 17-2019 deleted all references to the title "Chief Financial Officer" and replaced the title with "Chief Financial 
+
+Officer and Treasurer". By-law 17-2019 is deemed to have come into force on October 23, 2018. 
+3
+
+ Editor's Note: The definitions of "cost centre," "cost centre group" and "department," which previously followed this definition, were 
+
+repealed February 2, 2006 by By-law 90-2006. 
+
+227-3 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+subsection 138(2) of the City of Toronto Act, 2006. [Amended 2006-02-02 by By-law 90-2006; 
+2008-07-17 by By-law 799-2008; 2018-12-13 by By-law 17-20194] 
+
+DISCRETIONARY RESERVE FUNDS - Reserve funds created at the discretion of Council 
+whenever revenues are earmarked to finance future expenditures of a purpose designated by 
+Council. [Amended 2008-07-17 by By-law 799-2008] 
+
+DIVISION - An organizational unit of the City, whether or not it is called a division or office, 
+that is headed by a division head. [Added 2006-02-02 by By-law 90-2006] 
+
+OBLIGATORY RESERVE FUNDS - Reserve funds that are required by legislation which 
+stipulates that certain revenue received for special purposes be segregated from the general 
+revenues of the municipality, and reserve funds that are comprised of money received by the City 
+as financial contributions for works to be undertaken by the City on behalf of the contributor. 
+[Amended 2008-07-17 by By-law 799-2008] 
+
+PROGRAM - Any organizational unit that may encompass one or more related municipal 
+services, usually a division, that is aimed at one or more target groups and is either mission-
+driven or mandate-driven and is the level at which Council approves funding and funds control 
+in the operating budget. [Amended 2006-02-02 by By-law 90-2006] 
+
+RESERVE - An allocation of accumulated net revenue which is a part of the revenue fund, 
+makes no reference to any specific asset and does not require the physical segregation of money 
+or assets. 
+
+RESERVE FUND - A fund that is segregated and restricted to meet a specified purpose and 
+includes both an obligatory reserve fund and a discretionary reserve fund.5 
+
+ARTICLE II 
+Establishment of Reserves and Reserve Funds 
+
+§ 227-2. Authority to establish funds; report recommending establishment of reserve or 
+
+reserve fund. 
+
+[Amended 2006-02-02 by By-law 90-2006; 2008-07-17 by By-law 799-2008] 
+
+A.  Council, on the recommendation of the Chief Financial Officer and Treasurer, may 
+
+establish a reserve or discretionary reserve fund or an account or an account group within 
+such a reserve or reserve fund and shall establish an obligatory reserve fund or an account 
+or an account group within an obligatory reserve or reserve fund. 
+
+B.  An account can be recommended to be established as a reserve fund or a reserve fund 
+
+account only if at least one of the following applies: 
+
+4
+
+ Editor's Note: By-law 17-2019 deleted all references to "Treasurer" and replaced the title with "Controller".  By-law 17-2019 is 
+
+deemed to have come into force on October 23, 2018. 
+5
+
+ Editor's Note: The definition of "service area owner," which previously followed this definition, was repealed February 2, 2006 by By-
+
+law 90-2006. 
+
+227-4 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+(1)  A mandatory obligation exists, either pursuant to legislation or contract, to provide 
+
+interest on the funds; 
+
+(2)  With the exception of donated funds, the funds are intended for purchasing or 
+
+maintaining a capital asset; 
+
+(3)  The funds are intended to fund a future liability which is increasing over time; and 
+
+(4)  The funds are intended for an endowment. 
+
+C.  A report which recommends the establishment of an account, account group, reserve, or 
+reserve fund must be signed by the Chief Financial Officer and Treasurer and include the 
+following: 
+
+(1)  Statement of purpose. 
+
+(2)  Designation of the beneficiary program area. 
+
+(3)  Rationale for the appropriate level to be maintained or target in the account, as 
+
+appropriate. 
+
+(4) 
+
+Initial contribution, if any. 
+
+(5)  Contribution policy. 
+
+(6)  Withdrawal policy. 
+
+(7)  The review cycle which would provide the necessary periodic review to ensure a 
+
+suitable level of funds, the appropriateness of the account and the conditions, if any, 
+on which the account, account group, reserve or reserve fund may be closed. 
+
+D. 
+
+If a report recommending the establishment of an account, account group, reserve or 
+reserve fund is approved by Council without including any of the criteria required by 
+§ 227-2C(2) through (7), the Chief Financial Officer and Treasurer is authorized to 
+establish any of the criteria required by § 227-2C(2) through (7) for the account, account 
+group, reserve or reserve fund. 
+
+E.  The Controller is authorized to establish accounts within the Corporate Discretionary 
+
+Reserve Fund - Land Acquisition Group in Appendix B, Schedule 7, should such accounts 
+be required to hold net sale proceeds generated from the disposal of surplus properties, and 
+to establish the criteria required by § 227-2C(1) through (7) for any such accounts 
+established. 
+
+F. 
+
+The Controller is authorized to establish accounts within the Planning Act Reserve Fund in 
+Appendix C, Schedule 12, in respect of funds received by the City through agreements 
+entered into pursuant to section 37 of the Planning Act, and to establish any of the criteria 
+required by § 227-2C(1) through (7) for any such accounts established provided that the 
+agreement, including the amount of funding to be obtained by the City pursuant to the 
+agreement, was approved by Council. 
+
+227-5 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+ARTICLE III 
+Use and Administration of Reserves and Reserve Fund Moneys 
+
+§ 227-3. Quarterly report. 
+
+[Amended 2006-02-02 by By-law 90-2006; 2019-01-31 by By-law 255-20196] 
+
+The Chief Financial Officer and Treasurer shall, as part of the annual budget process, report 
+quarterly to the Executive Committee on inflows to and outflows from each reserve and reserve 
+fund. 
+
+§ 227-4. Determinations made by Chief Financial Officer and Treasurer. 
+
+[Amended 2006-02-02 by By-law 90-2006] 
+
+The Chief Financial Officer and Treasurer shall, in consultation with a beneficiary program and 
+subject to compliance with any legislative restrictions, determine: 
+
+A. 
+
+B. 
+
+If the use of a reserve or reserve fund is an appropriate funding source for a program in the 
+operating budget or a capital project in the capital budget; or 
+
+If funds should be contributed to a reserve or reserve fund and, if so, the source of those 
+funds. 
+
+§ 227-5. Unused funds; transfer of funds; return of funds after sale of asset. 
+
+A. 
+
+B. 
+
+C. 
+
+If funds are withdrawn from a reserve or reserve fund for the purposes of a specific 
+program or capital project and it is subsequently determined that the funds are not 
+necessary, in whole or in part, for the program or project, any unused funds shall be 
+returned to the reserve or reserve fund from which they were withdrawn. 
+
+If funds have been withdrawn from a reserve or reserve fund and such period of time has 
+elapsed since the withdrawal that the original reserve or reserve fund cannot be traced or is 
+no longer necessary, the Chief Financial Officer and Treasurer shall, subject to compliance 
+with any legislative restrictions, report to the Executive Committee on the transfer of such 
+funds to general revenues or another reserve or reserve fund. [Amended 2006-02-02 by 
+By-law 90-2006; 2019-01-31 by By-law 255-20197] 
+
+If the remaining funds in an account in the Planning Act Reserve Fund in Appendix C, 
+Schedule 12, has a remaining balance of the lesser of 10 percent of the original balance of 
+the account, or $10,000, and the funds are no longer required for the purpose for which 
+they were originally obtained, the Chief Financial Officer and Treasurer may use the funds 
+
+6
+
+7
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+227-6 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+for similar purpose within the same ward as the original purpose. [Added 2008-07-17 by 
+By-law 799-20088] 
+
+D.  Refund of funds after sale of asset; land transactions.  
+
+(1)  Subject to Subsection D(2), if a reserve or reserve fund is used to acquire an asset and 
+
+the asset is subsequently sold, the net proceeds from the sale shall be returned to the 
+reserve or reserve fund from which the acquisition was funded. 
+
+(2)  The sale of City-owned real property is subject to the policy and procedures 
+
+governing land transactions among City agencies, boards, commissions and divisions, 
+including the allocation of net proceeds from the sale of City-owned real property, 
+and, subject to Subsection D(3), Subsection D(1) shall not apply to the net proceeds 
+of sale of real property which real property: [Amended 2006-02-02 by By-law 90-
+2006] 
+
+(a)  Was originally purchased using funds from a reserve or reserve fund; 
+
+(b)  Was under the operational jurisdiction of one or more City agencies, boards, 
+
+commissions or divisions until it was released from such jurisdiction and sold, 
+and which agency(s), board(s), commission(s) have agreed to reciprocate in 
+making lands held in their title available through the City's property 
+management process to other agencies, boards, commissions or divisions at no 
+cost; and 
+
+(c)  Was used by the City agency(s), board(s), commission(s) or division(s) referred 
+
+to in Subsection D(2)(b) for a minimum of 10 years; and 
+
+(3)  Subsection D(2) does not apply to real property all or a portion of which was or will 
+be developed, and a portion of which continued to be occupied for operational 
+purposes by the agency(s), board(s), commission(s) or division(s). [Amended 2006-
+02-02 by By-law 90-2006] 
+
+§ 227-6. Contributions to tax-supported reserves and reserve funds. 
+
+[Amended 2006-02-02 by By-law 90-2006] 
+
+In accordance with Council's approved policies for addressing under-funding, the Chief Financial 
+Officer and Treasurer shall, subject to any legislative restrictions, be authorized to make 
+contributions to any tax-supported reserve or reserve fund: 
+
+A.  To reduce or eliminate unanticipated changes in future years' tax rates that may otherwise 
+
+occur due to changes in the surplus from year to year; or 
+
+B.  To fund an unfunded reserve or reserve fund 
+
+8
+
+ Editor's Note: This by-law came into force January 1, 2008 and also provided for the redesignation of former Subsection C as 
+
+Subsection D. 
+
+227-7 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+§ 227-7. Changes to be reported as appropriations. 
+
+All increases and decreases to reserves and reserve funds shall be reported as appropriations to 
+and from the respective reserves and reserve funds. 
+
+§ 227-8. Legislative restrictions; authorization by Council required. 
+
+The use of money in reserves and reserve funds is subject to compliance with any legislative 
+restrictions and shall only be authorized by Council. 
+
+ARTICLE IV9 
+(Reserved) 
+
+ARTICLE V 
+Reserves 
+
+§ 227-9. (Reserved) 
+
+§ 227-10. Reserves. 
+
+[Amended 2006-02-02 by By-law 90-2006; 2008-07-17 by By-law 799-2008] 
+
+The reserves listed in Appendix A, attached at the end of this chapter, are the reserves into which 
+shall be deposited the money allocated by Council and shall be used for the purposes as set out. 
+
+ARTICLE VI 
+Reserve Funds 
+
+§ 227-11. Reserve funds. 
+
+[Amended 2006-02-02 by By-law 90-2006] 
+
+A.  The discretionary reserve funds listed in Appendix B and the obligatory reserve funds listed 
+in Appendix C, attached at the end of this chapter, are the reserve funds into which shall be 
+deposited the money allocated by Council or required to be deposited therein by legislation 
+and shall be used for the purposes as set out. 
+
+B.  The reserve funds in Appendix D shall be used for the purposes as set out and when fully 
+
+expended will be deleted from the chapter. 
+
+9
+
+ Editor's Note: Former Art. IV, History, consisting of § 227-9, was repealed February 2, 2006 by By-law 90-2006. 
+
+227-8 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+ARTICLE VII 
+Interest Earned on Reserves and Reserve Funds 
+
+§ 227-12. Reporting of earned interest. 
+
+The interest earned by a reserve shall be reported as earnings of the operating fund. 
+
+§ 227-13. Earned interest to be credited to balance of fund. 
+
+The interest earned by a reserve fund shall be credited to the balance of that reserve fund. 
+
+ARTICLE VIII 
+Closing Reserves and Reserve Funds 
+
+§ 227-14. Recommendations on closure of account, disposition of funds and amendments. 
+
+[Amended 2006-02-02 by By-law 90-2006; 2019-01-31 by By-law 255-201910] 
+
+If the purpose or purposes for which the reserve or reserve fund was created have been 
+accomplished and the reserve or reserve fund is determined to be no longer necessary, the Chief 
+Financial Officer and Treasurer, in consultation with the beneficiary program, shall, subject to 
+any legislative restrictions, report to the Executive Committee and Council with 
+recommendations on: 
+
+A.  The closure of the reserve or reserve fund account. 
+
+B.  The disposition of any remaining funds. 
+
+C.  The necessary amendment to this chapter. 
+
+ARTICLE IX 
+Title 
+
+§ 227-15. Short title. 
+
+The short title of this chapter is the "Reserves and Reserve Funds By-law." 
+
+10
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+227-9 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+ARTICLE X 
+When Effective 
+
+§ 227-16. Effective date. 
+
+Subject to § 227-16, this chapter shall be deemed to have come into force on the day that it is 
+enacted and passed. 
+
+227-10 
+
+October 12, 2023 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+SCHEDULE A11 
+
+Appendix A   
+Reserves 
+
+Schedule 1 - Corporate Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Arbitration and Legal Awards 
+[Amended 2009-01-28 by By-
+law 66-2009] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides funding for the costs of, or receives funds from, 
+arbitration, awards and legal claims. 
+
+Fleet Services 
+
+Vehicle and Equipment 
+Replacement Group [Amended 
+2009-01-28 by By-law 66-2009; 
+2010-04-01 by By-law 343-2010; 
+2010-08-27 by By-law 1148-
+2010; 2012-11-29 by By-law 
+1638-2012 and 1639-2012; 2013-
+01-16 by By-law 4-2013; 2013-
+12-17 by By-law 1681-2013; 
+2014-08-28 by By-law 990-2014] 
+
+  Solid Waste 
+
+Provides funding to purchase or acquire any vehicles or 
+equipment for programs and agencies, boards and 
+commissions, with the exception of the Toronto Transit 
+Commission.  Provides funding for the replacement of the 
+aging ferry fleet servicing the Toronto Islands. Funding 
+promotes efficiencies and provides budget stabilization by 
+moderating large fluctuations in annual replacement of 
+vehicles and equipment. 
+
+Transportation 
+Engineering and Construction Services [Amended 2017-03-29 by By-law 296-2017] 
+Fire – Vehicle 
+Toronto Paramedic Services Vehicle [Amended 2021-12-17 by By-law 1102-2021] 
+Toronto Paramedic Services Equipment [Amended 2021-12-17 by By-law 1102-2021] 
+Fire – Equipment 
+Shelter, Support & Housing Admin. 
+Public Health 
+Economic Development and Culture Vehicle [Amended 2021-12-17 by By-law 1102-2021] 
+Parks, Forestry, and Recreation 
+Toronto Building 
+Municipal Licensing & Standards 
+PPF&A 
+Facilities and Real Estate 
+Fleet 
+Clerks – Vehicle 
+Human Resources 
+Clerks – Equipment 
+IT – Sustainment 
+IT – Vehicle 
+Insurance Top Up 
+Library 
+Exhibition Place 
+Zoo 
+Wheel-Trans 
+Arena Boards 
+
+11
+
+Note: For a complete amendment history of Schedule A and all Appendices and Schedules, see the By-law Status Registry. 
+
+227-11 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 1 - Corporate Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Mayor's Office 
+Council 
+Seniors Services and Long-Term Care Vehicle [Amended 2021-12-17 by By-law 1102-2021] 
+Purchasing and Materials Management 
+Toronto Community Housing Corporation 
+Ferry Replacement Reserve 
+Vehicle Reserve - OEM 
+Vehicle Reserve - Ex Non-motorized Equipment 
+
+Bike Share Program [Added 
+2013-11-15 by By-law 1506-
+2013; amended 2014-08-28 by 
+By-law 990-2014] 
+
+Transportation 
+Services 
+
+Provides a source of funding for the debt, transition costs, 
+interim operating payments, capital expansion and 
+replacement costs and ongoing operating contributions to 
+the Toronto Parking Authority for any system operating 
+losses. 
+
+Capital Financing 
+
+Corporate Conference [Added 
+2010-07-08 by By-law 806-2010] 
+
+Council Furniture and Equipment 
+[Added 2012-07-13 by By-law 
+1044-2012] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+City Clerk 
+
+Council Transition 
+[Added 2012-07-13 by By-law 
+1044-2012] 
+
+City Clerk 
+
+Provides funding for capital expenditures. 
+
+Funds conferences hosted by the City of Toronto. 
+
+Receives, holds and is drawn on to provide for the state of 
+good repair and replacement of furniture and offices of 
+Members of Council at City Hall, or constituency offices at 
+civic centres or other properties. 
+
+Receives, holds and is drawn on to provide for the 
+expenses required during Council transition, including but 
+not limited to the payment of severance for Members of 
+Council and their staff, the set-up of transition offices and 
+payment for transition staff, and other transition-related 
+expenses. 
+
+Doubtful Loan Guarantee Reserve [Added 2023-09-06 by By-law 795-2023; deleted 2023-10-12 by By-law 960-
+2023] 
+
+Emergency Technology 
+Acquisition 
+(Closed: Appendix D) 
+
+Emergency Planning  
+
+IT 
+
+Provides funding for the internal leasing of technology 
+acquisitions. 
+
+Provides funding to support the City's ability to deter 
+threats from terrorism and to respond to emergencies 
+brought about by terrorism and other catastrophes. 
+
+Engineering and 
+Construction 
+Services 
+[Amended 2017-
+03-29 by By-law 
+296-2017] 
+
+227-12 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 1 - Corporate Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Housing Allowance 
+[Added 2013-10-11 by By-law 
+1331-2013] 
+
+Shelter, Support 
+and Housing 
+Administration 
+
+Provides funding for housing allowances to individuals at 
+risk of homelessness. 
+
+Police Legal Liabilities [Added 
+2010-04-01 by By-law 802-2008; 
+amended 2012-11-29 by By-law 
+1638-2012] 
+
+Police 
+
+Police Modernization [Added 
+2017-10-04 by By-law 1052-
+2017] 
+
+Police 
+
+Telecommunications Group 
+[Added 2008-07-17 by By-law 
+802-2008] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides a source of funding for 
+(i) the indemnification of necessary and reasonable legal 
+costs incurred by active and former officers where they 
+have been investigated and charged, but not found guilty;  
+(ii) the indemnification in criminal or statutory offences, 
+civil actions or inquiries under the Coroners Act; 
+(iii) funding settlement expenses and legal costs related to 
+any grieved or arbitrated matter experienced by the 
+Service, and 
+(iv) all legal expenses incurred including legal defence 
+other than indemnification, and the hiring of outside 
+prosecutors, as required to alleviate conflict of interest 
+situations, for Police Services Act tribunals 
+
+To provide a source of funding to enable modernization 
+and transformation initiatives for the Toronto Police 
+Service to achieve a more effective, efficient and value 
+added police service.  Funds in this reserve account will 
+support necessary activities for the implementation of 
+recommendations in the Transformational Task Force's 
+final report as well as future actions and initiatives to 
+modernize the Toronto Police Service. 
+
+Provides funding for telecommunications infrastructure 
+improvements. 
+
+Telecommunications 
+Development 
+
+Transportation 
+
+Provides funding for initiatives that further develop the 
+City's strategy with respect to telecommunications matters. 
+
+Telecommunications 
+Public Policy Benefits 
+Account [Added 2008-07-
+17 by By-law 802-2008] 
+
+Information 
+Technology 
+
+Provides funding for telecommunications infrastructure 
+improvements supporting the City's public policy benefits 
+as may be stated from time to time. 
+
+Utility Conservation and Retrofit  Facilities & Real 
+
+Estate 
+
+Provides funding for short falls in energy budgets in 2002 
+and permits its use as a revolving loan fund to finance 
+approved retrofit capital projects, to be repaid from 
+program operating budgets as facilitated by energy savings. 
+
+Vehicle and Equipment Reserve – 
+Police [Added 2012-11-29 by 
+By-law 1638-2012] 
+
+Police 
+
+Provides funding to purchase or acquire any vehicles or 
+equipment including but not limited to IT hardware and 
+major software, video equipment, furniture and hand held 
+devices for Toronto Police Services.  Funding promotes 
+
+227-13 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 1 - Corporate Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+efficiencies and provides budget stabilization by 
+moderating large fluctuations in the annual replacement of 
+vehicles and equipment 
+
+Working Capital 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides funding to stabilize the City's budgets from year 
+to year due to various unanticipated financial pressures. 
+
+227-14 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix A 
+Reserves 
+
+Schedule 2 - Toronto Water Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Vehicle and Equipment 
+Replacement – Water/Waste Water 
+
+Toronto Water 
+
+Waste Water Stabilization 
+
+Toronto Water 
+
+Water Stabilization 
+
+Toronto Water 
+
+Provides funding to purchase or acquire any vehicles or 
+equipment for water/waste water.  Funding promotes 
+efficiencies and provides budget stabilization by 
+moderating large fluctuations in the annual replacement 
+of vehicles and equipment. 
+
+Provides funding to stabilize each year the net 
+expenditures for waste water supply requirements and 
+funding for capital projects. 
+
+Provides funding to stabilize each year the net 
+expenditures for water supply requirements and 
+funding for capital projects. 
+
+227-15 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix A 
+Reserves 
+
+Schedule 3 - Stabilization Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Assessment Appeal Stabilization 
+[Added 2013-06-13 by By-law 
+825-2013] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides funding to offset any annual shortfall in amounts 
+budgeted for property tax decreases (tax deficiences) due 
+to assessment appeal losses and the actual amount of tax 
+deficiencies occurring during the year. 
+
+Commodity Price Stabilization 
+[Added 2009-08-06 by By-law 
+711-2009] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Moderates the budgetary impact of commodities that are 
+purchased in accordance with the City's Statement of 
+Commodity Hedging Policies and Goals. 
+
+Debt Servicing Stabilization [Added 2021-12-17 by By-law 1102-2021; deleted 2023-02-15 by By-law 169-2023] 
+
+Emergency Human Service 
+[Added 2010-06-09 by By-law 
+631-2010] 
+
+Shelter, Support and 
+Housing 
+Administration 
+
+Receives annual surpluses from the Emergency Human 
+Services Relief Expense Account and to supplement 
+funding in the Emergency Human Services Expense 
+Account in years in which it has a deficit. 
+
+Exhibition Place Stabilization 
+(Metro) 
+
+Exhibition Place 
+
+Provides funding to stabilize Exhibition Place operations. 
+
+Extreme Weather Reserve Group  Chief Financial 
+
+Officer and 
+Treasurer 
+
+Corporate Extreme 
+Weather 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Transportation Services 
+Extreme Weather 
+
+Transportation 
+
+Mitigates the financial impacts arising from extreme 
+weather conditions on the operating and capital budgets of 
+the City's programs and services, by providing funding at 
+the end of the year to offset partly a budget deficit resulting 
+from unbudgeted and uninsured weather-related costs 
+incurred during the year. 
+
+Mitigates the financial impacts arising from extreme 
+weather conditions on the operating and capital budgets of 
+the Parks, Forestry and Recreation Division or any other 
+City program which does not have a stabilization reserve of 
+its own subject to the approval of the Chief Financial 
+Officer and Treasurer under the Surplus Management 
+Policy, by providing funding at the end of the year to offset 
+partly a budget deficit resulting from unbudgeted and 
+uninsured weather-related costs incurred during the year. 
+
+Mitigates the financial impacts arising from extreme 
+weather conditions on the operating and capital budgets of 
+Transportation Services by providing funding at the end of 
+the year to offset partly a budget deficit resulting from 
+unbudgeted weather-related costs incurred during the year. 
+
+227-16 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 3 - Stabilization Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Fleet Services Stabilization 
+[Added 2014-01-30 by By-law 
+77-2014] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides funding for any deficit in the Fleet Services 
+Operations or to be transferred to the Fleet Services 
+Reserve Account in the Vehicle and Equipment 
+Replacement Group to fund any backlog of vehicles 
+needing to be replaced. 
+
+Information & Technology 
+Stabilization 
+
+IT 
+
+Provides capital funding for the purchase of Information & 
+Technology equipment. 
+
+Investment Stabilization [Added 
+2018-06-29 by By-law 826-2018] 
+
+Corporate Finance  Holds funds to stabilize investment income contributions to 
+
+the operating budget by minimizing in-year variances 
+through the receipt of funds in years when investment 
+income is in excess of the amount expected in the 
+operating budget and the withdrawal of funds in years 
+when investment income is below budget. 
+
+Police Museum [Added 2012-11-
+29 by By-law 1638-2012] 
+
+Police 
+
+Provides and receives funding to stabilize the operation of 
+the Police Museum.  
+
+Provincial Offences Courts 
+Stabilization 
+
+Court Services 
+
+Provides funding for 2001 pre-transfer start-up operating 
+and capital costs to set up the required new or augmented 
+facilities and information systems for the POA.  For 
+subsequent budget years, this reserve fund will provide 
+capital funding for Provincial Offences Court 
+requirements, to avoid the issuance of new debt. 
+
+Seniors Services and Long-Term 
+Care Stabilization [Amended 
+2021-12-17 by By-law 1102-
+2021] 
+
+HFA 
+
+Provides funding for a hedge against future fluctuations in 
+provincial subsidies and revenues and thereby helps 
+improve the City's capacity to plan operationally and 
+financially in the future. 
+
+Social Assistance Stabilization 
+
+Social Services 
+
+Provides funding to stabilize social assistance costs 
+resulting from changes in caseload. 
+
+Social Housing Stabilization 
+[Amended 2016-12-15 by By-
+law 1243-2016] 
+
+Shelter, Support & 
+Housing Adm. 
+
+Providing funding to mitigate the financial exposure 
+associated with Social Housing Devolution as well as the 
+needs of the City Shelters, including the following 
+purposes: 
+
+1.  Stabilization of in-year variances as well as 
+
+unanticipated year-to-year expenditure fluctuations, to 
+help minimize or phase in their impacts on the 
+property tax rate; 
+
+2.  Supplementation of funds for capital repairs, in regard 
+to urgent needs or phase-in toward higher funding 
+levels; and 
+
+3.  Funding other potential liabilities as they arise. 
+
+227-17 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 3 - Stabilization Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Sony Centre Stabilization [Amended 2021-04-08 By By-law 255-2021; deleted 2021-12-17 by By-law 1102-
+2021] 
+
+Tax Rate Stabilization [Amended 
+2018-03-27 by By-law 297-2018] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+TO Live Programming [Added 
+2019-06-19 by By-law 966-2019] 
+
+TO Live 
+
+Provides funding for non-recurring expenditures required 
+to eliminate any year-end operating deficit. 
+
+Provides funding to TO Live for research and development 
+for programming initiatives to develop programming plans 
+in advance of the annual budget cycle and provide 
+flexibility to develop programming initiatives where 
+funding is required. 
+
+Toronto Centre for the Arts Stabilization [Amended 2010-04-01 by By-law 343-2010; deleted 2021-12-17 by By-
+law 1102-2021] 
+
+TTC Stabilization 
+
+Zoo Stabilization 
+
+TTC 
+
+Zoo 
+
+Provides funding to stabilize TTC operation. 
+
+Provides funding to enable fiscal stabilization for the Toront  
+Zoo, for example, to permit investment in revenue generatin  
+initiatives, to prepare for special events in advance of a 
+budget year, to offset Zoo revenue shortfalls. Funding shall 
+not be used to offset losses resulting from a labour dispute. 
+
+227-18 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix A 
+Reserves 
+
+Schedule 4 - Community Initiatives Reserve12 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+12
+
+ Editor's Note: By-law 1681-2013 deleted the entry in Schedule 4, Community Initiatives Reserves. This Schedule is reserved. 
+
+227-19 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix A 
+Reserves 
+
+Schedule 5 - Donations Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Allan Gardens Revitalization 
+
+Parks, Forestry & 
+Recreation 
+
+Provides funding for, but not limited to, the planning, 
+design, and revitalization of Allan Gardens. 
+
+Art Collection 
+
+Economic Dev. & 
+Culture 
+
+Provides funding for the acquisition of art for the City 
+of Toronto art collection. 
+
+Balfour Park Improvements  
+
+Parks, Forestry & 
+Recreation 
+
+Provides account to receive donations for the park and 
+to provide funds for the planned park enhancements 
+including a reservoir-top garden. 
+
+Chinese Archway  
+
+Economic Dev. & 
+Culture 
+
+Provides funding for the construction and maintenance 
+of Phase Two of the Chinese Archway structure at 
+Gerrard Street East at Hamilton Street. 
+
+Cross Town Parks [Added 2010-
+06-09 by By-law 657-2010] 
+
+Parks, Forestry & 
+Recreation 
+
+Receives cash donations from the Cross Town Parks 
+Fundraising Committee in order to enhance Ramsden 
+Park, Budd Sugarman Park and the associated 
+Rosedale Station TTC Bus Loop Lands. 
+
+Earl Bales Bandshell 
+
+Economic Dev. & 
+Culture 
+
+Provides funding for the construction of bandshell in 
+Earl Bales Parks. 
+
+Glen Cedar Park [Added 2010-07-
+08 by By-law 806-2010] 
+
+Parks, Forestry & 
+Recreation 
+
+Receives cash donations toward enhancements of Glen 
+Cedar Park. 
+
+Gzowski Donation [Added 2010-
+07-08 by By-law 803-2010] 
+
+Parks, Forestry & 
+Recreation 
+
+Receives cash donations from the Toronto Canadian 
+Navy Centennial Committee in order to enhance Sir 
+Casimir Gzowski Park. 
+
+June Callwood Park [Amended 
+2011-07-14 by By-law 968-2011] 
+
+Parks, Forestry & 
+Recreation 
+
+Historical Museum (Scarborough)  Economic Dev. and 
+
+Culture 
+
+Receives funds from public and private donors for, but 
+not limited to, the operation, maintenance, 
+programming, planning, design, development, and 
+revitalization of June Callwood Park. 
+
+Provides funding for the purchase and restoration of 
+artifacts or costs related to historical buildings.  Funds 
+include donations received from the public, 
+corporations and contributions from the Scarborough 
+Historical Society. 
+
+Museum Group [Amended 2018-
+03-27 by By-law 297-2018] 
+   Spadina Museum 
+   Collections and Conservation 
+   General 
+
+Economic Dev. and 
+Culture 
+
+Provides funding to enhance the museum sites, to 
+purchase artefacts for the City Collection and to accept 
+both cash from donors and monies acquired through the 
+deaccession of donated artefacts. 
+
+227-20 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 5 - Donations Reserves 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Playgrounds Group 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for the redevelopment of 
+playgrounds. 
+
+  Kew Gardens Playground 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for the redevelopment of the 
+Kew Gardens Playground. 
+
+Public Arts 
+
+Economic Dev. and 
+Culture 
+
+Provides funding to assist in the creation of public art 
+projects in prominent locations. 
+
+Sony Centre Stabilization 
+[Amended 2021-04-08 by By-law 
+255-2021] 
+
+Chief Financial 
+Officer and Treasurer 
+
+Toronto Fire Services Public 
+Education 
+
+Fire 
+
+Toronto Museum Donation [Added 
+2010-04-01 by By-law 343-2010] 
+
+Economic 
+Development, Culture 
+and Tourism 
+
+Provides funding to finance capital improvements to 
+the Sony Centre, to finance fund raising and 
+extraordinary programming opportunities specifically 
+related to the redevelopment plan and for no other 
+purposes. 
+
+Provides funding for the development of a Fire 
+Services Public Education Centre at the Harbourfront 
+Fire Station and/or to provide funding for the Toronto 
+Fire Prevention Risk Watch Program. 
+
+Receives donations and contributions toward the 
+establishment of a Toronto Museum and to provide a 
+source of funds for the preparation, development, site 
+acquisition, exhibits creation including the acquisition 
+of materials and artifacts, maintenance, operations and 
+possible endowment fund for the establishment of 
+same. 
+
+Tower Renewal [Added 2010-06-
+09 by By-law 632-2010] 
+Vermont Square [Added 2010-06-
+09 by By-law 633-2010] 
+
+City Manager 
+
+Parks, Forestry and 
+Recreation 
+
+Receives cash donations to deliver on building stronger 
+communities, including social and cultural benefits. 
+Receives cash donations from the Vermont Square 
+Fundraising Committee to fund further park 
+enhancements in Vermont Square. 
+
+Wabash Community Centre Project  Parks, Forestry and 
+
+Recreation 
+
+Provides funding for, but not limited to, the planning, 
+design, and development of the Wabash Community 
+Centre. 
+
+Ward 19 Woodbine Beach Park 
+Playground [Amended 2019-01 31 
+by By-law 255-201913] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for the planning, design and 
+development of additional phases of the Ward 19 
+Woodbine Beach Park Playground and related 
+amenities. 
+
+Ward 21 Skateboard Park 
+[Amended 2019-01 31 by By-law 
+255-201914] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for the planning, design and 
+development of additional phases of the Ward 21 
+Skateboard Park and related amenities. 
+
+13
+
+14
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+227-21 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix B   
+Discretionary Reserve Funds 
+
+Schedule 6 - Employee Benefits Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Employee/Retiree Benefits 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides funding for the benefit costs of employees and 
+retirees. 
+
+Police Central Sick Pay 
+
+Police 
+
+Police Health Care Spending 
+[Added 2010-04-01 by By-law 
+343-2010] 
+
+Police 
+
+Provides funding for additional sick pay benefits to 
+members of the Police Service whose regular sick leave 
+credits have been exhausted, due to disability while in 
+service. 
+
+Provides a source of funding for a non-cumulative health 
+care spending account for members of the Toronto Police 
+Service retiring on an unreduced pension until age 
+seventy-five for both the member and their spouse. 
+
+Sick Leave 
+
+Workers' Compensation 
+
+Workforce Reduction 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides funding for payment of vested accumulated sick 
+time credits to employees upon termination of 
+employment. 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides funding for Workers' Compensation claim 
+payments.  This fund is required to ensure funds are 
+available for future payments of current claims. 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides funding for the personnel costs resulting from 
+early retirement downsizing initiatives and other exits. 
+
+227-22 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix B 
+Discretionary Reserve Funds 
+
+Schedule 7 - Corporate Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Animal Service Efficiency 
+[Added 2010-08-27 by By-law 
+1148-2010] 
+
+Municipal 
+Licensing and 
+Standards 
+
+Animal Transaction 
+
+Zoo 
+
+Funds debt charges arising from the South Regional 
+Animal Centre. 
+
+Fund is to facilitate the purchase, sale and trading of 
+animals and animal embryos for the Metro Toronto Zoo 
+and for participation in consortiums for the preservation of 
+endangered animals. 
+
+Better Buildings Partnership 
+(BBP) Loan Repayment [Added 
+2014-08-28 by By-law 990-2014] 
+
+Facilities and Real 
+Estate 
+
+Provides funding in support of the Better Buildings 
+Partnership Loan Program and other program initiatives of 
+the Energy Efficiency Office. 
+
+Capital from Current [Added 
+2023-02-15 by By-law 169-2023] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides a financing mechanism on a pay as you go basis 
+for ongoing capital needs of assets that have a shorter 
+lifecycle and reduce reliance on debt issuance. 
+
+City Building [Added 2016-11-09 
+by By-law 1067-2016] 
+
+City Parking [Added 2014-08-28 
+by By-law 990-2014] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Holds funding for priority transit and Housing capital 
+projects approved by City Council. 
+
+Provides for the accumulation of net proceeds from 
+municipal parking operations.  Monies are to be applied 
+first, to principal and interest on debentures; second, to 
+new facilities; and third, to general purposes as determined 
+by Council. 
+
+Climate Change Reserve Fund 
+Group [Added 2009-01-28 by 
+By-law 66-2009; amended 2009-
+08-06 by By-law 710-2009] 
+
+Deputy City 
+Manager, Corporate 
+Services 
+
+Provides revolving loan funds for projects that improve 
+energy efficiency in buildings or generate renewable 
+energy in Toronto. 
+
+Carbon Credit Reserve 
+Fund [Added 2016-03-10 
+by By-law 200-2016] 
+
+Environment and 
+Energy Office 
+
+Eco-Roof Financial 
+Assistance 
+[Added 2012-05-09 by By-
+law 678-2012] 
+
+Toronto 
+Environment Office 
+
+Receives money raised through the sale of carbon credits 
+and other environmental attributes by City divisions and 
+service agencies for allocation towards financing corporate 
+initiatives which reduce Toronto's emission of climate 
+change gases. 
+
+Receives monies raised through the cash-in-lieu policy of 
+the City's Green Roof By-law (Toronto Municipal Code 
+Chapter 492), for the purpose of financing green roof 
+installation grants for industrial, commercial and 
+institutional buildings not subject to the Toronto Green 
+Roof By-law. 
+
+227-23 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 7 - Corporate Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Energy Conservation 
+[Amended 2010-02-23 by 
+By-law 227-2010] 
+
+Deputy City 
+Manager, Corporate 
+Services 
+
+Environment Protection 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Green Energy [Amended 
+2010-02-23 by By-law 
+227-2010] 
+
+Deputy City 
+Manager, Corporate 
+Services 
+
+Home Energy Assistance 
+Toronto 
+
+Toronto 
+Environment Office 
+
+Debt Servicing [Added 2023-02-
+15 by By-law 169-2023; 
+amended 2023-10-12 by By-law 
+960-2023] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Provides a revolving loan fund to provide support for 
+energy conservation initiatives in City facilities and 
+buildings in the Municipal, Academic, Social Services and 
+Health entities (MASH sector) and not-for-profit sector in 
+Toronto, and to provide support for energy conservation  
+initiatives and to accommodate expansion of eligibility 
+criteria to include privately owned multi-family residential 
+buildings (4 stories or greater and a minimum footprint of 
+600 square metres) that are undertaking comprehensive 
+retrofit projects. 
+
+Supports (a) the development of a longer-term, climate 
+adaptation strategy; (b) funding the operating budget of the 
+Environment Office and the capital and operating budget 
+of the Energy Efficiency Office; (c) the funding of 
+initiatives that will reduce the production of green house 
+gas including: 
+1. 
+2. 
+3. 
+
+Deepwater cooling for City facilities. 
+Energy upgrades for City facilities. 
+Enhancement and protection of the City's tree 
+canopy. 
+
+Provides a revolving loan fund to provide support for 
+renewal energy installations in City facilities and buildings 
+in the Municipal, Academic, Social Services and Health 
+entities (MASH sector) and not-for-profit sector in 
+Toronto, and provides support for energy conservation 
+initiatives and to accommodate expansion of eligibility 
+criteria to include privately owned multi-family residential 
+buildings (4 stories or greater and a minimum footprint of 
+600 square metres) and are undertaking comprehensive 
+retrofit projects. 
+
+Provides grants and associated administrative costs for 
+sustainable energy retrofits in the low-rise residential 
+building sector across the City to a maximum $1,000 per 
+household based on the verified installation of a suite of 
+pre-approved energy efficiency measures recommended to 
+the household. 
+
+Mitigates the effects of the rising costs of capital 
+financing, reducing the volatility of the City’s annual debt 
+service costs and to provide a source of funding for any 
+shortfalls or defaults in interest and principal payments by 
+an organization under which the City has provided a loan 
+guarantee or a loan. 
+
+227-24 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 7 - Corporate Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Development Application Review 
+[Added 2014-08-28 by By-law 
+990-2014] 
+
+Beneficiary 
+Program 
+
+City Planning 
+
+Purpose 
+
+Provides funding to minimize the impact of development 
+application fee revenue fluctuations on City Planning 
+Division's Operating Budget and/or to create and maintain 
+systems, resources and processes to facilitate service 
+delivery and improvements. 
+
+Election 
+
+Clerks 
+
+Provides funding for the cost of municipal elections. 
+
+Energy Works  
+[Added 2013-10-11 by By-law 
+1330-2013] 
+
+Environment & 
+Energy Social 
+Development, 
+Finance and 
+Administration 
+
+Provides funds to consenting property owners for the 
+purpose of undertaking qualifying retrofit projects on 
+private property, including but not limited to, energy and 
+water efficiency and conservation, under the Residential 
+Energy Retrofit Pilot Program.  
+
+Environmental Liability 
+
+Facilities & Real 
+Estate 
+
+Hoarding Sign Occupancy Fee 
+[Added 2014-08-28 by By-law 
+990-2014] 
+
+Economic 
+Development and 
+Culture 
+
+Innovation Account 
+
+Insurance 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Fund is established for the municipal properties transferred 
+from Toronto Port Authority (TPA) to enable annual net 
+revenues in excess of those required to subsidize port 
+operations of the TPA and for surplus proceeds from any 
+subsequent sale of property transactions related to these 
+parcels to be utilized for environmental monitoring, 
+control and remediation for these properties. 
+
+Holds funds from the hoarding sign fee to be used to create 
+new elements and features and improve existing elements 
+and features of the public right of way through the creation 
+of temporary and permanent art, with a particular focus on 
+community arts programs involving disadvantaged youth 
+and newcomers in the creation of art. 
+
+Provides funding for the incremental cost of acquiring 
+external resources and for backfilling key staff positions 
+required for the effective implementation of Program 
+Review. 
+
+Provides funding for vehicles, property and liability 
+insurance claim payments and related legal and adjusting 
+expenses.  Fund is required for costs below deductible 
+levels and for payments which exceed insurance coverage 
+levels. 
+
+227-25 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 7 - Corporate Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Land Acquisition Group 
+[Amended 2021-11-12 by By-law 
+923-2021] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+City-wide 
+Parks, Forestry & Recreation 
+Transportation 
+Toronto Water 
+Toronto Public Library Board 
+Toronto Police Services Board 
+Toronto Transit Commission 
+
+Provides funding for various capital projects involving 
+acquisitions of real estate assets and/or significant capital 
+improvements to existing real estate assets to support City 
+Programs and the City's city building objectives. 
+
+Light Emitting Diode (LED) 
+Account  
+
+Transportation 
+
+Accumulates the savings associated with the City-wide 
+LED Conversion Program, for future support of a 
+perpetual LED traffic signal lamp replacement cycle. 
+
+Long Term Liabilities [Added 
+2014-08-28 by By-law 990-2014] 
+
+TTC 
+
+Ensures funding for the Toronto Transit Commission's 
+long-term liability for unsettled accident claims. 
+
+Major Special Events [Added 
+2013-07-19 by By-law 1046-
+2013] 
+
+Economic Dev. and 
+Culture 
+
+Funding components of a TORONTO 2015 Pan 
+American/Parapan American Games Host City Showcase 
+Program and thereafter to provide funding and budget 
+stabilization for the non-recurring bidding, municipal 
+service delivery and enhanced City programming costs 
+associated with major special events.  
+
+Museum and Heritage Services 
+
+Economic Dev. and 
+Culture 
+
+Provides funding from the deaccession of artefacts from 
+the City's Collection which were not acquired through 
+donation. 
+
+Ontario Works [Added 2014-08-
+28 by By-law 990-2014] 
+
+Social Services 
+
+Provides funding for payment to employment placement 
+agencies for Ontario Works. 
+
+OIC External Legal and 
+Investigative Expense [Added 
+2020-12-18 by By-law 1128-
+2020] 
+
+Office of the 
+Integrity 
+Commissioner 
+
+Funding investigations and external legal services required 
+by the Office of the Integrity Commissioner 
+
+Pollinator Protection [Added 
+2018-04-27 by By-law 480-2018] 
+
+Environment and 
+Energy 
+
+Holds funds for pollinator stewardship incentives. 
+
+Public Health [Amended 2010-
+08-27 by By-law 1148-2010; 
+2021-12-17 by By-law 1102-
+2021] 
+
+Public Health 
+
+Funds budget pressures arising from any shortfall in 
+provincial funding for cost shared or 100 percent city-
+funded programs. 
+
+Scarborough Transit [Added 
+2013-12-17 by By-law 1681-
+2013] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Accumulates funds, including proceeds from a special 
+levy of property taxes, to partially fund a replacement for 
+the current rapid transit line in Scarborough. 
+
+227-26 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 7 - Corporate Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+SmartTrack Funding [Added 
+2018-05-24 by By-law 608-2018] 
+
+Corporate Finance  Receives funds for the purpose of expending funds in 
+
+accordance with the SmartTrack Stations Program 
+Funding and Financing Strategy. 
+
+Strategic Infrastructure 
+Partnership 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Subdividers' Deposits [Added 
+2014-08-28 by By-law 990-2014] 
+
+Various 
+
+TTC Benefits Liability [Added 
+2016-02-04 by By-law 125-2016] 
+
+TTC 
+
+Provides funding for the City's major tax-supported 
+strategic infrastructure programs (such as Spadina Subway 
+Extension or rail transit elsewhere in the City, and 
+waterfront redevelopment), in partnership with other 
+orders of government, and major strategic tax-supported 
+environmental capital projects with external funding 
+partners. 
+
+Provides depository for construction-related deposits. 
+
+Ensures funding for the Toronto Transit Commission's 
+long-term liabilities for post-retirement medical and dental 
+benefits. 
+
+Toronto 360 Wayfinding [Added 
+2019-03-28 by By-law 543-2019] 
+
+Transportation 
+Services 
+
+Holds and distributes funds for wayfinding planning, 
+design and implementation projects and for wayfinding 
+asset maintenance and replacement.  
+
+Toronto Public Library IT Asset 
+Replacement [Added 2021-12-17 
+by By-law 1102-2021] 
+
+Toronto Public 
+Library 
+
+Provides funding to purchase Information Technology 
+equipment for Toronto Public Library as part of the annual 
+replacement cycle for Information Technology equipment. 
+
+Toronto Transit Expansion 
+[Added 2013-12-17 by By-law 
+1681-2013; amended 2014-08-28 
+by By-law 990-2014] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Serves as a funding source to support transit expansion 
+where the Provincial and/or the Federal Governments have 
+committed to matching any City contribution to the Fund.  
+
+Transit Infrastructure [Added 
+2013-12-17 by By-law 1681-
+2013] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Vacant Home Tax [Added 2023-
+02-15 by By-law 169-2023] 
+
+Chief Financial 
+Officer and 
+Treasurer 
+
+Vehicle for Hire [Added 2019-07-
+18 by By-law 1136-2019] 
+
+Municipal Licensing 
+and Standards 
+
+Offsets TTC debt charges in the future. 
+
+Receive the net proceeds from the Vacant Home Tax 
+Program to support affordable housing initiatives. 
+
+Provides funding for initiatives associated with 
+accessibility, transportation planning, or environmental 
+goals relevant to the vehicle-for-hire and private 
+transportation company industries and to minimize the 
+impact of reliance on vehicle-for-hire and private 
+transportation company licensing revenue for Municipal 
+Licensing and Standards' Operating Budget. 
+
+227-27 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix B 
+Discretionary Reserve Funds 
+
+Schedule 8 - State Of Good Repair Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Bloor Street Transformation Maintenance [Added 2014-08-28 by By-law 990-2014; deleted 2021-12-17 by By-
+law 1102-2021] 
+
+CP Development Technology 
+[Added 2014-08-28 by By-law 
+990-2014] 
+
+City Planning 
+
+Provides funding for capital projects that support 
+development activity. 
+
+Casa Loma Capital Maintenance  Economic Dev. and 
+
+Culture 
+
+Provides funding for the capital maintenance of Casa 
+Loma, the Casa Loma Stables and the Casa Loma Hunt 
+Lodge. 
+
+Don River Park 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for the maintenance, operations and 
+programming of the Don River Park. 
+
+Donated Assets PF&R 
+Maintenance [Added 2016-02-04 
+by By-law 125-2016] 
+
+Parks, Forestry and 
+Recreation 
+
+Accumulates a portion (10 percent) of the value of 
+donations to Parks, Forestry & Recreation to fund asset 
+replacement and/or major improvements.  
+
+Exhibition Place Capital 
+Improvement 
+
+Exhibition Place 
+
+Provides funding for future capital improvements to 
+Exhibition Place buildings and lands. 
+
+Exhibition Place Conference 
+Centre [Added 2014-08-28 by 
+By-law 990-2014] 
+
+Chief Financial Officer 
+and Treasurer 
+
+Provides a source of funding, in the first instance, for 
+any shortfalls in the loan payments to the City from 
+Exhibition Place for the new conference centre, and in 
+the second instance to support cash shortfalls with 
+respect to capital funding required to maintain the 
+Direct Energy Centre and the Allstream Centre in a 
+state of good repair. 
+
+Exhibition Place Green Space 
+Renewal [Added 2016-02-04 by 
+By-law 125-2016] 
+
+Exhibition Place 
+
+Holds funds for the re-conversion of the temporary 
+parking to functional green space on the baseball 
+diamond site at Exhibition Place. 
+
+Forestry Capital Replacement 
+[Added 2016-02-04 by By-law 
+125-2016] 
+
+Parks Capital Replacement 
+[Added 2016-02-04 by By-law 
+125-2016] 
+
+Pavement Degradation Fee 
+[Added 2014-08-28 by By-law 
+990-2014] 
+
+Parks, Forestry and 
+Recreation 
+
+Receives the portion of the Forestry user fees for 
+capital replacement. 
+
+Parks, Forestry and 
+Recreation 
+
+Receives the portion of the Parks user fees for capital 
+replacement. 
+
+Transportation 
+Services 
+
+Provides a source of funding for reconstruction, 
+resurfacing and maintenance of pavement. 
+
+227-28 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 8 - State Of Good Repair Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Paver Maintenance [Added 2014-
+02-04 by By-law 125-2016] 
+
+Transportation 
+Services 
+
+Provides funding for the replacement or repair of street 
+pavers. 
+
+Public Realm 
+
+Transportation 
+
+Receives net revenues from the Astral Media Outdoor 
+LP street furniture contract for management and 
+administration of the street furniture program and 
+public realm; maintenance of existing net revenue 
+streams as required to Transportation Services 
+receiving revenue through previous street furniture 
+contracts; and initiatives that will deliver enhanced 
+streetscaping, neighbourhood beautification and other 
+physical public realm improvements in the City's road 
+allowances in connection with annual capital and 
+operating programs. 
+
+Recreation Capital Replacement 
+[Added 2016-02-04 by By-law 
+125-2016] 
+
+Parks, Forestry and 
+Recreation 
+
+Receives the portion of the Recreation and Community 
+Recreation user fees for capital replacement.  
+
+Road and Sidewalk Repair, 
+Maintenance and Reconstruction 
+
+Transportation 
+
+Provides funding for the purpose of funding for capital 
+projects of the reconstruction and repair of roads that 
+have been aged prematurely due to multiple pavement 
+cuts by telecommunications carriers. 
+
+St. Lawrence Centre for the Arts [Added 2014-08-28 by By-law 990-2014; deleted 2021-12-17 by By-law 1102-
+2021] 
+
+Scarborough Civic Centre 
+Expansion 
+
+Facilities and Real 
+Estate 
+
+Provides funding for various capital projects in the 
+Scarborough Civic Centre Complex. 
+
+Solid Waste Management Reserve 
+Fund Group 
+
+Solid Waste 
+
+Provides funding to accumulate funds to support active 
+and retired landfill sites or waste diversion activities. 
+
+Green Lane [Amended 
+2016-02-04 by By-law 125-
+2016] 
+
+Green Lane Perpetual Care 
+Account 
+
+Provides funding for the development and operation of 
+the Green Lane Landfill site. 
+
+Provides funding for the future costs of long-term, post 
+closure care of the Green Lane landfill site. 
+
+Solid Waste Debt [Added 2016-
+02-04 by By-law 125-2016] 
+
+Solid Waste 
+Management 
+
+Holds funds for contribution to sinking funds once 
+debentures have been issued. 
+
+Solid Waste Management 
+Perpetual Care 
+
+Solid Waste 
+
+Provides funding for the future costs of long-term, 
+post-closure care of landfill sites. 
+
+227-29 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 8 - State Of Good Repair Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+TO Live Facility Fee [Added 
+2018-07-27 by By-law 1219-
+2018; amended 2021-12-17 by 
+By-law 1102-2021] 
+
+Board of Directors of 
+Sony Centre 
+
+Funds minor state of good repair, minor heritage 
+preservations and minor renovations of the theatre, 
+purchase of equipment and chattels, as well as 
+repayment of advances and/or loans - principal and 
+interest – made by the City to the Board.. 
+
+Toronto Centre for the Arts Improvement [Added 2014-08-28 by By-law 990-2014; deleted 2021-12-17 by By-
+law 1102-2021] 
+
+Tree Canopy [Added 2016-02-04 
+by By-law 125-2016] 
+
+Parks, Forestry & 
+Recreation 
+
+Union Station  
+
+Facilities and Real 
+Estate 
+
+Holds funds to maintain the tree canopy and foster the 
+City's forest canopy targets, as approved under the 
+City's strategic Forest Management Plan, as well as to 
+mitigate storm water runoff and climate change 
+impacts. 
+
+Provides funding for Union Station purposes or 
+Union Station capital requirements, any post-closing 
+adjustments and transaction costs, and any necessary 
+outside legal, accounting or other consultants' fees. 
+
+Waste Management [Amended 
+2019-03-28 by By-law 543-2019] 
+
+Solid Waste 
+
+Provides funding for the development and operation of 
+waste management facilities programs and services. 
+
+Winter Maintenance Contribution 
+[Added 2014-08-28 by By-law 
+990-2014]  
+
+Yonge-Dundas Square [Added 
+2019-03-07 by By-law 393-2019] 
+
+Transportation 
+Services 
+
+Provides funding to minimize the impact of winter 
+maintenance contract renegotiations. 
+
+Yonge-Dundas Square  Provides funding for the maintenance and 
+
+improvements to Yonge-Dundas Square through the 
+Capital Budget and to support shortfalls from the 
+approved Operating Budget. 
+
+227-30 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix B 
+Discretionary Reserve Funds 
+
+Schedule 9 - Community Initiatives Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Capital Revolving Fund for 
+Affordable Housing 
+
+Shelter, Support & 
+Housing Adm. 
+
+Child Care Capital Cost 
+
+Children's Services 
+
+Provides funding to non-profit organizations including 
+the Toronto Housing Company for capital costs for 
+affordable housing.  Monies are to be applied to 
+proposal development funding for affordable housing 
+projects, project development assistance, including 
+forgivable loans/repayable loans, project financing 
+(i.e., second mortgage loans) and other activities 
+related to improving the quality/quantity of affordable 
+housing supply in the City. 
+
+Provides funding to:  
+(a) Preserve or replace licensed spaces available for use 
+
+by subsidized families when these spaces are 
+threatened by loss of tenure in schools/other 
+community-based locations or funding decisions 
+should be guided by the following considerations: 
+1.  School-age child care spaces should be 
+
+relocated to schools or recreational facilities 
+and operate out of predominantly shared space; 
+2.  Relocation retrofit is preferable to new capital 
+
+development; 
+
+3.  Capital development should be pursued only 
+
+after less costly options have been pursued 
+without success; 
+
+4.  Funding need not faithfully replicate the lost 
+
+services; however, replacement service must be 
+efficiently configured and support the 
+objectives of the Children's Services Service 
+Plan; 
+
+5.  Preservation of service in high-needs areas and 
+
+under-served areas is a priority; and 
+6.  Relocation into schools or multiservice 
+
+facilities if preferred. 
+
+(b) Develop new services that meet one or more of the 
+
+following objectives: 
+1. 
+
+Increase the supply of infant spaces in under-
+served areas. 
+Increase the supply of licensed spaces in under-
+served areas. 
+Increase the supply of spaces to high-needs 
+communities and populations. 
+
+2. 
+
+3. 
+
+4.  Create more efficient service models supporting 
+the goals of the Children's Services Service 
+Plan. 
+
+227-31 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 9 - Community Initiatives Discretionary Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Child Care Expansion/Pilot 
+Project(First Duty) 
+
+Children's Services 
+
+Commercial Façade Improvement  Economic Dev. & 
+
+Culture 
+
+Provides funding to help lever additional funding 
+support from the Province for an additional 2000 child-
+care spaces.  Funding may also be used to undertake 
+seamless day-care pilot projects. 
+
+Provides funding for repayable loans to property 
+owners for upgrading the appearance of storefronts and 
+building facades in the City's commercial districts. 
+
+Cultural Facilities Capital Grant 
+
+Economic Dev. & 
+Culture 
+
+Provides funding to be used to address state of good 
+repair capital requirement of the City's non-profit 
+cultural sector. 
+
+Etobicoke Public Art Program 
+
+Economic Dev. & 
+Culture 
+
+Provides funding for a broad range of community-
+based public art initiatives including art for new and 
+renovations projects. 
+
+Heritage  
+
+Economic Dev. & 
+Culture 
+
+Provides funding from the sale of land to offset costs of 
+future heritage projects. 
+
+Home Improvement 
+
+Shelter, Support & 
+Housing Adm. 
+
+Provides funding for residential owners to cover 
+principal payments of home improvement loans. 
+
+Mayor's Homelessness Initiatives  Shelter, Support & 
+
+Housing Adm. 
+
+Provides funding for on-time capital support to projects 
+which help homeless people move towards stable 
+housing, in particular, hostel users, street homeless and 
+high-risk groups identified by the Mayor's 
+Homelessness Action Task Force. 
+
+Outdoor Ice Contingency [Added 
+2016-02-04 by By-law 125-2016] 
+
+Parks, Forestry & 
+Recreation 
+
+Accumulates funds to support the extension of the 
+artificial ice season. 
+
+Parkway Forest Child Care 
+[Added 2014-08-28 by By-law 
+990-2014] 
+
+Children's Services 
+
+Funds the purchase of new or replacement of larger 
+equipment items for the child care centre like 
+appliances, such as refrigerators, stoves, dishwashers, 
+clothes, dryers and washers, and change tables and 
+counters, etc. 
+
+227-32 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix C   
+Obligatory Reserve Funds 
+
+Schedule 10 - Parkland Acquisitions/New Development Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Alternative Parkland Dedication 
+Reserve Fund [Added 2009-01-28 
+by By-law 66-2009] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides a source of funding to acquire parkland that is 
+accessible to the area in which the development is 
+located or to improve parks in the vicinity of the 
+development. 
+
+Edithvale Land Acquisition [Added 
+2010-08-27 by By-law 1148-2010] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides a source of funding for expanding Edithvale 
+Park by the acquisition of additional land. 
+
+North York Arena [Added 2010-
+08-27 by By-law 1148-2010] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides a source of funding for the construction of a 
+new twin-pad arena within the vicinity of the Don Mills 
+Centre. 
+
+Off-site Parkland Dedication 
+[Added 2011-10-25 by By-law 
+1227-2011] 
+
+Parks, Forestry and 
+Recreation 
+
+Holds funds for parkland acquisitions that arise from the 
+provisions of development agreements. 
+
+Parkland Acquisition – Pre 1999 
+(Metro) 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – Pre 1999 
+(North York) 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – Pre 1999 
+(Toronto) 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – Pre 1999 
+(Scarborough) 
+
+Parks, Forestry and 
+Recreation 
+
+5% & 2% Land Acquisition – 
+North York – Pre 1999 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for the acquisition of parkland or for 
+other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes. 
+
+Provides funding for the acquisition of parkland or for 
+other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes. 
+
+Provides funding for the acquisition of parkland or for 
+other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes. 
+
+Provides funding for the acquisition of parkland or for 
+other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes. 
+
+Provides funding for the acquisition of parkland or for 
+other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes. 
+
+227-33 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 10 - Parkland Acquisitions/New Development Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Parkland Acquisition – City 
+Wide/Land Acquisition 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – City 
+Wide/New Development 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition - Land 
+Acquisition (North York) 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for land acquisition for parkland, on a 
+City-wide basis, having regard to both local and City-
+wide priorities.  From January 1, 1999, to December 31, 
+2003, monies received by the City in lieu of parkland 
+dedication requirements associated with development 
+applications for subdivision, severance, development 
+and redevelopment of land, per Sec. 42 of Planning Act.  
+One-half of the 50% of the funds collected within each 
+boundary of East York, Etobicoke, North York, 
+Scarborough, Toronto, and York, committed for this 
+purpose.  As of January 1, 2004, monies received by the 
+City in lieu of parkland dedication requirements 
+associated with development applications for 
+subdivision, severance, development and 
+redevelopment of land, per Sec. 42 of Planning Act.  
+One-half of the 50% of the funds collected within each 
+boundary of East District, West District, South District 
+and North District, committed for this purpose. 
+
+Provides funding for new development for parkland or 
+for other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes, on a 
+City-wide basis, having regard to both local and City-
+wide priorities.  From January 1, 1999, to December 31, 
+2003, monies received by the City in lieu of parkland 
+dedication requirements associated with development 
+applications for subdivision, severance, development 
+and redevelopment of land, per Sec. 42 of Planning Act.  
+One-half of the 50% of the funds collected within each 
+boundary of East York, Etobicoke, North York, 
+Scarborough, Toronto, and York, committed for this 
+purpose.  As of January 1, 2004, monies received by the 
+City in lieu of parkland dedication requirements 
+associated with development applications for 
+subdivision, severance, development and 
+redevelopment of land, per Sec. 42 of Planning Act.  
+One-half of the 50% of the funds collected within each 
+boundary of East District, West District, South District 
+and North District, committed for this purpose. 
+
+Provides funding for land acquisition for parkland 
+within the boundary of North York.  As of January 1, 
+1999, monies received by North York Community in 
+lieu of parkland dedication requirements associated 
+with development applications for subdivision, 
+severance, development and redevelopment of land, per 
+Sec. 42 of Planning Act.  One-half of the 50% of the 
+funds collected and committed for this purpose. 
+
+227-34 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 10 - Parkland Acquisitions/New Development Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Parkland Acquisition – Land 
+Acquisition (Toronto) 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – New 
+Development (Toronto) 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – Land 
+Acquisition (York) 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – East District 
+– Local Land  
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – East District 
+– Local Development 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for land acquisition for parkland 
+within the boundary of Toronto.  As of January 1, 1999, 
+monies received by Toronto Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for new development for parkland or 
+for other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes 
+within the boundary of Toronto.  As of January 1, 1999, 
+monies received by Toronto Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for land acquisition for parkland 
+within the boundary of York. As of January 1, 1999, 
+monies received by York Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for land acquisition for parkland 
+within the boundary of East District.  As of January 1, 
+2004, monies received by East Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for new development for parkland or 
+for other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes 
+within the boundary of East District.  As of January 1, 
+2004, monies received by East Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+227-35 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 10 - Parkland Acquisitions/New Development Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Parkland Acquisition – West 
+District – Local Land  
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – West 
+District – Local Development 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – North 
+District – Local Land  
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – North 
+District – Local Development 
+
+Parks, Forestry and 
+Recreation 
+
+Parkland Acquisition – South 
+District – Local Land 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for land acquisition for parkland 
+within the boundary of West District.  As of January 1, 
+2004, monies received by West Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for new development for parkland or 
+for other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes 
+within the boundary of West District.  As of January 1, 
+2004, monies received by West Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for land acquisition for parkland 
+within the boundary of North District. As of January 1, 
+2004, monies received by North Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act. One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for new development for parkland or 
+for other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes 
+within the boundary of North District.  As of January 1, 
+2004, monies received by North Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for land acquisition for parkland 
+within the boundary of South District.  As of January 1, 
+2004, monies received by South Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+
+227-36 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 10 - Parkland Acquisitions/New Development Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Parkland Acquisition – South – 
+Local Development  
+
+Parks, Forestry and 
+Recreation 
+
+Planning Act.  One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Provides funding for new development for parkland or 
+for other public recreational purposes, including the 
+erection or repair of buildings and the acquisition of 
+machinery for park or other recreational purposes 
+within the boundary of South District.  As of January 1, 
+2004, monies received by South Community in lieu of 
+parkland dedication requirements associated with 
+development applications for subdivision, severance, 
+development and redevelopment of land, per Sec. 42 of 
+Planning Act. One-half of the 50% of the funds 
+collected and committed for this purpose. 
+
+Sheppard East Corridor Parkland 
+Acquisition [Added 2015-05-07 by 
+By-law 506-2015] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funds for the acquisition of lands and any 
+related expenses, for parks and recreation purposes 
+along the Sheppard East Corridor. 
+
+Ward 9 (as that ward existed 
+immediately prior to December 1, 
+2018 and as defined in Ontario 
+Regulation 191/00) Parkland 
+Reserve Fund [Added 2009-01-28 
+by By-law 66-2009; amended 
+2019-01 31 by By-law 255-201915] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides a source of funding for parkland 
+improvements within Ward 9 (as that ward existed 
+immediately prior to December 1, 2018 and as defined 
+in Ontario Regulation 191/00) to the satisfaction of the 
+General Manager, Parks, Forestry and Recreation and 
+the Ward Councillor. 
+
+15
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+227-37 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix C 
+Obligatory Reserve Funds 
+
+Schedule 11 - Development Charges Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Development Charges Reserve 
+Fund Group [Amended 2016-02-04 
+by By-law 125-2016] 
+
+Chief Financial 
+Officer and Treasurer 
+
+Holds fund which remain from development charges 
+By-law 275-2009. 
+
+Development Charges 
+Spadina Subway Extension 
+
+TTC 
+
+Provides funding for the Spadina Subway Extension 
+capital project 
+
+Development Charges 
+Transit (Balance)  
+
+Development Charges Road 
+and Related  
+
+TTC 
+
+Provides funding for transit capital projects. 
+
+Transportation 
+
+Provides funding for road and related capital projects. 
+
+Development Charges Water  Toronto Water 
+
+Provides funding for water capital projects. 
+
+Development Charges 
+Sanitary Sewer  
+
+Toronto Water 
+
+Provides funding for sanitary sewer capital projects. 
+
+Development Charges Storm 
+Water Management  
+
+Toronto Water 
+
+Provides funding for storm water management capital 
+projects. 
+
+Development Charges Parks 
+and Recreation  
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for parks and recreation capital 
+projects. 
+
+Development Charges 
+Library  
+
+Toronto Public 
+Library Board 
+
+Provides funding for library capital projects. 
+
+Development Charges 
+Subsidized Housing  
+
+Shelter, Support and 
+Housing 
+Administration 
+
+Provides funding for subsidized housing capital 
+projects. 
+
+Development Charges Police  Police 
+
+Provides funding for police capital projects. 
+
+Development Charges Fire   Fire 
+
+Provides funding for fire capital projects. 
+
+Development Charges - 
+Toronto Paramedic Services 
+[Amended 2021-12-17 by 
+By-law 1102-2021] 
+
+Development Charges 
+Development-Related 
+Studies  
+
+EMS 
+
+Provides funding for EMS capital projects. 
+
+Various 
+
+Provides funding for development-related studies 
+capital projects. 
+
+Development Charges Civic 
+Improvements  
+
+City Planning – 
+Urban Design 
+
+Provides funding for civic improvements capital 
+projects. 
+
+227-38 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 11 - Development Charges Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Development Charges Child 
+Care  
+
+Development Charges 
+Health  
+
+Children's Services 
+
+Provides funding for child care capital projects. 
+
+Public Health 
+
+Provides funding for health capital projects. 
+
+Development Charges 
+Pedestrian Infrastructure  
+
+Facilities and Real 
+Estate 
+
+Provides funding for pedestrian infrastructure capital 
+projects. 
+
+Development Charges 
+Shelter Services [Added 
+2018-06-29 by By-law 748-
+2018] 
+
+Shelter, Support and 
+Housing 
+Administration 
+
+Provides funding for shelter services capital projects. 
+
+Development Charges - 
+Long Term Care [Added 
+2022-08-15 by By-law 
+1138-2022] 
+
+Development Charges - 
+Waste Diversion [Added 
+2022-08-15 by By-law 
+1138-2022] 
+
+Seniors Services and 
+Long-Term Care 
+
+Provides funding for long-term care capital projects 
+
+Solid Waste 
+Management 
+Services 
+
+Provides funding for waste diversion capital projects 
+
+Development Charges - Transit 
+(EELRT) [Added 2023-04-03 by 
+By-law 273-2023] 
+
+Chief Financial 
+Officer and Treasurer 
+
+Provides funding for the Eglinton East Light Rail 
+Transit capital project. 
+
+Development Charges - Transit - SSE [Added 2016-02-04 by By-law 125-2016; deleted 2023-02-15 by By-law 
+169-2023] 
+
+227-39 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix C 
+Obligatory Reserve Funds 
+
+Schedule 12 - Planning Act Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Community Benefits Reserve Fund 
+Group  [Added  2022-08-15  by  By-
+law 1140-2022] 
+
+City Planning 
+
+Holds funds from Community Benefits Charges. 
+
+Community Benefits [Added 
+2022-08-15 by By-law 1140-
+2022] 
+
+Chief Financial 
+Officer and Treasurer 
+
+Holds funds from Community Benefits Charges. 
+
+Community Benefits - 
+Original Section 37 [Added 
+2022-08-15 by By-law 1140-
+2022] 
+
+City Planning 
+
+Holds funds from Agreements entered into pursuant to 
+Section 37 of the Planning Act. 
+
+Public Parking – 109 Front Street  Parking Authority 
+
+Provides funding to cover the cost of rectifying any 
+deficiencies found as a result of the inspections required 
+under the Municipal Capital Facility Agreement made 
+on January 20, 1998, between 109 Front Street East Inc. 
+and the City. 
+
+Section 37 [Deleted 2022-08-15 by By-law 1140-2022] 
+
+Section 45  
+
+City Planning 
+
+Holds funds from Agreements and Decisions on minor 
+variances pursuant to Section 45 of the Planning Act. 
+
+Toronto Water Cash in Lieu 
+Reserve Fund [Added 2010-04-01 
+by By-law 343-2010] 
+
+Toronto Water 
+
+Hold cash in lieu funds received from property 
+developers to meet their obligation under Section 41(7) 
+of the Planning Act for water/wastewater infrastructure. 
+
+Transportation Cash in Lieu 
+Reserve Fund [Added 2010-04-01 
+by By-law 343-2010] 
+
+Transportation 
+
+Holds cash in lieu funds received from property 
+developers to meet their obligations under Section 41(7) 
+of the Planning Act for transportation infrastructure. 
+
+227-40 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix C 
+Obligatory Reserve Funds 
+
+Schedule 13 - Community Services Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Kids @ Computers Scholarship 
+Project 
+
+Beneficiary 
+Program 
+
+Social Services  
+
+Purpose 
+
+Provides funding for the Kids @ Computers Scholarship 
+Project. 
+
+National Child Benefit Support 
+
+Children's Services  Provides funding for the benefit of children in receipt of 
+
+Seniors Services and Long-Term 
+Care Reserve Fund [Amended 
+2021-12-17 by By-law 1102-2021] 
+
+HFA 
+
+Social Housing Federal  
+
+Shelter, Support & 
+Housing 
+
+social assistance and 2,000 child-care spaces for client 
+exiting social assistance. 
+
+Provides funding for life-safety and general safety 
+capital projects which are no longer co-funded by the 
+Ministry of Health as a result of the Province's change in 
+its capital funding policy. 
+
+Provides funding to be used to mitigate the financial 
+exposure associated with Social Housing Devolution: 
+(a)  For projects in the formerly federally funded and 
+
+federally cost-shared programs, consistent with the 
+1999 Canada-Ontario "Social Housing Agreement"; 
+and 
+
+(b)  Including the following purposes: 
+
+(i)  To stabilize in-year variances as well as 
+unanticipated year-to-year expenditures 
+fluctuations, to help minimize or phase-in their 
+impacts on the property tax rate; 
+
+(ii)  To supplement funds for capital repairs,  in 
+
+regard to urgent needs or phase-in toward 
+higher funding levels; and  
+
+(iii) To fund other potential liabilities as they arise, 
+
+but excluding expected annual subsidy costs. 
+
+227-41 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix C 
+Obligatory Reserve Funds 
+
+Schedule 14 - State Of Good Repair Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+16 Ryerson (Theatre Passe Muraille 
+) Capital Maintenance 
+
+Economic Dev. & 
+Culture & Tourism 
+
+Provides security against any future failure to comply 
+with the capital maintenance requirement during the 
+tenancy of Theatre Passe Muraille at 16 Ryerson 
+Avenue. 
+
+Allan Lamport Stadium 
+Maintenance [Added 2009-10-27 
+by By-law 1067-2009] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides a source of funding for capital maintenance to 
+the winter bubble and the field turf at Allan Lamport 
+Stadium. 
+
+Building Code Act Service  
+
+Building 
+
+Provides funding to create and maintain systems and 
+processes which enable service delivery timelines and 
+reporting requirements of the Province's Bill 124, 
+Building Code Statute Law Amendment Act, 2002 
+legislation to be met. 
+
+Campeau Dock Maintenance 
+
+Parks, Forestry & 
+Recreation 
+
+Provides funding for the maintenance of docking 
+facilities at Harbour Square. 
+
+Harbourfront Parklands 
+
+Parks, Forestry & 
+Recreation 
+
+Provides funding for the Harbourfront parkland 
+development, water's edge promenade and programming 
+on Harbourfront Parklands. 
+
+Management of Contaminated 
+Lands [Added 2016-02-04 by By-
+law 125-2016] 
+
+Transportation 
+
+Funds of the management, inspection and maintenance 
+of lands deemed contaminated and subject to Ministry 
+of Environment and Climate Change (MOECC) 
+Certificates of Property Use Requirements or Director's 
+Orders and/or Technical Standards and Safety Authority 
+(TSSA) requirements.  
+
+North Linear Park Retaining Walls 
+Maintenance [Added 2012-11-29 
+by By-law 1638-2012] 
+
+Parks, Forestry & 
+Recreation 
+
+Functions as an endowment to repair and maintain the 
+Capreol Court and Dan Leckie Way retaining walls. 
+
+Racquet Sport – Scarborough 
+
+Parks, Forestry & 
+Recreation 
+
+Provides funding for maintenance and development of 
+racquet sport facilities. 
+
+Stadium Road Capital  
+
+Parks, Forestry & 
+Recreation 
+
+Stadium Road Maintenance   
+
+Parks, Forestry & 
+Recreation 
+
+Provides funding for capital repairs and improvements 
+to the dock wall, promenade and the north and south 
+parks on the west side of Stadium Road, at Queens 
+Quay West (also known as 2-50 Stadium Road). 
+
+Provides funding for the on-going maintenance, repair, 
+and reconstruction of the promenade and the dock wall 
+on the west side of Stadium Road, at Queens Quay West 
+(also known as 2-50 Stadium Road). 
+
+227-42 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 14 - State Of Good Repair Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Tam Heather [Amended 2010-08-
+27 by By-law 1148-2010] 
+
+Parks, Forestry & 
+Recreation 
+
+TEDCO Environmental 
+Remediation 
+
+TEDCO 
+
+Zoo Endangered Species Reserve 
+Fund [Added 2010-04-01 by By-
+law 343-2010] 
+
+Zoo 
+
+Receiving an annual contribution up to $30,000 from 
+the Tam Heather Curling and Tennis Club (once any 
+previous deficit is paid off) to be used to provide a 
+source of funding for any capital maintenance to the 
+facility. 
+
+Provides funding to subsidize port operations of the 
+Toronto Harbour Commission and for environmental 
+monitoring control and remediation for the parcels. 
+
+Provides funding for conservation, education and 
+research projects for the preservation of endangered 
+species by the Toronto Zoo in local, national and 
+international initiatives. Fund consists of money 
+received from the wishing wells at the Toronto Zoo and 
+from bequests and donations to the Toronto Zoo which 
+identify conservation, education or research as their 
+objectives. 
+
+227-43 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix C 
+Obligatory Reserve Funds 
+
+Schedule 15 - Third Party Agreements Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+12 Alexander Street Theatre 
+Project 
+
+Economic Dev. and 
+Culture 
+
+Canada Community-Building Fund 
+[Added 2023-02-15 by By-law 169-
+2023] 
+
+TTC 
+
+Provides funding for an endowment fund for 
+12 Alexander Street as specified in an agreement 
+with "The Alexander Street Project. 
+
+Funds priority infrastructure projects eligible under 
+the Canada Community Building Fund Program 
+including the acquisition, planning, design, 
+construction, or renovation of a tangible capital 
+asset. 
+
+Canoe Landing [Added 2019-07-18 
+by By-law 1135-2019]  
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for minor and major repairs, 
+replacements, and capital improvements for the 
+Canoe Landing Facility and related property. 
+
+Conservation Management Reserve 
+Fund [Added 2009-01-28 by By-law 
+66-2009] 
+
+Facilities and Real 
+Estate 
+
+Cross-Boundary Water and Sewage 
+Servicing [Added 2019-03-28 by By-
+law 543-2019] 
+
+Toronto Water 
+
+Design Exchange 
+
+Design Exchange 
+
+Design Exchange Capital 
+Maintenance  
+
+Design Exchange 
+
+Eglinton Flats Tennis Facility 
+Maintenance 
+
+Parks, Forestry and 
+Recreation 
+
+FCM Funded Energy Works [Added 
+2022-06-16 by By-law 549-2022] 
+
+Environment & 
+Energy 
+
+Receives funds on a periodic basis from the Ontario 
+Power Authority (OPA) for the purpose of 
+disbursing financial incentives to eligible 
+conservation program participants in the Better 
+Building Partnership – Existing Buildings and 
+Better Buildings Partnership – New Construction 
+Programs. 
+
+Receives contributions from property owners to pay 
+for development site water and sewage servicing by 
+Toronto Water external to the City's boundaries, and 
+in accordance with agreements negotiated between 
+the owners of the respective properties, the regional 
+municipalities outside of Toronto and the City. 
+
+Provides funding for the Design Exchange's 
+operating budget. 
+
+Provides funding for unanticipated capital 
+maintenance and extraordinary repairs and 
+maintenance relating to the premises occupied by 
+the Design Exchange.  Use of the reserve fund is 
+subject to Council approval. 
+
+Provides funding to resurface the Eglinton Flats 
+tennis courts and perform other required minor 
+maintenance at the site. 
+
+Manages funds received from the Federation of 
+Canadian Municipalities to support the Home 
+Energy Loan Program 
+
+227-44 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 15 - Third Party Agreements Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Waterfront Secretariat  Holding funds to provide a series of grants to 
+
+Gardiner West Public Realm 
+Improvements Reserve Fund [Added 
+2015-12-10 by By-law 1292-2015; 
+amended 2016-12-15 by By-law 
+1243-2016] 
+
+Waterfront Toronto and the Bentway Conservancy 
+from donated funds to transform the vacant space 
+and for long-term programming, operating and 
+maintenance under the westerly segment of the 
+Gardiner between approximately Strachan Avenue 
+and Spadina Avenue. 
+
+Provides funding for the construction and 
+implementation of transportation improvements in 
+Golden Mile Employment District and, where 
+appropriate, provides funds for rebates to front ending 
+contributors in the Golden Mile Employment District. 
+
+Golden Mile Employment District 
+Transportation System Improvement 
+Charge 
+
+Transportation/City 
+Planning 
+
+Ireland Park  
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding to be used to fund on-going 
+maintenance, including, but not limited to, grass 
+cutting, tree maintenance, water, in-ground sprinkler 
+system, garbage removal, hydro costs. 
+
+Jewish War and Holocaust Memorial 
+[Amended 2013-12-17 by By-law 
+1681-2013] 
+
+Parks, Forestry and 
+Recreation 
+
+Provides funding for the on-going facility and grounds 
+maintenance and operation of the War Memorial in Earl 
+Bales Park. 
+
+Leaside Memorial Community Gardens 
+Arena Debt Service [Added 2012-01-
+17 by By-law 102-2012] 
+
+Chief Financial 
+Officer and Treasurer 
+
+Provides a source of funding for any shortfalls in loan 
+payments for the revenue bond issued to Infrastructure 
+Ontario or shortfalls in loan payments for the 
+recoverable debt from the City in respect of the Leaside 
+Memorial Community Gardens Arena Expansion 
+Project. 
+
+Modular Housing [Added 2020-04-30 by By-law 343-2020; deleted 2021-12-17 by By-law 1102-2021] 
+
+Ontario Cannabis Legalization [Added 
+2019-03-28 by By-law 543-2019] 
+
+Ontario Development Charges Rebate 
+Program – Affordable Housing 
+Program [Added 2018-07-27 by By-
+law 1205-2018] 
+
+Municipal Licensing 
+and Standards and 
+Chief Financial Officer 
+and Treasurer 
+
+Affordable Housing 
+
+Section 16 Reserve Fund [Added 2010-
+04-01 by By-law 343-2010] 
+
+City Planning 
+
+Holds and distributes funds received from Provincial 
+government of the implementation costs of recreational 
+cannabis legalization. 
+
+Receives provincial funds from the Ontario 
+Development Charges Rebate Program and makes 
+payments to developers eligible to receive Development 
+Charges rebates through the program and draw funds to 
+cover City administration costs. 
+
+Hold funds from agreements under section 16 of the 
+City of Toronto Act, 1971, S.O. 1971, c. 130, as 
+amended by section 11(2) of the City of Toronto Act, 
+1973, S.O. 1973, c. 213. Each community benefit of 
+each agreement will be tracked by a separate account. 
+
+227-45 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 15 - Third Party Agreements Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Toronto Transit Commission (TTC)  
+Fund Group [Added 2009-08-06 by 
+By-law 682-200916] 
+
+Beneficiary 
+Program 
+
+Toronto Transit 
+Commission 
+
+Canada Strategic Infrastructure  TTC 
+
+MoveOntario 2020 
+
+Toronto Transit 
+Commission and 
+Transportation 
+Services (fund to be 
+used for the purpose of 
+secure and safe bike 
+parking) 
+
+Purpose 
+
+Receives TTC funding from other orders of government 
+and funding of capital and operating activities of the 
+TTC arising from the receipt of such fund. 
+
+Provides a repository for funds received from the 
+Federal and Provincial governments under the 
+Canada Strategic Infrastructure Fund (CSIF) to 
+support the TTC's state of good repair, Ridership 
+Growth Strategy and subway expansion programs as 
+set out in the TTC's Ten Year Capital Plan, as well 
+as an integrated ticketing system. 
+
+Holds funds received through Metrolinx or the 
+Provincial government under MoveOntario 2020 or 
+the BikeLinx Program to support public transit in 
+Toronto. 
+
+Move Ontario Trust Interest 
+Reserve Fund [Amended 2013-
+02-21 by By-law 245-201317] 
+
+Chief Financial 
+Officer and Treasurer 
+
+Receives interest from the Move Ontario Trust, to be 
+used as funding for the Toronto-York Spadina 
+Subway Extension Project.  
+
+Provincial Gas Tax Revenue 
+for Public Transit  
+
+TTC 
+
+Transit Expansion 
+[Added 2011-10-25 by By-law 
+1227-2011] 
+
+TTC 
+
+Toronto-York Spadina Subway 
+Extension Working Capital 
+
+TTC 
+
+Provides funding for public transportation 
+expenditures eligible under the Provincial Dedicated 
+Gas Tax Funds for Public Transportation Program. 
+
+Provides a repository for advance funds received 
+from Metrolinx for reimbursement of transit 
+expansion project costs managed by the TTC and 
+paid to entitled parties by the TTC on behalf of 
+Metrolinx 
+
+Being a repository for funds received from the City, 
+York Region, the Province of Ontario, and/or the 
+federal Government of Canada for the purposes of 
+the Toronto-York Spadina Subway Extension Project 
+which funds will be deemed to be required for 
+Project working capital purposes. 
+
+16
+
+ Editor's Note: This by-law also moved the following reserve funds to within the Toronto Transit Commission (TTC) Fund Group: 
+Canada Strategic Infrastructure Reserve Fund; Public Transit Capital Trust Reserve Fund; Ontario Bus Replacement Program Reserve 
+Fund; Transit Technology Infrastructure Program Reserve Fund; Ontario Rolling Stock Infrastructure Reserve Fund; and Provincial 
+Gas Tax Revenues for Public Transit Reserve Fund. 
+17
+
+ Editor's Note: This by-law moved this reserve fund from the Public Transit Capital Trust Account Group which was added April 1, 
+
+2010 by By-law 343-2010. 
+
+227-46 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Schedule 15 - Third Party Agreements Obligatory Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+TransformTO Initiatives [Added 
+2018-06-29 by By-law 749-2018; 
+amended 2019-03-28 by By-law 
+543-2019] 
+
+Environment and 
+Energy  
+
+Ward 23 (as that ward existed 
+immediately prior to December 1, 
+2018 and as defined in Ontario 
+Regulation 191/00) Parks and 
+Recreation Improvement [Amended 
+2019-01 31 by By-law 255-201918] 
+
+Parks, Forestry and 
+Recreation 
+
+Administers funding and investment to be used for 
+greenhouse gas emissions reduction initiatives to be 
+undertaken by City Divisions, Agencies and 
+Corporations pursuant to the TransformTO Climate 
+Action Strategy. 
+
+Provides funding for public parks and/or recreational 
+uses specifically in Ward 23 (as that ward existed 
+immediately prior to December 1, 2018 and as 
+defined in Ontario Regulation 191/00). 
+
+18
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+227-47 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix C 
+Obligatory Reserve Funds 
+
+Schedule 16 - Toronto Water Reserve Funds 
+
+Account/Account Group 
+
+Beneficiary 
+Program 
+
+Purpose 
+
+Waste Water Capital 
+
+Toronto Water 
+
+Provides funding for expediting water pollution control 
+measures capital projects. 
+
+Water Efficiency Loan [deleted 2021-12-17 by By-law 1102-2021] 
+
+Water Capital 
+
+Toronto Water 
+
+Provides funding for water infrastructure. 
+
+227-48 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix C 
+Obligatory Reserve Funds 
+
+Schedule 17 - Parking Authority Reserve Funds 
+
+Account/Account Group 
+
+Payment-in-Lieu of Bicycle 
+Parking [Added 2021-12-17 by 
+By-law 1104-2021] 
+
+Beneficiary 
+Program 
+
+Toronto Parking 
+Authority 
+
+City Parking Payment-In-Lieu 
+
+Parking Authority 
+
+Parking Authority Capital 
+Expenditure 
+
+Parking Authority 
+
+Parking Authority Shopping Mall 
+Rented Properties (Toronto) 
+
+Parking Authority 
+
+Purpose 
+
+Receive payments-in-lieu of bicycle parking 
+contributions received pursuant to Section 40 of 
+Planning Act with monies applied to the acquisition of 
+new bike share stations and bike share bicycles 
+
+Provides for the accumulation of payment in lieu of 
+parking contributions received pursuant to the 
+Planning Act for parking purposes.  Monies are to be 
+applied first, to principal and interest on debentures; 
+second, to new facilities; and third, to general purposes 
+as determined by Council. 
+
+Provides funding for capital expenditures on parking 
+lots and facilities.  Monies are to be applied first, to 
+principal and interest on debentures, second for the 
+acquisition, establishment, laying out or improvement 
+of additional parking lots or facilities, third, to general 
+purposes as determined by Council. 
+
+Provides for the net surplus of the leasing of those 
+portions of the buildings which are not required for 
+parking purposes.  Monies are to be applied first, to 
+principal & interest on debenture issued to finance the 
+cost of parking facilities, second, to additional parking 
+facilities, third, to other purposes as determined by 
+Council. 
+
+227-49 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 227, RESERVES AND RESERVE FUNDS 
+
+Appendix D   
+Reserve Funds to be Transferred and then Closed 
+
+Account to be Closed 
+
+Funds Transfer to 
+
+Emergency Technology Acquisition 
+Reserve Fund 
+
+Capital Financing Reserve 
+
+227-50 
+
+October 12, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

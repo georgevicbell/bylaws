@@ -1,0 +1,6026 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+Chapter 851 
+
+WATER SUPPLY 
+
+§ 851-1. Definitions. 
+
+§ 851-2. Administration. 
+
+§ 851-3. Use and receipt of water. 
+
+§ 851-4. Water service connections. 
+
+§ 851-5. Metering of water. 
+
+§ 851-6. Water meter inspection. 
+
+§ 851-7. Maintenance. 
+
+§ 851-8. Private water system. 
+
+§ 851-9. Bulk water supply. 
+
+§ 851-10. Shut off and turn on by request. 
+
+§ 851-11. Water shut off initiated by the City. 
+
+§ 851-12. Fire hydrants. 
+
+§ 851-13. Fire hydrant permits. 
+
+§ 851-14. Water conservation and water use restriction orders. 
+
+§ 851-15. Contact information. 
+
+§ 851-16. Access. 
+
+§ 851-17. Inspection. 
+
+§ 851-18. Obstruction. 
+
+§ 851-19. General. 
+
+§ 851-20. Offences. 
+
+§ 851-21. Penalties. 
+
+§ 851-22. General enforcement powers. 
+
+§ 851-23. Document retention. 
+
+§ 851-24. Notice. 
+
+§ 851-25. Severability. 
+
+§ 851-26. Repeal. 
+
+851-1 
+
+April 1, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+§ 851-27. Effective date. 
+
+Schedule 1 to Chapter 851 
+
+Schedule 2 to Chapter 851 
+
+Schedule 3 to Chapter 851 
+
+Schedule 4 to Chapter 851 
+
+Schedule 5 to Chapter 851, Backflow Prevention Device for Premise Isolation Based on 
+Industry Sector 
+
+Schedule 6 to Chapter 851, Authorized Functions List 
+
+[History: Adopted by the Council of the City of Toronto December 13, 2007 by 
+By-law 1392-2007.1 Amendments noted where applicable.] 
+
+General References 
+
+Fees and charges - See Ch. 441. 
+Sewers - See Ch. 681. 
+Discontinuance of vital services - See Ch. 835. 
+Water and sewage services and utility bill - See Ch. 849. 
+Building Code Act, 1992 - See S.O. 1992, c. 23. 
+City of Toronto Act, 2006 - See S.O. 2006, c. 11 
+Condominium Act, 1998 - See S.O. 1998, c. 19. 
+Occupational Health and Safety Act - See R.S.O. 1990, c. O.1. 
+
+§ 851-1. Definitions. 
+
+As used in this chapter, the following terms shall have the meanings indicated: 
+
+APPLICABLE LAW - Any applicable federal, provincial or municipal laws, statutes, by-laws, 
+rules, regulations, policies, orders, directives and codes including but not limited to the Building 
+Code Act, 1992, and Fire Code as may be amended from time to time.2 
+
+APPLICANT - Any person who makes an application under this chapter. 
+
+AUTOMATED METER READING PROGRAM - The programs or projects, as may be adopted 
+by the City, for the supply and installation of water meters and a radio communications network 
+capable of reading, transmitting and collecting water meter readings throughout the City and 
+includes all related equipment, software and hardware. Automated Meter Reading Program 
+includes the water meter replacement and automated meter reading system project currently 
+undertaken by the City as at the enactment of this chapter. 
+
+1
+
+ Editor's Note: This by-law was passed under the authority of subsections 8(1), 8(2), 8(3) and 259(1), sections 7, 62, 63, 64, 65, 67 and 72 
+
+and Part XV of the City of Toronto Act, 2006, S.O. 2006, c. 11, Schedule A.  
+2
+
+ Editor's Note: The former definition of "account," which immediately preceded this definition, was repealed May 27, 2008 by By-law 
+
+506-2008. This by-law also provided that it came into force July 1, 2008. 
+
+851-2 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+AUXILARY WATER SUPPLY - Any water supply on or available to the premises other than the 
+water service connection provided by the City's waterworks. [Added 2010-07-08 by By-law 
+869-2010] 
+
+AWWA STANDARDS - The standards adopted by the American Waterworks Association, as 
+they may be amended from time to time. 
+
+BACKFLOW - The flowing back or reversal of the normal direction of the flow of water. 
+
+BACKFLOW PREVENTION DEVICE - A device or system that prevents backflow or 
+back-siphonage into the waterworks and is designed to prevent contamination of the waterworks 
+or water supply. 
+
+BACK-SIPHONAGE - Backflow caused by a negative pressure in the supply system. 
+
+BUILDING - Building as defined in the Building Code Act, 1992, as amended. 
+
+BUILDING AREA - Building area as defined in the Building Code Act, 1992, as amended. 
+[Added 2017-04-28 by By-law 461-2017] 
+
+BUILDING CODE ACT - Building Code Act, 1992, as amended, and the regulations thereunder. 
+
+BULK WATER - Potable water supplied by the City at a bulk water fill station for industrial, 
+commercial or institutional non-potable use purposes only. [Added 2019-03-28 by By-law 515-
+20193] 
+
+BULK WATER FILL STATION – A city owned and operated station which dispenses bulk water 
+for sale. [Added 2019-03-28 by By-law 515-20194] 
+
+CBO - The Chief Building Official as defined in the Building Code Act, 1992. 
+
+CFO - The Chief Financial Officer and Treasurer of the City or designate. [Amended 2018-07-
+27 by By-law 1206-2018; 2018-12-13 by By-law 17-20195] 
+
+CITY - The City of Toronto and where an authority or discretion is conferred upon a City official 
+under this chapter, means the appropriate official or representative of the City as designated or 
+appointed under its governing by-laws, resolutions or policies from time to time. 
+
+CONSUMER - The owner or occupier of property which is serviced by and connected to the 
+waterworks. 
+
+CROSS CONNECTION - Any actual or potential connection between the waterworks and any 
+source of pollution, contamination, or other material or substance that could change the quality 
+of water in the waterworks. This includes any bypass, jumper connection, removable section of 
+pipe, swivel or changeover device, and any other temporary or permanent connecting 
+arrangement through which backflow can occur. 
+
+3
+
+4
+
+5
+
+ Editor's Note: By-law 515-2019 came into force on April 1, 2019. 
+
+ Editor's Note: By-law 515-2019 came into force on April 1, 2019. 
+
+ Editor's Note: By-law 17-2019 deleted all references to the title "Chief Financial Officer" and replaced the title with "Chief Financial 
+
+Officer and Treasurer". By-law 17-2019 is deemed to have come into force on October 23, 2018. 
+
+851-3 
+
+April 1, 2019 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+CSA - The Canadian Standards Association. 
+
+CSA - B64 SERIES STANDARDS - B64.10-01/B64.10.1-01, Manual for the Selection and 
+Installation of Backflow Prevention Devices / Manual for the Maintenance and Field Testing of 
+Backflow Prevention Devices as published by the CSA, as amended from time to time. 
+
+DEVELOPER - The owner or party named in a development agreement or a subdivision 
+agreement. 
+
+DEVELOPMENT - The construction, erection or placing of one or more buildings or structures 
+on land or the making of an addition or alteration to a building or structure which may have the 
+result of increasing or decreasing the consumption of water at the property. 
+
+DWELLING UNIT - A unit that consists of a self-contained room or set of rooms located in a 
+building or structure, is used or intended for use only as a residential premises, contains kitchen 
+and bathroom facilities that are intended for the use only of the unit, is used as a single 
+housekeeping unit in which no occupier has exclusive possession of any part of the unit, and has 
+a means of egress to the outside of the building or structure in which it is located, which means 
+of egress may be through another residential unit or common area. 
+
+FIRE CODE - The regulations made under Part IV of the Fire Protection and Prevention Act, 
+1997, S.O. 1997, Chapter 4. 
+
+FIRE PROTECTION SYSTEM - An assembly of pipes, valves, appurtenances and fittings that 
+conveys water from the private fire service main to the private fire hydrant(s), the fire sprinkler 
+system or the standpipe and hose system, or any combination of the foregoing. [Added 2008-12-
+03 by By-law 1250-2008] 
+
+GENERAL MANAGER - The General Manager of Toronto Water or that person's designate or 
+any person duly authorized to act in that person's place. 
+
+HIGH VOLUME ACCOUNT - Any water account, where the annual consumption in any 
+calendar year is greater than 6,000 cubic metres, or where the annual consumption is estimated 
+by the City to be greater than 6,000 cubic metres for that subsequent calendar year. The basis for 
+this estimate shall be the historical average for the water account. [Amended 2008-05-27 by By-
+law 506-20086] 
+
+IRRIGATION SYSTEM - Fixed equipment, which includes sprinkler heads, piping and other 
+components that are used primarily to apply water to vegetation. 
+
+OCCUPIER or OCCUPANT includes: [Amended 2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+(2) 
+
+A person residing at the property; or 
+
+A person entitled to the possession of the property if there is no other person residing on 
+or in the property; or 
+
+(3) 
+
+A tenant or leaseholder of the property or a part of the property; 
+
+6
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+851-4 
+
+April 1, 2019 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+Where any of the above persons is a corporation, it shall also include the officers, directors and 
+shareholders of that corporation. 
+
+OWNER - A person who has a right, title, estate, or interest in a property, other than that of only 
+an occupant and, where that person is a corporation, shall include the officers, directors and 
+shareholders of that corporation, and shall include any person with authority or power over or 
+control over that property on the behalf of an owner. [Amended 2016-02-04 by By-law 100-
+2016] 
+
+OWWA - Ontario Water Works Association, a section of AWWA. 
+
+PERSON - A natural person, an association, a partnership or a corporation, and the heirs, 
+executors, administrators or other legal representatives of a person to whom the context can 
+apply according to law. 
+
+PREMISE ISOLATION - The isolation of the water located within a building, structure or 
+property from the waterworks or water supply. 
+
+PRIVATE FIRE SERVICE MAIN - The pipes, fittings and appurtenances from the water service 
+connection conveying water for fire protection or suppression to all points in a fire protection or 
+suppression system. 
+
+PRIVATE METER - A water meter which is not owned, serviced or maintained by the City. 
+
+PRIVATE WATER SERVICE PIPE - The pipe, fittings and appurtenances which convey water 
+from the water service connection to a water meter, or to the point where the pipe and fittings 
+connected to the water service connection enters a building or structure if there is no water meter 
+for the purpose of domestic consumption. [Amended 2017-04-28 by By-law 461-2017] 
+
+PRIVATE WATER SYSTEM - An assembly of pipes, fittings, valves and appurtenances that 
+convey water from the private water service pipe to water supply outlets, fixtures, plumbing 
+appliances, devices, and appurtenances and all other points downstream of the water meter or 
+downstream of the point where the private water service pipe enters a building or structure if 
+there is no water meter. 
+
+PROPERTY - Includes a house, building, structure, lot or any part of a house, building, structure 
+or lot within the City which has a unique municipal address and is adjacent to the waterworks. 
+
+REMOTE READOUT UNIT - Any device which is used to record or transmit, or both, the water 
+consumption reading of a water meter and may be installed at a separate location from the water 
+meter but does not include the water meter register. 
+
+RENOVATED BUILDING - Any building or structure where the plumbing or piping around or 
+adjacent to a water meter is changed or altered. 
+
+ROAD ALLOWANCE - A common and public highway including a portion of a highway as 
+defined in the Municipal Act, 2001, S.O. 2001, c. 25. 
+
+ROOM - An area, or part of an area, in which a person may normally stand upright, of 
+4.64 square metres or more in a building, fully enclosed with a means of access and egress, 
+which may include, without limitation, any bedroom, living room, dining room, kitchen, 
+
+851-5 
+
+April 1, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+recreation room, summer kitchen, kitchenette, breakfast room, conservatory, sun room, enclosed 
+veranda and enclosed back porch but does not include a bathroom.  
+
+SHUT-OFF VALVE - The valve on or at a water service connection owned and used by the City 
+to shut off or turn on the water supply from the waterworks to a property. 
+
+STANDARDS AND SPECIFICATIONS - City of Toronto's standard construction specifications 
+and drawings for sewers and watermains as prescribed by the General Manager, and amended 
+from time to time. [Amended 2010-07-08 by By-law 869-2010] 
+
+STREETLINE - The boundary of a property which adjoins a road allowance. 
+
+SUBSTANTIALLY DEMOLISHED - The demolition of more than 50 percent of the exterior 
+walls of the first story above grade of a building or structure, whether or not they are 
+subsequently replaced. 
+
+TEMPORARY WATER METER - A water meter which measures the quantity of water 
+consumed at, in or upon a property during the construction of a structure, or during any other 
+temporary purpose as may be approved by the General Manager, intended to be temporary and 
+removed upon completion of the structure or other temporary purpose and is read, serviced, 
+maintained or supplied by the City. 
+
+TEMPORARY WATER SERVICE CONNECTION - A water service connection to the 
+waterworks for the purpose of the construction of a structure, or any other temporary purpose as 
+may be approved by the General Manager, intended to be temporary and removed upon 
+completion of the structure or other temporary purpose and may also include a temporary 
+connection to a fire hydrant. 
+
+UNIVERSAL METERING PROGRAM - Any program or project adopted by the City from time 
+to time to supply and install new water meters, remote water meter reading devices and meter 
+seals on all unmetered properties within the City. 
+
+WATER - Potable water supplied by the City. 
+
+WATER ACCOUNT - The record of water consumption and all fees and charges related thereto 
+at and for a property. [Added 2008-05-27 by By-law 506-20087] 
+
+WATERMAIN - The pipes within a water supply distribution system that serves more than one 
+property. [Added 2010-07-08 by By-law 869-2010] 
+
+WATER METER - An apparatus at a property or at a bulk water fill station which measures and 
+records the quantity of water passing through it and is read, serviced, maintained or supplied by 
+the City. [Amended 2019-03-28 by By-law 515-20198] 
+
+WATER SERVICE CONNECTION - That part of the waterworks, consisting of pipes, fittings 
+and appurtenances which supplies water to a property, and which is located between the City 
+watermain and the streetline or between the City watermain and the boundary line between a 
+City easement or other City land containing the watermain and private land. 
+
+7
+
+8
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+ Editor's Note: By-law 515-2019 came into force on April 1, 2019. 
+
+851-6 
+
+April 1, 2019 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+WATERWORKS - Any works for the collection, production, treatment, storage, supply, 
+transmission and distribution of water, including bulk water, by the City, or any part of any of 
+these works, including the water service connection, but does not include plumbing to which the 
+Building Code Act, 1992, or any amendments thereto apply. [Amended 2019-03-28 by By-law 
+515-20199] 
+
+§ 851-2. Administration. 
+
+A.  The administration of the waterworks and fixed water meter reading equipment shall be 
+
+under the jurisdiction of the General Manager. 
+
+B.  The administration of water meter reading, water rates, accounting, billing and collection 
+
+shall be under the jurisdiction of the CFO. 
+
+C.  The administration of the installation of new, renovated or altered private water service 
+
+pipes, private fire service mains, private water systems and appurtenances, backflow 
+prevention devices on private property shall be the responsibility of the CBO under the 
+Building Code Act or the General Manager under this chapter. [Amended 2008-12-03 by 
+By-law 1250-2008] 
+
+D.  The administration of inspections of existing private water service pipes, private fire 
+
+service mains, private water systems and appurtenances, backflow prevention devices on 
+private property shall be the responsibility of the General Manager. 
+
+E.  The General Manager shall be authorized to prescribe any City form under this chapter and 
+
+to amend or revise those forms from time to time. 
+
+F. 
+
+The General Manager shall be authorized to amend or revise City standards and 
+specifications relating to this chapter as may be required from time to time. 
+
+G.  The City may authorize programs or projects which may exempt persons or properties from 
+
+a provision or provisions of this chapter. 
+
+§ 851-3. Use and receipt of water. 
+
+[Amended 2019-03-28 by By-law 515-201910] 
+
+A.  No person shall use, cause or permit water to be used otherwise than in connection with the 
+
+property at which it is supplied without the prior written permission of the General 
+Manager, other than authorized Toronto Fire Services personnel or other City personnel, 
+acting in the course of their duties. 
+
+B.  Notwithstanding Subsection A, the use of bulk water is permitted in accordance with the 
+
+provisions of this chapter. 
+
+9
+
+ Editor's Note: By-law 515-2019 came into force on April 1, 2019. 
+
+10
+
+ Editor's Note: By-law 515-2019 came into force on April 1, 2019. 
+
+851-7 
+
+April 1, 2019 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+C.  No person shall sell or otherwise similarly dispose of water or bulk water without the prior 
+
+written permission of the General Manager, other than authorized Toronto Fire Services 
+personnel or other City personnel, acting in the course of their duties. 
+
+D.  No person shall obtain water or bulk water without paying the applicable charges, fees or 
+
+rates for that water or bulk water, except with the prior written approval of the General 
+Manager, other than authorized Toronto Fire Services personnel or other City personnel, 
+acting in the course of their duties. 
+
+§ 851-4. Water service connections. 
+
+A.  New or changed connections. 
+
+(1) 
+
+(a)  No person shall erect or cause to be erected any building or structure, except an 
+
+ancillary building, on lands which are serviced by the waterworks unless the 
+new building or structure is connected to the waterworks. 
+
+(b)  No owner or occupant shall permit to be erected any building or structure, 
+
+except an ancillary building, on lands which are serviced by the waterworks 
+unless the new building or structure is connected to the waterworks. 
+
+(2) 
+
+(a)  No person shall connect to the waterworks or change or alter an existing 
+
+connection to the waterworks without the approval of the General Manager and 
+compliance with the requirements of § 851-4. 
+
+(b)  No owner or occupant shall permit a connection to the waterworks or change or 
+
+alter or permit the change or alteration of an existing connection to the 
+waterworks without the approval of the General Manager and compliance with 
+the requirements of § 851-4. 
+
+(3)  The minimum size water service connection shall be no less than 19 mm in diameter. 
+
+B.  Application for connection. 
+
+(1)  All persons who require water to be supplied to a property or a change or alteration to 
+
+the existing water service connection in relation to a property shall submit an 
+application on the prescribed City form to the General Manager and shall pay to the 
+City: [Amended 2010-07-08 by By-law 869-2010] 
+
+(a)  At the time of making the application, all applicable fees, charges, deposits and 
+
+costs, including the cost of the new water meter if one is required; and 
+
+(b)  Those applicable fees, charges and costs shall be included in water account 
+
+bill(s) or invoice(s) by the City for the subject property. 
+
+(2)  Any application under subsection § 851-4B(1) shall be accompanied by such plans as 
+may be required by the General Manager to permit the General Manager to determine 
+if the application is in accordance with the standards and specifications and the 
+requirements of this chapter. 
+
+851-8 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(3)  The owner of the property shall sign the application and shall be responsible for the 
+
+completeness and accuracy of the information furnished on the application and in the 
+plans. 
+
+(4)  Any person who requires a water service connection on a temporary basis may make 
+an application for a temporary water service connection in the same manner as a 
+permanent water service connection. The provisions in Chapter 851 applicable to a 
+water service connection shall apply to both temporary and permanent water service 
+connections. [Added 2010-07-08 by By-law 869-2010] 
+
+C. 
+
+Installation of water service connection. 
+
+(1) 
+
+(a)  Upon approval by the General Manager of an application submitted under 
+
+§ 851-4B(1) and compliance with § 851-4D, a water service connection 
+including any mains shall be installed by the City, at the expense of the owner, 
+in accordance with the standards and specifications and at rates, fees, charges 
+and costs prescribed or determined by the City from time to time. [Amended 
+2010-07-08 by By-law 869-2010] 
+
+(b)  Notwithstanding § 851-4C(1)(a), upon approval by the General Manager of an 
+
+application submitted under § 851-4B(1) and compliance with § 851-4D, the 
+General Manager may authorize, in writing, an owner to install a water service 
+connection including any mains provided that: [Added 2010-07-08 by By-law 
+869-2010] 
+
+[1]  The owner meets one of the following conditions: 
+
+[a]  The installation of a water service connection is within a new or 
+
+existing unassumed subdivision; or 
+
+[b]  The installation of a water service connection is to be constructed in 
+conjunction with the construction of new water main infrastructure 
+related to the owner's project; or 
+
+[c] 
+
+Installation of a water service connection is approved by the General 
+Manager within an easement; and 
+
+[2]  A written agreement between the City and the owner of the property, in 
+
+respect to the installation, any related work and acceptance of risk by the 
+owner, is first entered into on such terms and conditions as are acceptable 
+to the General Manager and in a form satisfactory to the City Solicitor; 
+and 
+
+[3]  The installation is wholly at the expense and risk of the owner including 
+
+payment by the owner to the City of any rates, fees, charges and costs 
+prescribed or determined by the City from time to time or costs otherwise 
+incurred by the City as a result of or related to the installation and 
+inspection of the work; and 
+
+[4]  The installation is in accordance with the City's standards and 
+specifications and the agreement set out in § 851-4C(1)(b)[2]. 
+
+851-9 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(b.1)  The General Manager may exempt, where appropriate, an owner from the 
+conditions contained in § 851-4C(1)(b)[1] where the General Manager is 
+satisfied that the service connections can be properly installed by the owner in 
+accordance with the City specifications and the other requirements set out in 
+§ 851-4C(1)(b) are met. [Added 2013-07-19 by By-law 1030-2013] 
+
+(c)  The General Manager is authorized to enter into and execute an agreement 
+provided in § 851-4C(1)(b)[2], unless Council has otherwise delegated 
+responsibility to enter and execute the form of agreement to another City 
+division head or official. [Added 2010-07-08 by By-law 869-2010] 
+
+(2) 
+
+In the event that a person connects to the waterworks or installs a water service 
+connection in a manner other than as provided for in this chapter, the General 
+Manager may: 
+
+(a)  Re-excavate the connection or water service connection for the purpose of 
+
+inspection and testing and, if necessary, require the owner to reinstall the work 
+in compliance with this chapter, all at the expense of the owner; or 
+
+(b)  Disconnect the water service connection which shall not be reinstalled or 
+
+reconnected except with the prior written permission of the General Manager 
+and full compliance with the requirements of this chapter, all at the expense of 
+the owner. 
+
+D.  Costs of water service connection. 
+
+(1)  Upon approval by the General Manager of an application for a water service 
+
+connection submitted under § 851-4B(1), with respect to a dwelling unit to be 
+serviced by a water service connection not exceeding 25 mm in diameter, the General 
+Manager shall determine: 
+
+(a)  The cost of providing that water service connection under the amounts specified 
+
+in Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water Services, 
+for that type of water service connection, as may be established or amended by 
+the City from time to time; and [Amended 2009-12-04 by By-law 1206-200911; 
+2011-02-24 by By-law 335-201112] 
+
+(b)  The conditions upon which that water service connection shall be provided,  
+
+and the owner shall pay that amount to the City, prior to the commencement of the 
+installation of the water service connection by the City, and comply with those 
+conditions. 
+
+(2) 
+
+(a)  Upon approval by the General Manager of an application for a water service 
+
+connection submitted under § 851-4B(1), with respect to a property other than a 
+dwelling unit to be serviced by a water service connection not exceeding 25 mm 
+
+11
+
+12
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-10 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+in diameter, the General Manager shall determine: [Amended 2009-12-04 by 
+By-law 1206-2009;13 2010-07-08 by By-law 869-2010] 
+
+[1]  An estimated cost of providing that water service connection; and 
+
+[2]  The conditions upon which that water service connection shall be 
+
+provided, 
+
+and the owner shall pay that estimated amount to the City as a deposit, specified 
+in Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water Services, 
+prior to the commencement of the water service connection installation by the 
+City, and comply with those conditions. [Amended 2011-02-24 by By-law 335-
+201114] 
+
+(b)  Upon completion of the installation of a water service connection under § 851-
+4C(1) to which § 851-4D(2) applies, including surface restoration, the General 
+Manager shall determine the actual cost of the water service connection 
+installation and any restoration, and the owner shall pay those actual costs. 
+
+[1] 
+
+[2] 
+
+In the event that the actual cost of the work is greater than the deposit, the 
+owner shall immediately pay to the City the difference between the actual 
+cost and the deposit. 
+
+In the event that the actual cost of the work is less than the deposit, the 
+General Manager shall refund the difference between the actual cost and 
+the deposit to the owner. 
+
+(3) 
+
+(a)  An owner shall include in an application for a water service connection 
+
+submitted under § 851-4B(1) information in respect of the property including: 
+
+[1]  The estimated consumption and flow rates; 
+
+[2]  The type of business to be carried on at the property, if any; and 
+
+[3]  The number of employees working at the property, if any, 
+
+for the purpose of determining water meter size under § 851-5D. 
+
+(b)  The owner shall sign the application and shall be responsible for the 
+
+completeness and accuracy of the information furnished on the application 
+including any plans or other documentation accompanying that application. 
+
+(c)  Upon approval of the application by the General Manager, all costs for that 
+
+water service connection, including the cost of the new water meter, shall be at 
+the sole expense of the owner. 
+
+E.  No installation in road allowance. 
+
+13
+
+14
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-11 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+No person shall install or cause the installation of a water service connection to be installed 
+within any road allowance, City easement or other City land, save and except an authorized 
+employee, agent or contractor of the City or a person expressly authorized to do so by a 
+written agreement with the City. 
+
+F. 
+
+Separate connections. [Amended 2013-12-18 by By-law 1697-2013; 2017-04-28 by 
+By-law 461-2017] 
+
+(1)  No person shall install or cause the installation of, and no owner shall permit the 
+
+installation of, a private water service connection to a municipal water service 
+connection that services more than one building on a property unless otherwise 
+permitted under the Building Code and the Safe Drinking Water Act, 2002, as 
+applicable, and this section. 
+
+(2)  No person shall install or cause the installation of, and no owner shall permit the 
+installation of, a private water service connection to the municipal water service 
+connection that services more than one property. 
+
+(3)  The General Manager may authorize a single water service connection to service a 
+single property containing multiple buildings, parcels of tied land, condominiums, 
+and/or freehold parcels, provided that: 
+
+(a) 
+
+Such servicing complies with the Building Code and the Safe Drinking Water 
+Act, 2002, as applicable; and 
+
+(b) 
+
+The General Manager is satisfied that: 
+
+[1] 
+
+The proposed servicing meets the Standards and Specifications; 
+
+[2] 
+
+[3] 
+
+[4] 
+
+The owner of the lands upon which the service connection is located is 
+directly responsible for the payment of any fees and charges for the 
+supply of municipal water services to the property; 
+
+The owner of the lands upon which the service connection is located is 
+directly responsible for any non-compliance with this chapter and any 
+enforcement measures and sanctions arising from non-compliance 
+with this chapter; 
+
+The manner of ownership of the property will not impede the City's 
+ability to collect fees or charges or enforce compliance with this 
+chapter or Chapter 441 and Chapter 849; and 
+
+[5] 
+
+The general intent of this subsection has been met. 
+
+(4)  Where an authorization is provided by the General Manager under § 851-4F(3), the 
+General Manager may make such authorization conditional on such terms and 
+
+851-12 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+conditions as the General Manager considers appropriate to meet the requirements of 
+§ 851-4F(3)(b). 
+
+(5)  For the purpose of § 851-4F(3), a "parcel of tied land" shall be as defined under 
+
+section 24(1) of Ontario Regulation 49/01, made under the Condominium Act, 1998, 
+as amended from time to time. 
+
+G. 
+
+Replacement of existing water service connection. 
+
+[Amended 2017-04-28 by By-law 461-2017] 
+
+(1) 
+
+(2) 
+
+If a new water service connection replaces an existing water service connection, 
+the existing water service connection shall be disconnected from the City 
+watermain and the shut-off valve shall be removed, all at the same time as the 
+new water service connection is installed. 
+
+An owner shall apply to the City for a new municipal water service connection 
+and, where there is an existing municipal water service connection, for the 
+disconnection of the existing municipal water service connection(s) where there 
+is:  
+
+(a) 
+
+(b) 
+
+A subdivision or severance of a lot or parcel of land or change in location 
+of any building or structure on a lot serviced by the existing water service 
+connection; or 
+
+A construction of a new or reconstructed building or structure that will be 
+directly or indirectly supplied by the municipal water service connection. 
+
+(3) 
+
+The owner shall pay to the City all costs related to: 
+
+(a) 
+
+The installation of a new municipal water service connection; and 
+
+(b)  Where required by this chapter, disconnection of existing municipal water 
+
+service connection(s). 
+
+Costs shall be payable on an actual cost basis, subject to a minimum charge equal 
+to the applicable flat rate for such works, as determined by the City from time to 
+time. 
+
+(4) 
+
+Notwithstanding § 851-4G(1) or (2), an owner may apply to the General Manager 
+for the reuse of a municipal water service connection, up to and including 25 mm 
+in diameter, for the purposes of servicing a residential dwelling if the municipal 
+water service connection meets, as determined by the General Manager, all of the 
+following criteria: 
+
+(a) 
+
+(b) 
+
+The municipal water service connection must meet current City standards 
+and specifications; 
+
+The municipal water service connection must not be a double connection 
+or otherwise supply more than one property; and  
+
+851-13 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(c) 
+
+The municipal water service connection must have properly functioning 
+curb stops and valves and no record of low pressure. 
+
+(5) 
+
+The owner, upon making an application under § 851-4G(2) or § 851-4G(4), shall 
+pay to the City any fees, charges and costs as may be prescribed or determined by 
+the City from time to time. 
+
+H.  Demolition of a property. 
+
+(1) 
+
+If a building or structure on a property is demolished or substantially demolished, the 
+water service connection shall be disconnected by the City at the connection point to 
+the City watermain. 
+
+(2)  The owner shall pay all costs associated with the disconnection prior to the 
+
+demolition of the building or structure. 
+
+I. 
+
+Costs of disconnection of water service connection. 
+
+(1) 
+
+In the event that an owner requests a disconnection of a water service connection, in 
+relation to a dwelling unit serviced by a water service connection not exceeding 
+25 mm in diameter, the General Manager shall determine: 
+
+(a)  The cost of providing that disconnection under the amounts specified in 
+
+Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water Services, for 
+that type of water service disconnection, as may be established by the City from 
+time to time; and [Amended 2009-12-04 by By-law 1206-200915; 2011-02-24 
+by By-law 335-201116] 
+
+(b)  The conditions upon which that disconnection shall be provided, 
+
+and the owner shall pay that amount to the City prior to the commencement of the 
+disconnection of the water service connection by the City and comply with those 
+conditions. 
+
+(2) 
+
+(a) 
+
+In the event that an owner requests a disconnection of a water service 
+connection in relation to any property, other than a dwelling unit serviced by a 
+water service connection not exceeding 25 mm in diameter, or a disconnection 
+of a water service connection installed for construction purposes under § 851-9, 
+the General Manager shall determine: 
+
+[1]  An estimated cost of providing that disconnection; and 
+
+[2]  The conditions upon which that disconnection shall be provided. 
+
+(b)  The owner shall pay, as a deposit, the amount specified in Chapter 441, Fees 
+and Charges, Appendix D - Schedule 2, Water Services, for the type of water 
+service disconnection under § 851-4I(2)(a), prior to the commencement of the 
+disconnection by the City and the owner shall comply with those conditions set 
+
+15
+
+16
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-14 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+out in § 851-4I(2)(a)[2]. [Amended 2009-12-04 by By-law 1206-200917; 2011-
+02-24 by By-law 335-201118] 
+
+(c)  Upon completion of the disconnection, including surface restoration, the 
+
+General Manager shall determine the actual cost of the disconnection and any 
+restoration, and the owner shall pay those actual costs. 
+
+[1]  The deposit set out § 851-4I(2)(b) shall be applied by the City against the 
+
+costs of providing that disconnection. 
+
+[2] 
+
+[3] 
+
+In the event that the actual cost of the work is greater than the deposit, the 
+owner shall immediately pay to the City the difference between the actual 
+cost and the deposit. 
+
+In the event that the actual cost of the work is less than the deposit, the 
+General Manager shall refund the difference between the actual cost and 
+the deposit to the owner. 
+
+J. 
+
+Investigations. 
+
+(1)  Where a person disputes the City's determination of the location of a leak or defect in 
+a water service connection, that person may apply in writing to the General Manager 
+to request the City to conduct an inspection of the water service connection and to 
+perform whatever excavation that may be necessary. 
+
+(a)  The applicant shall set out, in the application, the basis upon which the 
+
+applicant disputes the City's determination of the location of a leak or defect in 
+a water service connection. 
+
+(b) 
+
+If the General Manager, in that person's sole discretion, determines that an 
+inspection by excavation is necessary to determine the location or cause of the 
+leak or defect, the person requesting the inspection shall pay to the City the 
+deposit specified in Chapter 441, Fees and Charges, Appendix D - Schedule 2, 
+Water Services, prior to the commencement of the excavation. [Amended 2009-
+12-04 by By-law 1206-200919; 2011-02-24 by By-law 335-201120] 
+
+(c)  The deposit shall be in the form of either cash or a certified cheque, or applied 
+
+to the applicant's water account, as may be determined by the General Manager. 
+
+If, upon an inspection under § 851-4J(1), a leak or defect is found by the City on the 
+water service connection, the City shall refund the deposit paid. 
+
+If, upon an inspection under § 851-4J(1), no leak or defect is found by the City on the 
+water service connection, the General Manager shall determine the actual cost of the 
+
+(2) 
+
+(3) 
+
+17
+
+18
+
+19
+
+20
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-15 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+excavation, restoration and any other services and work performed by the City in 
+relation to the inspection, and the applicant shall pay those actual costs. 
+
+(a) 
+
+(b) 
+
+In the event that the actual cost of the work is greater than the deposit, the 
+applicant shall immediately pay to the City the difference between the actual 
+cost and the deposit. 
+
+In the event that the actual cost of the work is less than the amount deposit, the 
+General Manager shall refund the difference between the actual cost and the 
+deposit to the owner. 
+
+K.  Acceptance of temporary water service connection. 
+
+(1)  An owner may apply in writing on the form prescribed by the General Manager to 
+
+have a temporary water service connection and temporary private water service pipe 
+accepted as the permanent water service connection and permanent private water 
+service pipe to a property. 
+
+(2)  Where the General Manager determines that the temporary water service connection 
+and temporary private water service pipe comply with the City's standards and 
+specifications for a permanent water service connection and permanent private water 
+service pipe, the General Manager may approve and accept that temporary water 
+service connection and temporary private water service pipe and shall advise the 
+owner accordingly of the General Manager's decision. 
+
+L. 
+
+Installation and inspection of private water service pipe and private fire service mains. 
+
+(1)  All private water service pipes and private fire service mains and their appurtenances 
+shall be installed by the owner, at the owner's sole expense, in accordance with all 
+applicable law including, but not limited to, the Building Code Act, 1992, the 
+standards and specifications and this chapter. 
+
+(2)  No owner shall install a private water service pipe or private fire service main or 
+
+permit a private water service pipe or private fire service main to be installed on that 
+owner's property except where: 
+
+(a)  The watermain to which the connection is to be made is fully completed and 
+
+accepted by the City for operation; and 
+
+(b)  A water service connection has been installed to the satisfaction of the General 
+
+Manager. 
+
+(3) 
+
+In the event that a person installs or permits to be installed a private water service 
+pipe or private fire service main in a manner not in accordance with this chapter, the 
+General Manager may order the excavation of the private water service pipe or 
+private fire service main or any other action as may be necessary for the purpose of 
+inspection and testing by the City. [Amended 2008-12-03 by By-law 1250-2008] 
+
+(4) 
+
+(a) 
+
+If the General Manager determines, after an inspection and testing or otherwise, 
+that a private water service pipe or private fire service main has not been 
+installed in accordance with § 851-4L(1), the General Manager may direct the 
+
+851-16 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+owner to perform whatever remedial work that may be required to comply all at 
+the expense of the owner. [Amended 2008-12-03 by By-law 1250-2008] 
+
+(b)  Where the owner fails or refuses to perform the remedial work under § 851-
+
+4L(4)(a), the General Manager may: 
+
+[1]  Order the owner to perform whatever remedial work may be required by 
+the General Manager, in addition to any requirements by the CBO, to 
+bring the private water service pipe or private fire service main or both, as 
+the case may be, into complete compliance with the standards and 
+specifications and this chapter; or 
+
+[2]  Disconnect the private water service pipe or private fire service main or 
+
+both from the waterworks;, or 
+
+[3]  Both Subsection L(4)(b)[1] and [2]. 
+
+(c)  Upon a disconnection by the General Manager under § 851-4L(4)(b)[2] and [3], 
+
+the owner shall not reinstall a private water service pipe or private fire service 
+main or both except: 
+
+[1]  Upon the prior written approval of the General Manager; 
+
+[2]  Upon the payment of all fees and charges payable to the City in respect to 
+
+the disconnection; and  
+
+[3] 
+
+In complete compliance with the standards and specifications and this 
+chapter. 
+
+M.  Maintenance and use of private water service pipe and private fire service main. 
+
+(1)  No owner of a property shall fail to keep all private water service pipes and private 
+
+fire service mains on that property including but not limited to fittings, valves, meter 
+chambers and supports thereof in good working order and repair at all times. 
+
+(2) 
+
+(a)  No owner of a property shall fail to repair any and all leaks, defects or 
+
+malfunctions in, of or on the private water service pipe or private fire service 
+main on that owner's property, including leaks, defects or malfunctions related 
+to valves, fittings or corroded piping, as soon as possible after becoming aware 
+of any such leak or defect or malfunction. 
+
+(b) 
+
+In the event that the owner fails or refuses to repair any and all leaks, defects or 
+malfunctions in, of or on the private water service pipe or private fire service 
+main on that owner's property, including leaks, defects or malfunctions related 
+to valves, fittings or corroded piping, the General Manager may issue an order 
+to the owner to do so. 
+
+(c)  The owner shall comply with an order issued under § 851-4M(2)(b) no later 
+
+than 48 hours after issuance. 
+
+(3) 
+
+If an order is issued under § 851-4M(2), the owner shall pay the amount specified in 
+Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water Services, with 
+
+851-17 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+respect to any water not registered by a meter or for any water loss each day an order 
+of the General Manager under § 851-4M(2)(b) is not complied with. [Amended 
+2009-12-04 by By-law 1206-200921; 2011-02-24 by By-law 335-201122] 
+
+(4)  Despite § 851-4M(3), where the owner can provide, to the satisfaction of the General 
+
+Manager, an accurate record of the actual water lost as a result of the leak, defect or 
+malfunction, the amount payable shall be equal to the amount so recorded to the 
+satisfaction of the General Manager. 
+
+N.  Frozen water service pipe. 
+
+(1)  No owner of a property shall fail to ensure that all private water service pipes, the 
+private water system and private fire service mains on that property are protected 
+from freezing. 
+
+(2)  An owner shall be responsible for: 
+
+(a)  Any damage incurred as a result of any private water service pipe, private water 
+system or private fire service main on that owner's property freezing; and 
+
+(b)  Any water loss or water discharge which occurs as the result of a leak in a 
+
+frozen private water service pipe, private water system or private fire service 
+main on that owner's property. 
+
+(3) 
+
+(a)  Thawing out frozen water service pipes shall be the owner's responsibility. 
+
+(b)  Where, upon the owner's application, the City assists the owner in the thawing 
+of frozen pipes on that owner's property, all work performed by the City to 
+assist the owner in that regard shall be performed at the owner's risk and the 
+owner shall have no claim whatsoever against the City by reason of that work. 
+
+§ 851-5. Metering of water. 
+
+A.  Water to be metered. 
+
+(1)  No person, other than authorized Toronto Fire Services personnel or other City 
+
+personnel acting in the course of their duties or authorized agents or contractors of the 
+City expressly acting within the scope of their work or services, shall use or permit 
+the use of water or bulk water that has not passed through a water meter. [Amended 
+2019-03-28 by By-law 515-201923] 
+
+(2)  No owner shall fail to have a water meter installed and in use at that owner's property 
+
+where that property is supplied with water by the City. 
+
+(3)  Subsection 851-5A(1) and (2) shall not apply where: [Amended 2010-07-08 by By-
+
+law 869-2010] 
+
+21
+
+22
+
+23
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+ Editor's Note: By-law 515-2019 came into force on April 1, 2019. 
+
+851-18 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(a)  Water is used by consumers at a property serviced by the City with water on a 
+
+flat rate payment basis as of the date of the coming into force of this chapter; or 
+
+(b)  The use of unmetered water is otherwise permitted by this chapter. 
+
+(4)  Subsections 851-5A(1) and (2) shall apply, despite § 851-5A(3), where water is used 
+by consumers at a property serviced by the City with water on a flat rate payment 
+basis as of the date of the coming into force of this chapter to: 
+
+(a)  A property containing an irrigation system, in-ground swimming pool, spa, hot 
+tub, a permanent above-ground swimming pool, an ornamental fountain, or 
+water-cooled machinery or equipment; or 
+
+(b)  A property is a commercial or industrial building, a place of worship building, 
+an apartment building, or a building with four or more dwelling units; or 
+
+(c)  The water service connection to the property is replaced, whether it is within the 
+
+property or the street allowance adjacent to the property. 
+
+(5)  Any person who uses water, in contravention of § 851-5A(1), (2) or (4), shall pay the 
+
+cost of all water used, as specified in Chapter 441, Fees and Charges, Appendix D - 
+Schedule 2, Water Services. [Amended 2009-12-04 by By-law 1206-200924; 2011-
+02-24 by By-law 335-201125] 
+
+(6)  Despite § 851-5A(3), the General Manager may require the owner of a property 
+
+serviced by the City on a flat rate basis as at the date of the coming into force of this 
+chapter to have a water meter, a remote readout unit, and related equipment and 
+materials installed by the City and in use at that owner's property under a universal 
+metering program. 
+
+(7)  Despite § 851-5A(3), the General Manager may require the owner of a property 
+
+serviced by the City and equipped with a water meter to have a new water meter or a 
+remote readout unit, or both, and related equipment and materials installed by the 
+City under a water meter installation or replacement program or project or automated 
+meter reading program of the City. 
+
+B. 
+
+Installation of water meter. 
+
+(1)  No person shall install a water meter other than as required by this chapter unless 
+
+otherwise authorized in writing by the General Manager. 
+
+(2)  Water meters, including strainers, valves and water meter by-pass arrangements 
+
+where required, for new or renovated buildings shall be installed by the owner, at the 
+sole expense of the owner, in accordance with the standards and specifications. 
+
+(3)  Every owner, required to install a water meter under this chapter, shall install a water 
+meter on that owner's property in a secure location within seven days of receiving it 
+from the City. 
+
+24
+
+25
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-19 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(4)  Despite any other provision of this chapter, the water meter, conduit and wire for the 
+remote readout unit shall be installed prior to occupancy of a new or renovated 
+building or part thereof. 
+
+(a)  The water meter, conduit and wire for the remote readout unit shall be installed 
+
+by the owner and inspected and sealed by the General Manager. 
+
+(b) 
+
+If a telephone line or electrical outlet or both is required by the standards and 
+specifications, that telephone line together with a telephone jack or that 
+electrical outlet or both, as the case may be, shall also be installed by the owner 
+and shall be operational at the time that the water meter is installed. 
+
+(c)  All costs in relation to the installation, including the costs of the necessary 
+
+telephone line, shall be the responsibility of the owner. 
+
+(5)  Except as otherwise provided for in this chapter, the water supply to a property will 
+not be turned on until the General Manager has inspected and sealed the water meter 
+installed at the property as set out in § 851-6. 
+
+(6)  No person shall turn on the water supply to a property until the General Manager has 
+
+inspected and sealed the water meter installed at the property, other than authorized 
+Toronto Fire Services personnel or other City personnel acting in the course of their 
+duties or authorized agents or contractors of the City expressly acting within the 
+scope of their work or services. 
+
+(7) 
+
+In the event that the water supply to a property has been turned on prior to the 
+General Manager's inspection and sealing of the water meter at the property, the 
+General Manager shall be entitled to shut off the supply of water to the property. 
+
+(8)  Despite § 851-5B(3) and (4), in the case of a property subject to meter installation or 
+replacement under a universal metering program or automated meter reading 
+program, the City may install the water meter, conduit and wire for the remote 
+readout unit and automated meter reading equipment. 
+
+C.  Supply and payment for water meters. 
+
+(1)  The City shall supply water meters for all buildings to which a water service 
+
+connection is provided. 
+
+(a)  Strainers and connection fittings including water meter flanges to be attached to 
+
+the water meter shall also be provided by the City when required by the 
+standards and specifications. 
+
+(b)  The owner shall pay the amounts specified in Chapter 441, Fees and Charges, 
+Appendix D - Schedule 2, Water Services, for the water meter and all required 
+strainers, connection fittings, hardware and flanges supplied by the City in 
+accordance with § 851-5C, at the time of submission of a water service 
+
+851-20 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+connection application, except where: [Amended 2009-12-04 by By-law 1206-
+200926; 2011-02-24 by By-law 335-201127] 
+
+[1]  The owner's property does not have a water meter as of the date of this 
+
+chapter coming into force and is subject to the universal metering program 
+or is a property to which the City supplies with water meters as part of the 
+automated meter reading program; and 
+
+[2]  The program exempts the owner from payment of such fees and charges. 
+
+(c)  No water service connection application shall be approved by the City until all 
+
+amounts required to be paid under § 851-5C(1)(b) have been paid. 
+
+(2)  Private meters or water meters additional to the existing water meter(s) or water 
+
+meters required by this chapter may only be installed by the owner at the discretion of 
+the General Manager. 
+
+(3)  The City shall be the sole supplier of all water meters registering consumption of 
+
+water supplied and billed by the City. 
+
+(4)  The City shall retain ownership of all water meters, strainers and connection fittings 
+
+including the water meter flanges supplied by the City. 
+
+D.  Size of water meter. 
+
+[Amended 2017-04-28 by By-law 416-2017] 
+
+(1)  The General Manager shall determine the size of the water meters to be supplied to a 
+property having regard to the consumption and flow rates required by the owner, 
+based on the information supplied by the owner in its application as required by 
+§ 851-4D(2) or § 851-5D(2), and the standards and specifications. 
+
+(2)  An owner may submit an application on the prescribed City form to the General 
+
+Manager in respect of an existing water service, for a change in the size of the water 
+meter at the property. 
+
+(a) 
+
+In the owner's application, the owner shall provide the General Manager with 
+anticipated consumption and flow rates, type of business, if any, and number of 
+employees working at the property, if any. 
+
+(b)  The owner shall sign the application, and the owner shall be responsible for the 
+completeness and accuracy of the information furnished on that application 
+including any plans or other documentation accompanying that application.  
+
+(3)  The General Manager may conduct flow monitoring tests on the private water service 
+
+pipe or private water system of a property and analysis of water use at that property 
+and such other information relevant to the water use or water meter as the General 
+Manager determines appropriate to determine the appropriate size and type of water 
+meter to be or that should be installed at the property. 
+
+26
+
+27
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-21 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(4)  An owner of a property shall, at reasonable times, provide the General Manager with 
+
+clear and unobstructed access to the owner's private water service pipe and private 
+water system: 
+
+(a)  For the purpose of installing a non-intrusive flow monitoring device on the 
+
+private water service pipe or private water system near the water meter; and  
+
+(b)  For the purpose of conducting any flow monitoring tests under § 851-5D(3) to 
+
+determine if the existing water meter is the appropriate size for the property. 
+
+(5) 
+
+In the event that the result of the flow monitoring tests and analysis of water use at a 
+property under § 851-5D(3) indicate that the capacity of the water meter is not 
+appropriately sized for the property, the owner shall, at the owner's sole expense, 
+change the water meter and adjacent piping to comply with the standards and 
+specifications, if directed by the General Manager. 
+
+(6)  The charge payable by an owner for a water meter shall be based on the size of the 
+water meter as determined by the General Manager in accordance with § 851-5D(1) 
+or § 851-5D(3). 
+
+(7)  For flow monitoring tests required under § 851-5D, the owner shall be responsible to 
+
+protect the flow monitoring device installed at the owner's property against loss or 
+damage. 
+
+E.  Refusals to install. 
+
+(1)  Under a universal metering program or automated meter reading program, no owner 
+
+shall refuse or obstruct the City in the installation of: 
+
+(a)  A water meter and related items; and 
+
+(b)  Automated meter reading equipment. 
+
+(2) 
+
+(a)  No owner of a property shall fail to install a water meter and any related items 
+
+and equipment as required under this chapter. 
+
+(b) 
+
+In the event that the owner fails or refuses to install a water meter and any 
+related items and equipment as required, the General Manager may issue an 
+order to the owner to do so. 
+
+(c)  The owner shall comply with an order issued under § 851-5E(2)(b) no later than 
+
+seven days after issuance. 
+
+(d) 
+
+If an owner fails to comply with an order under § 851-5E(2)(b), the General 
+Manager may undertake the work at the owner's expense in accordance with 
+§ 851-22D. 
+
+F.  Notification by owner. 
+
+(1)  Upon receipt of an approval from the CBO for the installation of new plumbing or for 
+all new or replacement private water service pipe installations, where a water meter is 
+
+851-22 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+required to be installed under this chapter, the owner shall immediately notify the 
+General Manager when the property is ready for the installation of the water meter. 
+
+(2)  For all new or replacement water service connection installations, the owner shall 
+
+notify the General Manager upon installation of the water meter in accordance with 
+the standards and specifications and within seven days of receipt of the water meter 
+from the City as required by § 851-5B, except where § 851-5B(8) applies. 
+
+G.  Provision for water meter. 
+
+An owner of a property shall ensure that provision is made in the piping system of all 
+existing, new and renovated buildings or structures for the installation of a water meter of 
+the same diameter as the private water service pipe in accordance with the standards and 
+specifications. 
+
+H.  Water meter by-pass piping. 
+
+(1)  When the property is not in compliance with this chapter, the General Manager may 
+
+require the owner of a property which is not a dwelling unit, containing a water meter, 
+to supply, install and maintain in good working order a by-pass pipe and valves in 
+accordance with the standards and specifications, at the owner's sole cost. 
+
+(2)  The by-pass pipe and valves to be supplied and installed by the owner in accordance 
+
+with § 851-5H(1) shall be configured so as to permit the testing, repair or replacement 
+of the water meter without an interruption of the water supply. 
+
+(3)  The General Manager shall seal the by-pass valve, to be supplied and installed in 
+accordance with § 851-5H(1), in the closed position upon notification of its 
+installation by the owner. 
+
+(4)  No person shall break the seal of the General Manager on a by-pass valve, except 
+
+with the prior authorization of the General Manager. 
+
+(5) 
+
+If the owner fails or refuses to supply and install the by-pass pipe or valves in 
+accordance with the standards and specifications, the General Manager may order the 
+owner: 
+
+(a)  To supply and install a new or replacement water meter by-pass pipe or valves; 
+
+(b)  To remove any defective pipe or valves and install new pipe or valves; and 
+
+(c)  To repair and maintain the water meter by-pass pipe or valves, 
+
+in accordance with the standards and specifications, at the owner's expense. 
+
+(6)  An owner shall comply with an order made under § 851-5H(5) within seven calendar 
+
+days from receipt of the order from the General Manager. 
+
+(7) 
+
+If an owner fails to comply with an order made under § 851-5H(5) within the time 
+required, the General Manager may undertake the work, at the owner's expense, in 
+accordance with § 851-22D. 
+
+I.  Water meter chamber. 
+
+851-23 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(1)  A water meter shall be installed in a water meter chamber constructed by the owner in 
+
+accordance with the standards and specifications, at the owner's expense, if: 
+[Amended 2008-12-03 by By-law 1250-2008; 2014-06-13 by By-law 537-2014] 
+
+(a)  The distance between the streetline and the location where the water meter 
+
+would be located inside the building or structure is greater than 30 metres from 
+the streetline; or 
+
+(b)  The General Manager is of the opinion that a water meter cannot be located 
+
+inside a building or structure in accordance with the standards and 
+specifications. 
+
+(1.1) Subsection 851-5I(1)(a) shall not apply in respect to a single family dwelling unless, 
+in the General Manager's determination, a water meter chamber is necessary for: 
+]Added 2014-06-13 by By-law 537-2014] 
+
+(a)  Backflow prevention purposes; or 
+
+(b)  Fire prevention or fire water service purposes; or 
+
+(c)  Specialized meter requirements or otherwise required in accordance with the 
+
+Standards and Specifications; or 
+
+(d)  Otherwise protecting the pressure, quantity or quality of the City's water system 
+or for accommodating or containing infrastructure, devices or appurtenances to 
+protect the pressure, quantity or quality of the City's water system. 
+
+(2)  Where required under § 851-5I(1) or § 851-5I(1.1), a water meter chamber shall be 
+
+located within the property of the owner and within three metres of the streetline, in a 
+location approved by the General Manager prior to construction. [Amended 2014-06-
+13 by By-law 537-2014] 
+
+(3)  No owner shall obstruct nor permit the obstruction of a water meter chamber. 
+
+(4)  No owner shall place shrubs, trees or other landscaping within 1 1/2 metres of the 
+
+outer perimeter of a water meter chamber. 
+
+(5)  An owner shall keep all landscaping on that owner's property cut back and clear of a 
+
+water meter chamber. 
+
+(6) 
+
+(a)  To facilitate the reading of the water meter, the General Manager may require 
+
+the owner to prepare the water meter chamber cover for the installation of a 
+chamber cover type remote readout unit in accordance with the standards and 
+specifications for water meters, at the owner's sole expense. 
+
+(b) 
+
+If the General Manager determines that a chamber cover type remote readout 
+unit device is not appropriate for a location, the General Manager may: 
+
+851-24 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+[1]  Require the owner, at the owner's expense, to install a mounting post and 
+plate to accommodate the remote readout unit at a location satisfactory to 
+the General Manager; or 
+
+[2]  Determine the appropriate type and location of the remote readout unit and 
+
+the owner shall install that unit at the owner's expense, 
+
+all in accordance with the standards and specifications. 
+
+J. 
+
+Remote readout unit and remote readout unit wire. 
+
+(1) 
+
+(a)  For each water meter at a property, the City may provide each metered property 
+
+with a remote readout unit or units and a wire for each remote readout unit or 
+units. 
+
+(b)  The City shall be the sole supplier of remote readout units and wires to each 
+
+property. 
+
+(c)  Ownership of the remote readout unit(s) and wires shall remain with the City. 
+
+(2)  The owner of a property shall supply and install a metallic electrical quality conduit, 
+which complies with the City standards and specification, to contain the remote 
+readout unit wire in accordance with the standards and specifications for new 
+buildings or renovated buildings or properties where the remote readout unit wire has 
+become damaged. 
+
+(3)  The owner of a property shall protect the remote readout unit and wire from damage. 
+
+(4)  The owner of a property, at the owner's sole expense, using wire supplied by the City, 
+shall install remote readout unit device wire for new installations at new or renovated 
+properties or replace any damaged remote readout unit device wire in accordance 
+with the standards and specifications. 
+
+(5) 
+
+(6) 
+
+If the wire or the metallic electrical conduit required under § 851-5J(2) becomes 
+damaged the General Manager shall provide new wire at the owner's sole expense, 
+and the owner shall replace the existing wire and damaged conduit within 14 days of 
+written order from the General Manager to do so. 
+
+If the remote readout unit becomes damaged, the owner of the property shall pay the 
+full cost to the City for the City to supply and install a new remote readout unit, as 
+specified in Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water 
+Services. [Amended 2009-12-04 by By-law 1206-200928; 2011-02-24 by By-law 
+335-201129] 
+
+(7)  The General Manager shall inspect and connect the new wire or remote readout unit 
+installation, and the owner of the property shall provide access to the General 
+Manager to the property to permit the General Manager to do so. 
+
+28
+
+29
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-25 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(8) 
+
+(9) 
+
+If damage occurs to the remote readout unit, the General Manager may require the 
+owner to make space available for a protective device and to install that protective 
+device, supplied by the General Manager at the owner's cost, over the remote readout 
+unit in accordance with the City's standards and specifications. 
+
+If damage occurs to the remote readout unit wire, the General Manager may require 
+the owner of the property to make space available for a metallic electrical quality 
+conduit over that remote read out unit wire and the owner shall, at the owner's sole 
+expense, supply and install that conduit and install any replacement remote readout 
+wire supplied by the City, all in accordance with the standards and specifications. 
+
+(10)  An owner of the property shall ensure that the remote readout unit is easily accessible 
+to the General Manager at all times, and at no time shall access to it be obstructed. 
+
+(11)  An owner of the property may submit an application on the prescribed City form to 
+
+the General Manager to change the location of a remote readout unit. 
+
+(12)  The General Manager shall only approve the relocation of a remote readout unit if the 
+
+proposed location is in compliance with the standards and specifications. 
+
+(13)  (a) 
+
+If an application for the relocation of a remote readout unit is approved, the 
+owner of the property shall relocate the remote readout unit, the wire and 
+conduit in compliance with the standards and specifications. 
+
+(b) 
+
+In no event shall any splices be permitted in the remote readout unit wire. 
+
+(c)  New wire of sufficient length shall always be used when a remote readout unit 
+
+is relocated. 
+
+(14)  The owner of the property shall pay all costs associated with the relocation of a 
+
+remote readout unit. 
+
+(15)  Despite § 851-5J, in the case of a property subject to meter installation or replacement 
+under a universal metering program or automated meter reading program, the City 
+may install a remote readout unit and wire for the remote readout unit at its cost. 
+
+K.  Dedicated telephone line and electrical outlet. 
+
+(1) 
+
+(a)  Every owner shall install a dedicated telephone line or an electrical outlet, or 
+
+both, for a remote readout unit complete with telephone jack or electrical outlet, 
+or both, if required by the standards and specifications or if so required by the 
+General Manager. 
+
+(b)  The telephone line and electrical outlet shall be operational at the time that the 
+
+water meter is installed. 
+
+(2) 
+
+(a) 
+
+If a water meter is to be installed at a property where the installation is not 
+required to be in a water meter chamber and the water account will be a high 
+volume account, the owner shall provide a dedicated telephone line and 
+connection and electrical outlet within one metre of the water meter if so 
+required by the General Manager. 
+
+851-26 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(b)  For the purpose of reading the water meter, the dedicated telephone line and 
+electrical outlet shall be installed in accordance with the standards and 
+specifications and shall provide uninterrupted service and be dedicated for the 
+sole purpose of reading and monitoring the water meter. 
+
+(3)  The owner shall pay all costs, including installation, maintenance and rental costs for 
+the telephone line and connection and any costs in relation to the electrical outlet. 
+
+L.  Number of water meters. 
+
+(1) 
+
+(2) 
+
+If two or more water service connections supply water to a property, each water 
+service connection shall be separately metered. 
+
+If required by the CFO for billing purposes, an owner of a property shall install the 
+number of water meters necessary in the determination of the CFO to meet those 
+purposes, and the owner shall pay all costs associated with those installations. 
+
+M.  Water meter on private fire service main. [Amended 2008-12-03 by By-law 1250-2008] 
+
+Where a property has a new private fire service main the owner shall provide and install at 
+the owner's cost a detector check valve and install a water meter supplied by the City at that 
+main in accordance with the standards and specifications. 
+
+N.  Temporary water meter. 
+
+(1) 
+
+(a) 
+
+If the installation of a temporary water meter is required under this chapter, the 
+owner of the property, or 
+
+(b) 
+
+If the installation of a temporary water meter is requested and permitted under 
+this chapter, the applicant 
+
+shall be responsible for any loss or damage to the temporary meter and any 
+backflow prevention device that may be installed. 
+
+(2)  The owner of the property or applicant shall pay for the water consumption registered 
+on the temporary water meter and shall be billed in accordance with current water 
+rates as set out in Chapter 849, Water and Sewage Services and Utility Bill, and 
+Chapter 441, Fees and Charges. [Amended 2008-05-27 by By-law 506-200830] 
+
+(3)  Where a temporary water meter will be installed, the City may supply and the owner 
+or applicant, under § 851-5N(1), shall install a backflow prevention device in 
+accordance with § 851-8 and the standards and specifications. 
+
+(4) 
+
+(a)  As an alternative to the General Manager supplying the backflow prevention 
+
+device, the General Manager may require the owner or applicant, under § 851-
+5N(1), to supply, install and maintain a backflow prevention device in 
+accordance with § 851-8 and the standards and specifications approved by the 
+General Manager for that purpose. 
+
+30
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+851-27 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(b)  Prior to installation of the backflow prevention device by the owner or 
+
+applicant, under § 851-5N(1), that person shall demonstrate to the satisfaction 
+of the General Manager, including providing original documentation, that the 
+backflow prevention device is in compliance with the standards and 
+specifications and will function properly. 
+
+(c)  The owner or applicant shall have a copy of the current report of the test 
+
+performed, as required under § 851-8D(11) and (12), for the backflow 
+prevention device installed with the temporary water meter, on site for 
+inspection by the General Manager and the owner shall comply with § 851-
+8D(11), (12) and (13). [Added 2017-04-28 by By-law 461-2017] 
+
+O.  Water meter loss or damage. 
+
+(1)  Every owner shall be responsible for any loss or damage to every water meter on that 
+
+owner's property including any damage from freezing. 
+
+(2) 
+
+If a water meter is lost or damaged the owner shall pay the amounts specified in 
+Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water Services, for the full 
+replacement cost of the water meter, strainer, connection fittings, hardware, and 
+flanges. [Amended 2009-12-04 by By-law 1206-200931; 2011-02-24 by By-law 335-
+201132] 
+
+(3) 
+
+If a water meter is lost or damaged, the owner shall remove the damaged water meter, 
+where applicable, and install the new water meter within seven calendar days from 
+the date the General Manager delivers the new water meter to the owner. 
+
+(4) 
+
+(a)  As an alternative to the owner removing the damaged meter or installing the 
+
+new meter or both, the General Manager may undertake any repair or removal 
+of a damaged water meter or installation of a new water meter of a similar size 
+and type or both, if no repair or removal of the private water system or piping is 
+required. 
+
+(b)  The General Manager may otherwise order the owner to install a new 
+
+replacement water meter or remove the damaged water meter and install a new 
+water meter, as may be required, at the expense of the owner. 
+
+(c) 
+
+If the General Manager orders the owner to remove the damaged water meter or 
+install a new water meter, or both, in accordance with § 851-5O(4)(b), the 
+owner shall comply with that order to remove the damaged water meter, where 
+applicable, and to install the new water meter within seven calendar days from 
+the date the General Manager delivers the new water meter to the owner. 
+
+(5) 
+
+If an owner fails to comply with an order of the General Manager under § 851-5O(3) 
+and (4), the General Manager may undertake the work, at the owner's expense, in 
+accordance with § 851-22D. 
+
+31
+
+32
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-28 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+P. 
+
+Temporary spacer piece. 
+
+No person shall install, or permit to be installed, a temporary spacer piece in or on a 
+property in place of a water meter, except the City in the event of an emergency. 
+
+Q.  Seasonal water service connection and meter. 
+
+(1) 
+
+(a) 
+
+If an owner requires a permanent water service connection that will be used 
+only for a portion of each year, which portion of the year is similar in respect of 
+each year, the owner may submit an application on the prescribed City form to 
+the General Manager for a seasonal water meter and seasonal water service 
+connection. 
+
+(b)  The owner shall pay all costs associated with the installation of that seasonal 
+
+water meter and seasonal water connection as set out in § 851-4. 
+
+(2)  The initial installation of a seasonal water meter shall be done by the owner, at the 
+
+owner's sole expense. 
+
+(3)  All removals of a seasonal water meter and subsequent installations, if any, shall be 
+
+done by the General Manager, and the owner shall pay the seasonal activation charge 
+specified in Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water 
+Services. [Amended 2009-12-04 by By-law 1206-200933; 2011-02-24 by By-law 
+335-201134] 
+
+(4) 
+
+(a)  Seasonal water meters shall be installed in a seasonal water meter chamber in 
+accordance with the standards and specifications or as otherwise approved in 
+writing by the General Manager. 
+
+(b)  Seasonal water meter chambers shall be located on the owner's property at a 
+location within three metres of the streetline and as approved by the General 
+Manager. 
+
+(c)  The owner shall be solely responsible for the installation and maintenance of the 
+
+seasonal water meter chamber. 
+
+R.  Private water meters. 
+
+(1)  No person shall connect or permit the connection of a private meter to any water 
+
+supply pipes unless it is connected on the downstream side of the City water meter 
+and any by-pass pipe. 
+
+(2)  Except for existing properties with a private meter that is read by the CFO and used to 
+
+measure the quantity of water consumed at a property for billing purposes, as of the 
+date of the coming into force of this chapter, the City will not supply, install, inspect 
+or read a private meter nor will it use water consumption registered on a private meter 
+for the purposes of calculating fees and charges payable to the City for water 
+consumption. 
+
+33
+
+34
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-29 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(3)  When, in the opinion of the General Manager, a private meter used for billing 
+
+purposes as set out in § 851-5R(2) requires repair or replacement, that private meter 
+shall be replaced by a water meter that is supplied, owned, serviced, maintained and 
+read by the City. 
+
+S.  Condominium applications. [Amended 2013-12-18 by By-law 1697-2013] 
+
+(1)  A common element watermain for domestic water service shall be used to service a 
+
+condominium corporation. 
+
+(2)  Every owner of a condominium unit serviced by a common element watermain shall 
+be responsible for installing or cause to be installed a single water meter on that 
+common element watermain.  For the purpose of this subsection, a "condominium 
+unit" shall include a "parcel of tied land" as defined under section 24(1) of Ontario 
+Regulation 49/01, made under the Condominium Act, 1998, as amended from time to 
+time. For the purpose of this subsection, a "condominium unit" shall include a "parcel 
+of tied land" as defined under section 24(1) of Ontario Regulation 49/01, made under 
+the Condominium Act, 1998, as amended from time to time. 
+
+(3) 
+
+(a)  Any water service connection, private water service pipe, water meter, conduit, 
+remote readout unit and wire required under §§ 851-4 and 851-5 shall be 
+installed by, or be caused to be installed by the owner, before any condominium 
+unit is occupied or upon substantial completion of construction of any 
+condominium unit, whichever is sooner. 
+
+(b)  The water service connection, private water service pipe, water meter, conduit, 
+remote readout unit and wire required under §§ 851-4 and 851-5 shall be 
+installed in accordance with this chapter and the standards and specifications. 
+
+(4) 
+
+In the event that a water service connection, private water service pipe, water meter, a 
+conduit, a remote readout unit, or a wire are not installed in accordance with § 851-
+5S(1) and (3), then the owner of the property shall pay for the water used by that 
+condominium corporation in accordance with the water consumption estimated by the 
+CFO for the property based on historical average consumption for the same or similar 
+premises until the time that a water service connection, private water service pipe, 
+water meter, conduit, remote readout unit and wire are all installed and functioning 
+properly, all in accordance with the standards and specifications. 
+
+§ 851-6. Water meter inspection. 
+
+A. 
+
+Inspection and sealing. 
+
+(1)  Every water meter installed on a property shall be inspected and sealed by the 
+
+General Manager at or about the time of installation. 
+
+B.  Access. 
+
+(1) 
+
+(a)  Every owner and occupier shall, at reasonable times and on reasonable notice, 
+permit the General Manager to have free, clear and unobstructed access to that 
+person's property and to the location where a water meter is to be installed in or 
+
+851-30 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+on that property or to permit the General Manager to test, read, repair, maintain, 
+alter, disconnect, remove, replace or install a water meter or seal a water meter 
+which has been installed. 
+
+(b)  Without limiting the generality of § 851-6B(1)(a), the location of a water meter 
+shall be accessible without the use of a portable ladder or the necessity of 
+climbing over or removal of an obstacle. 
+
+(2)  Every owner and occupier shall, at reasonable times and on reasonable notice, 
+
+provide the CFO with free, clear and unobstructed access to the property for the 
+purpose of reading the water meter or for the purpose of determining the number of 
+rooms and fixtures in the premises where the property is billed on a flat rate basis. 
+
+(3) 
+
+(a)  When requested by the General Manager or CFO, an owner or occupier, as the 
+case may be, shall remove any insulating or other material from, on or around a 
+water meter in order to provide the General Manager or CFO with full, 
+unobstructed access to the water meter. 
+
+(b)  Any replacement of the material referenced in § 851-6B(3)(a) shall be done by 
+the owner at the owner's sole expense in accordance with the standards and 
+specifications for water meters and all applicable law, including but not limited 
+to the Occupational Health and Safety Act and its Regulations. 
+
+(4)  As part of an inspection, the General Manager or CFO shall at all times be permitted 
+to take photographs, including digital images, of any water meter, private meter, by-
+pass pipe and valves, inlet and outlet valves, backflow prevention device, private 
+water system, private water service pipe, private fire service main or water meter 
+chamber. 
+
+C.  No person, except a person authorized by the General Manager in writing, shall open, or in 
+
+any way alter or tamper with any water meter or seal or do anything which may interfere 
+with the proper registration of the quantity of water that passes through a water meter or 
+ought to pass through a water meter. [Amended 2010-07-08 by By-law 869-2010] 
+
+§ 851-7. Maintenance. 
+
+A.  Maintenance of water meter appurtenances and piping. 
+
+(1)  Every owner shall ensure that all valves are fitted with proper handles and shall 
+
+provide, install and properly maintain all valves to, from and around the water meter 
+as required by the standards and specifications. 
+
+(2)  To allow for proper flow of water or maintenance of equipment, the General Manager 
+
+may require an owner to install, or cause to be installed, the proper valving 
+arrangement in respect of the supply of water to the property in accordance with the 
+standards and specifications at the owner's sole expense. 
+
+(3)  Every owner shall maintain all plumbing including all piping, by-pass arrangements, 
+fittings and valves to and from and around a water meter in good working order and 
+shall replace and repair them as necessary all in accordance with the standards and 
+
+851-31 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+specifications. Owners shall not be responsible for maintaining the water meter or 
+strainer. 
+
+(4)  Every owner shall, at reasonable times, permit the General Manager to inspect the 
+
+private water service pipe, private water system, private fire service main, or the inlet, 
+outlet, flushing, drainage and by-pass valves on piping adjacent to or around the 
+water meter. 
+
+(5) 
+
+If the General Manager determines that the condition of a private water service pipe, 
+private fire service main, or private water system or valves on piping adjacent to the 
+water meter prevents the water meter from being properly or safely tested, calibrated 
+or repaired in place or removed for the purpose of testing, replacing or repairing, the 
+owner shall, at the owner's sole expense, repair or, if necessary, replace the private 
+water service pipe, private fire service main, or private water system or valves, as the 
+case may be, to enable the General Manager to test, calibrate, repair or remove the 
+water meter. 
+
+(6)  Where the General Manager makes that determination under § 851-7A(5), the 
+
+General Manager may issue an order to the owner to repair or replace, at the owner's 
+expense, the private water service pipe or private fire service main or private water 
+system or valves, as the case may be, within 21 days of the receipt of the General 
+Manager's order.  
+
+(7) 
+
+(a) 
+
+If an owner does not carry out the work as required in an order under § 851-
+7A(6), the General Manager shall be entitled to carry out the work and shut off 
+the water supply to the property during the removal, replacement, repair, testing 
+and calibration of the water meter. 
+
+(b)  The City shall not be responsible for any loss or damage to the owner's property 
+or loss or damage otherwise suffered by the owner arising from work carried 
+out by the City or the shut off of the water supply in accordance with § 851-
+7A(7)(a). 
+
+(8)  The General Manager may undertake the work, at the owner's expense, in accordance 
+
+with § 851-22D. 
+
+(9) 
+
+If, after removing, replacing, repairing, testing or calibrating the water meter, the 
+General Manager determines that the private water service pipe or private water 
+system or any valves or fittings leak or may develop a leak, then the General Manager 
+shall be entitled to shut off the water supply to the property until the time that the 
+owner makes repairs to stop or prevent leakage, at the owner's expense. 
+
+(10)  The General Manager shall replace an existing water meter where the General 
+Manager determines it requires replacement due to normal wear and tear, at the 
+expense of the City. 
+
+B.  Maintenance of water meter chamber. 
+
+851-32 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(1)  Every owner shall be responsible for maintaining, repairing and replacing any water 
+
+meter chamber containing a water meter for the owner's property and for keeping it in 
+a safe condition. 
+
+(2) 
+
+(a)  Every owner of property with a water meter chamber or seasonal water meter 
+chamber or both shall remove or cause to be removed, and shall dispose of, all 
+solid and liquid debris, waste and other materials which are non-essential to the 
+proper functioning of the water meter or may be hazardous, toxic, combustible 
+or explosive in nature, from the water meter chamber. 
+
+(b)  The removal and disposal of the material referenced in § 851-7B(2)(a) is subject 
+
+to all applicable law, including Chapter 681, Sewers. 
+
+(3) 
+
+(a)  At the request of the General Manager or CFO, and upon reasonable notice, 
+
+every owner shall provide the General Manager or the CFO, as the case may be, 
+with access to any water meter chamber or seasonal water meter chamber or 
+both for the owner's property to permit the General Manager or the CFO to 
+maintain, repair, replace or read the water meter. 
+
+(b)  The owner shall ensure that all solid and liquid material is removed from the 
+
+chamber to enable the access required by § 851-7B(3)(a). 
+
+(4) 
+
+(a)  The owner shall notify the General Manager or the CFO a minimum of 48 hours 
+in advance of the scheduled date and time for access, under § 851-7B(3), of the 
+removal of the material. 
+
+(b) 
+
+If the owner is unable to remove the material from the water meter chamber or 
+seasonal water meter chamber or both so as to provide access within the time set 
+out in the notice, the owner shall so notify the General Manager or the CFO no 
+less than 48 hours before the time of the proposed inspection or other purpose 
+for which the access is required, and shall, at the same time, further advise the 
+General Manager or the CFO of a date and time, no more than five days later, 
+when access will be provided. 
+
+(5)  No owner shall fail to provide the General Manager or the CFO with access to a water 
+meter chamber or seasonal water meter chamber or both in accordance with § 851-
+7B(3) or the required notice in § 851-7B(4). 
+
+C.  Water meter accuracy. 
+
+(1)  All water meters measuring consumption for billing purposes shall meet or exceed all 
+
+current minimum AWWA standards for accuracy. 
+
+(2) 
+
+(a)  An owner, upon written application to the General Manager or CFO on the 
+
+prescribed City form, may have the water meter at the owner's property tested 
+by the General Manager or CFO to determine if the water meter is over-
+registering the amount of water consumed at the property. 
+
+(b)  The owner shall pay to the City the amount specified in Chapter 441, Fees and 
+Charges, Appendix D - Schedule 2, Water Services, for the testing provided for 
+
+851-33 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+in § 851-7C(2)(a). [Amended 2009-12-04 by By-law 1206-200935; 2011-02-24 
+by By-law 335-201136] 
+
+(3) 
+
+(a) 
+
+If a water meter is found to over-register when tested by the General Manager at 
+the combined weighted average flow rate in accordance with AWWA standards 
+for accuracy, the CFO shall credit the owner's water account with an amount 
+equal to the difference between the amount that had been billed and the amount 
+that would have been billed had the water meter been recording consumption 
+accurately. [Amended 2008-05-27 by By-law 506-200837] 
+
+(b)  The credit adjustment provided for under § 851-7C(3)(a) shall cover a period of 
+no more than 24 months and shall be subject to any limitations contained in 
+Chapter 441, Fees and Charges, Chapter 681, Sewers, and Chapter 849, Water 
+and Sewage Services and Utility Bill, unless the owner can verify that the City 
+was notified at an earlier date of concerns about over-registration in which case 
+the owner shall be entitled to a credit adjustment from at least that date. 
+[Amended 2008-05-27 by By-law 506-200838] 
+
+(c)  The credit provided in § 851-7C(3)(a) shall include the testing fee set out in 
+
+§ 851-7C(2). 
+
+(4)  Despite § 851-7C(3), in the event that the water meter had been installed, replaced, or 
+
+tested and calibrated within the 24 month period prior to the test under § 851-7C(2), 
+then instead of the adjustment set out in section § 851-7C(3), the CFO shall credit the 
+owner's water account with an amount equal to half of the difference between the 
+excess amount billed from the time of the installation, replacement or testing and 
+calibration, whichever is later, to the time of the accuracy test requested by the owner, 
+and shall be subject to any limitations contained in Chapter 441, Fees and Charges, 
+Chapter 681, Sewers, and Chapter 849, Water and Sewage Services and Utility Bill. 
+[Amended 2008-05-27 by By-law 506-200839] 
+
+(5)  Despite § 851-7C(3) and (4), in the event the accuracy test indicates over-registration 
+by the water meter in an amount less than or equal to 1.5 percent, then no credit shall 
+be applied to the owner's water account. [Amended 2008-05-27 by By-law 506-
+200840] 
+
+(6) 
+
+(7) 
+
+In the event that the flow monitoring device is lost or damaged, the owner shall be 
+responsible for the cost of replacement or repair of that device. 
+
+(a)  Positive displacement type water meters up to and including 50 mm in size may 
+be removed by the General Manager and tested at an off-site location specified 
+by the General Manager. 
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+851-34 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(b)  Compound, turbine, electromagnetic and fire service water meters 50 mm in 
+
+size or greater shall, in the General Manager's sole discretion, be tested either on 
+site or at an off-site location specified by the General Manager. 
+
+(8)  Under § 851-7C(2), the weighted average used to determine the accuracy of a water 
+meter in a dwelling unit shall be in accordance with the current AWWA standards for 
+accuracy, and the weighted average used to determine the accuracy of a water meter 
+in a non-dwelling unit or non-residential building or property may be as determined 
+by a flow monitor placed on the private water service pipe or private water system, in 
+accordance with the current AWWA standards for accuracy. 
+
+(9) 
+
+If an owner requests a flow monitor, in the case where the owner is disputing the 
+accuracy of the water meter, the owner shall provide sufficient room for the 
+installation of the flow monitoring device on the private water service pipe adjacent 
+to the water meter prior to the installation of the flow monitor. 
+
+D.  Relocation of water meter. 
+
+(1)  No person shall change or permit to be changed the location of a water meter at a 
+
+property once the water meter is installed to the satisfaction of the General Manager, 
+without the prior written consent of the General Manager. [Amended 2008-12-03 by 
+By-law 1250-2008] 
+
+(2)  An owner may submit an application on the prescribed City form to the General 
+
+Manager or the CBO, to change the location of a water meter on that owner's 
+property. 
+
+(3)  The General Manager or the CBO shall not approve an application for a water meter 
+
+re-location if: 
+
+(a)  The application is incomplete; or 
+
+(b)  The prescribed fee is not paid; or 
+
+(c)  The proposed relocation is not in accordance with the standards and 
+
+specifications with respect to the location of the water meter or otherwise. 
+
+(4)  Any relocation of the water meter shall include the installation of a new wire for any 
+existing or required remote readout unit by the owner, in accordance with the 
+standards and specifications, all at the expense of the owner. 
+
+(5)  The General Manager may require the relocation of an installed water meter, at the 
+
+sole cost of the owner, if its location is not in compliance with the standards and 
+specifications or any applicable law. 
+
+(6)  An owner of a property shall bury a private water service pipe in concrete on the 
+
+upstream side of the water meter to a point within one metre of the relocated water 
+meter if the relocation of the water meter would result in the water meter being placed 
+at a distance greater than one metre from the point where the private water service 
+pipe enters a building or structure on the property. 
+
+851-35 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(7)  An owner of a property shall install the relocated private water service pipe in a 
+
+trench in the floor of any building serviced by the private water service pipe and shall 
+provide a minimum of 100 mm of concrete cover for that pipe. 
+
+(8)  Every owner of a property shall permit the General Manager to inspect a private 
+
+water service pipe and private water system installation prior to any backfilling with 
+concrete taking place. [Amended 2008-12-03 by By-law 1250-2008] 
+
+(9) 
+
+In the event that an owner has placed concrete backfill over the private water service 
+pipe or private water system prior to the inspection by the General Manager under 
+§ 851-7D(8), the owner shall remove any concrete which has been placed, at the 
+owner's expense, to permit the inspection. [Amended 2008-12-03 by By-law 1250-
+2008] 
+
+(10)  All relocation work and material shall conform to the standards and specifications and 
+
+comply with the requirements of the Building Code Act, 1992. 
+
+(11)  (a) 
+
+If an owner fails to relocate a water meter, private water service pipe or private 
+water system in accordance with the standards and specifications and this 
+chapter, the General Manager may order the owner: [Amended 2008-12-03 by 
+By-law 1250-2008] 
+
+[1]  To supply and install a new or replacement water meter by-pass pipe or 
+
+valves; 
+
+[2]  To remove any defective pipe or valves and install new pipe or valves; and 
+
+[3]  To repair and maintain the water meter by-pass pipe or valves, 
+
+in accordance with the standards and specifications, at the owner's expense. 
+
+(b)  An owner shall comply with an order made under § 851-7D(11) within seven 
+
+calendar days from receipt of the order from the General Manager. 
+
+(c) 
+
+If the owner fails or refuses to comply with an order made under § 851-7D(11) 
+within the time required, the General Manager may undertake the work, at the 
+owner's expense, in accordance with § 851-22D. 
+
+E.  Water meter leaks. 
+
+(1)  An owner of a property shall immediately, and no later than within 72 hours, notify 
+the General Manager if any leaks develop at the water meter or its couplings. 
+
+(2)  The City shall not be responsible for any damage to the property as a result of any 
+
+leaks at the water meter or its couplings. 
+
+F.  Building demolition. 
+
+(1)  No person shall demolish a building, or permit a building to be demolished until the 
+final water meter reading is obtained and the water meter and remote readout unit are 
+recovered by the General Manager. 
+
+851-36 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(2)  An owner who has received a permit to demolish a property shall notify the General 
+Manager in writing at least seven days in advance of the date on which the water 
+supply to the property is no longer required and shall make an appointment with, and 
+provide access to, the General Manager to enable the General Manager to take a final 
+water meter reading and to remove the water meter and the remote readout unit from 
+the property and turn off the water supply at the shut-off valve. 
+
+(3)  The owner or the owner's representative shall be present at the property when the 
+
+final water meter reading is taken, the water meter is removed and the water supply is 
+turned off. 
+
+(4)  The owner shall pay the amounts specified in Chapter 441, Fees and Charges, 
+
+Appendix D - Schedule 2, Water Services, for the turn off of the water supply to the 
+property and shall pay all costs of the City related to the disconnection of the water 
+service connection from the waterworks in accordance with § 851-4. [Amended 
+2009-12-04 by By-law 1206-200941; 2011-02-24 by By-law 335-201142] 
+
+(5) 
+
+(6) 
+
+(7) 
+
+In the event an owner fails to provide access to a property prior to the demolition of a 
+building or structure on the property, in accordance with § 851-7F(1), the owner shall 
+pay to the City an amount equal to the cost of a new water meter and remote readout 
+unit of the same type and size as was unable to be recovered by the General Manager 
+from the property in accordance with the amounts specified in Chapter 441, Fees and 
+Charges, Appendix D - Schedule 2, Water Services. [Amended 2009-12-04 by By-
+law 1206-200943; 2011-02-24 by By-law 335-201144] 
+
+In addition to the amounts payable under § 851-7F(5), the owner shall also pay the 
+amount of water consumption, from the last water meter reading date to the date of 
+disconnection of the water service connection from the waterworks, estimated by the 
+CFO in accordance with § 849-31E of Chapter 849, Water and Sewage Services and 
+Utility Bill. [Amended 2008-05-27 by By-law 506-200845] 
+
+(a)  Despite § 851-7F(1) and (5), if the General Manager determines that it is not 
+necessary to recover a water meter from a property to be demolished, the 
+General Manager shall so notify the owner in writing after receipt of the notice 
+from the owner that the owner has received a permit to demolish a building or 
+structure. 
+
+(b)  Upon receipt of the notice from the General Manager under § 851-7F(7)(a), the 
+
+owner may proceed with the demolition of the building. 
+
+41
+
+42
+
+43
+
+44
+
+45
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+851-37 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+§ 851-8. Private water system. 
+
+A. 
+
+Installation. 
+
+(1)  Private water systems shall be designed, constructed, installed, altered and repaired 
+
+by the owner, at the owner's expense, in accordance with all applicable law including 
+but not limited to the Building Code Act, 1992, this chapter, and the standards and 
+specifications. 
+
+(2)  No person shall commence any work under § 851-8 unless a building permit has been 
+
+issued for the work by the CBO. 
+
+(3)  No owner or occupant shall commence or permit the commencement of any work 
+under § 851-8 on that owner's or occupier's property unless a building permit has 
+been issued for the work by the CBO. 
+
+(4)  No owner or occupant shall perform or permit the performance of any installation, 
+
+renovation or alteration of private water service pipes, private fire service mains, 
+private fire hydrants, private water systems and appurtenances, backflow prevention 
+devices and all related items on that owner's or occupier's property until a building 
+permit has been issued for the work by the CBO, where required under the Building 
+Code Act, and all requirements of this chapter and standards and specifications have 
+been met. [Amended 2008-12-03 by By-law 1250-2008] 
+
+B.  Disinfection. 
+
+(1)  No person shall connect or permit to be connected any private water service pipes, 
+
+private water systems or private fire service mains, of a size equal to or greater than 
+100 mm in diameter to a water service connection or the waterworks until the private 
+water service pipes, private water systems or private fire service mains have been 
+disinfected in accordance with this section and a backflow prevention device has been 
+installed by the owner to the satisfaction of the General Manager, in accordance with 
+the standards and specifications. 
+
+(2)  Every person requesting the connection of private water service pipes, private water 
+systems or private fire service mains of a size equal to or greater than 100 mm in 
+diameter to the waterworks shall, in addition to complying with all other requirements 
+of this chapter and other applicable laws:  
+
+(a)  Submit an application, on the prescribed City form, to the General Manager; 
+
+(b)  Disinfect the private water service pipes, private water systems or private fire 
+service mains under the supervision of a professional engineer, authorized by 
+the Professional Engineers Ontario to perform that work, all at the expense of 
+the owner and in accordance with the standards and specifications;  
+
+(c)  Ensure that water sampling, transportation of the water sample to the laboratory 
+and analytical testing of the water sample is conducted by an accredited 
+laboratory which is licensed by the Ontario Ministry of the Environment for the 
+provision of drinking-water testing services and also ensure that a complete 
+
+851-38 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+water sample chain of custody is properly established from the taking and 
+transportation of the water sample through to the report of the test results; and 
+
+(d)  Prepare a report setting out the results of the testing and submit the test results 
+
+to the General Manager as set out in § 851-8B(3). 
+
+(3) 
+
+(a)  The General Manager will turn on the water supply to properties requiring 
+
+testing under § 851-8B only if an original copy of the water sampling laboratory 
+test results showing satisfactory disinfection and written verification of 
+satisfactory disinfection by the owner's professional engineer, who is authorized 
+by the Professional Engineers Ontario to perform that work, is received by the 
+General Manager within 48 hours of the tests being completed. 
+
+(b)  The documentation required under § 851-8B(2)(d) and § 851-8B(3)(a) shall be 
+
+stamped, signed and sealed by the professional engineer. 
+
+(4)  All disinfection, laboratory testing and report preparation and verification shall be 
+
+done at the expense of the owner. 
+
+C.  Contamination prevention. 
+
+No person shall directly or indirectly connect, permit or cause to be connected, allow to 
+remain connected to the waterworks or construct, install or maintain any piping, fixture, 
+fitting, container, appliance, equipment or any other connection which may or could enable 
+non-potable water, wastewater, or any other liquid, chemical or substance to enter the 
+waterworks that may affect the potable quality of the water supply. [Amended 2017-04-28 
+by By-law 461-2017] 
+
+D.  Cross connection and backflow prevention. 
+
+(1) 
+
+If the General Manager determines that a contravention of § 851-8C may exist at a 
+property, the General Manager may immediately carry out an inspection and may 
+issue an order or orders to the owner or occupier of the property or any other person 
+as may be required to remedy the contravention. 
+
+(2)  Where, in the opinion of the General Manager, there is a risk of contamination at a 
+property, the owner of the property, upon an order from the General Manager, shall 
+install a backflow prevention device or devices approved by the General Manager for 
+the purpose of achieving premise isolation, regardless of any other protective devices 
+that may be installed on the private water system. 
+
+(3)  All backflow prevention devices required for premise isolation shall be selected, 
+
+installed, replaced, maintained and tested by the owner in accordance with this 
+chapter, the Building Code Act, 1992, and CSA - B64 Series Standards. 
+
+(4)  Unless otherwise required by § 851-8C or § 851-8D, every owner of a new or existing 
+
+industrial, commercial, institutional, or residential property identified in Schedule 5 
+of this chapter or of any other new or existing building, structure or property that 
+contains a hazard resulting in a risk of contamination of the waterworks shall install, 
+at the owner's expense, backflow prevention device(s) in accordance with the 
+
+851-39 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+standards and specifications identified in Schedule 5. [Amended 2017-04-28 by By-
+law 461-201746] 
+
+(5)  Buildings of residential occupancy within the scope of Part 9 of the Building Code 
+are exempt from the premise isolation requirement in § 851-8D, unless the building 
+has a connection to an auxiliary water supply or is otherwise required to have premise 
+isolation in accordance with the Building Code, Environmental Protection Act, or 
+Safe Drinking Water Act, 2002. No person, including an owner, shall connect, cause 
+or permit to be connected, or allow to remain connected any auxiliary water supply to 
+the City's water supply, without the written approval of the General Manager. [Added 
+2017-04-28 by By-law 461-201747] 
+
+(6)  No variance from the requirements under § 851-8D(1) to § 851-8D(4) or alternate 
+
+solutions shall be permitted unless approved in writing by the General Manager. 
+[Added 2017-04-28 by By-law 461-2017] 
+
+(7) 
+
+(a)  Where a property's hazard classification changes, which results in a different 
+
+type of backflow prevention device being required, the owner of the property or 
+applicant shall notify the General Manager in writing and shall include the 
+following: [Added 2017-04-28 by By-law 461-2017] 
+
+[1]  The reason for the change in the property's hazard classification. 
+
+[2]  The steps being taken to replace the backflow prevention device with the 
+
+appropriate device as determined under § 851-8D(10)(b) or (c). 
+
+(b)  The replacement of the backflow prevention device under § 851-8D(7)(a)[2] 
+
+shall be completed in accordance with § 851-8D(15) and submission of the 
+performance test report, as required under § 851-8D(11) and (12), to the 
+General Manager and the owner shall comply with § 851-8D(11), (12) and (13) 
+
+(8)  Owners shall design, construct, install and maintain a premise isolation system for 
+each water service connection and private fire service main so that the system is in 
+compliance with all applicable law, including this chapter and the Building Code Act, 
+and CSA - B64 Series Standards. [Amended 2008-12-03 by By-law 1250-2008] 
+
+(9)  No person shall use a private fire hydrant for any purpose other than firefighting or 
+fire suppression without the installation of a backflow prevention device and a City 
+supplied water meter. [Added 2016-02-04 by By-law 100-201648] 
+
+(10)  (a)  Any owner, occupier or other person required to install or replace a backflow 
+prevention device shall obtain a building permit for each backflow prevention 
+device to be installed or replaced. [Amended 2013-12-18 by By-law 1697-
+2013; 2017-04-28 by By-law 461-2017] 
+
+46
+
+ Editor's Note: By-law 461-2017 replaced the words "premise isolation backflow prevention device" in each instance in § 851-8 with 
+
+the words "backflow prevention device". 
+47
+
+ Editor's Note: By-law 461-2017 added new §§ 651-8D(5) to (7) and renumbered previous §§ 651-8D(5) through (20) as §§ 851-8D(8) 
+
+through (23). 
+48
+
+ Editor's Note: By-law 100-2016 also renumbered previous §§ 851-8D(6) through (19) to §§ 851-8D(7) through (20). 
+
+851-40 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(b)  Every owner required to install a backflow prevention device shall determine 
+
+the proper device in accordance with CSA - B64 Series Standards and this 
+chapter. [Amended 2017-04-28 by By-law 461-2017] 
+
+(c)  Despite § 851-8D(10)(b), where an owner is required to install a backflow 
+
+prevention device under this chapter, the General Manager may direct the owner 
+to install a specific type of backflow prevention device where the General 
+Manager determines that such specified device is necessary to prevent 
+contamination of the waterworks. [Amended 2017-04-28 by By-law 461-2017] 
+
+(d)  Every owner required to install or replace a backflow prevention device shall 
+
+install the device downstream of the water meter and water meter by-pass prior 
+to any tapping, or where circumstances require, in an alternate location 
+authorized by the General Manager. [Amended 2008-12-03 by By-law 1250-
+2008; 2013-12-18 by By-law 1697-2013; 2017-04-28 by By-law 461-2017] 
+
+(e)  Every owner required to install a backflow prevention device shall ensure that it 
+is in proper working order at all times and that all piping between the water 
+meter and the backflow prevention device is clearly labeled "no connection 
+permitted." [Added 2008-12-03 by By-law 1250-2008; 2017-04-28 by By-law 
+461-2017] 
+
+(f)  Notwithstanding § 851-5M, a backflow prevention device, approved by the 
+
+General Manager, may be installed with a detector assembly, in lieu of a 
+detector check valve on new systems. [Added 2008-12-03 by By-law 1250-
+2008; 2017-04-28 by By-law 461-2017] 
+
+(11)  (a)  Each backflow prevention device shall be inspected and tested at the installation 
+
+location, at the expense of the owner, by a person authorized to do so in 
+accordance with § 851-8F. [Amended 2017-04-28 by By-law 461-2017] 
+
+(b)  The owner shall ensure that the person inspecting and testing the backflow 
+
+prevention device is in compliance with § 851-8F. [Amended 2017-04-28 by 
+By-law 461-2017] 
+
+(c)  Owners shall cause the inspections and testing of a backflow prevention device 
+
+to be performed: [Amended 2017-04-28 by By-law 461-2017] 
+
+[1]  Upon the installation of the backflow prevention device; 
+
+[2] 
+
+Immediately, and no later than 72 hours after the backflow prevention 
+device is cleaned, repaired, replaced, serviced or overhauled; 
+
+[3]  When the backflow prevention device is relocated; 
+
+[4]  Annually;  
+
+[5]  As required by this chapter and standards and specifications, including 
+
+CSA - B64 Series Standards and AWWA standards for test procedures; and 
+
+[6]  As may be required by the General Manager. 
+
+851-41 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(d) 
+
+In addition to any other provision of this section, the General Manager may at 
+any time order an owner to conduct tests, provide reports, and undertake any 
+other measures required for the purpose of ensuring the prevention of backflow 
+to the waterworks if the General Manager determines that a contravention of 
+§ 851-8C may exist at a property. [Added 2008-12-03 by By-law 1250-2008] 
+
+(12)  Every owner shall submit a complete report, on the prescribed City form, to the 
+
+General Manager in respect of any tests performed on a backflow prevention device 
+within seven days of the performance of the test. [Amended 2017-04-28 by By-law 
+461-2017] 
+
+(13)  The owner shall cause to be displayed a legibly marked record card or contractor's 
+
+test tag on the backflow prevention device that indicates the address of the property, 
+the location, type and date of installation of the device, manufacturer, serial number 
+and size of the device, the test date, the tester's initials, the tester's printed name, the 
+printed name of the tester's employer and the tester's certificate number. [Amended 
+2017-04-28 by By-law 461-2017] 
+
+(14)  If an owner fails to have a backflow prevention device inspected, tested and approved 
+as required under all applicable law, including this chapter, the General Manager may 
+order the owner to test the device within seven calendar days of the order being sent. 
+[Amended 2017-04-28 by By-law 461-2017] 
+
+(15)  If a test of a backflow prevention device reveals that the device is not in proper 
+
+working condition, or is not in conformance with the standards and specifications, the 
+owner shall repair or replace the device within 48 hours of the performance of the 
+test. [Amended 2017-04-28 by By-law 461-2017] 
+
+(16)  (a)  The General Manager may require the owner of an existing industrial, 
+
+commercial, institutional building, structure or property or any other property, 
+that has the potential to contaminate the waterworks, to submit a backflow 
+prevention device survey on the City prescribed form to the General Manager, 
+at the owner's expense. 
+
+(b) 
+
+If a backflow prevention device survey is required, the owner shall submit it to 
+the General Manager by the date specified in the General Manager's notification 
+to the owner of its requirement. 
+
+(c)  Where the General Manager has not specified a date by which the backflow 
+
+prevention device survey must be submitted in the notification to the owner of 
+the requirement for a survey, the survey shall be submitted to the General 
+Manager within 30 days of the date of the General Manager's notification. 
+
+(17)  An owner, required to submit a backflow prevention device survey under this chapter, 
+shall update the then current survey upon the occurrence of any of the following: 
+[Amended 2017-04-28 by By-law 461-2017] 
+
+(a) 
+
+any change, alteration or replacement of the backflow prevention device; 
+
+(b)  any change in the level of hazard as defined under CSA-B64 Series Standards;  
+
+851-42 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(c)  where a change in the risk of contamination to the waterworks has occurred or 
+
+may occur; 
+
+(d)  upon notification by the General Manager where the General Manager 
+
+determines a change in the risk of contamination to the waterworks has occurred 
+or may occur. 
+
+(18)  (a)  All backflow prevention device surveys shall be completed as per the form 
+prescribed by the General Manager. [Amended 2017-04-28 by By-law 461-
+2017] 
+
+(b)  The survey shall be prepared and signed by a person authorized under § 851-8G 
+
+to perform that work. [Amended 2017-04-28 by By-law 461-2017] 
+
+(19)  The preparation and submission of the backflow prevention device surveys, and all 
+
+related reports, documentation and work shall be carried out at the expense of the 
+owner. 
+
+(20)  (a)  Any person installing, repairing, relocating or testing backflow prevention 
+
+devices shall provide to the General Manager, prior to undertaking such task, 
+documentation establishing his or her qualifications, as are required under 
+§ 851-8F, to perform such task. [Added 2010-07-08 by By-law 869-2010; 
+2017-04-28 by By-law 461-2017] 
+
+(b)  Any person testing backflow prevention devices shall ensure that the testing 
+
+equipment is, at all times, maintained so that it performs within the 
+manufacturer's tolerances and specifications. [Amended 2017-04-28 by By-law 
+461-2017] 
+
+(c)  The equipment shall be tested, calibrated and certified by the manufacturer, or 
+the manufacturer's representative authorized to do so, to meet the requirements 
+of CSA - B64 Series Standards and shall be maintained in accordance with 
+those standards. 
+
+(d)  The testing and calibration required under § 851-8D(20)(b) and (c) shall be 
+
+done on an on-going basis but in no event shall it be carried out less often than 
+once every 12 months. [Amended 2010-07-08 by By-law 869-2010] 
+
+(21)  No person shall remove or cause or permit to be removed a backflow prevention 
+
+device after it has been installed unless that removal is: [Amended 2017-04-28 by 
+By-law 461-2017] 
+
+(a)  Necessary to facilitate the repair of the device and that device is immediately 
+replaced by a temporary device, until the time that the original device is 
+satisfactorily repaired or replaced and tested; or 
+
+(b)  For the purpose of immediately replacing the device with another device that 
+
+meets or exceeds the requirements of this section; or 
+
+851-43 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(c)  Warranted due to alterations to the private water system which completely 
+
+remove the risk of contamination for which the backflow prevention device was 
+required, in which case: 
+
+[1]  The owner shall submit to the General Manager a survey prepared and 
+
+signed by a person authorized under § 851-8G attesting to the fact that the 
+device or devices are no longer required; and 
+
+[2]  The device shall not be removed until the General Manager approves of 
+
+the removal, which approval shall be made if the altered system no longer 
+requires the device or devices in accordance with the standard and 
+specifications and the CSA - B64 Series Standards; and 
+
+[3]  The cost of obtaining the necessary documentation under this subsection 
+
+shall be the responsibility of the owner; or 
+
+(d)  Otherwise authorized by the General Manager. 
+
+(22)  All temporary backflow prevention devices shall meet or exceed the requirements of 
+the standards and specifications, CSA - B64 Series Standards and this chapter. 
+
+(23)  (a)  A property owner may apply in writing on the form prescribed by the General 
+
+Manager for approval to submit and implement a proposed compliance program 
+setting out remedial compliance activities to be undertaken by the owner. 
+[Amended 2017-04-28 by By-law 461-2017] 
+
+E.  Access to devices. 
+
+(1) 
+
+(a)  Every backflow prevention device shall be installed in a location that is readily 
+accessible for operational, renewal, servicing, maintenance and inspection 
+purposes. [Amended 2017-04-28 by By-law 461-2017] 
+
+(b)  The location of the backflow prevention device shall be accessible without the 
+use of a portable ladder or the necessity of climbing over or removal of an 
+obstacle. [Amended 2017-04-28 by By-law 461-2017] 
+
+(2)  The General Manager may, at reasonable times or in the case of an emergency, at any 
+
+time, enter a property for the purpose of inspecting or testing a private water service 
+pipe, private water system, a private fire service main, a backflow prevention device. 
+[Amended 2008-12-03 by By-law 1250-2008] 
+
+(3) 
+
+(a)  Owners shall remove any insulating or other material on or adjacent to the 
+private water service pipe, private water system, private fire service main, 
+backflow prevention device so that full access to that pipe, system or devices 
+are available for the testing and inspection purposes. [Amended 2017-04-28 by 
+By-law 461-2017] 
+
+(b)  All of the removal and any subsequent replacement carried out under § 851-
+
+8E(3)(a) shall be performed by the owner at that owner's expense in accordance 
+with all applicable law including but not limited to Occupational Health and 
+Safety Act and its Regulations. 
+
+851-44 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(4)  No person shall obstruct or permit or cause the obstruction of the access to a private 
+water service pipe, private water system, or backflow prevention device, either 
+permanently or temporarily. [Amended 2017-04-28 by By-law 461-2017] 
+
+F.  Requirements for backflow prevention device testers. [Amended 2008-12-03 by By-law 
+1250-2008; 2010-07-08 by By-law 869-2010; 2017-04-28 by By-law 461-2017] 
+
+No owner of a property shall permit a person to test, install, replace, maintain, repair, 
+relocate, clean or overhaul a backflow prevention device unless that person meets the 
+following requirements: 
+
+(1)  The person holds a valid and current Certificate of Achievement in Cross Connection 
+Control endorsed by the Ontario Water Works Association, ASSE International, or 
+other recognized certification organizations approved by the General Manager; 
+
+(2)  The person possesses a current calibration certificate as required by § 851-8D(20) for 
+
+the test equipment to be employed; and 
+
+(3)  The person is authorized to perform the specified task as indicated in the Authorized 
+
+Functions List Table set out in Schedule 6 of this chapter, as amended from time to 
+time. 
+
+G.  Persons authorized to perform backflow prevention device surveys. 
+
+The following persons are authorized to perform surveys under § 851-8: 
+
+(1)  The persons authorized to perform the specified task as indicated in the Authorized 
+Functions List Table set out in Schedule 6 of this chapter, as amended from time to 
+time. 
+
+§ 851-9. Bulk water supply. 
+
+[Added 2019-03-28 by By-law 515-201949] 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+The City may supply bulk water in accordance with the provisions of this chapter. 
+
+The General Manager is authorized to establish, administer and monitor a bulk water 
+pilot using a bulk water fill station for the supply and sale of bulk water in accordance 
+with the provisions of this chapter. 
+
+The General Manager is authorized to establish and implement any related bulk water 
+pilot policies, procedures, forms and agreements. 
+
+The bulk water pilot is authorized for a minimum of two years in duration and for 
+seasonal operation, with 24-hour access. 
+
+The bulk water pilot is open to industrial, commercial and institutional customers only as 
+determined by the General Manager. 
+
+49
+
+ Editor's Note: By-law 515-2019 came into force on April 1, 2019. 
+
+851-45 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+F. 
+
+G. 
+
+H. 
+
+Any person supplied bulk water by the City shall pay to the City the bulk water fee as set 
+out in Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water Services. 
+
+The use of bulk water is restricted to non-potable purposes only. No person shall 
+consume bulk water or cause or permit the consumption of bulk water as potable water. 
+
+Any person supplied bulk water by the City shall meet any conditions and comply with 
+any policies, procedures and agreements that are or may be established from time to time 
+by the General Manager for the bulk water pilot. 
+
+§ 851-10. Shut off and turn on by request. 
+
+A.  Water shut off. 
+
+(1) 
+
+(a)  An owner of a property shall notify the General Manager no less than 48 hours 
+in advance of the date on which the owner requires the General Manager to 
+temporarily or permanently shut off the water supply to a property. 
+
+(b)  The owner's notification shall be in writing if the owner requires the water 
+
+supply to the property to be shut off permanently. 
+
+(2) 
+
+(a) 
+
+In the event that the property is occupied by tenants, the owner shall also 
+provide the tenants and the City's Medical Officer of Health with notice of the 
+water shut off at the same time as the owner notifies the General Manager under 
+§ 851-10A(1). 
+
+(b)  The owner shall also comply with Chapter 835, Vital Services, Discontinuance 
+
+of. 
+
+(3) 
+
+(a)  The owner shall make an appointment with the General Manager so that the 
+
+General Manager may attend at the property and shut off the water supply at the 
+shut-off valve. 
+
+(b)  The owner or the owner's representative shall attend at the property at the time 
+
+of the appointment to ensure the General Manager has access to the property, 
+the water meter and the shut off valve. 
+
+(4) 
+
+In the case of an emergency, the advance notice requirements in § 851-10A(1) and (2) 
+do not apply but the owner shall provide the notice as soon as possible in the 
+circumstances. 
+
+B.  Water turn on. 
+
+(1)  An owner of a property shall notify the General Manager at least 48 hours in advance 
+
+of the date on which a supply of water to a property is to be turned on. 
+
+(2) 
+
+(a)  The owner shall make an appointment with the General Manager so that the 
+
+General Manager may attend at the property and turn on the water supply. 
+
+851-46 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(b)  The owner or the owner's representative shall attend at the property at the time 
+
+of the appointment to ensure the General Manager has access to the property, 
+water meter and the shut off valve. 
+
+C.  Except in the case of an emergency or maintenance being performed on the waterworks by 
+
+the General Manager, the owner shall be present at the property when the water is either 
+shut off or turned on by the General Manager. 
+
+D.  The owner shall pay to the City for any shut off or turn on of the water supply to a property 
+
+the amount specified in Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water 
+Services. [Amended 2009-12-04 by By-law 1206-200950; 2011-02-24 by By-law 335-
+201151] 
+
+E.  No person shall turn on or shut off the supply of water to a property at the shut-off valve 
+
+without the prior authorization of the General Manager. 
+
+§ 851-11. Water shut off initiated by the City. 
+
+A. 
+
+(1)  Except in cases of emergency, no person shall turn on or shut off or permit the turn on 
+
+or shut off of the water supply to a property at the shut-off valve without the 
+authorization of the General Manager. 
+
+(2) 
+
+If the water supply to a property has been shut off by the General Manager or CFO, 
+no person shall turn on or use the water supply or permit the water supply to be 
+turned on or used without the prior written approval of the General Manager or CFO. 
+
+B.  The General Manager may shut off the supply of water to a property if: 
+
+(1)  The charges, fees or rates imposed by this chapter or any other chapter or City by-law 
+providing for charges, fees or rates in relation to the treatment and supply of water or 
+collection and treatment of wastewater are overdue; or 
+
+(2)  A fine imposed under this chapter remains unpaid after the time required for payment 
+
+of the fine has expired; or 
+
+(3)  The owner has failed to comply with an order of the General Manager made under 
+
+this chapter within the time required for same; or 
+
+(4)  A leak or other fault is found on the private water service pipe or water service 
+
+connection and is creating or is likely to create an emergency situation, including but 
+not limited to injury to persons or damage to adjacent properties including those of 
+the City, and may keep the supply of water to a property shut off until the time that 
+the leak or fault is completely repaired; or 
+
+(5)  The General Manager determines that an immediate threat of contamination to any 
+part of the waterworks exists that may endanger public health or safety, for the 
+purposes of preventing, limiting or containing any such threat of contamination; or 
+
+50
+
+51
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-47 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(6)  An emergency or potential emergency exists and an owner or occupier has not 
+
+provided to the General Manager immediate free, clear and unobstructed access to the 
+property, premises, private water service pipe, private water system, water meter and 
+any backflow prevention device in accordance with this chapter, until the time that 
+free, clear and unobstructed access to the property, premises, private water service 
+pipe, private water system, water meter and any backflow prevention device is 
+provided to the General Manager; or 
+
+(7)  The General Manager requires the water to be shut off to effect the installation, repair, 
+
+maintenance or replacement of new or existing Toronto Water infrastructure, 
+appurtenances and/or equipment and may keep the supply of water to a property shut 
+off until such the time as the work is completed.  The General Manager shall provide, 
+in the event of emergency work, such notice to the affected property owner(s) as may 
+be practical in the circumstances and, in the case of planned work, at least 48 hours' 
+prior notice. [Added 2017-04-28 by By-law 461-2017] 
+
+C. 
+
+In the event that water has been shut off for any reason provided in this chapter or 
+applicable laws, the City shall not be required to restore the supply of water to a property 
+until all outstanding fines, charges, fees and rates in arrears in relation to the treatment and 
+supply of water and collection and treatment of wastewater have been paid in full, or 
+arrangements satisfactory to the CFO are made to pay all outstanding fines, charges, fees 
+and rates in arrears, and all orders of the General Manager have been complied with. 
+
+D.  With respect to any shut off or subsequent turn on of the water supply to a property under 
+§ 851-11B, the owner shall pay to the City the amount specified in Chapter 441, Fees and 
+Charges, Appendix D - Schedule 2, Water Services, for water shut off or subsequent turn 
+on. [Amended 2009-12-04 by By-law 1206-200952; 2011-02-24 by By-law 335-201153] 
+
+E.  The General Manager shall, prior to the shut off of a water supply, provide reasonable 
+notice of the shut-off to the owners and occupiers of the land or property by personal 
+service or prepaid mail or by posting the notice on the land or property in a conspicuous 
+place. 
+
+F.  Despite § 851-11E, in the event of an emergency or potential emergency including 
+
+circumstances set out in § 851-11B(4), (5) and (6), the General Manager shall provide only 
+such notice as may be practical and possible in the circumstances. 
+
+G.  The City shall not be liable for damages or loss caused by the stoppage, interruption or 
+
+reduction of the amount of water supplied to the land or property of any person as a result 
+of an emergency or a breakdown, repair or extension of the waterworks if, in the 
+circumstances, reasonable notice of the General Manager's intention to stop, interrupt or 
+reduce the supply of water is given. 
+
+52
+
+53
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-48 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+H.  Chapter 835, Vital Services, Discontinuance of, shall not apply to the shut-off of water by 
+the City except to the shut-off of water to a rental unit, as defined by Chapter 835, for non-
+payment of a water account. 
+
+§ 851-12. Fire hydrants. 
+
+For the purposes of this section, any reference to a "fire hydrant" means a fire hydrant owned by 
+the City. [Amended 2016-02-04 by By-law 100-2016] 
+
+A.  Fire hydrant flow test. 
+
+(1) 
+
+(a)  A person may submit an application on the prescribed City form to the General 
+Manager to conduct a fire hydrant flow test to determine the characteristics of 
+the local waterworks system. [Amended 2008-12-03 by By-law 1250-2008] 
+
+(b)  A fire hydrant flow test shall be conducted by the applicant with the assistance 
+
+of City personnel and on such other terms and conditions, including 
+indemnification of the City, as may be required by the General Manager, from 
+time to time, and identified on the permit. 
+
+(2) 
+
+(a)  A person requesting a fire hydrant flow test shall pay in advance of the test the 
+amount specified in Chapter 441, Fees and Charges, Appendix D - Schedule 2, 
+Water Services, in respect of the permission and assistance of the City with 
+respect to the performance for the test and shall supply the General Manager 
+with a copy of the fire hydrant flow test results promptly upon the completion of 
+the test. [Amended 2009-12-04 by By-law 1206-200954; 2011-02-24 by By-
+law 335-201155] 
+
+(b)  The fire hydrant flow test results to be provided to the General Manager under 
+
+§ 851-12A(2)(a) shall include the date, time, location and duration of the fire 
+hydrant flow test. 
+
+(c)  The applicant shall make an appointment with the General Manager and attend 
+at the property at the time of the appointment for the General Manager to 
+undertake the test. 
+
+B.  Fire hydrant relocation. 
+
+(1) 
+
+(a)  A person may submit an application on the prescribed City form to the General 
+
+Manager for the relocation of a fire hydrant. 
+
+(b) 
+
+If the General Manager approves the relocation in accordance with the 
+standards and specifications, the applicant shall pay all costs incurred by the 
+City, in relation to the relocation of the fire hydrant, and shall pay the amount of 
+the deposit specified in Chapter 441, Fees and Charges, Appendix D - Schedule 
+2, Water Services, prior to the relocation of the fire hydrant by the City. 
+
+54
+
+55
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-49 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+[Amended 2009-12-04 by By-law 1206-200956; 2011-02-24 by By-law 335-
+201157] 
+
+(c)  The deposit shall be in the form of either cash or a certified cheque or applied to 
+
+the applicant's water account, as may be determined by the General Manager. 
+
+(2) 
+
+(a)  Upon completion of the fire hydrant relocation, including surface restoration, 
+the General Manager shall determine the actual cost of the fire hydrant 
+relocation and restoration and the applicant shall pay those actual costs. 
+
+(b) 
+
+(c) 
+
+In the event that the actual cost of the work is greater than the deposit, the 
+applicant shall immediately pay to the City the difference between the actual 
+cost and the deposit. 
+
+In the event that the actual cost of the work is less than the deposit, the General 
+Manager shall refund to the applicant the difference between the actual cost and 
+the deposit. 
+
+C. 
+
+(1)  Every owner shall ensure that all fire hydrants located on their property or on City 
+
+property adjacent to their property are clearly visible and unobstructed at all times in 
+accordance with the Ontario Fire Code Regulation 388/97. 
+
+(2)  No person shall cause or place, and no owner or occupier shall permit, any 
+
+obstruction or encroachment, including snow, in front of or within 1.2 m of any side 
+of a fire hydrant. 
+
+(3) 
+
+If an owner fails to provide the proper clearances on or around the fire hydrant within 
+24 hours of being notified to do so by the General Manager, the General Manager 
+may remove any and all obstructions or encroachments and the owner shall pay to the 
+City all costs associated with the removal of those obstructions or encroachments. 
+
+§ 851-13. Fire hydrant permits. 
+
+For the purposes of this section, any reference to a "fire hydrant" means a fire hydrant owned by 
+the City. [Amended 2016-02-04 by By-law 100-2016] 
+
+A. 
+
+(1)  A person may submit an application on the prescribed City form to the General 
+
+Manager for a temporary supply of water from a fire hydrant for purposes other than 
+authorized Toronto Fire Services personnel or other City personnel, acting in the 
+course of their duties, provided that the purpose, in the determination of the General 
+Manager, is of general benefit to the City and will not interfere with or impede 
+Toronto Fire Services or City activities and operations. [Amended 2010-07-08 by 
+By-law 869-2010] 
+
+(2)  The applicant shall pay in advance the amount specified in Chapter 441, Fees and 
+Charges, Appendix D - Schedule 2, Water Services, for a fire hydrant permit. 
+
+56
+
+57
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-50 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+[Amended 2009-12-04 by By-law 1206-2009;58 2010-07-08 by By-law 869-2010; 
+2011-02-24 by By-law 335-201159] 
+
+(3)  The applicant shall pay, in addition to the fire hydrant permit fee set out in § 851-
+
+13A(2), for the amount of water consumed in accordance with the amount specified 
+in Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water Services, and 
+Chapter 849, Water and Sewage Services and Utility Bill. [Added 2010-07-08 by By-
+law 869-2010; 2011-02-24 by By-law 335-201160] 
+
+B. 
+
+(1)  Once an application has been approved for a temporary supply of water from a fire 
+
+hydrant, the General Manager may provide and install a backflow prevention device, 
+valve and a temporary water meter on the fire hydrant if the total usage of water by 
+the applicant, as estimated by the General Manager, will exceed 50 cubic metres. 
+
+(2) 
+
+(a)  As an alternative to the General Manager supplying and installing the backflow 
+prevention device or valve or both, the General Manager may require the 
+applicant to supply and install a backflow prevention device or valve or both, 
+approved by the General Manager and in accordance with CSA - B64 Series 
+Standards for that purpose.  
+
+(b)  Prior to installation of the backflow prevention device by the applicant, the 
+applicant shall demonstrate to the satisfaction of the General Manager, 
+including providing original documentation that the backflow prevention device 
+is in accordance with the standards and specifications and is functioning 
+properly. 
+
+(c)  The owner or applicant shall have a copy of the current report of the test 
+
+performed, as required under § 851-8D(11) and (12), for the backflow 
+prevention device installed with the temporary water meter, on site for 
+inspection by the General Manager and the owner shall comply with § 851-
+8D(11), (12) and (13). [Added 2017-04-28 by By-law 461-2017] 
+
+(3)  The applicant shall be responsible for the safe return and proper working condition of 
+any backflow prevention device, temporary water meter or valve supplied by the City. 
+
+(4)  Once the water meter is installed and properly functioning, the applicant shall be 
+charged the current water rates for all water consumption registered on the water 
+meter. 
+
+C. 
+
+(1) 
+
+If the General Manager determines that the total usage of water from a fire hydrant 
+will be equal to or less than 50 cubic metres, a temporary water meter is not required. 
+
+(2)  The provisions of § 851-13B with respect to a backflow protection device shall still 
+
+apply. 
+
+58
+
+59
+
+60
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-51 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+D. 
+
+In the event the applicant uses more than 50 cubic metres of water, the applicant shall 
+immediately notify the General Manager and the requirements set out in § 851-13B shall 
+apply with respect to a temporary water meter and the fees and charges for the supply of 
+water. 
+
+E.  The applicant may be required to pay the cost of any necessary repair or replacement of the 
+temporary water meter, valve, backflow prevention device or fire hydrant. [Amended 
+2010-07-08 by By-law 869-2010] 
+
+F.  No person shall use or permit the use of any fire hydrant for the supply of water without a 
+fire hydrant permit issued by the General Manager in accordance with § 851-13, other than 
+authorized Toronto Fire Services personnel or other City personnel, acting in the course of 
+their duties. [Amended 2010-07-08 by By-law 869-2010] 
+
+G. 
+
+(1)  Every person supplied with water from a fire hydrant shall pay for the cost of the 
+
+water supplied. 
+
+(2) 
+
+If the fire hydrant is metered, the person shall pay the current City water rates as set 
+out in Chapter 849, Water and Sewage Services and Utility Bill. [Amended 2008-05-
+27 by By-law 506-200861] 
+
+(a) 
+
+(b) 
+
+If the applicant has a water account, cost of metered water shall be applied to 
+that person's account in accordance with rates set out in Chapter 849. 
+
+If the applicant does not have a water account, the applicant shall pay a deposit 
+specified in Chapter 441, Fees and Charges, Appendix D - Schedule 2, Water 
+Services, which shall be applied against the actual cost of consumed water. 
+[Amended 2009-12-04 by By-law 1206-200962; 2011-02-24 by By-law 335-
+201163] 
+
+[1] 
+
+[2] 
+
+In the event that the actual cost of water used is greater than the deposit, 
+the applicant shall immediately pay to the City the difference between the 
+actual cost and the deposit. 
+
+In the event that the actual cost of the water used is less than the amount 
+deposit, the General Manager shall refund the difference between the 
+actual cost and the deposit to the owner. 
+
+(3) 
+
+If the hydrant is not metered, the person shall pay the amount specified in Chapter 
+441, Fees and Charges, Appendix D - Schedule 2, Water Services, for the use of the 
+water. [Amended 2009-12-04 by By-law 1206-200964; 2011-02-24 by By-law 335-
+201165] 
+
+61
+
+62
+
+63
+
+64
+
+65
+
+ Editor's Note: This by-law came into force July 1, 2008. 
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+ Editor's Note: This by-law came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+851-52 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+§ 851-14. Water conservation and water use restriction orders. 
+
+A.  Subject to § 851-14B, no person shall: 
+
+(1) 
+
+(a)  Use, or cause or permit the use of, water for the purpose of watering, spraying, 
+
+washing, cleaning or wetting any surface; or 
+
+(b)  Spray, or cause or permit the spraying of, water on lawns, vegetation or other 
+
+landscaping, 
+
+where the use of that water results in the excessive collecting, pooling, or flowing of 
+water into any gutter, street, sidewalk, swale, water course or storm drain; or 
+
+(2)  Operate, or permit to be operated, on the person's property, any garden fountain or 
+
+similar device that does not utilize a water re-circulating system. 
+
+B.  Water used for: 
+
+(1)  Firefighting purposes and for the training of firefighters, or 
+
+(2)  Otherwise used for purposes relating to the health or safety of persons or animals, or 
+
+(3)  For the washing of motor vehicles, provided that the person washing the motor 
+
+vehicle uses a hose equipped with a self closing nozzle, 
+
+shall be exempt from § 851-14A. 
+
+C. 
+
+(1) 
+
+In the case where the General Manager determines that there is insufficient water in 
+the waterworks, or any part thereof, for the purpose of maintaining an appropriate 
+volume of water or water pressure for the continued, proper and safe operation of the 
+waterworks, or any part thereof, or insufficient water pressure for fire fighting 
+purposes, or in the event of an upset in, or restriction to, or maintenance of, the 
+waterworks or any part thereof, the General Manager may issue a water use 
+restriction order. 
+
+(2) 
+
+(a)  Once the situation that gave rise to the issuance of the water use restriction 
+order has been resolved or is no longer in effect, the General Manager shall 
+withdraw the water use restriction order. 
+
+(b)  A water use restriction order may be imposed on all persons or properties in the 
+City or such person(s) or property(ies), or any combination of the foregoing, as 
+the General Manager considers appropriate to address the insufficiency of water. 
+
+D.  The General Manager shall give reasonable notice, in the circumstances, to the public of 
+the issuance of a water use restriction order, the date on which it is to take effect and the 
+conditions of the water use restriction order. 
+
+E.  A water use restriction order may contain any or all of the following conditions: 
+
+(1)  Prohibitions or limitations on watering of lawns, sports fields, grassy areas and golf 
+courses, trees, shrubs, gardens, flowers or other vegetation, or any or all of the 
+foregoing, for specified periods of time or within specified time limitations set out in 
+the water use restriction order; 
+
+851-53 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(2)  Prohibitions or limitations on the filling of swimming pools, wading pools, hot tubs, 
+
+garden ponds, fountains and other outdoor water features; 
+
+(3)  Prohibitions or restrictions on the use of devices for outdoor water play; 
+
+(4)  Prohibitions on the washing of motor vehicles; 
+
+(5)  Prohibitions on the use of outdoor misting systems; and 
+
+(6)  Prohibitions or limitations on the filling with water of tanker trucks, tanks, containers, 
+
+or any other storage device that holds over 100 litres of water. 
+
+F.  Despite § 851-14E(1), the General Manager may exempt from a water use restriction order, 
+or place lesser restrictions on, the watering of tee-off areas and putting greens on golf 
+courses, newly sodded or seeded lawns, newly planted trees, nurseries, turf farms or tree 
+farms or any or all of the foregoing. 
+
+G.  No person shall use or cause or permit the use of water in contravention of a condition 
+
+contained in a water use restriction order issued by the General Manager under this chapter. 
+
+§ 851-15. Contact information. 
+
+A.  For administering or enforcing the requirements under this chapter or any other applicable 
+chapter or by-law of the City, the General Manager or CFO may require an owner of a 
+property provided with a water service connection or equipped with a water meter, or an 
+owner of a property where a water meter is to be installed, to provide them with: 
+
+(1)  That owner's full name and telephone number; 
+
+(2)  The full name and telephone number of any occupiers of the property; and 
+
+(3)  The full name and telephone number of a person authorized by the owner to provide 
+the General Manager and CFO with access to the water meter or the location where a 
+water meter is to be installed. 
+
+B.  Every owner shall provide the General Manager and the CFO with a current contact name 
+
+and telephone number within 28 days of a change in ownership or occupancy of a property. 
+
+§ 851-16. Access. 
+
+A.  No person shall deny access to the General Manager or CFO to a property for any purpose 
+
+as provided for in this chapter. [Amended 2008-12-03 by By-law 1250-2008] 
+
+B.  No person shall deny access to the General Manager, CBO or CFO to a property where that 
+person has been given reasonable notice by the General Manager, CBO or CFO, as the case 
+may be, of the intent to exercise a power of entry in accordance with the City of Toronto 
+Act, 2006. 
+
+C.  The General Manager or CFO may, in accordance with the requirements of this chapter, 
+enter upon a property to which water is supplied by the City: [Amended 2008-12-03 by 
+By-law 1250-2008] 
+
+851-54 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(1)  To inspect, repair, alter or disconnect the service pipe or wire, machinery, equipment 
+
+and other works used to supply water; 
+
+(2)  To read, inspect, install, repair, replace, maintain or alter a water meter; 
+
+(3)  To inspect a backflow prevention device; or 
+
+(4)  To shut off or reduce the supply of water. 
+
+D. 
+
+If an owner discontinues the use of water at a property or the General Manager or CFO 
+lawfully decides to cease supplying water to land or property, the General Manager or CFO 
+may enter on the land or property: 
+
+(1)  To shut off the supply of water; 
+
+(2)  To remove any property of the City from the property; or 
+
+(3)  To determine whether water has been, or is being, unlawfully used. 
+
+E.  The powers of entry of the City and General Manager are subject to sections 375 to 379, 
+
+inclusive, of the City of Toronto Act, 2006. 
+
+§ 851-17. Inspection. 
+
+A.  Despite any other provision in this chapter, the General Manager may enter on a property at 
+any reasonable time for the purpose of carrying out an inspection to determine compliance 
+with this chapter or an order or direction issued in accordance with this chapter. [Amended 
+2008-12-03 by By-law 1250-2008] 
+
+B.  For the purposes of any inspection, the General Manager may: 
+
+(1)  Require the production for inspection of documents or things relevant to the 
+
+inspection; 
+
+(2) 
+
+Inspect and remove documents or things relevant to the inspection for the purpose of 
+making copies or extracts; 
+
+(3)  Require information from any person concerning a matter related to the inspection; 
+
+and 
+
+(4)  Alone or in conjunction with a person possessing special or expert knowledge, make 
+examinations or take tests, samples or photographs necessary for the purposes of the 
+inspection. 
+
+C.  No person shall fail or refuse to comply with a request by the General Manager to produce 
+for inspection any document or thing or information relevant to the inspection carried out 
+by the General Manager in accordance with § 851-17. 
+
+D. 
+
+(1)  The City or the General Manager may enter upon lands for the purposes of an 
+
+inspection and the other activities set out in § 851-17B under an order issued under 
+section 378 of the City of Toronto Act, 2006. 
+
+851-55 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(2)  Where a provincial court judge or justice of the peace has issued an order authorizing 
+
+the City to enter on a property for the purpose of carrying out an inspection for the 
+purposes and to exercise the powers set out in this section, no person, when requested 
+to do so by the General Manager, shall neglect or refuse to produce or deliver any 
+information or documents or things required by this chapter. 
+
+§ 851-18. Obstruction. 
+
+A.  No person shall represent or cause to be represented that he or she is an owner or occupier 
+
+of a property if he or she is not. 
+
+B. 
+
+(1)  No person shall prevent, hinder, obstruct or interfere, or attempt to prevent, hinder, 
+
+obstruct or interfere, in any manner, the General Manager, CBO or CFO or their 
+respective designate or any City personnel, agents or contractors in the exercise of an 
+activity, power or performance of a duty under this chapter or the administration or 
+enforcement of this chapter. 
+
+(2)  The activities of the General Manager, CBO or CFO or their respective designate or 
+
+any City personnel, agents or contractors referred to in § 851-18B(1) may include, 
+without limitation, the following: 
+
+(a)  Entering in or upon, at any reasonable time without a warrant, any land, 
+
+property or premises, except premises being used as a dwelling house in which 
+case reasonable notice shall be provided under this chapter and the City of 
+Toronto Act, 2006; or 
+
+(b)  Making such tests or taking such samples as the General Manager, CBO or CFO 
+
+deems necessary; or 
+
+(c) 
+
+Inspecting or observing any plant, machinery, equipment, work, activity or 
+documents; or 
+
+(d)  Reading, repairing, maintaining, altering, disconnecting, removing, replacing, 
+installing or sealing a water meter, remote readout unit, backflow prevention 
+device or any related item or any or all of the foregoing. 
+
+C.  No person shall furnish any false or misleading information to the General Manager or any 
+City personnel, agents or contractors in the exercise of an activity, power or performance of 
+a duty or administrative function under this chapter, including but not limited to any 
+information provided or submitted on or with any application or in respect to any 
+inspection or enforcement of this chapter. [Added 2013-12-18 by By-law 1697-2013] 
+
+§ 851-19. General. 
+
+A.  Protection from damage. [Amended 2010-07-08 by By-law 869-2010] 
+
+No person, except a person authorized by the General Manager in writing, shall uncover, 
+make any connection with, or opening into, break, alter, remove, damage, destroy, deface 
+or tamper or cause or permit the breaking, removal, damaging, destroying, defacing or 
+tampering with: 
+
+851-56 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+(1)  Any part of the waterworks; or any seal placed thereon, or attached thereto; or 
+
+(2)  Any permanent or temporary device installed in or on the waterworks for the 
+
+purposes of flow measuring, sampling, testing, contamination prevention or other 
+purpose that the General Manager may deem necessary for the administration of this 
+chapter or the operation or maintenance of the waterworks. 
+
+B.  Damage to the waterworks. 
+
+Any owner or person receiving water from the waterworks shall be responsible for 
+ensuring that any action taken by that owner or person conforms at all times to the 
+provisions of this chapter and that owner or person shall be liable for any damage or 
+expense arising out of their failure to properly protect the waterworks or to properly protect 
+water from contamination or any other damage including the cost of investigation, 
+disinfection, repairing or replacing any part of any waterworks damaged or water 
+contaminated thereby. 
+
+C.  Unauthorized entry to waterworks. 
+
+Unless specifically authorized by the General Manager, no person shall enter into any 
+chamber, structure, building or property associated with the waterworks. 
+
+§ 851-20. Offences. 
+
+A.  Every person who contravenes any provision of this chapter, and every director or officer 
+of a corporation who knowingly concurs in a contravention by the corporation of any 
+provision of this chapter, is guilty of an offence. 
+
+B.  Any fine imposed under § 851-21 shall be payable in addition to any fees and charges 
+
+payable under this chapter, Chapter 849 and Chapter 441, as applicable. 
+
+§ 851-21. Penalties. 
+
+A.  Fine - for contravention. 
+
+(1)  Every person who contravenes a provision of this chapter and every director or officer 
+of a corporation who knowingly concurs in a contravention by the corporation of a 
+provision of this chapter, upon conviction, shall be liable to a fine of not less than $50 
+and not more than $50,000 for a first offence and to a fine of not less than $100 and 
+not more than $75,000 for any subsequent offence. 
+
+(2)  Despite § 851-21A(1), every person who contravenes any of the sections set out in 
+Schedule 1 of this chapter and every director or officer of a corporation who 
+knowingly concurs in a contravention by the corporation of any of those sections, 
+upon conviction, shall be liable to a fine of not less than $100 and not more than 
+$50,000 for a first offence and to a fine of not less than $495 and not more than 
+$100,000 for any subsequent offence. 
+
+(3)  Despite § 851-21A(1) and (2), every person who contravenes any of the sections set 
+
+out in Schedule 2 of this chapter and every director or officer of a corporation who 
+
+851-57 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+knowingly concurs in a contravention by the corporation of any of those sections, 
+upon conviction, shall be liable to a fine of not less than $300 and not more than 
+$50,000 for a first offence and to a fine of not less than $495 and not more than 
+$100,000 for any subsequent offence. 
+
+(4)  Despite § 851-21A(1), (2) and (3), every person who contravenes any of the sections 
+
+set out in Schedule 3 of this chapter and every director or officer of a corporation who 
+knowingly concurs in a contravention by the corporation of any of those sections, 
+upon conviction, shall be liable to a fine of not less than $300 and not more than 
+$100,000 for a first offence and to a fine of not less than $495 and not more than 
+$100,000 for any subsequent offence. 
+
+B.  Fine - for contravention - corporation. 
+
+Despite § 851-21A, if a corporation is convicted of an offence under this chapter, it shall be 
+liable to a fine of not less than $495 and not more than $100,000 for a first offence and to a 
+fine of not less than $1,000 and not more than $100,000 for any subsequent offence. 
+
+C.  Fine - for contravention - continuing offence. [Amended 2010-07-08 by By-law 869-2010] 
+
+Despite § 851-21A and B, in the case of a continuing offence, every person who 
+contravenes any of the sections set out in Schedule 4 of this chapter and every director or 
+officer of a corporation who knowingly concurs in a contravention by the corporation of 
+any of the sections set out in Schedule 4 of this chapter, upon conviction, shall be liable to 
+a fine of not less than $100 and not more than $10,000 for each day or part day that the 
+offence continues and the total of all of the daily fines for the offence shall not be limited to 
+$100,000. 
+
+D.  Fine - for contravention - continuing offence - corporation. [Amended 2010-07-08 by By-
+
+law 869-2010] 
+
+Despite § 851-21A, B and C, in the case of a continuing offence, if a corporation is 
+convicted of an offence for any of the sections set out in Schedule 4 of this chapter, it shall 
+be liable to a fine of not less than $495 and not more than $10,000 for each day or part day 
+that the offence continues and the total of all of the daily fines for the offence shall not be 
+limited to $100,000. 
+
+E. 
+
+Special fine. [Amended 2010-07-08 by By-law 869-2010] 
+
+In addition to any other fine under § 851-21A, B, C or D or a combination of the foregoing, 
+every person who gains an economic advantage or economic gain from contravening this 
+chapter shall be liable to a special fine in an amount equal to the fair market value of the 
+economic advantage or economic gain so obtained from the contravention. 
+
+§ 851-22. General enforcement powers. 
+
+A.  Restraining order. 
+
+851-58 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+If this chapter is contravened, in addition to any other remedy or penalty imposed by this 
+chapter, the contravention may be restrained by application by the City under the 
+provisions of section 380 of the City of Toronto Act, 2006. 
+
+B.  Order to discontinue activity. 
+
+(1)  Under the provisions of section 384 of the City of Toronto Act, 2006, the General 
+
+Manager may order any person who has contravened this chapter or who has caused 
+or permitted the contravention of this chapter or the owner or occupier of the property 
+on which the contravention occurred to discontinue the contravening activity. 
+
+(2)  Any person who contravenes an order under § 851-22B(1) is guilty of an offence. 
+
+C.  Work order. 
+
+(1)  Under the provisions of section 385 of the City of Toronto Act, 2006, the General 
+
+Manager may order any person who has contravened this chapter or who has caused 
+or permitted the contravention of this chapter or the owner or occupier of the property 
+on which the contravention occurred to do work to correct the contravention. 
+
+(2)  Any person who contravenes an order under § 851-22C(1) is guilty of an offence. 
+
+D.  Remedial action. 
+
+(1) 
+
+In accordance with section 386 of the City of Toronto Act, 2006, where any matter or 
+thing is required to be done under this chapter, in default of it being done by the 
+person directed or required to do so, that matter or thing may be done by the City 
+which shall be at that person's expense and the City may recover the costs incurred 
+for doing such matter or thing from the person directed or required to do it by adding 
+the costs to the tax roll and collecting them in the same manner as municipal property 
+taxes. 
+
+(2)  For the purposes of § 851-22D(1), the General Manager may enter upon the subject 
+
+property at any reasonable time. 
+
+§ 851-23. Document retention. 
+
+A.  Any document required to be produced for inspection or approval or retained under this 
+
+chapter by an owner of a property shall be retained by the owner for a period of seven 
+years. 
+
+§ 851-24. Notice. 
+
+A.  Where an order is issued by the General Manager, the person to whom the order is made 
+
+shall be deemed to have received the order on the date it is posted in a conspicuous place at 
+the subject property or delivered in person or three days after being posted by first class 
+prepaid mail to the person at the last known address provided to the General Manager or, 
+where no address for the person has been provided to the General Manager, by first class 
+prepaid mail to the address for the person identified on the tax rolls. 
+
+851-59 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+B.  The manner of delivery, set out in § 851-24A, shall be in the discretion of the General 
+
+Manager. 
+
+§ 851-25. Severability. 
+
+Despite that any section or sections of this chapter, or any part or parts thereof, may be found by 
+any court of law to be invalid or illegal or beyond the power of the Council to enact, that section 
+or sections or part or parts thereof shall be deemed to be severable, and all other sections of this 
+chapter, or parts thereof, are separate and independent therefrom and enacted as such. 
+
+§ 851-26. Repeal. 
+
+The following are repealed: 
+
+A.  Former City of Toronto Municipal Code Chapter 340, Water; 
+
+B.  Former City of Etobicoke Municipal Code Chapter 257, Water, being a by-law with respect 
+
+to the "Waterworks System Regulations"; 
+
+C.  Former City of Scarborough, Public Utilities Commission, By-law 30, being a by-law to 
+
+regulate the supply of water in the City of Scarborough; 
+
+D.  Former City of North York, By-law 32789, being a by-law with respect to "The Rules and 
+Regulations for the Maintenance and Operation of a Water Works Distribution System in 
+the City of North York"; 
+
+E. 
+
+F. 
+
+Former Borough of York, By-law 1259-71, being a by-law "To establish regulations for the 
+distribution and supply of water by the Borough of York"; and 
+
+Former Borough of East York, By-law 11-90, being a by-law "To provide for the 
+Management and Maintenance of the Waterworks Systems Of The Corporation of the 
+Borough of East York and to establish Water Rates and Charges." 
+
+§ 851-27. Effective date. 
+
+This chapter shall come into force on January 1, 2008. 
+
+851-60 
+
+April 1, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+SCHEDULE 1 TO CHAPTER 851 
+[Amended 2010-07-08 by By-law 869-2010] 
+
+§ 851-4L(2) 
+§ 851-4L(3) 
+§ 851-4L(4) 
+§ 851-5B(1) 
+§ 851-5B(2) 
+§ 851-5B(3) 
+§ 851-5B(4) 
+§ 851-5B(6) 
+§ 851-5D(1) 
+§ 851-5D(4) 
+§ 851-5D(5) 
+§ 851-5E(1) 
+§ 851-5F(1) 
+§ 851-5F(2) 
+§ 851-5G 
+§ 851-5H(1) 
+§ 851-5H(2) 
+§ 851-5H(5) 
+§ 851-5H(6) 
+§ 851-5I(1) 
+§ 851-5I(2) 
+§ 851-5I(3) 
+§ 851-5I(4) 
+§ 851-5I(5) 
+§ 851-5I(6)(a) 
+§ 851-5I(6)(b) 
+§ 851-5J(2) 
+§ 851-5J(3) 
+§ 851-5J(4) 
+§ 851-5J(5) 
+§ 851-5J(7) 
+§ 851-5J(8) 
+§ 851-5J(9) 
+
+851-61 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+§ 851-5J(10) 
+§ 851-5J(13) 
+§ 851-5L(2) 
+§ 851-5M 
+§ 851-5O(4)(b) 
+§ 851-5O(4)(c) 
+§ 851-5O(5) 
+§ 851-5P 
+§ 851-5Q(2) 
+§ 851-5Q(4) 
+§ 851-5R(1) 
+§ 851-6B(1) 
+§ 851-6B(2) 
+§ 851-6B(3) 
+§ 851-6C(3) 
+§ 851-7A(3) 
+§ 851-7A(4) 
+§ 851-7A(5) 
+§ 851-7A(6) 
+§ 851-7B(1) 
+§ 851-7B(2) 
+§ 851-7B(3) 
+§ 851-7B(4) 
+§ 851-7D(1) 
+§ 851-7D(5) 
+§ 851-7D(11) 
+§ 851-12C(1) 
+§ 851-12C(2) 
+§ 851-13D 
+§ 851-14A(1) 
+§ 851-14A(2) 
+§ 851-14G 
+§ 851-15A 
+§ 851-15B 
+§ 851-16A 
+§ 851-17B(1) 
+
+851-62 
+
+April 1, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+§ 851-17C 
+§ 851-17D(2) 
+
+851-63 
+
+April 1, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+SCHEDULE 2 TO CHAPTER 851 
+
+§ 851-4A(1)(a) 
+§ 851-4A(1)(b) 
+§ 851-4A(2)(a) 
+§ 851-4A(2)(b) 
+§ 851-4C(2)(a) 
+§ 851-4C(2)(b) 
+§ 851-4E 
+§ 851-4F(1)(a) 
+§ 851-4F(1)(b) 
+§ 851-4F(2) 
+§ 851-4M(1) 
+§ 851-4M(2) 
+§ 851-5A(2) 
+§ 851-5A(4) 
+§ 851-5A(6) 
+§ 851-5A(7) 
+§ 851-5E(2) 
+§ 851-5H(4) 
+§ 851-6C(1) 
+§ 851-6C(2) 
+§ 851-7F(1) 
+
+851-64 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+SCHEDULE 3 TO CHAPTER 851 
+
+[Amended 2017-04-28 by By-law 461-201766] 
+
+§ 851-5N(3)  
+§ 851-5N(4)  
+§ 851-8B(1)  
+§ 851-8B(2)(b)  
+§ 851-8B(2)(c)  
+§ 851-8B(2)(d)  
+§ 851-8C  
+§ 851-8D(2)  
+§ 851-8D(3)  
+§ 851-8D(4)  
+§ 851-8D(5)  
+§ 851-8D(6)  
+§ 851-8D(7)  
+§ 851-8D(8)  
+§ 851-8D(9)  
+§ 851-8D(10)  
+§ 851-8D(11)  
+§ 851-8D(12)  
+§ 851-8D(13)  
+§ 851-8D(14)  
+§ 851-8D(15)  
+§ 851-8D(16)  
+§ 851-8D(17)  
+§ 851-8D(18)  
+§ 851-8D(19)  
+§ 851-8D(20)  
+§ 851-8D(21)  
+§ 851-8E(1)  
+§ 851-8E(2)  
+§ 851-18B(2)(d)  
+§ 851-19A(1)  
+§ 851-19B  
+§ 851-19C  
+§ 851-23 
+§ 851-5A(1) 
+
+66
+
+ Editor's Note: By-law 461-2017 replaced Schedule 3 in its entirety. 
+
+851-65 
+
+April 1, 2019 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+SCHEDULE 4 TO CHAPTER 851 
+
+§ 851-5A(1) 
+
+851-66 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+SCHEDULE 5 
+
+BACKFLOW PREVENTION DEVICE FOR PREMISE ISOLATION 
+BASED ON INDUSTRY SECTOR 
+[Amended 2008-12-03 by By-law 1250-2008; 2010-07-08 by By-law 869-2010; 2013-12-18 by 
+By-law 1697-2013; 2017-04-28 by By-law 461-2017] 
+
+Hazard Level 
+Severe 
+Severe 
+Moderate 
+Severe 
+
+Severe 
+Severe 
+Moderate 
+
+Industry Sector 
+Agricultural/Landscaping Applications 
+Aircraft Manufacturing 
+Airports 
+All Printing Industry (excluding dry digital 
+printing) 
+Allied Services to Manufacturing 
+Analytical Laboratories 
+Animal Shelter 
+Asphalt Paving Mixture and Block Manufacturing  Severe 
+Auto Dealership 
+Autobody Refinishing 
+Automobile Manufacturing 
+Automotive Repairs and Maintenance 
+Beverage Manufacturing 
+Breweries 
+Blood Clinic 
+Campsite 
+Car Washes 
+Carpet Cleaners 
+Chemical Manufacturing 
+Clinical Laboratories 
+Commercial Coin Operated Laundry 
+Commercial Laundry (without dry cleaning) 
+Commercial Buildings of less than 4 stories or 
+less than 600 square metres 
+Commercial Buildings of 4 stories or more or 
+exceeding 600 square metres 
+Concrete Plants 
+Cosmetic Product Manufacturing 
+Death Care Services 
+Dental Office (Non-surgical) 
+Dental Surgery Facility 
+Distilleries 
+Dock and Marine Facility 
+Dry Cleaners 
+Dye and Pigment Manufacturing 
+Electroplating, Plating, Polishing, Anodizing and 
+Colouring 
+
+Moderate 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Moderate 
+Severe 
+Severe 
+Severe 
+Severe 
+Moderate 
+Severe 
+Low to 
+Moderate 
+Moderate 
+
+Severe 
+Severe 
+Severe 
+Moderate 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+
+851-67 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+Industry Sector 
+Exhibition Grounds 
+Fire Protection Systems with antifreeze, foam 
+injection, and/or other chemical additives 
+Fire Protection Systems with auxiliary water 
+supply 
+Fire Stations 
+
+Food Processing 
+Fuel Dispensing Facility (Gas Bar) 
+Funeral Homes/Cemetery 
+
+Gas Stations with Automotive Repairs 
+Golf Courses 
+
+Greenhouses 
+Grocery Store 
+Hair Salon 
+Hospitals 
+Hotel and Motel 
+Industrial and Institutional Premises 
+
+Industrial Laundries 
+Irrigation Systems (with chemical addition) 
+Irrigation System (without chemical addition) 
+Kennel 
+Lubricating Oil and Grease Manufacturing 
+Machine Tool Manufacturing 
+Machine Tool Operations 
+Marina and Yacht Club (pleasure-boat) 
+Meat Processing and Packaging 
+Medical Clinic (non-surgical) 
+Medical Clinic (surgical) 
+Medical Laboratories 
+Metal Can Manufacturing 
+Metal Coating, Engraving 
+Metal Fabrication 
+
+Metal Window and Door Manufacturing 
+Milk/Dairy Product Processing 
+Mobile Home Park 
+Mortuary or Morgue 
+Motorcycle Repairs and Maintenance 
+Nonferrous Metal Manufacturing 
+Nursing Home 
+Other Metal Container Manufacturing  
+
+Hazard Level 
+Severe 
+Severe 
+
+Severe 
+
+Moderate to 
+Severe 
+Severe 
+Moderate 
+Moderate to 
+Severe 
+Severe 
+Moderate to 
+Severe 
+Severe 
+Moderate 
+Moderate 
+Severe 
+Moderate 
+Moderate to 
+Severe 
+Severe 
+Severe 
+Moderate 
+Moderate 
+Severe 
+Severe 
+Severe 
+Moderate 
+Severe 
+Moderate 
+Severe 
+Severe 
+Severe 
+Severe 
+Moderate to 
+Severe  
+Severe 
+Severe 
+Moderate 
+Severe 
+Severe 
+Severe 
+Moderate 
+Severe 
+
+851-68 
+
+April 1, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+Hazard Level 
+Severe 
+Severe 
+Moderate 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Severe 
+Moderate 
+
+Industry Sector 
+Paint and Coating Manufacturing 
+Paper and Pulp Processing Plants 
+Penitentiary 
+Personal Care Products Manufacturing 
+Petrochemical Manufacturing 
+Petroleum Bulk Storage Facilities 
+Petroleum Refining 
+Pharmaceutical Manufacturing 
+Photo Finishing 
+Photographic Film Manufacturing 
+Photographic Plate/Paper Manufacturing 
+Plant Using Radioactive Materials 
+Plastic Manufacturing 
+Plastic Material and Resin Manufacturing 
+Power Generating Facility 
+Premises Where Access Is Prohibited 
+Printed Circuit Board Manufacturing 
+Radiator Shop 
+Recycling Facility 
+Rendering Facility 
+Research Buildings and Laboratories 
+Residential Buildings of 4 stories or more or 
+exceeding 600 square metres (excluding 
+individual single-family dwellings serviced with 
+an individual water service and water meter) 
+Restaurant (including bar, coffee shop, food 
+courts, lounge, etc.) 
+Rubber Manufacturing 
+Sauna and Massage Centre 
+Schools (elementary, junior high, senior high) 
+Single Residential Dwelling with auxiliary water 
+supply 
+Slaughter House 
+Soap and Detergent Manufacturing 
+Swimming Pools (private with direct connection)  Moderate 
+Moderate 
+Swimming Pools (public) 
+Moderate 
+Technical Institutes 
+Severe 
+Textile Manufacturing/ Processing 
+Moderate 
+Universities and Colleges 
+Moderate 
+Veterinary Clinic 
+Severe 
+Veterinary Hospital 
+Severe 
+Waste/Garbage Transfer Station and Disposal 
+Plant 
+Wastewater Pumping Stations 
+Wastewater Treatment Plants and Facilities 
+
+Severe 
+Moderate 
+Moderate 
+Severe 
+
+Severe 
+Severe 
+
+Severe 
+Severe 
+
+Moderate 
+
+851-69 
+
+April 1, 2019 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+Industry Sector 
+Water Filling Station 
+Water Park 
+Water Pumping Stations 
+Water Treatment Plants 
+Wineries 
+Zoo 
+
+Hazard Level 
+Severe 
+Moderate 
+Severe 
+Severe 
+Severe 
+Severe 
+
+851-70 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+SCHEDULE 6 
+AUTHORIZED FUNCTIONS LIST 
+[Amended 2008-12-03 by By-law 1250-2008; 2010-07-08 by By-law 869-2010; 2013-12-18 by 
+By-law 1697-2013; 2017-04-28 by By-law 461-2017] 
+
+Professional 
+Engineer 
+with CCCS 
+Certification 
+
+Certified 
+Engineering 
+Technologist 
+with CCCS 
+Certification* 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+Licensed Master 
+Plumber with a 
+City of Toronto 
+plumbing 
+contractor's 
+license and 
+CCCS 
+Certification 
+
+Journeyman 
+Plumber with 
+CCCS 
+Certification† 
+
+Apprentice 
+plumber  
+with CCCS 
+Certification‡ 
+
+Fire system 
+sprinkler 
+fitter with 
+CCCS 
+Certification 
+
+Industrial 
+Millwright 
+with CCCS 
+Certification 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+Item  Function 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Carry out 
+cross-
+connection / 
+backflow 
+prevention 
+device 
+survey 
+
+Install, 
+relocate, or 
+replace 
+backflow 
+prevention 
+device 
+
+Repair 
+backflow 
+prevention 
+device 
+
+Test 
+backflow 
+prevention 
+device 
+
+Carry out 
+cross-
+connection / 
+backflow 
+prevention 
+device 
+survey in 
+relation to 
+fire 
+protection 
+systems 
+
+Install, 
+relocate, or 
+replace 
+backflow 
+prevention 
+device in 
+relation to 
+fire 
+protection 
+systems 
+
+851-71 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 851, WATER SUPPLY 
+
+Professional 
+Engineer 
+with CCCS 
+Certification 
+
+Certified 
+Engineering 
+Technologist 
+with CCCS 
+Certification* 
+
+Licensed Master 
+Plumber with a 
+City of Toronto 
+plumbing 
+contractor's 
+license and 
+CCCS 
+Certification 
+
+Journeyman 
+Plumber with 
+CCCS 
+Certification† 
+
+Apprentice 
+plumber  
+with CCCS 
+Certification‡ 
+
+Fire system 
+sprinkler 
+fitter with 
+CCCS 
+Certification 
+
+Industrial 
+Millwright 
+with CCCS 
+Certification 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+Item  Function 
+
+7 
+
+8 
+
+Repair 
+backflow 
+prevention 
+device in 
+relation to 
+fire 
+protection 
+systems 
+
+Test 
+backflow 
+prevention 
+device in 
+relation to 
+fire 
+protection 
+systems 
+
+√ 
+* 
+† 
+‡ 
+
+Note: 
+
+Authorized to perform function 
+Required to be under the direction of a Professional Engineer 
+Required to be employed by a City of Toronto licensed plumbing contractor 
+Required to be employed by a licensed plumbing contractor and under the direct supervision of a journeyman with CCCS 
+Certification or master plumber with CCCS Certification 
+If a plumber or an Industrial Millwright is employed by an organization or institution for whom the work is performed, then a City 
+of Toronto plumbing contractor licence is not required. 
+
+CCCS  Cross Connection Control Specialist  Note: Please refer to § 851-8F for the criteria for acceptable CCCS 
+
+851-72 
+
+April 1, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

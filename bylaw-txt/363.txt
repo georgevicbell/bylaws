@@ -1,0 +1,5129 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Chapter 363 
+
+BUILDING CONSTRUCTION AND DEMOLITION 
+
+Article 1 
+General Provisions 
+
+§ 363-1.1. Definitions. 
+
+§ 363-1.2. Interpretation. 
+
+§ 363-1.3. Forms. 
+
+§ 363-1.4. Appointment of building inspectors. 
+
+Article 2 
+Preliminary Reviews 
+
+§ 363-2.1. Zoning Use Review. 
+
+§ 363-2.2. Zoning Applicable Law Certificate application. 
+
+§ 363-2.3. Transition 
+
+Article 3 
+Permits 
+
+§ 363-3.1. Classes of permits. 
+
+§ 363-3.2. Building permit applications with a Zoning Applicable Law Certificate. 
+
+§ 363-3.3. Building permit application requirements. 
+
+§ 363-3.4. Demolition permit application requirements. 
+
+§ 363-3.5. Plans and specifications general requirements. 
+
+§ 363-3.6. Partial permit. 
+
+§ 363-3.7. Conditional permit. 
+
+§ 363-3.8. Change of use permit. 
+
+§ 363-3.9. Certified plans application. 
+
+§ 363-3.10. Authority to approve and execute limiting distance agreements. 
+
+§ 363-3.11. Alternative solutions. 
+
+363-1 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+§ 363-3.12. Abandoned application. 
+
+§ 363-3.13.  Transfer of permit. 
+
+§ 363-3.14. Notice of readiness for inspection. 
+
+§ 363-3.15. Revocation of permit. 
+
+Article 4 
+Fees 
+
+§ 363-4.1. General. 
+
+§ 363-4.2. Zoning Applicable Law Certificate fees. 
+
+§ 363-4.3. Permit fees. 
+
+§ 363-4.4. Purpose built rental fee. 
+
+§ 363-4.5. Alternative solution request fee. 
+
+§ 363-4.6. Energy devices and equipment fee. 
+
+§ 363-4.7. Marijuana grow operation assessment fee. 
+
+§ 363-4.8. Records disclosure fee. 
+
+§ 363-4.9. Fees for other services 
+
+§ 363-4.10. Minimum fee exemptions. 
+
+§ 363-4.11. Refunds. 
+
+Article 5 
+Construction Vibrations 
+
+§ 363-5.1. Definitions 
+
+§ 363-5.2. Prohibited construction vibrations. 
+
+§ 363-5.3. Vibration control form. 
+
+§ 363-5.4. Pre-construction consultation and monitoring program. 
+
+§ 363-5.5. Monitoring of vibrations during construction. 
+
+§ 363-5.6. Public communications and complaint protocol. 
+
+363-2 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Article 6 
+Demolition Control 
+
+§ 363-6.1. Designation of area of demolition control. 
+
+§ 363-6.2. Co-ordination with Chapter 667, Residential Rental Property Demolition and 
+Conversion Control. 
+
+§ 363-6.3. Authority to issue demolition permits. 
+
+§ 363-6.4. Fees. 
+
+Article 7 
+Fencing of Construction and Demolition Sites 
+
+§ 363-7.1. Definitions. 
+
+§ 363-7.2. Construction fence required. 
+
+§ 363-7.3. General requirements. 
+
+§ 363-7.4. Construction fence height. 
+
+§ 363-7.5. Construction fence standards. 
+
+§ 363-7.6. Modifications 
+
+§ 363-7.7. Power of entry. 
+
+§ 363-7.8. Enforcement. 
+
+§ 363-7.9. Offences. 
+
+§ 363-7.10. Conflicting provisions. 
+
+Article 8 
+Right of Entry 
+
+§ 363-8.1. Definitions. 
+
+§ 363-8.2. Right of entry. 
+
+§ 363-8.3. Inspection. 
+
+§ 363-8.4. Orders to comply. 
+
+§ 363-8.5. Remedial action. 
+
+§ 363-8.6. Offences. 
+
+363-3 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+§ 363-8.7. Transition. 
+
+Schedule A Demolition Permit Application Information 
+
+Schedule B Transition - Preliminary Project Review and Zoning Certificate Applications 
+
+[HISTORY: Adopted by the Council of the City of Toronto on October 30, 2019 by By-law 
+1498-20191. Amendments noted where applicable.] 
+
+General References 
+
+Architects Act - See R.S.O. 1990, c. A.26. 
+Building Code Act - See S.O. 1992, c. 23. 
+Child Care and Early Years Act - See S.O. 2014 
+City of Toronto Act, 2006 - See S.O. 2006, c. 11. 
+Development of land - See Ch. 415. 
+Development Charges Act – See S.O. 1997. 
+Education Act - See R.S.O. 1990. 
+Environmental Protection Act – See R.S.O. 1990. 
+Fences - See Ch. 447. 
+Land Titles Act - See R.S.O. 1990. 
+Numbering of properties - See Ch. 598. 
+Occupational Health and Safety Act - See R.S.O. 1990, c. O.1. 
+Ontario Heritage Act - See R.S.O. 1990, c. O.18. 
+Ontario New Home Warranties Plan Act - See R.S.O. 1990, c. O.31. 
+Planning Act - See R.S.O. 1990, c. P.13. 
+Professional Engineers Act - See R.S.O. 1990, c. P.28. 
+Residential rental property demolition and conversion control - See Ch. 667 
+
+Article 1 
+General Provisions 
+
+§ 363-1.1. Definitions.2 
+
+As used in this chapter, the following terms shall have the meanings indicated: 
+
+A. 
+
+As used in this chapter, the following terms shall have the meanings indicated: 
+
+Act - The Building Code Act, 1992. 
+
+Applicant - The owner of a building or property who applies for a permit, any person 
+authorized by the owner to apply for a permit on the owner's behalf, or any person or 
+corporation who applies for a permit to carry out work at a property under the authority 
+of a statute or court order and anyone acting under the authority of that person or 
+corporation. 
+
+1 Editor's Note: By-law 1498-2019 replaced Chapter 363, Building Construction and Demolition, in its 
+entirety. By-law 1498-2019 came into effect on January 1, 2020. 
+2 Editor's Note: By-law 49-2022 repealed the definitions of "Preliminary Project Review" and "Zoning 
+Certificate". By-law 49-2022 came into effect on March 1, 2022. 
+
+363-4 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Architect - The holder of a licence, certificate of practice or a temporary licence issued 
+under the Architects Act. 
+
+Building Code - The regulations made under section 34 of the Act. 
+
+Building Permit - A permit issued by the Chief Building Official pursuant to section 8 of 
+the Act to perform work other than conditional permits issued pursuant to subsection 8(3) 
+of the Act. 
+
+Certified Plans Application - An application to the Chief Building Official to certify 
+plans showing a specific design intended for repeated construction and intended to be 
+used as part of the submission to obtain a permit or permits under the Act wherein the 
+plans are reviewed by the Chief Building Official for compliance with the Building Code. 
+
+Certified Plans - Plans certified by the Chief Building Official following the review of a 
+certified plans application. 
+
+Chief Building Official - The Chief Building Official appointed by the Council of the 
+City of Toronto pursuant to section 3 of the Building Code Act, 1992. 
+
+Drawing - A visual representation that communicates how something is intended to be 
+constructed.  It can be printed on paper or take the form of a digital file. 
+
+Inspector - A person appointed by the City of Toronto for the purposes of the 
+enforcement of the Act. 
+
+Ontario Land Surveyor - A person who holds a licence under the Ontario Land Surveyors 
+Act. 
+
+Owner - The registered owner of the land and shall also include a lessee and a mortgagee 
+in possession.  
+
+Peer Review - The evaluation of an application for approval of an alternative solution 
+filed with the Chief Building Official in accordance with Section 2.1 of Division C of the 
+Building Code by an independent expert qualified to give an opinion regarding the 
+proposed alternative solution who was not involved in the preparation of the application 
+or its supporting documentation.   
+
+Peer Review Report - a report from the expert who carried out a Peer Review setting out 
+the expert's opinion regarding the proposed alternative solution and the results of any 
+testing, if any, done by the expert.   
+
+Permit - A building permit, a permit to change the use of a building or part of it, or a 
+permit to occupy a building or part of it, as regulated by the Act and Building Code. 
+
+Permit Holder - The owner to whom a permit has been issued or, where a permit has been 
+transferred, the new owner to whom the permit has been transferred. 
+
+363-5 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Plans - A set of drawings or two-dimensional diagrams used to communicate building or 
+fabrication instructions.   Plans can be printed on paper or take the form of a digital file. 
+
+Professional Engineer - A person who holds a licence or temporary licence under the 
+Professional Engineers Act. 
+
+Proposal - A proposal to develop or redevelop land, to sever land or to construct, alter, 
+add to, extend or materially alter buildings or structures.  
+
+Purpose-Built Rental Unit - A dwelling unit that is providing rental accommodation and 
+that has been approved by the City's Affordable Housing Office.  
+
+Work - Construction or demolition or both of a building or part of it.   
+
+Zoning Applicable Law Certificate - A certificate issued by the Chief Building Official 
+after a detailed preliminary review of a proposal confirming its compliance with zoning 
+and all applicable law related to the proposal as defined in sentence 1.4.1.3 of Division A 
+of the Building Code. [Added 2022-02-03 by By-law 49-20223] 
+
+Zoning Use Review - A one-time review to determine whether a proposed use is 
+permitted under the City's zoning by-laws. [Added 2022-02-03 by By-law 49-20224] 
+
+§ 363-1.2. Interpretation. 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+Any word or term not defined in this chapter that is defined in the Act or the Building 
+Code shall have the meaning as ascribed to it in the Act or the Building Code. 
+
+The term "Chief Building Official" as used in this chapter shall include the Deputy Chief 
+Building Officials of the City of Toronto as appointed by the Council for the City of 
+Toronto. 
+
+In the event of amendments to the Act or the Building Code which result in changes to 
+the provision numbers referenced in this chapter, references in this chapter to specific 
+provisions of the Act or the Building Code shall be deemed to be references to the 
+amended equivalents.   
+
+In the event that any provision of this chapter is declared by a court of competent 
+jurisdiction to be invalid, the same shall not affect the validity of the remaining 
+provisions of this chapter. 
+
+3 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+4 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+
+363-6 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+§ 363-1.3. Forms. 
+
+A. 
+
+B. 
+
+Applications, other than applications for a building permit, shall be on a form prescribed 
+by the Chief Building Official, and the Chief Building Official is authorized to approve 
+forms as deemed necessary for the administration of this chapter and the Act. 
+
+The Chief Building Official is authorized to approve forms for supporting information 
+required in conjunction with an application for a building permit additional to the 
+building permit application form prescribed by the Minister under the Act. 
+
+§ 363-1.4. Appointment of building inspectors. 
+
+A. 
+
+B. 
+
+C. 
+
+Authority is delegated to the Chief Building Official to appoint inspectors as necessary 
+for the enforcement of the Act under section 3 of the Act, and this authority shall include 
+the revocation of appointment. 
+
+The total number of appointed inspectors must be within the number of inspectors 
+identified in the Toronto Building budget, as approved by Council of the City of Toronto. 
+
+The Chief Building Official shall at all times, with reasonable diligence, publish on the 
+City of Toronto's website an up to date list of all inspectors appointed under section 3 of 
+the Act for the purpose of enforcement of the Act in the City of Toronto. 
+
+Article 2 
+Preliminary Reviews 
+
+[Amended 2022-02-03 by By-law 49-20225] 
+
+§ 363-2.1. Zoning Use Review. 
+
+A. 
+
+An application for a zoning use review may be made to the Chief Building Official by: 
+
+(1) 
+
+Filing an application form as prescribed by the Chief Building Official; and 
+
+(2) 
+
+Paying the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+B. 
+
+Following a review of the zoning use review application, the Chief Building Official shall 
+issue a written notice indicating whether the proposed use described by the applicant is 
+permitted under the City's zoning by-laws. 
+
+§ 363-2.2. Zoning Applicable Law Certificate application. 
+
+A. 
+
+A Zoning Applicable Law Certificate application may be made to the Chief Building 
+Official in respect of a proposal prior to making an application for a building permit or 
+independent of an application for a building permit.  
+
+5 Editor's Note: By-law 49-2022 deleted Article 2 in its entirety and came into effect on March 1, 2022. 
+
+363-7 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+B. 
+
+Zoning Applicable Law Certificate applications may be made to the Chief Building 
+Official in respect of a proposal by: 
+
+(1) 
+
+Filing an application form as prescribed by the Chief Building Official; and 
+
+(2) 
+
+Paying the applicable fee in accordance with Chapter 441, Fees and Charges.  
+
+C. 
+
+Every Zoning Applicable Law Certificate application shall be accompanied by: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+Information identifying and describing in detail the work, use and occupancy for 
+which the proposal is made; 
+
+Information identifying and describing in detail the existing use and proposed use 
+of the building; and 
+
+Plans, specifications and documents in accordance with and that meet the 
+requirements of § 363-3.5. 
+
+D. 
+
+Following a review of the Zoning Applicable Law Certificate application, the Chief 
+Building Official shall issue: 
+
+(1) 
+
+A Zoning Applicable Law Certificate where the proposal has been deemed to 
+comply with the City's zoning by-laws and applicable law as per sentence 
+1.4.1.3.(1) of Division A of the Building Code relevant to the proposal; or 
+
+(2) 
+
+a written notice identifying any one or more of the following: 
+
+(a) 
+
+additional information that the Chief Building Official deems necessary to 
+complete the review;  
+
+(b) 
+
+areas of non-compliance with the City's zoning by-laws; and 
+
+(c) 
+
+applicable law in accordance with sentence 1.4.1.3.(1) of Division A of 
+the Building Code relevant to the proposal.  
+
+E. 
+
+F. 
+
+Where additional information is provided to the Chief Building Official in response to a 
+written notice provided under Subsection D(2) or at any time requiring additional review 
+or re-examination of the proposal by the Chief Building Official, the Zoning Applicable 
+Law Certificate applicant shall be entitled to a maximum of two additional re-
+examinations (for a total of three reviews) as part of the Zoning Applicable Law 
+Certificate application without having to pay an additional fee. 
+
+Where a total of three reviews or examinations have been completed without the issuance 
+of a Zoning Applicable Law Certificate, further review of the proposal will require the 
+submission of a new Zoning Applicable Law Certificate application in accordance with 
+Subsection B (including paying the applicable fee in accordance with § 363-4.2) and 
+accompanied by the documentation set out in Subsection C. 
+
+363-8 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+G. 
+
+H. 
+
+If substantial changes are made to a proposal which result in a change to the application 
+type as per Subsection 363-4.2A, a new Zoning Applicable Law Certificate application 
+must be made accompanied by the full fees required by § 363-4.2 and Chapter 441, Fees 
+and Charges.  
+
+A Zoning Applicable Law Certificate issued by the Chief Building Official pursuant to 
+Subsection D may only be filed with a building permit application pursuant to 
+§§ 363-3.2A and 363-3.3A provided the building permit application is made within one 
+year of the date of the issuance of the Zoning Applicable Law Certificate. 
+
+§ 363-2.3. Transition 
+
+A.  Where an application for preliminary project review or for a zoning certificate (as those 
+terms were defined in this Chapter prior to March 1, 2022) was made to the Chief 
+Building Official prior to March 1, 2022, the provisions set out Schedule B apply to those 
+applications in lieu of § 363-2.1, § 363-2.2 and the provisions in Articles 3 and 4 of this 
+Chapter. 
+
+Article 3 
+Permits 
+
+§ 363-3.1. Classes of permits. 
+
+A. 
+
+The classes of required permits and the corresponding permit fees for construction, 
+demolition and change of use of buildings are set out in Chapter 441, Fees and Charges. 
+
+§ 363-3.2. Building permit applications with a Zoning Applicable Law Certificate. 
+
+[Amended 2022-02-03 by By-law 49-20226] 
+
+A.  Where an application for a building permit is made with a Zoning Applicable Law 
+
+Certificate along with all the required information set out in § 363-3.3A, the building 
+permit application shall be deemed by the Chief Building Official to be complete such 
+that the periods within which a building permit shall be issued or refused as prescribed in 
+sentence 1.3.1.3 of Division A of the Building Code shall apply as at the date of the filing 
+of the application.  
+
+B.  Where an application for a building permit is made to the Chief Building Official without 
+
+a Zoning Applicable Law Certificate or where the drawings submitted with the building 
+permit application are not in accordance with the approved Zoning Applicable Law 
+Certificate drawings, the building permit application shall be deemed by the Chief 
+Building Official to be incomplete such that the periods within which a building permit 
+shall be issued or refused as prescribed in sentence 1.3.1.3 of Division A of the Building 
+Code will not apply. 
+
+6 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+
+363-9 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+§ 363-3.3. Building permit application requirements. 
+
+A.  Where an application for a building permit is made with a Zoning Applicable Law 
+
+Certificate, it shall: [Amended 2022-02-03 by By-law 49-20227] 
+
+(1) 
+
+Be in a form prescribed by the Minister. 
+
+(2)  
+
+(3) 
+
+Identify and describe in detail the work, use and occupancy for which the building 
+permit application is made; 
+
+Identify and describe in detail the existing use and the proposed use for the 
+premises; 
+
+(4) 
+
+Identify the subject municipal address and legal description;  
+
+(5) 
+
+Be accompanied by the plans, specifications, documents and other information 
+necessary for the complete review of the building permit submission, as required 
+by the Chief Building Official and in accordance with § 363-3.5 including all 
+architectural, structural, mechanical, plumbing and electrical drawings and details, 
+including shoring drawings and details, where the construction method will 
+require such systems;  
+
+(6)  Where required by the Chief Building Official, be accompanied by a code 
+compliance report prepared by an architect or professional engineer; 
+
+(7)  Where required by the Chief Building Official, be accompanied by a geotechnical 
+
+report prepared by a professional engineer; 
+
+(8)  Where required by the Chief Building Official, be accompanied by a report from a 
+
+professional engineer with respect to the impact of vibration from the proposed 
+construction methods and the measures to be employed to mitigate such impacts; 
+
+(9) 
+
+Be accompanied by the full building permit fees required by this article; 
+
+(10)  State the names, addresses, telephone numbers and email addresses of the owner, 
+applicant, architect, engineer, or other designer for the work applied for; 
+
+(11) 
+
+(12) 
+
+If Subsection 1.2.2 of Division C Part 1 of the Building Code applies, be 
+accompanied by a signed acknowledgement of the owner on the form prescribed, 
+that an architect or professional engineer or both have been retained; 
+
+If Subsection 1.2.2 of Division C Part 1 of the Building Code applies, be 
+accompanied by a signed statement from the architect or professional engineer or 
+both on the form prescribed, undertaking to provide a general review; 
+
+7 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+
+363-10 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(13) 
+
+Include where applicable, the registration number of the builder or vendor as 
+provided in the Ontario New Home Warranties Plan Act; 
+
+(14)  State the estimated valuation of the proposed work, including material, labour and 
+related direct cost associated with the work, exclusive of the cost of the land; 
+
+(15)  State the erection and removal date for all temporary buildings; 
+
+(16)  Be accompanied by documentation that confirms or demonstrates compliance 
+
+with any required applicable law as set out in sentence 1.4.1.3 of Division A 
+Part 1 of the Building Code; and 
+
+(17)  Be accompanied by a declaration, in a form prescribed by the Chief Building 
+
+Official, that the owner is authorized to use Zoning Applicable Law Certificate 
+drawings with the building permit application in the event that the Zoning 
+Applicable Law Certificate application was made by and the Zoning Applicable 
+Law Certificate issued to someone other than the owner or authorized agent of the 
+owner. [Added 2022-02-03 by By-law 49-20228] 
+
+B. 
+
+An application for a building permit without a Zoning Applicable Law Certificate will 
+only be accepted by the Chief Building Official provided: [Amended 2022-02-03 by 
+By-law 49-20229] 
+
+(1) 
+
+(2) 
+
+It meets the requirements of Subsections A(1), (2), (3), (4), (5), (6), (7), (8), (10), 
+(11), (12), (13) and (14); and 
+
+It is accompanied by a payment equal to the preliminary estimate of the fees 
+required by this chapter, or if the preliminary estimate of the fees required is more 
+than $20,000, the payment shall be the greater of $20,000 or an amount equal to 
+60 percent of the estimated full building permit fees required by this chapter. 
+
+As part of the first building permit application on each lot within a newly created plan of 
+subdivision, in addition to the requirements of Subsection A, the application shall include 
+a lot grading and building siting control plan prepared by a professional engineer. 
+
+As part of a building permit application to construct a new house, in addition to the 
+requirements of Subsection A, the application shall include a lot grading plan prepared 
+by: 
+
+C. 
+
+D. 
+
+(1) 
+
+An Ontario Land Surveyor; 
+
+(2) 
+
+An engineer registered as a member of the Professional Engineers of Ontario; 
+
+(3) 
+
+An architect registered as a member of the Ontario Association of Architects; 
+
+8 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+9 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+
+363-11 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(4) 
+
+A member of the Ontario Association of Landscape Architects;  
+
+(5) 
+
+A certified member of Association of Architectural Technologists of Ontario;  
+
+(6) 
+
+(7) 
+
+A certified member of Ontario Association of Certified Engineering Technicians 
+and Technologists; or 
+
+Any other professional deemed qualified by the Chief Building Official to prepare 
+a lot grading plan. 
+
+§ 363-3.4. Demolition permit application requirements.  
+
+A. 
+
+Every building permit application that includes demolition shall: 
+
+(1)  Meet the requirements of § 363-3.3A or B as applicable; 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+Be accompanied by plans, specifications, documents and other information 
+necessary for the complete review of the demolition permit submission; 
+
+Be accompanied by the information set out in Schedule A to this chapter unless 
+the building to be demolished is a house;  
+
+If Article 1.2.2 of Division C Part 1 of the Building Code applies, be accompanied 
+by structural design characteristics of the building and the method and time 
+schedule of demolition; and 
+
+If Sentence 1.2.2.3 of Division C Part 1 of the Building Code applies, be 
+accompanied by confirmation on a form prescribed by the Chief Building Official 
+that a professional engineer has been retained to undertake the general review of 
+the demolition. 
+
+§ 363-3.5. Plans and specifications general requirements. 
+
+A. 
+
+Every application for Preliminary Project Review, Zoning Applicable Law Certificate 
+and permit shall include: [Amended 2022-02-03 by By-law 49-202210] 
+
+(1) 
+
+(2) 
+
+Sufficient plans, specifications and documents, as required by the Chief Building 
+Official, to determine whether the proposed construction, demolition or change of 
+use will conform to the Act, the Building Code, and any other applicable law;  
+
+A site plan referenced to an up to date plan of survey certified by an Ontario Land 
+Surveyor, and a copy of the survey shall be filed with the City unless this 
+requirement is waived because the Chief Building Official is able, without having 
+an up to date plan of survey, to determine whether the proposed work conforms to 
+the Act, the Building Code or any other applicable law; and 
+
+10 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+
+363-12 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(3) 
+
+For the purpose of Subsection A(2), an up to date plan of survey means a survey 
+that accurately reflects the property as at the time the application is submitted to 
+the Chief Building Official regardless of when the survey was prepared. 
+
+B. 
+
+The site plan referred to in Subsection A(2) shall include: 
+
+(1) 
+
+(2) 
+
+Lot size and dimensions of the property and setbacks to any existing or proposed 
+buildings; 
+
+Existing and finished ground elevations of the property and the elevations of the 
+streets abutting the property; 
+
+(3) 
+
+Existing rights-of-way, easements and municipal services; 
+
+(4) 
+
+(5) 
+
+Dimensions of setbacks of proposed buildings from buildings located on adjacent 
+lots; and 
+
+Dimensions of setbacks of buildings located on adjacent lots from their respective 
+front property lines. 
+
+Plans and forms submitted under Subsection A and as required by the Chief Building 
+Official shall be legible and be drawn to scale, in an electronic format conforming to all 
+applicable guidelines as prescribed by the Chief Building Official.  
+
+Applications will not be accepted unless the requirements of Subsections A to C have 
+been met and the applicable fees have been paid. 
+
+The Chief Building Official may request the submission of one hard copy of the plans 
+specifications, documents, or other information necessary for the complete review of the 
+permit submission upon paper or other suitable or durable material.  
+
+The original of any approval from another City Division, Board, Agency or other external 
+agency shall be submitted together with an electronic version.  
+
+The Chief Building Official may require additional information to be provided at any 
+time prior to the completion of work.  
+
+On completion of the construction of a building, the Chief Building Official may require 
+a set of as-constructed plans, including a plan of survey showing the location of the 
+building.    
+
+On completion of the construction of a house in a new created plan of subdivision, a site 
+certificate of conformance prepared by a professional engineer shall be provided to the 
+Chief Building Official confirming that the building permit drawings conform to the 
+subdivision grading and building siting control plan and the lot grading and building 
+siting control plan submitted in accordance with § 363-3.3C. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+H. 
+
+I. 
+
+J. 
+
+On completion of the construction of a new house, a lot grading certificate shall be 
+provided to the Chief Building Official from one of the professionals listed in § 363-3.3D 
+
+363-13 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+confirming that the grading was carried out in accordance with the lot grading plan 
+submitted in accordance with § 363-3.3D. 
+
+K. 
+
+Plans and specifications furnished according to this chapter or otherwise required by the 
+Act become the property of the municipality and will be disposed of or retained in 
+accordance with relevant legislation. 
+
+§ 363-3.6. Partial permit. 
+
+A.  Where a building permit application for the construction of a building has been accepted 
+by the Chief Building Official, a building permit application for part of the building may 
+be made. 
+
+B. 
+
+The Chief Building Official's review of a building permit for part of a building shall be 
+based on the plans and specifications submitted with the original building permit 
+application for the building, and no further documentation need be submitted unless 
+required by the Chief Building Official. 
+
+C.  Where a building permit is issued for part of a building, the partial permit does not 
+authorize construction beyond the plans for which the approval is given, nor does it 
+represent or imply that approval will be granted for the entire building. 
+
+§ 363-3.7. Conditional permit. 
+
+A.  Where an application for a conditional permit is made under subsection 8(3) of the Act, 
+
+the application shall: 
+
+(1)  Meet the requirements of § 363-3.3B as applicable; 
+
+(2) 
+
+(3) 
+
+(4) 
+
+State the reasons why the owner believes that unreasonable delays in construction 
+would occur if a conditional permit is not granted; 
+
+Identify the necessary approvals which must be obtained in respect to the 
+proposed building and the time in which such approvals will be obtained; and 
+
+Be subject to the registered owner and such other person as the Chief Building 
+Official determines entering into an agreement as provided in Subsection 8(3) of 
+the Act. 
+
+B. 
+
+The Chief Building Official is authorized to take the following actions with respect to the 
+processing of conditional permit agreements under section 8 of the Act: 
+
+(1) 
+
+(2) 
+
+Approve entering into a conditional permit agreement and executing the 
+agreement on behalf of the City; 
+
+Approve an assignment of a conditional permit agreement and execute the 
+consent to the assignment of the agreement on behalf of the City; and  
+
+363-14 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(3) 
+
+Approve the release of a registered conditional permit agreement when the 
+agreement is no longer necessary and execute the release of the agreement on 
+behalf of the City. 
+
+C.  Where the conditions in subsections 8(3) to 8(5) of the Act and Subsection A have been 
+
+satisfied, the Chief Building Official may issue a conditional permit for a building subject 
+to compliance with the Act, the Building Code and any other applicable law. 
+
+D.  Where a conditional permit is issued for all or part of a building or project, the 
+
+conditional permit does not authorize construction beyond the plans for which approval is 
+given, nor does it represent or imply that approval will be granted for the entire building 
+or project. 
+
+§ 363-3.8. Change of use permit. 
+
+A.  Where an application is made for a change of use permit under subsection 10(1) of the 
+
+Act, the application shall: 
+
+(1)  Meet the requirements of § 363-3.3B or C as applicable; 
+
+(2) 
+
+Describe the building or part of it in which the occupancy is to be changed; 
+
+(3) 
+
+Include plans and specifications which show the current and proposed occupancy 
+of all parts of the building, and include sufficient information to establish 
+compliance with the requirements of the Building Code including but not limited 
+to floor plans, and details of wall, floor and roof assemblies identifying required 
+fire-resistance ratings and load-bearing capacities; and 
+
+(4) 
+
+Shall include any other information which may be required by the Chief Building 
+Official. 
+
+§ 363-3.9. Certified plans application. 
+
+A. 
+
+A certified plans application may be made to the Chief Building Official by: 
+
+(1) 
+
+Filing an application form as prescribed by the Chief Building Official; 
+
+(2) 
+
+Filing the plans proposed to be certified along with any other specifications, 
+documents and information necessary for the review of the submission and as 
+may be required by the Chief Building Official; and 
+
+(3) 
+
+By paying the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+B. 
+
+Plans and forms submitted under Subsection A(2) shall be legible and drawn to scale, in 
+an electronic format conforming to all applicable guidelines as prescribed by the Chief 
+Building Official, and if required by the Chief Building Official, upon paper or other 
+suitable or durable material. 
+
+C. 
+
+All certified plans shall be assigned a certification number by the Chief Building Official. 
+
+363-15 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+D.  Where an application for permit is made to the Chief Building Official in reliance upon 
+
+certified plans, the permit application shall not be accompanied by the certified plans 
+provided the certification number for the certified plans is provided with the permit 
+application, unless otherwise required by the Chief Building Official.  
+
+§ 363-3.10. Authority to approve and execute limiting distance agreements. 
+
+A. 
+
+The authority to approve entering into limiting distance agreements under the Building 
+Code and to execute such agreements on behalf of the City is delegated to the Chief 
+Building Official where the following conditions are met: 
+
+(1) 
+
+No land owned by the City is affected by the agreement; 
+
+(2) 
+
+The agreement does not impose any obligations on the City; and 
+
+(3) 
+
+The agreement is satisfactory to the City Solicitor. 
+
+§ 363-3.11. Alternative solutions. 
+
+A.  Where an alternative solution is being proposed pursuant to section 2.1 of Division C of 
+
+the Building Code in connection with a building permit application or building permit 
+issued, an application for approval of the alternative solution shall be made to the Chief 
+Building Official by: 
+
+(1) 
+
+Filing an application form as prescribed by the Chief Building Official; 
+
+(2) 
+
+Filing the plans, specifications, tests and documents necessary for the review in 
+accordance with sentences 2.1.1.1 and 2.1.1.2 of Division C of the Building Code 
+as applicable and as may be required by the Chief Building Official; and 
+
+(3) 
+
+Paying the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+B. 
+
+After reviewing the documentation filed with the application for approval of an 
+alternative solution, the Chief Building Official may require the applicant to obtain a Peer 
+Review of the application if deemed necessary by the Chief Building Official to evaluate 
+the proposed alternative solution. 
+
+C.  Where the Chief Building Official requires a Peer Review in accordance with 
+
+Subsection B, the Chief Building official may identify specific questions required to be 
+addressed and considered in the Peer Review. 
+
+D.  Where the Chief Building Official requires a Peer Review in accordance with 
+
+Subsection B, the applicant shall file a Peer Review Report with the Chief Building 
+Official. 
+
+E. 
+
+A Peer Review Report filed with the Chief Building Official in accordance with 
+Subsection D shall: 
+
+363-16 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+include a summary of the expert's qualifications, and a copy of the expert's 
+curriculum vitae shall be attached; 
+
+provide comments regarding all questions specifically identified by the Chief 
+Building Official pursuant to Subsection C; 
+
+clearly explain the basis for the expert's opinion and set out what documentation 
+is relied upon by the expert in support of the opinion; and 
+
+be accompanied by a certificate as prescribed by the Chief Building Official 
+signed by the expert acknowledging: 
+
+(a) 
+
+(b) 
+
+the expert's duty to provide an independent opinion regarding the 
+proposed alternative solution; and 
+
+that the Chief Building Official may rely on the Peer Review Report in 
+considering the proposed alternative solution. 
+
+F. 
+
+The cost of obtaining a Peer Review and a Peer Review Report shall be borne by the 
+applicant and shall be paid by the applicant directly to the expert carrying out the Peer 
+Review. 
+
+G.  Where the Chief Building Official requires a Peer Review in accordance with 
+
+Subsection B, the Chief Building Official will not render a decision regarding the 
+proposed alternative solution unless the requirements of Subsections D and E are met. 
+
+§ 363-3.12. Abandoned application. 
+
+A.  Where any application made under this chapter and/or the Act remains inactive or 
+
+incomplete for six months after it is made, the application may be deemed by the Chief 
+Building Official to have been abandoned without notice.   
+
+§ 363-3.13.  Transfer of permit. 
+
+A.  Where a property which is the subject of a permit or permit application has been sold, the 
+permit or permit application will be transferred by the Chief Building Official to the new 
+registered owner of the property only upon receipt of: 
+
+(1) 
+
+(2) 
+
+a declaration form, as prescribed by the Chief Building Official, executed by the 
+new registered owner of the property declaring that the transfer of the permit or 
+permit application has been authorized by the previous owner of the property; 
+
+a copy of the transfer deed of land registered in accordance with the provisions of 
+the Land Titles Act; and 
+
+(3) 
+
+the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+B.  Where the holder of a permit issued by the Chief Building Official is a tenant of the 
+
+subject property or where a permit application has been made by or on behalf of a tenant 
+
+363-17 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+of the subject property, and where the subject property is thereafter leased by a new 
+tenant, the permit or permit application will be transferred by the Chief Building Official 
+to the new tenant of the subject property only upon receipt of: 
+
+(1) 
+
+a declaration form, as prescribed by the Chief Building Official, executed by the 
+new tenant declaring that the transfer of the permit or permit application has been 
+authorized by the previous tenant; and [Amended 2019-11-27 by By-law 1644-
+2019] 
+
+(2) 
+
+the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+§ 363-3.14. Notice of readiness for inspection. 
+
+A. 
+
+B. 
+
+In addition to the notices of readiness for inspection required pursuant to section 10.2 of 
+the Act at each stage of construction set out in sentence 1.3.5.1 of Division C, Part 1, of 
+the Building Code, notice of readiness for inspection shall be provided to the Chief 
+Building Official at the stages of construction set out in sentence 1.3.5.2.(1)(a), (d), (g) 
+and (j) of Division C, Part 1, of the Building Code.  
+
+All notices of readiness for inspection shall be provided to the Chief Building Official by 
+means specified by the Chief Building Official and posted on the City of Toronto 
+website. 
+
+§ 363-3.15. Revocation of permit. 
+
+A. 
+
+As used in this section, the following terms shall have the meanings indicated: 
+
+Notice of Intention to Revoke - A written notice from the Chief Building Official 
+advising of the Chief Building Official's intention to revoke a permit. 
+
+Notice of Objection to Revocation - A written notice from the permit holder or the 
+authorized agent of the permit holder on a form prescribed by the Chief Building Official 
+objecting to the revocation of a permit and setting out the reasons why the permit should 
+not be revoked. 
+
+Notice of Revocation - A written notice from the Chief Building Official advising that a 
+permit was revoked on the date of this notice. 
+
+B.  Where a permit holder requests in writing that a permit be revoked pursuant to 
+
+subsection 8(10)(e) of the Act, the Chief Building Official may revoke the permit by 
+serving the permit holder with a notice of revocation.   
+
+C. 
+
+Prior to revoking a permit pursuant to subsections 8(10)(a), (b), (c), (d) and/or (f) of the 
+Act, the Chief Building Official shall serve the permit holder with a notice of intention to 
+revoke setting out the date upon which the permit will be revoked and the reasons for the 
+revocation.   
+
+D.  Where a notice of intention to revoke has been served on a permit holder by the Chief 
+
+Building Official in reliance upon subsection 8(10)(b) of the Act: 
+
+363-18 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(1) 
+
+(2) 
+
+(3) 
+
+If no request for inspection has been made to the Chief Building Official by the 
+date of intended revocation set out in the notice of intention to revoke, the Chief 
+Building Official shall revoke the permit and serve the permit holder with a notice 
+of revocation;   
+
+If a request for inspection is made to the Chief Building Official prior to the date 
+of intended revocation set out in the notice of intention to revoke, and if the Chief 
+Building Official is satisfied upon inspection that the construction or demolition 
+in respect of which the permit was issued has been seriously commenced, the 
+permit will not be revoked; and 
+
+If a request for inspection is made to the Chief Building Official prior to the date 
+of intended revocation set out in the notice of intention to revoke but the Chief 
+Building Official is not satisfied upon inspection that the construction or 
+demolition in respect of which the permit was issued has been seriously 
+commenced, the Chief Building Official shall revoke the permit and serve the 
+permit holder with a notice of revocation. 
+
+E. 
+
+Where a notice of intention to revoke has been served on a permit holder by the Chief 
+Building Official in reliance upon subsection 8(10)(c) of the Act: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+If no request for inspection has been made to the Chief Building Official by the 
+date of intended revocation set out in the notice of intention to revoke, the Chief 
+Building Official may revoke the permit and serve the permit holder with a notice 
+of revocation;   
+
+If a request for inspection is made to the Chief Building Official prior to the date 
+of intended revocation set out in the notice of intention to revoke, and if the Chief 
+Building Official is satisfied upon inspection that the construction or demolition 
+in respect of which the permit was issued has seriously resumed, the permit will 
+not be revoked; and 
+
+If a request for inspection is made to the Chief Building Official prior to the date 
+of intended revocation set out in the notice of intention to revoke but the Chief 
+Building Official is not satisfied upon inspection that the construction or 
+demolition in respect of which the permit was issued has seriously resumed, the 
+Chief Building Official shall revoke the permit and serve the permit holder with a 
+notice of revocation. 
+
+F. 
+
+Where a notice of intention to revoke has been served on a permit holder by the Chief 
+Building Official in reliance upon subsection 8(10)(a), (d) and/or (f) of the Act: 
+
+(1) 
+
+If no notice of objection to revocation is served on the Chief Building Official 
+within 20 days of the date of service of the notice of intention to revoke, the Chief 
+Building Official shall revoke the permit and serve the permit holder with a notice 
+of revocation; 
+
+363-19 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(2) 
+
+If a notice of objection to revocation is served on the Chief Building Official 
+within 20 days of the date of service of the notice of intention to revoke, the Chief 
+Building shall consider the reasons for objection and then may:  
+
+(a) 
+
+(b) 
+
+(c) 
+
+determine that no grounds exist to revoke the permit in which case the 
+Chief Building Official shall not revoke the permit;  
+
+determine that there are grounds to revoke the permit, revoke the permit 
+and serve the permit holder with a notice of revocation; or 
+
+determine that there are grounds to revoke the permit but may, where 
+appropriate, provide the permit holder with an opportunity to take the 
+necessary steps to eliminate the grounds of revocation in which case the 
+Chief Building Official: 
+
+[1] 
+
+[2] 
+
+[3] 
+
+shall not revoke the permit if the steps necessary to eliminate the 
+grounds of revocation have been successfully taken by the permit 
+holder;  
+
+shall revoke the permit and serve a notice of revocation if the steps 
+necessary to eliminate the grounds of revocation have not been 
+taken by the permit holder within the time specified by the Chief 
+Building Official or within a reasonable time if no time has been 
+specified; or 
+
+shall revoke the permit and serve a notice of revocation if steps 
+taken by the permit holder have not been successful in eliminating 
+the grounds of revocation. 
+
+(3) 
+
+Notwithstanding Subsections F(1) and (2), the Chief Building Official may 
+revoke a permit at any time following the service of a notice of intention to 
+revoke by serving a notice of revocation on the permit holder where: 
+
+(a) 
+
+the permit authorized the demolition or partial demolition of a building; or 
+
+(b) 
+
+work pursuant to the permit has continued following the service of the 
+notice of intention to revoke on the permit holder and prior to a final 
+determination by the Chief Building Official regarding whether the permit 
+will be revoked in accordance with Subsections F(1) and (2). 
+
+G. 
+
+Notices of intention to revoke and notices of revocation may be served by the Chief 
+Building Official on the permit holder personally, by e-mail, by regular mail, or by 
+registered mail to the permit holder's last known address.  When served by e-mail, the 
+notice shall be deemed to have been served on the date the e-mail is sent.  When served 
+by regular mail or registered mail, the notice shall be deemed to have been served on the 
+third day after it is mailed. 
+
+363-20 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Article 4 
+Fees 
+
+§ 363-4.1. General. 
+
+A. 
+
+All fees required by this chapter shall be as set out in Chapter 441, Fees and Charges, 
+subject to the provisions of this chapter. 
+
+§ 363-4.2. Zoning Applicable Law Certificate fees. 
+
+[Amended 2022-02-03 by By-law 49-202211] 
+
+A. 
+
+Zoning Applicable Law Certificate applications shall be divided into the following 
+categories for the purposes of paying the applicable fee in accordance with Chapter 441, 
+Fees and Charges, with different fees applying to each category:  
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+Ancillary residential buildings or structures (which include but are not limited to 
+detached garages, detached sheds, decks, canopies and carports); 
+
+New houses and additions, conversions, and alterations to new houses (and a 
+house for this purpose includes: 
+
+- 
+
+detached houses; 
+
+- 
+
+- 
+
+- 
+
+- 
+
+semi-detached houses; 
+
+individual townhomes;  
+
+duplexes; and 
+
+laneway suites 
+
+with all of the above containing no more than two dwelling units); 
+
+New residential buildings (excluding houses) and new non-residential buildings 
+less than or equal to 300 square metres in gross floor area, and additions to 
+residential buildings (excluding houses) or non-residential buildings where the 
+addition is less than or equal to 300 square metres in gross floor area; 
+
+New residential buildings (excluding houses) and new non-residential buildings 
+greater than 300 square metres in gross floor area, and additions to residential 
+buildings (excluding houses) or non-residential buildings where the addition is 
+greater than 300 square metres in gross floor area; and 
+
+11 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+
+363-21 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(5) 
+
+Other proposals not captured by (1) to (4) above and proposals where no building 
+permit is required (proposals not requiring a building permit include but are not 
+limited to driveway widening, landscaping, and pools). 
+
+B.  Where a Zoning Applicable Law Certificate application includes a proposal that falls 
+under two or more of the categories set out in subsection A, the fee for the application 
+will be in accordance with the category that has the highest fee.  
+
+C.  Where an application for a building permit is made with a Zoning Applicable Law 
+
+Certificate, the fee paid for the Zoning Applicable Law Certificate will be credited to the 
+building permit application such that the building permit fees will be reduced by the 
+amount of the Zoning Applicable Law Certificate fee.  
+
+D.  Where an application for a building permit is made with a Zoning Applicable Law 
+
+Certificate and the Zoning Application Law Certificate fee exceeds the total building 
+permit fees, the Zoning Applicable Law Certificate fee will be credited to the building 
+permit fees for the total amount of the building permit fees, and there shall be no refund 
+for the difference in fees. 
+
+§ 363-4.3. Permit fees. 
+
+A.  When an application for a permit is made, the permit fees as calculated by the Chief 
+
+Building Official shall be paid. 
+
+B. 
+
+The Chief Building Official shall calculate the required permit fees using the formula 
+below: 
+
+Permit fee = SI x A 
+
+Where: 
+
+SI = Service Index classification of the work proposed.  The Service Index is the fee set 
+out in Chapter 441, Fees and Charges. 
+
+A = Floor area in square metres of the proposed work 
+
+C. 
+
+D. 
+
+Notwithstanding subsection B, the total permit fees shall not be less than the minimum 
+fee set out in Chapter 441, Fees and Charges. 
+
+If new, additional or revised information is submitted in connection with a permit 
+application which relates to or revises information which has already been reviewed, the 
+additional review time spent, measured to the nearest whole hour, multiplied by the 
+Hourly Rate outlined in Chapter 441, Fees and Charges, shall be charged in order to 
+compensate the City for the additional plan examination work and expense and shall be 
+paid by the applicant or owner in addition to the fees calculated in Subsection B. 
+
+E. 
+
+Where construction has commenced prior to the issuance of a building permit authorizing 
+the construction, in addition to the fees calculated under Subsection B, an additional fee 
+
+363-22 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+F. 
+
+G. 
+
+H. 
+
+totalling 50 percent of the total permit fees calculated under Subsection B to a maximum 
+amount set out in Chapter 441, Fees and Charges, shall be charged and paid. 
+
+In addition to the fees calculated in Subsection B, there shall be an additional fee for each 
+newly proposed residential unit in accordance with Chapter 441, Fees and Charges. 
+
+No permit shall be issued until the total amount of fees charged and owing has been paid. 
+
+Notwithstanding Subsection G, where the total permit fees are greater than $20,000, a 
+part permit for excavation and shoring may be issued before the total amount of fees 
+charged and owing has been paid provided the payment required by § 363 3.3B(2) has 
+been paid. 
+
+I. 
+
+The following directions shall be followed by the Chief Building Official when 
+calculating permit fees: 
+
+(1) 
+
+(2) 
+
+The floor area of the proposed work shall be measured to the outer face of 
+exterior walls and to the centre line of party walls or demising walls, including 
+attached garages; 
+
+For interior alterations or renovations, the calculated area of work shall be the 
+total area affected by the proposal; 
+
+(3)  Mechanical penthouses and floors, mezzanines, lofts, habitable attics, balconies, 
+
+terraces and exterior amenity areas shall be included in all floor area calculations; 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(7) 
+
+Porches and decks shall be charged the stand-alone rate as outlined in Chapter 
+441, where there is a proposal for a new single detached, semi-detached, duplex 
+or townhouse dwellings; 
+
+No deductions shall be made for openings within the floor area with the exception 
+of interconnected floor spaces; 
+
+Unfinished basements for new single detached, semi-detached, duplex and 
+townhouse dwellings shall not be included in the floor area; 
+
+Fireplaces proposed within new floor area of a single detached, semi-detached, 
+duplex or townhouse dwelling shall be charged the Group C rate for the area that 
+they occupy; 
+
+(8)  Where interior alterations and renovations require relocation of sprinkler heads or 
+fire alarm components, no additional charge shall apply.  Where interior 
+alterations and renovations require replacement or extensive modification of 
+sprinkler heads or fire alarm components, the applicable fee rate shall apply; 
+
+(9) 
+
+The Service Index for ceiling shall apply only when stand-alone ceiling 
+alterations occur in existing applications.  Minor alterations to existing ceilings to 
+accommodate lighting or HVAC improvements shall not be chargeable; 
+
+363-23 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(10)  The Service Index for structural floor replacement shall apply only when stand-
+
+alone structural floor replacement occurs; 
+
+(11)  Corridors, circulation space, lobbies, washrooms, and lounges and other such 
+common areas shall be included and classified according to the major 
+classification for the floor area on which they are located;  
+
+(12)  Where it is proposed to replace a pre-engineered fire suppression system, the 
+
+minimum fee shall be charged; 
+
+(13)  Where a sales pavilion is proposed, the fee shall be the new Group D construction 
+
+fee index; 
+
+(14)  Window replacements in existing opening for single detached, semi-detached, 
+
+duplex and townhouse dwellings shall not be charged; 
+
+(15)  No additional fee shall be charged if a green roof is part of permit application for 
+a new building or where a green roof is included as part of an addition to an 
+existing building; and 
+
+(16)  The occupancy categories in Chapter 441, Fees and Charges, correspond with the 
+major occupancy classifications in the Building Code.  For mixed occupancy floor 
+areas, the Service Index for any of the applicable occupancy categories may be 
+used except where an occupancy category makes up less than 10 percent of the 
+floor area.   
+
+§ 363-4.4. Purpose built rental fee. 
+
+A.  Where an applicant or owner submits written authorization from Council of the City of 
+Toronto exempting the charge of building permit fees given that the proposed building 
+contains purpose-built rental units, the purpose built rental fee shall be charged in 
+accordance with Chapter 441, Fees and Charges, instead of the permit fees calculated 
+under § 363-4.3. 
+
+§ 363-4.5. Alternative solution request fee. 
+
+A. 
+
+The fee for an application to the Chief Building Official for approval of an alternative 
+solution submission shall be as set out in Chapter 441, Fees and Charges. 
+
+§ 363-4.6. Energy devices and equipment fee. 
+
+A. 
+
+Notwithstanding § 363-4.5, where a fee for energy devices and equipment is charged and 
+paid in accordance with Chapter 441, Fees and Charges, no additional fee shall be 
+payable to evaluate such energy devices and equipment as an alternative solution 
+submission. 
+
+363-24 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+§ 363-4.7. Marijuana grow operation assessment fee. 
+
+A. 
+
+Enforcement charges, as defined in Chapter 565, Marijuana Grow Operations, incurred 
+by the Chief Building Official in respect of a property identified as a marijuana grow 
+operation shall be as prescribed in Chapter 441, Fees and Charges. 
+
+§ 363-4.8. Records disclosure fee. 
+
+A. 
+
+Requests to the Chief Building Official for the disclosure of plans, files, drawings, or any 
+other record shall be accompanied by the payment of a fee for each plan, file, drawing or 
+record requested calculated in accordance with the fees prescribed in Chapter 441, Fees 
+and Charges. 
+
+§ 363-4.9. Fees for other services 
+
+A. 
+
+Applicable fees for classes of permits or services not described or included in this article 
+shall be calculated on the following basis: 
+
+(1) 
+
+A fee per $1,000.00 of prescribed construction value set out in Chapter 441, Fees 
+and Charges; or 
+
+(2)  Where there is no prescribed construction value, the hourly rate shall be charged 
+
+as set out in Chapter 441, Fees and Charges. 
+
+B. 
+
+For the purposes of Subsections A(1) and (2), prescribed construction value will be 
+established by the Chief Building Official on an annual basis. 
+
+§ 363-4.10. Minimum fee exemptions. 
+
+[Amended 2022-02-03 by By-law 49-202212] 
+
+A. 
+
+The minimum fee set out in Chapter 441, Fees and Charges, shall not apply to: 
+
+(1) 
+
+Subscription for Building Permit Activity Reports; 
+
+(2) 
+
+Inspection status reports; 
+
+(3) 
+
+Printing, scanning and copying; and 
+
+(4) 
+
+Routine disclosure. 
+
+§ 363-4.11. Refunds. 
+
+A. 
+
+A written request for the refund of fees may be made to the Chief Building Official in the 
+case of and no later than one year after: 
+
+12 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. 
+
+363-25 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(1) 
+
+The withdrawal or cancellation of an application made under this chapter; 
+
+(2) 
+
+The abandonment of an application pursuant to § 363-3.12; and 
+
+B. 
+
+C. 
+
+(3) 
+
+Revocation of a permit pursuant to subsections 8(10)(b), (d) and (e) of the Act. 
+
+Any written request to the Chief Building Official to cancel or withdraw an application 
+made under this chapter and any written request to the Chief Building Official to revoke a 
+permit pursuant to Subsection 8(10)(e) of the Act shall be deemed to be a written request 
+for the refund of fees for the purposes of Subsection A. 
+
+Notwithstanding Subsection A, no written request for the refund of fees shall be made 
+and no refund of fees is payable in respect of preliminary project reviews, certified plans 
+applications, Subscription for Building Permit Activity Reports, Property Information 
+Reports, Inspection Status Reports and Conditional Permit applications. 
+
+D.  Where a written request for the refund of fees is made to the Chief Building Official in 
+
+accordance with Subsection A, the Chief Building Official shall determine the amount of 
+fees, if any, that may be refunded in accordance with Chapter 441, Fees and Charges, and 
+this chapter. 
+
+E. 
+
+The amount of fees refundable shall be calculated as follows: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+If an application is cancelled prior to carrying out any review, the refund shall be 
+equal to 75 percent of the total required fees for the application; 
+
+If an application is cancelled prior to issuance but the review had started, the 
+refund shall be equal to 50 percent of the total required fees for the application; 
+
+If a permit has been issued, the refund shall be equal to 40 percent of the total 
+required permit fees minus the minimum permit fee for each field inspection 
+carried out up to the date of revocation; 
+
+(4)  Where the amount of the fees paid was less than the total required fees, the 
+amount of the refund shall be reduced by the amount of fees owing;  
+
+(5)  Where the amount of the fees paid exceeded the total required fees, the amount of 
+
+the refund shall equal the difference between the amount paid and total required 
+fees; 
+
+(6)  Where the amount of fees refundable as calculated under this section is less than 
+
+the minimum fee applicable to the work, there shall be no refund; and  
+
+(7) 
+
+Notwithstanding subsections (1) to (6), costs associated with printing, scanning 
+and copying are not refundable. 
+
+363-26 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+F. 
+
+Notwithstanding Subsection E, the amount of fees refundable for a Zoning Applicable 
+Law Certificate application shall be calculated as follows: [Added 2022-03-02 by By-
+law 49-202213] 
+
+(1) 
+
+(2) 
+
+If the application is cancelled prior to carrying out any review, the refund shall be 
+equal to 75 percent of the total required fees for the application; 
+
+If the application is cancelled after the review has started, there shall be no 
+refund; and 
+
+(3)  Where the amount of fees refundable as calculated under this section is less than 
+the minimum fee for all work as set out in Schedule 8 of Appendix C to Chapter 
+441, Fees and Charges (Ref. No. 1), there shall be no refund. 
+
+G. 
+
+Refunds shall be made payable to the party who paid the fees or to other persons if so 
+authorized in writing by the party who paid the fees. [Amended 2022-03-02 by By-law 
+49-202214] 
+
+Article 5 
+Construction Vibrations 
+
+§ 363-5.1. Definitions 
+
+A. 
+
+As used in this article, the following terms shall have the meanings indicated: 
+
+Construction Equipment - Any equipment or device designed for use in construction, or 
+material handling including, but not limited to, air compressors, pile drivers, pneumatic 
+or hydraulic tools, bulldozers or trucks, tractors, excavators, trenchers, cranes, derricks, 
+loaders, scrapers, pavers, generators, ditchers, compactors and rollers, pumps, concrete 
+mixers, graders, or other material handling equipment. 
+
+Construction Vibration - Vibration occurring as a result of the operation of construction 
+equipment during construction. 
+
+Frequency of Vibration - The rate of oscillation that occurs in one second, measured in 
+hertz where one hertz equals one cycle per second. 
+
+Peak Particle Velocity - The maximum rate of change with respect to time of the particle 
+displacement, measured on the ground, and velocity amplitudes are given in units of 
+millimetres per second from zero to peak amplitude. 
+
+13 Editor's Note: By-law 49-2022 added a new Section 363-4.11F. Former Section 363-4.11F was renumbered 
+as Section 363-4.11G. By-law 49-2022 came into effect on March 1, 2022. 
+14 Editor's Note: By-law 49-2022 renumbered former Section 363-4.11F as Section 363-4.11G. By-law 49-2022 
+came into effect on March 1, 2022. 
+
+363-27 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Vibration Control Form - The form prescribed by the Chief Building Official to provide 
+information regarding construction vibration to accompany an application for a permit. 
+
+Zone of Influence - The area of land within or adjacent to a construction site, including 
+any buildings or structures, that potentially may be impacted by vibrations emanating 
+from a construction activity where the peak particle velocity measured at the point of 
+reception is equal to or greater than five mm/sec at any frequency or such greater area 
+where specific site conditions are identified by the professional engineer in a study 
+contemplated in § 363-5.3C(1). 
+
+§ 363-5.2. Prohibited construction vibrations. 
+
+A. 
+
+No person shall carry on a construction activity resulting in construction vibrations that 
+exceed the levels set out in Table 1.0 "Prohibited Construction Vibrations": 
+
+Table 1.0 
+Prohibited Construction Vibrations 
+
+Frequency of Vibration 
+(hertz) 
+
+Vibration Peak Particle Velocity 
+(mm/sec) 
+
+Less than 4 
+
+4 to 10 
+
+More than 10 
+
+8 
+
+15 
+
+25 
+
+B.  Where the professional engineer has submitted a report under § 363-5.4 and identified 
+lower levels than set out in Table 1.0 above, then levels exceeding those in the report 
+shall be the prohibited construction vibrations. 
+
+§ 363-5.3. Vibration control form. 
+
+A. 
+
+B. 
+
+In addition to the requirements of Article 3, an applicant for a building permit for shall 
+submit as part of the permit application a vibration control form accompanied by plans 
+and other documents as set out below. 
+
+The vibration control form shall identify whether the construction activity will include 
+blasting, deep foundations, drilled caisson, large-scale soil compaction or construction 
+within the water table, or any other construction activity or method that has the potential 
+to cause vibrations which may impact on buildings or structures outside of the 
+construction site that is the subject of the building permit application. 
+
+C. 
+
+If construction activities as described in Subsection B are identified, the vibration control 
+form shall also include the following: 
+
+(1) 
+
+A preliminary study, including a plan showing the construction site and adjacent 
+land and buildings, prepared by a professional engineer that identifies the zone of 
+influence of vibrations and whether the zone of influence will extend beyond the 
+
+363-28 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+legal boundaries of the construction site that is the subject of the building permit 
+application; 
+
+(2) 
+
+(3) 
+
+The existence within the zone of influence of any buildings that have been 
+designated under the Ontario Heritage Act; and 
+
+A general review commitment certificate and letter of undertaking in a form 
+prescribed by the Chief Building Official. 
+
+D. 
+
+In determining the zone of influence for the construction, the professional engineer shall 
+consider the following:  
+
+(1) 
+
+Soil conditions of the construction site and adjacent land; 
+
+(2)  Weather conditions that will exist at the time of construction that may result in 
+
+construction vibrations; 
+
+(3)  Whether the proposed construction will be above or below the water table; 
+
+(4) 
+
+The presence of heritage designated or listed properties and sensitive structures or 
+buildings or infrastructure; 
+
+(5) 
+
+The precise location of the source of vibration; 
+
+(6) 
+
+Any unique site conditions; 
+
+(7)  Whether it would be prudent, in the circumstances, to have a zone of influence 
+
+that is larger than would result if the analysis had only been restricted to the 
+predicted peak particle velocity values set out in Column 1 of the table in § 363 
+5.2A; and 
+
+(8) 
+
+Such further matters identified by the professional engineer which may be 
+relevant to identifying the zone of influence in a specific situation. 
+
+E. 
+
+After the issuance of a building permit, if a construction activity that was not identified in 
+a vibration control form is proposed or commenced, the applicant shall comply with the 
+requirements of this section where, in the opinion of the Chief Building Official, the 
+construction activity may contribute to vibrations. 
+
+§ 363-5.4. Pre-construction consultation and monitoring program. 
+
+A. 
+
+If a zone of influence will extend beyond the legal boundaries of the construction site that 
+is the subject of the building permit application, the applicant shall: 
+
+(1) 
+
+Carry out a public pre-construction consultation with all property owners and 
+occupants within the zone of influence advising of the possibility of construction 
+vibrations and the provisions of this article. 
+
+363-29 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(2) 
+
+As part of an application for a building permit provide a report from a 
+professional engineer addressing the following matters: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+A summary of the pre-construction consultations between the applicant 
+and the owners and occupants of properties within the zone of influence, 
+including comments provided to the applicant by the owners and 
+occupants during the consultations; 
+
+Pre-construction measurements of background vibrations within the zone 
+of influence; 
+
+Pre-construction inspection of adjacent buildings and structures within the 
+zone of influence to identify existing cracks in walls, floors and exterior 
+cladding of the first two storeys above grade and interior finishes of all 
+storeys below grade in sufficient detail to facilitate comparison of pre-
+construction and post-construction condition; 
+
+(d)  Where it is not possible to gain access for a pre-construction inspection, 
+
+statements of the efforts made to gain access; 
+
+(e) 
+
+(f) 
+
+Identification of mitigation measures to reduce the impacts of 
+construction-related vibrations within the zone of influence; and 
+
+A monitoring program to measure variances in the vibration levels before 
+and during construction activities which shall be verified by a professional 
+engineer, and shall include: 
+
+[1] 
+
+The number and location of seismographs to be used; 
+
+[2] 
+
+The sampling frequency; 
+
+[3] 
+
+The result transmittal protocol; 
+
+[4] 
+
+Ambient vibration levels; 
+
+[5] 
+
+A public communications protocol; 
+
+[6] 
+
+A complaints protocol during construction; and 
+
+[7] 
+
+Procedures for construction method alteration to address the 
+occurrence of excessive vibrations. 
+
+(3) 
+
+The mitigation measures and monitoring program required under Subsections 
+(2)(e) and (f) shall be implemented so that construction activities do not exceed 
+maximum frequency-based limits for peak particle velocity as set out in § 363-5.2 
+or such lower levels as may be identified by the professional engineer as being 
+prudent taking into consideration site-specific conditions. 
+
+363-30 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(4) 
+
+The monitoring program shall include no less than one on-site seismograph that is 
+to be operated continuously to record the vibration frequency and peak particle 
+velocity for construction vibrations at all times during construction activities 
+identified in § 363-5.3B. 
+
+§ 363-5.5. Monitoring of vibrations during construction. 
+
+A. 
+
+The applicant shall monitor the vibration levels and report on the monitoring as follows: 
+
+(1) 
+
+The applicant shall monitor vibration levels during construction in accordance 
+with the monitoring program submitted with the application for a building permit 
+under § 363-5.4A(2)(f). 
+
+(2)  Where in the opinion of the professional engineer it is prudent to do so, 
+
+monitoring shall be based to detect levels below those set out in the table in § 
+363-5.2A. 
+
+(3) 
+
+(4) 
+
+The applicant shall submit a copy in writing of all vibration measurements 
+recorded as part of the monitoring program to the building inspector assigned to 
+the project at the end of each workday, or as requested by the building inspector. 
+
+Construction activity shall not be carried on when it will result in vibration 
+measurements that exceed the prohibited construction vibration levels set out in 
+§ 363-5.2. 
+
+§ 363-5.6. Public communications and complaint protocol. 
+
+A. 
+
+The applicant shall, in addition to the pre-construction survey required in § 363-5.3 
+provide for the following public communication and complaints protocols: 
+
+(1) 
+
+At least one week before the commencement of construction activity that may 
+cause vibrations, the applicant shall notify the ward Councillor and owners and 
+occupants of properties within the zone of influence of the scheduled construction 
+activity; 
+
+(2) 
+
+The notice required under Subsection (1) shall include the following: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+An explanation of the proposed construction activity and its potential to 
+produce vibrations; 
+
+A statement of the levels of construction vibration that are prohibited in 
+this article; 
+
+The address of the construction site where the construction activity will 
+occur; 
+
+(d) 
+
+The date and time that the work will occur; 
+
+363-31 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(e) 
+
+The name, address, telephone number, and other contact information 
+through which a person affected by vibrations may contact the applicant 
+and the person carrying out the construction activity for the applicant; and 
+
+(f) 
+
+Contact information for Toronto Building staff assigned to the project. 
+
+(3) 
+
+In the event that the applicant receives a complaint or is otherwise notified of a 
+complaint about vibrations from the construction activity, the applicant shall 
+cause the professional engineer monitoring the project to immediately perform 
+vibration measurement at the complainant's location during activities 
+representative of the offending operation and to provide to the complainant and to 
+the building inspector assigned to the project a copy of the measurement results 
+including an interpretation by the professional engineer of the possible impacts 
+such construction vibrations might have on the building or structure of the 
+complainant; and 
+
+(4) 
+
+In the event that the measurements at the complainant's location exceed the limits 
+set out in § 363-5.2, all construction activity generating the vibrations shall 
+immediately cease and not resume until mitigation measures are implemented to 
+reduce the vibration levels so that they are below the limits set out § 363-5.2. 
+
+Article 6 
+Demolition Control 
+
+§ 363-6.1. Designation of area of demolition control. 
+
+A. 
+
+The geographic area of the City of Toronto is designated as an area of demolition control. 
+
+§ 363-6.2. Co-ordination with Chapter 667, Residential Rental Property Demolition and 
+Conversion Control.  
+
+[Amended 2021-03-10 by By-law 204-2021] 
+
+A. 
+
+B.  
+
+C. 
+
+D. 
+
+The Chief Building Official shall make a preliminary assessment to determine if 
+Chapter 667, Residential Rental Property Demolition and Conversion Control, applies to 
+the proposed demolition, except that the Chief Planner shall make all assessments on the 
+application of § 667-2B of Chapter 667. 
+
+If the Chief Building Official is of the opinion that Chapter 667 may apply, the 
+application shall be forwarded to the Chief Planner to make a final determination on the 
+application of Chapter 667. 
+
+Prior to delegated approval or bringing a report to the community council for Council's 
+approval, the Chief Building Official shall provide notice to the applicant of the potential 
+requirement for a permit under Chapter 667. 
+
+Pursuant to § 363-6.3, if the proposed demolition application requires that the Chief 
+Building Official report to community council for Council's approval under this article 
+and the Chief Planner has determined that a permit under Chapter 667 is also required, 
+
+363-32 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+the Chief Building Official and the Chief Planner may report together on the two required 
+applications to the community council for Council's approval. 
+
+E. 
+
+The Chief Building Official may issue one demolition permit for the purposes of this 
+article and Chapter 667. 
+
+§ 363-6.3. Authority to issue demolition permits. 
+
+A. 
+
+B. 
+
+Reserved.15 
+
+Demolition of property not located in the former City of Toronto; less than six dwelling 
+units and issued building permit. 
+
+(1) 
+
+(2) 
+
+Subsection B applies to an application for a demolition permit for all or part of a 
+residential property, if the residential property: contains less than six dwelling 
+units, a building permit has been issued to erect a new building on the site of the 
+residential property sought to be demolished, and the residential property is not 
+located within the geographic area of the former City of Toronto. 
+
+To obtain a demolition permit under this subsection, an applicant shall file an 
+application in writing on forms prescribed by and available from the Chief 
+Building Official and shall supply any other information relating to the 
+application as required by the Chief Building Official. 
+
+(3) 
+
+The Chief Building Official shall issue the demolition permit subject to the 
+following conditions: 
+
+(a) 
+
+(b) 
+
+That the applicant for the demolition permit construct and substantially 
+complete the new building to be erected on the site of the residential 
+property to be demolished not later than two years from the day 
+demolition of the existing residential property is commenced. 
+
+That on failure to complete the new building within the time specified in 
+Subsection B(3)(a), the City Clerk shall be entitled to enter on the 
+collector's roll, to be collected in like manner as municipal taxes, the sum 
+of $20,000 for each dwelling unit contained in the residential property in 
+respect of which the demolition permit is issued and that such sum shall, 
+until payment, be a lien or charge upon the land in respect of which the 
+permit to demolish the residential property is issued. 
+
+(4)  Where the Chief Building Official refuses to issue a demolition permit under 
+
+Subsection B(3) because the provisions of Subsection B have not been met, an 
+applicant may appeal to the community council in writing setting out the reasons 
+why the application should be approved or why the conditions in Subsection B(3) 
+
+15 Editor's Note: Previous Subsection A, incidental demolition, was deleted March 10, 2021 by By-law 
+204-2021. 
+
+363-33 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+should be varied or waived, and the Chief Building Official shall forward a report 
+to the community council. 
+
+(5) 
+
+The community council shall recommend to Council whether to issue or refuse to 
+issue the demolition permit, including conditions, if any, to be attached to the 
+demolition permit, or the community council under delegated authority, shall 
+issue, with or without attaching conditions, or refuse to issue the demolition 
+permit.  
+
+C. 
+
+Demolition of property located in the former City of Toronto; less than six dwelling units 
+and issued building permit. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+Subsection C applies to an application for a demolition permit for all or part of a 
+residential property, if the residential property: contains less than six dwelling 
+units, a building permit has been issued to erect a new building on the site of the 
+residential property sought to be demolished, and the residential property is 
+located within the geographic area of jurisdiction of the former City of Toronto. 
+
+To obtain a demolition permit under this subsection, an applicant shall file an 
+application in writing on forms prescribed by and available from the Chief 
+Building Official and shall supply any other information relating to the 
+application as required by the Chief Building Official. 
+
+The applicant shall prepare a notice advising of the application, in the form 
+required by the Chief Building Official, and shall immediately post the notice on 
+the property in a manner so that the notice is visible to passers-by, for a period of 
+not less than 14 days. 
+
+The Chief Building Official shall consider the application not earlier than 14 days 
+after the notice is posted and, where the provisions of this section have been met, 
+the Chief Building Official shall issue the demolition permit unless he or she 
+receives one of the following, in which case the Chief Building Official shall refer 
+the application to the community council for consideration: 
+
+(a) 
+
+A written notice of an objection to the issuance of the demolition permit; 
+
+(b) 
+
+(c) 
+
+A request from the Councillor for a ward in which the property is located 
+that the application be referred to the community council; or 
+
+A written objection from the applicant respecting the conditions in 
+Subsection C(5). 
+
+(5) 
+
+A demolition permit issued under Subsection C(4) shall be issued subject to the 
+following conditions: 
+
+(a) 
+
+That the applicant for the demolition permit construct and substantially 
+complete the new building to be erected on the site of the residential 
+
+363-34 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+property to be demolished not later than two years from the day 
+demolition of the existing residential property is commenced. 
+
+(b) 
+
+That on failure to complete the new building within the time specified in 
+Subsection C(5)(a), the City Clerk shall be entitled to enter on the 
+collector's roll, to be collected in like manner as municipal taxes, the sum 
+of $20,000 for each dwelling unit contained in the residential property in 
+respect of which the demolition permit is issued and that such sum shall, 
+until payment, be a lien or charge upon the land in respect of which the 
+permit to demolish the residential property is issued. 
+
+(6)  Where the Chief Building Official refuses to issue a demolition permit under 
+
+Subsection C(4) because the provisions of Subsection C have not been met, an 
+applicant may appeal to the community council in writing setting out the reasons 
+why the application should be approved or why the conditions in Subsection C(5) 
+should be varied or waived, and the Chief Building Official shall forward a report 
+to the community council. 
+
+(7)  Where the Chief Building Official has referred the application to the community 
+
+council for consideration under Subsection C(4), the Chief Building Official shall 
+forward a report to the community council. 
+
+(8) 
+
+The community council shall recommend to Council whether to issue or refuse to 
+issue the demolition permit, including conditions, if any, to be attached to the 
+demolition permit, or the community council under delegated authority, shall 
+issue, with or without attaching conditions, or refuse to issue the demolition 
+permit.  
+
+D. 
+
+Demolition of property with less than six dwelling units and no building permit issued, or 
+six or more dwelling units. 
+
+(1) 
+
+Subsection D applies to an application for a demolition permit for all or part of a 
+residential property, if the residential property contains: 
+
+(a) 
+
+(b) 
+
+Less than six dwelling units and no building permit has been issued to 
+erect a new building on the site of the residential property sought to be 
+demolished; or 
+
+Six or more dwelling units (whether or not a building permit has been 
+issued to erect a new building on the site of the residential property sought 
+to be demolished). 
+
+(2) 
+
+To obtain a demolition permit under Subsection D, an applicant shall file an 
+application in writing on forms prescribed by and available from the Chief 
+Building Official and shall supply any other information relating to the 
+application as required by the Chief Building Official. 
+
+363-35 
+
+March 1, 2023 
+
+(3) 
+
+(4) 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+The Chief Building Official and the Chief Planner shall forward a report 
+respecting the application to the community council. 
+
+The community council shall recommend to Council whether to issue or refuse to 
+issue the demolition permit, including conditions, if any, to be attached to the 
+demolition permit, or the community council under delegated authority, shall 
+issue, with or without attaching conditions, or refuse to issue the demolition 
+permit.  
+
+E. 
+
+F. 
+
+The community council in Subsections B, C and D shall be the community council for 
+the geographic area in which the property is located. 
+
+If the property is located in the geographic area of more than one community council, the 
+Chief Building Official and, under Subsection D, the Chief Planner shall report to a 
+community council responsible for one of the geographic areas in which the property is 
+located, and notice of the report will be given to the councillor of any ward in which the 
+property is located. 
+
+§ 363-6.4. Fees. 
+
+A. 
+
+Despite the issuance of a demolition permit under section 33 of the Planning Act instead 
+of subsection 8(1) of the Act, as permitted by subsection 33(8) of the Planning Act, the 
+fees payable shall be calculated in accordance with Article 4, with necessary changes. 
+
+Article 7 
+Fencing of Construction and Demolition Sites 
+
+§ 363-7.1. Definitions. 
+
+A. 
+
+As used in this article, the following terms shall have the meaning indicated: 
+
+Chief Building Official - the Chief Building Official appointed by the Council of the City 
+of Toronto pursuant to the Building Code Act, 1992, and any person authorized by the 
+Chief Building Official to carry out the duties of the Chief Building Official under this 
+article. 
+
+Construction Fence - A fence required to be erected on a construction site under the 
+provisions of this article. 
+
+Construction Property - A property or properties containing a construction site. 
+
+Construction Site - A property or portion of a property where construction work is 
+proceeding in accordance with a construction or demolition permit issued by the Chief 
+Building Official pursuant to the Building Code Act, 1992 and includes any areas on the 
+property where equipment is operated and where equipment and/or construction materials 
+are stored. 
+
+Construction Work - Work carried out pursuant to a construction or demolition permit 
+issued by the Chief Building Official pursuant to the Building Code Act, 1992 other than 
+
+363-36 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+work which is fully contained within the interior of an existing building which has no 
+exposed openings at grade level. 
+
+Residential Construction Site - A construction site where the use of the property 
+containing the construction site, following the completion of the construction work, will 
+be solely residential.  
+
+§ 363-7.2. Construction fence required. 
+
+A. 
+
+B. 
+
+C. 
+
+All construction sites shall be enclosed by a construction fence in accordance with the 
+provisions of this article.  
+
+The construction fence required by Subsection A shall be erected and in place on the 
+construction property prior to the commencement of construction work. 
+
+The construction fence required by Subsection A shall be removed from the construction 
+property no later than 30 days after the completion of the construction work or as 
+otherwise directed by the Chief Building Official. 
+
+§ 363-7.3. General requirements.  
+
+A. 
+
+Every construction fence shall: 
+
+(1) 
+
+Be erected on the construction property around the perimeter of the construction 
+site so as to fully enclose the construction site; 
+
+(2) 
+
+Be built to deter entry to the construction site by unauthorized persons; 
+
+(3) 
+
+(4) 
+
+Have no rails, other horizontal or diagonal bracing, attachment or patterns of 
+openings on the outside that would facilitate climbing; 
+
+Contain no opening that would permit the passage of a spherical object having a 
+diameter of 100 millimetres; 
+
+(5) 
+
+At any access opening, be equipped with gates that shall: 
+
+(a) 
+
+(b) 
+
+Contain wire mesh or similar material sufficient to provide visibility for 
+traffic entering or exiting the construction site; 
+
+Be built to specifications that provide performance and safety at least 
+equivalent to the construction fence; and 
+
+(c) 
+
+Deter entry by unauthorized persons to the construction site; and 
+
+(6) 
+
+Be maintained: 
+
+(a) 
+
+Free from health, fire and accident hazards; 
+
+363-37 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(b) 
+
+(c) 
+
+(d) 
+
+In a sturdy and upright position and shall at all times be well anchored and 
+secure; 
+
+In good condition and, without limiting the foregoing, shall not become 
+unsafe, damaged, structurally unsound or dangerous; and 
+
+So that any access opening is closed and locked or securely sealed when 
+the construction site is unattended. 
+
+§ 363-7.4. Construction fence height. 
+
+A. 
+
+B. 
+
+C. 
+
+Every construction fence erected around a residential construction site shall have a height 
+not less than 1.2 metres above the grade immediately outside the construction fence. 
+
+Notwithstanding Subsection A, every construction fence erected around a residential 
+construction site between an excavation on the construction site and a lane or public 
+sidewalk that is within 3.0 metres of the excavation shall have a height not less than 
+1.8 metres above the grade immediately outside the construction fence. 
+
+Every construction fence erected around a construction site other than the residential 
+construction sites referred to in Subsections A and B shall have a height not less than 
+1.8 metres above the grade immediately outside the construction fence. 
+
+§ 363-7.5. Construction fence standards. 
+
+A. 
+
+Every construction fence shall be built to the following minimum standards: 
+
+(1) 
+
+If erected between an excavation and a lane or public sidewalk that is within 3.0 
+metres of the excavation, the construction fence shall be built of wood, chain link 
+or welded-wire panels. 
+
+(2) 
+
+If built of wood:  
+
+(a) 
+
+(b) 
+
+(c) 
+
+the outside face shall be smooth exterior grade plywood or wafer board 
+12.5 millimetres thick that is close-boarded; 
+
+the outside face shall be securely nailed or screwed to 89 millimetre by 89 
+millimetre vertical posts spaced at 2.4 metre centres and embedded 
+sufficiently deep into the ground to provide a rigid support; and 
+
+the outside face shall be securely nailed or screwed to 38 millimetre by 89 
+millimetre horizontal rails secured to the vertical posts at the top, bottom 
+and intermediate locations at 600 millimetre centres. 
+
+(3) 
+
+If built with plastic mesh:  
+
+(a) 
+
+the fencing shall be fastened securely at 200 millimetre centres to steel T 
+or a minimum 50 millimetre wide U posts; 
+
+363-38 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(b) 
+
+(c) 
+
+the U posts and steel T shall be spaced at not more than 1.2 metre centres 
+and embedded at least 600 millimetres into the ground; and 
+
+ the top and bottom of the plastic mesh shall be secured horizontally by an 
+11-gauge lacing cable threaded through the mesh and looped and fastened 
+to each post. 
+
+(4) 
+
+If built with chain link:  
+
+(a) 
+
+the mesh shall have openings no larger than 50 millimetres; 
+
+(b) 
+
+(c) 
+
+the mesh shall be fastened securely both to vertical steel posts and to top 
+and bottom horizontal steel rails or 9-gauge steel wire; and 
+
+the vertical steel posts shall be spaced at not more than 3.6 metre centres 
+and either embedded at least 600 millimetres into the ground or secured 
+with ground stands. 
+
+(5) 
+
+If built with welded-wire panels:  
+
+(a) 
+
+the mesh shall have openings no wider than 50 millimetres; 
+
+(b) 
+
+(c) 
+
+the mesh shall be welded to vertical steel tubing and to top and bottom 
+horizontal steel tubing; and 
+
+the vertical steel tubing shall be spaced at not more than 3.0 metre centres 
+and secured with ground stands. 
+
+Any hoarding, canopy or similar protective barrier required under provincial law 
+may form part of the construction fence. 
+
+The construction fence may be a combination of the fence types specified in this 
+article or may be built of other materials if the construction fence can be shown to 
+provide performance and safety equivalent to fence types specified and the Chief 
+Building Official authorizes its use. 
+
+(6) 
+
+(7) 
+
+§ 363-7.6. Modifications 
+
+A. 
+
+The Chief Building Official may authorize modifications to the requirements of this 
+article where satisfied that the proposed modifications meet the intentions of this article 
+and do not compromise public safety. 
+
+§ 363-7.7. Power of entry. 
+
+A. 
+
+The Chief Building Official may enter upon the construction property or upon any other 
+property at any reasonable time for the purpose of carrying out an inspection to determine 
+whether or not the following are being complied with: 
+
+(1) 
+
+The provisions of this article; 
+
+363-39 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(2) 
+
+A notice of violation issued under § 363-7.8; and/or 
+
+(3) 
+
+An order made by a court pursuant to section 372 of the City of Toronto Act, 
+2006. 
+
+§ 363-7.8. Enforcement. 
+
+A.  Where the Chief Building Official finds a contravention of this article, the Chief Building 
+
+Official may issue a notice of violation requiring compliance with this article within a 
+specified time period.  
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+A notice of violation issued pursuant to Subsection A shall be served on the registered 
+owner of the construction property and/or to any party whom the Chief Building Official 
+deems is responsible for, is in possession of or has care and control over the construction 
+site. 
+
+The notice of violation issued pursuant to Subsection A may be served personally, by e 
+mail, or by registered mail to the recipient's last known address.  Where the notice of 
+violation is served by e-mail, it shall be deemed to have been served on the date the e-
+mail is sent.  Where the notice of violation is served by registered mail, it shall be 
+deemed to have been served on the third day after it is mailed. 
+
+Notwithstanding Subsection C, where the Chief Building Official is for any reason 
+unable to effect service of the notice of violation by the methods of service set out in 
+Subsection C, the Chief Building Official may serve the notice of violation by posting it 
+in a conspicuous place on the construction property in which case the notice of violation 
+shall be deemed to have been served immediately after it is posted. 
+
+Notwithstanding Subsection C, if the delay necessary to serve the notice of violation 
+would, in the opinion of the Chief Building Official, result in an immediate danger to the 
+health or safety of any person, the Chief Building Official may serve the notice of 
+violation by posting it in a conspicuous place on the construction property in which case 
+the notice of violation shall be deemed to have been served immediately after it is posted.  
+
+Where a notice of violation is served by posting it in a conspicuous place on the 
+construction property pursuant to Subsection E, the Chief Building Official shall 
+thereafter provide a copy of the notice of violation to the recipients by one of the methods 
+of service set out in Subsection C as soon as is practicable.   
+
+G.  Where a notice of violation has been issued under Subsection A and the contravention 
+has not been brought into compliance within the time period set out therein, the Chief 
+Building Official may take any action deemed necessary to achieve compliance and to 
+make the construction property safe including but not limited to erecting the required 
+construction fence, and the City may recover the costs incurred by action or by adding the 
+costs to the tax roll for the construction property and collecting them in the same manner 
+as property taxes. 
+
+363-40 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+H. 
+
+The Chief Building Official may enter onto any property for the purpose of actions taken 
+under Subsection G. 
+
+§ 363-7.9. Offences. 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+Every person who contravenes any provision of this article is guilty of an offence and on 
+conviction is liable to a fine not less than $250 and no more than $10,000. 
+
+In addition to the offences referred to in Subsection A, every person is guilty of an 
+offence who: 
+
+(1) 
+
+Fails to erect a construction fence as required; 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+Fails to erect the construction fence prior to the commencement of construction 
+work; 
+
+Fails to erect the construction fence around the perimeter of the construction site 
+as required; 
+
+Fails to erect the construction fence in accordance with the general standards set 
+out in § 363-7.3; 
+
+Erects a construction fence that does not comply with the height requirements set 
+out in § 363-7.4; 
+
+Fails to erect the construction fence in accordance with the construction fence 
+standards set out in § 363-7.5; 
+
+(7) 
+
+Fails to maintain a construction fence as required pursuant to § 363-7.3A(6); 
+
+(8) 
+
+Fails to remove the construction fence as required under § 363-7.2C; 
+
+(9) 
+
+(10) 
+
+Fails to comply with a notice of violation issued by the Chief Building Official 
+pursuant to § 363-7.8; and 
+
+Is a director or officer of a corporation and knowingly concurs with the actions 
+taken by or on behalf of the corporation in relation to an offence described in 
+Subsections B(1) to (9). 
+
+Each offence in Subsection B with the exception of the offence in Subsection B(10) is 
+designated as a continuing offence. 
+
+Each offence in Subsection B is subject to, for each day or part of a day that the offence 
+continues as applicable, a minimum fine of no less than $250 and a maximum fine of no 
+more than $10,000.  The total of all the daily fines imposed for each offence in 
+Subsection C may exceed $100,000. 
+
+363-41 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+§ 363-7.10. Conflicting provisions. 
+
+A.  Where this article conflicts with any other City of Toronto by-law, the more restrictive 
+
+by-law applies. 
+
+Article 8 
+Right of Entry 
+
+[Amended 2022-06-16 by By-law 576-202216; 2022-07-22 by By-law 955-2022] 
+
+§ 363-8.1. Definitions. 
+
+A. 
+
+As used in this article, the following terms shall have the meanings indicated: 
+
+Alteration - Includes a structural change to the exterior or interior of an existing building, 
+fence or other structure, but does not include a total replacement of an existing building, 
+fence or other structure. 
+
+Building - Means: 
+
+(1) 
+
+(2) 
+
+A structure occupying an area greater than 10 square metres consisting of a wall, 
+roof and floor or any of them or a structural system serving the function thereof 
+including all plumbing, works, fixtures and service systems appurtenant thereto; 
+
+A structure occupying an area of 10 square metres or less that contains plumbing, 
+including the plumbing appurtenant thereto; 
+
+(3) 
+
+Plumbing not located in a structure; 
+
+(4) 
+
+A sewage system; or 
+
+(5) 
+
+Structures designated in the building code. 
+
+City Property - Means any property owned, leased or under the control of the City 
+including a highway. 
+
+Executive Director - The Executive Director, Municipal Licensing and Standards or 
+designate for the purposes of this article. 
+
+Occupant - Any person or persons over the age of 18 years in possession of the property. 
+
+Officer - A City employee whose duties include the enforcement of this article. 
+
+Owner - Includes: 
+
+(1) 
+
+The person for the time being managing or receiving the rent of the land or 
+premises in connection with which the word is used, whether on the person's own 
+
+16 Editor's Note: By-law 576-2022, as amended by By-law 955-2022, came into force on March 1, 2023. 
+
+363-42 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+account or as agent or trustee of any other person, or who would receive the rent 
+if the land and premises were let; and 
+
+(2) 
+
+A lessee or occupant of the property who, under the terms of a lease, is required to 
+repair and maintain the property in accordance with the standards for the 
+maintenance and occupancy of property. 
+
+Property - Means a building or structure or part of a building or structure, and includes 
+the lands and premises appurtenant thereto and all mobile homes, mobile buildings, 
+mobile structures, outbuildings, fences and erections thereon whether heretofore or 
+hereafter erected, and includes vacant property. 
+
+Repair - Includes: 
+
+(1)  Maintenance and upkeep; and 
+
+(2) 
+
+The provision of facilities, the making of additions or alterations or the taking of 
+any other action that may be required to ensure that a building, fence or other 
+structure conforms with the standards established in a by-law or Act. 
+
+§ 363-8.2. Right of entry. 
+
+A. 
+
+The owner or occupant of a property is authorized to enter an adjoining property, not 
+including adjoining City property, at any reasonable time, for the purpose of making 
+repairs or alterations to any building, fence or other structures on the property of the 
+owner or occupant but only: 
+
+B. 
+
+C. 
+
+(1) 
+
+if the repairs or alterations to the building, fence or other structure cannot be made 
+from the property of the owner or occupant or from a street adjoining that 
+property. 
+
+(2) 
+
+to the extent necessary to carry out the repairs or alterations. 
+
+The power of entry under § 363-8.2A may be exercised by an employee or agent of the 
+owner or occupant of the property. 
+
+The power of entry under § 363-8.2A is subject to compliance with the following 
+conditions: 
+
+(1) 
+
+A person exercising the power of entry shall display or, on request, produce 
+proper identification. 
+
+(2) 
+
+(a) 
+
+The owner or occupant of the property shall provide reasonable written 
+notice of the proposed entry to the occupant of the adjoining property at 
+least 24 hours before any person enters the adjoining property. 
+
+(b) 
+
+The notice shall include: 
+
+363-43 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+[1] 
+
+a description of the repairs or alterations and how the repairs will 
+be made; 
+
+[2] 
+
+the date of entry and duration of occupation;  
+
+[3] 
+
+a telephone number that can be used to contact owner or occupant 
+of the property. 
+
+(c) 
+
+The notice shall be served personally on the person to whom it is directed 
+or by registered mail to the last known address of that person, in which 
+case it shall be deemed to have been given on the third day after it is 
+mailed. 
+
+Despite § 363-8.2C(2), in the case of an emergency, a notice that includes the 
+content prescribed under § 363-8.2C(2)(b) may be given less than 24 hours before 
+any person enters the adjoining property or as soon as practicable after any person 
+enters the adjoining property in any manner likely to come to the attention of the 
+occupant of the adjoining property. 
+
+The duration of the entry shall not exceed the period of time reasonably required 
+to complete the repairs or alterations described in the notice. 
+
+The owner or occupant of the property shall ensure that the person exercising the 
+power of entry does not create any hazards or allow any hazards to exist on the 
+adjoining property. 
+
+The owner or occupant of the property shall, in so far as is practicable, restore the 
+adjoining land to its original condition, including removing any equipment or 
+materials on the adjoining property as a result of the entry. 
+
+The owner or occupant of the property shall provide compensation for any 
+damages caused by the entry or by anything done on the adjoining land. 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(7) 
+
+D. 
+
+The power of entry under § 363-8.2A does not authorize: 
+
+(1) 
+
+Entry into a building on the adjoining property; 
+
+(2) 
+
+(3) 
+
+(4) 
+
+Entry for any propose other than conducting the repairs or alterations described in 
+the notice; 
+
+The storage of materials or equipment, or the parking of vehicles, on the adjoining 
+property; and 
+
+An exemption to any person from complying with other applicable federal or 
+provincial legislation or City by-laws. 
+
+363-44 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+§ 363-8.3. Inspection. 
+
+A. 
+
+An officer, other employee, or agent of the City may enter on a property at any 
+reasonable time for the purpose of carrying out an inspection to determine whether or not 
+the following are being complied with: 
+
+(1) 
+
+This article; 
+
+(2) 
+
+A direction or order of the City made under this article or the City of Toronto Act, 
+2006; or 
+
+(3) 
+
+An order made by a court under section 372 of the City of Toronto Act, 2006. 
+
+B. 
+
+A person carrying out an inspection under § 363-8.3A may: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+Require the production for inspection of documents or things relevant to the 
+inspection; 
+
+Inspect and remove documents or things relevant to the inspection for the purpose 
+of making copies or extracts; 
+
+Require information from any person concerning a matter related to the 
+inspection; and 
+
+Alone, or in conjunction with a person possessing special or expert knowledge, 
+make examinations or take tests, samples or photographs necessary for the 
+purpose of the inspection. 
+
+§ 363-8.4. Orders to comply. 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+An officer who finds a contravention of this article may make one or more orders 
+requiring discontinuance of the contravening activity or to do work to correct the 
+contravention under section 384 or 385 of the City of Toronto Act, 2006. 
+
+The order may be served personally on the person to whom it is directed or by registered 
+mail to the last known address of that person, in which case it shall be deemed to have 
+been given on the third day after it is mailed. 
+
+If there is evidence that the occupant of the land is not the registered property owner, the 
+notice shall be served on both the registered property owner and the occupant of the land. 
+
+If the address of the owner is unknown or the City is unable to effect service on the 
+owner or occupant under § 363-8.4B, a placard stating the terms of the order and placed 
+in a conspicuous place upon land on or near the property shall be deemed to be sufficient 
+notice to the owner. 
+
+E. 
+
+If the delay necessary to give an order under the preceding subsections would result in an 
+immediate danger to the health or safety of any person, the order may be served 
+
+363-45 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+personally on the person to whom it is directed or by a placard stating the terms of the 
+order and placed in a conspicuous place upon land on or near the property. 
+
+§ 363-8.5. Remedial action. 
+
+A. 
+
+B. 
+
+If a person fails to comply with an order to do work to correct a contravention of this 
+article, the Executive Director, or persons acting upon his or her instructions, may enter 
+the lands at any reasonable time for the purposes of doing the things described in the 
+order at the person's expense. 
+
+If the security deposit is not sufficient to cover the City's costs, under Section 386 of the 
+City of Toronto Act, 2006, the City may recover the costs of doing it by action, or the 
+costs may be added to the tax roll and collected in the same manner as property taxes. 
+
+§ 363-8.6. Offences. 
+
+A. 
+
+B. 
+
+Every person who contravenes a provision of this article is guilty of an offence. 
+
+Every person who contravenes an order under Subsection 384(1) or 385(1) of the City of 
+Toronto Act, 2006, is guilty of an offence. 
+
+§ 363-8.7. Transition. 
+
+A. 
+
+B. 
+
+The deletion and replacement of Article 8 does not affect any permit applied for or issued 
+prior to when the deletion and replacement takes effect. 
+
+Despite the deletion and replacement of Article 8, it shall remain good and undeleted to 
+the extent necessary to give effect to § 363-8.7A. 
+
+363-46 
+
+March 1, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Schedule A 
+Demolition Permit Application Information 
+
+1. 
+
+Environmental Information: 
+
+Details and particulars in respect of the proposed demolition which state: 
+
+(a)  Whether there is compliance with Regulation 347 made under the Environmental 
+
+Protection Act, R.S.O. 1990, c. E.19. 
+
+(b)  Whether the present owner has or any past owners had generators or a waste 
+
+generator number. 
+
+(c)  Whether there are hazardous or controlled products, as defined in the Workplace 
+
+Hazardous Materials Information System (WHMIS). 
+
+(d)  Whether there is a list of designated substances, including asbestos, as required 
+
+under section 30 of the Occupational Health and Safety Act, R.S.O. 1990, c. O.1. 
+
+(e)  Whether there are any fluid storage tanks, above or below grade, on site. 
+
+(f)  Whether the structure to be demolished is insulated with urea formaldehyde. 
+
+(g)  Whether the structure contains polychlorinated biphenyls (PCBs) as defined under 
+the Environmental Protection Act, R.S.O. 1990, c. E.19, Regulation 362. 
+
+(h)  Whether the structure contains chlorofluorocarbon (CFC) bearing refrigerant 
+
+equipment which requires proper handling in accordance with any applicable City 
+by-law respecting CFC's, including the following: 
+
+(i) 
+
+(ii) 
+
+Article I, Ozone-Depleting Substances, of former City of Toronto 
+Municipal Code Chapter 127, Air Pollution; and 
+
+By-laws respecting CFC of the former Cities of Etobicoke, North York, 
+Scarborough and York and the former Borough of East York. 
+
+(i) 
+
+(j) 
+
+(k) 
+
+The nature of the past and present uses of the premises. 
+
+The precise nature of the waste, as defined under the Environmental Protection 
+Act, R.S.O. 1990, c. E.19, and regulations made under that Act that will be 
+generated by the demolition of the structure and the method of waste disposal. 
+
+The method of demolition and whether the method for handling air and dust 
+emissions, recognizing on-site sources, complies with sections 6 and 11 of 
+Regulation 346 made under the Environmental Protection Act, R.S.O. 1990, c. 
+E.19. 
+
+(l)  What the final grading will be. 
+
+363-47 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(m) 
+
+The post-closure plans. 
+
+(n) 
+
+The proposed enclosure of the land. 
+
+(o) 
+
+The size of the property on which the structure to be demolished is located. 
+
+(p)  Whether there will be discharge of contaminated waters resulting from either a 
+dewatering process, storm runoff or other discharge contrary to any applicable 
+City by-law respecting sewers, including: Chapter 681, Sewers. 
+
+2. 
+
+Use of Explosives Information: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+Evidence that the building is not on a lot in or adjacent to a residential area 
+designated as an "R district" under the applicable zoning by-law. 
+
+A declaration that the contractor shall comply with all applicable law respecting 
+the transportation, storage, handling and use of explosives, including, but not 
+limited to, the Explosives Act, R.S.C. 1985, c. E-17, the Occupational Health and 
+Safety Act, R.S.O. 1990, c. O.1, and the Fire Code, and that, in the absence of 
+legislative requirements, the demolition shall be conducted in accordance with 
+CSA (Canadian Standards Association) standard S350-M1980, Code of Practices 
+for Safety in Demolition of Structures. 
+
+A copy of the letter of retention of a professional engineer experienced in the use 
+of explosives during the course of the demolition that has been retained to 
+undertake the design and general review of all components of the demolition. 
+
+A report on the demolition plan, prepared by the professional engineer described 
+in clause 2(c) of this schedule that includes the following: 
+
+(i) 
+
+Structural design characteristics of the building sought to be demolished; 
+
+(ii) 
+
+Particulars of the method of demolition describing in detail the dates, 
+times, duties, procedures, safety precautions, explosives, vibrations, noise 
+and dust effect of the method on: 
+
+1. 
+
+2. 
+
+3. 
+
+The building sought to be demolished; 
+
+Buildings in the area of influence; 
+
+Public and private utilities and infrastructures in the vicinity, for 
+example: electricity, sewer, water, telephone, gas, cable, district 
+heating and cooling, streetcar and similar services, and 
+
+4. 
+
+Residents in the area of influence. 
+
+(e) 
+
+The measures employed to isolate the building sought to be demolished from its 
+surroundings, and the proposal to inform residents in the area of influence of the 
+demolition. 
+
+363-48 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(f) 
+
+A precondition survey with pictures prepared by the professional engineer 
+depicting interior and exterior conditions of all buildings, public and private 
+utilities, bridges, underground structures and structural improvements, streets and 
+any similar thing, within the area of influence of the demolition. 
+
+(g)  Where, in the opinion of the professional engineer, buildings in the area of 
+
+influence of the demolition may suffer damage as a result of the use of explosives 
+during the course of the demolition, written consent of the owners of the buildings 
+concerned, giving permission for an in-depth inspection of their structures by the 
+professional engineer prior to demolition, and the results of this inspection shall 
+be included in the demolition plan required under clause 2(d) of this schedule. 
+
+(h) 
+
+A letter from the Ministry of Labour confirming that a notice of the project has 
+been filed and that the demolition procedures have been reviewed for compliance 
+with the Occupational Health and Safety Act. 
+
+(i)  Where considered appropriate by the Chief Building Official, written approval 
+
+from any of the following: 
+
+(i) 
+
+(ii) 
+
+The City Manager, the Fire Chief, the Medical Officer of Health or any 
+other City official responsible for public works, fire matters, health 
+matters, parks or recreational matters. 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+Enwave District Energy Limited. 
+
+Toronto Economic Development Corporation. 
+
+City Planning Division, Heritage Preservation Services. 
+
+Toronto Hydro Corporation. 
+
+Toronto Police Services Board. 
+
+Toronto Transit Commission. 
+
+(iii)  Ontario Ministry of the Environment. 
+
+(iv) 
+
+(v) 
+
+1. 
+
+2. 
+
+1. 
+
+2. 
+
+3. 
+
+Natural Resources Canada. 
+
+The Toronto Port Authority. 
+
+Bell Canada. 
+
+Enbridge Consumers Gas. 
+
+Rogers Cable Inc. 
+
+(j) 
+
+Evidence of the execution of any agreements or undertakings required as part of 
+the written approval required under clause 2(h) of this schedule. 
+
+363-49 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(k) 
+
+Evidence of compliance with any other reasonable criteria the Chief Building 
+Official determines to be necessary in respect to the specific property for which 
+the demolition permit is requested. 
+
+363-50 
+
+March 1, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Schedule B 
+Transition - Preliminary Project Review and Zoning Certificate Applications 
+
+[Added 2022-02-03 by By-law 49-202217] 
+
+Article 2 
+Preliminary Reviews 
+
+§ 363-2.1. Preliminary Project Review. 
+
+A. 
+
+An application for preliminary project review may be made to the Chief Building Official 
+in respect of a proposal by: 
+
+(1) 
+
+Filing an application form as prescribed by the Chief Building Official; 
+
+(2) 
+
+Filing the plans, specifications and documents necessary for the review as may be 
+required by the Chief Building Official; and 
+
+(3) 
+
+Paying the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+B. 
+
+Following a review of the preliminary project review application, the Chief Building 
+Official shall issue a written notice identifying: 
+
+(1) 
+
+areas of non-compliance with the City's zoning by-laws; and 
+
+(2) 
+
+laws relevant to the proposal from a subset of applicable law defined in sentence 
+1.4.1.3.(1) of Division A of the Building Code deemed to directly impact the City 
+of Toronto as follows: 
+
+(a) 
+
+(b) 
+
+Section 114 of the City of Toronto Act, 2006 with respect to the approval 
+by the City of Toronto or the Ontario Local Planning Appeal Tribunal of 
+plans and drawings; 
+
+Subsections 27(3) and 30(2) and sections 33, 34, 42 of the Ontario 
+Heritage Act and by-laws made under section 40.1 of the Ontario Heritage 
+Act;  
+
+(c) 
+
+Subsection 102 (3) of the City of Toronto Act, 2006; 
+
+(d) 
+
+Section 33 of the Planning Act except where, in the case of the demolition 
+of a residential property, a permit to demolish the property is obtained 
+under that section; 
+
+17 Editor's Note: By-law 49-2022 came into effect on March 1, 2022. Please see Section 363-2.3 Transition of 
+this Chapter for the applicability of Schedule B. 
+
+363-51 
+
+March 1, 2023 
+
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(e) 
+
+Development permit by-laws passed under the Planning Act or the City of 
+Toronto Act, 2006; 
+
+(f) 
+
+Section 46 of the Planning Act; 
+
+(g) 
+
+(h) 
+
+(i) 
+
+Section 47.3 of the Environmental Protection Act with respect to the 
+issuance of a renewable energy approval; 
+
+Section 14 of Ontario Regulation 137/15 (General) made under the Child 
+Care and Early Years Act, 2014 with respect to the approval of plans for a 
+new building to be erected or an existing building to be used, altered or 
+renovated for use as a child care centre or for alterations or renovations to 
+be made to premises used by a child care centre; 
+
+by-laws made under section 108 of the City of Toronto Act, 2006, but 
+only with respect to the issuance of a permit for the construction of a green 
+roof if the construction of the roof is prohibited unless a permit is 
+obtained;  
+
+(j) 
+
+Sections 28 and 53 of the Development Charges Act, 1997; 
+
+(k) 
+
+Sections 257.83 and 257.93 of the Education Act; and 
+
+(l) 
+
+Section 42 of the Planning Act with respect to the payment of money or 
+making arrangements satisfactory to Council for the City of Toronto for 
+the payment of money, where the payment is required under 
+subsection 42(6) of that Act. 
+
+§ 363-2.2. Zoning Certificate application. 
+
+A. 
+
+B. 
+
+A Zoning Certificate application may be made to the Chief Building Official in respect of 
+a proposal prior to making an application for a building permit. 
+
+Zoning Certificate applications may be made to the Chief Building Official in respect of a 
+proposal by: 
+
+(1) 
+
+Filing an application form as prescribed by the Chief Building Official; and 
+
+(2) 
+
+Paying the applicable fee in accordance with § 363-4.2. 
+
+C. 
+
+Every Zoning Certificate application shall be accompanied by: 
+
+(1) 
+
+(2) 
+
+Information identifying and describing in detail the work, use and occupancy for 
+which the proposal is made; 
+
+Information identifying and describing in detail the existing use and proposed use 
+of the building; and 
+
+363-52 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(3) 
+
+Plans, specifications and documents in accordance with and that meet the 
+requirements of § 363-3.5. 
+
+D. 
+
+Following a review of the Zoning Certificate application, the Chief Building Official 
+shall issue: 
+
+(1) 
+
+A Zoning Certificate where the proposal has been deemed to comply with the 
+City's zoning by-laws and which identifies applicable law as per sentence 
+1.4.1.3.(1) of Division A of the Building Code relevant to the proposal; or 
+
+(2) 
+
+a written notice identifying any one or more of the following: 
+
+(a) 
+
+additional information that the Chief Building Official deems necessary to 
+complete the review; 
+
+(b) 
+
+areas of non-compliance with the City's zoning by-laws; and 
+
+(c) 
+
+applicable law in accordance with sentence 1.4.1.3.(1) of Division A of 
+the Building Code relevant to the proposal. 
+
+E. 
+
+Where additional information is provided to the Chief Building Official in response to a 
+written notice provided under Subsection D(2) or at any time requiring additional review 
+or re-examination of the proposal by the Chief Building Official, the Zoning Certificate 
+applicant shall be required to pay an additional fee equal to the greater of: 
+
+(1) 
+
+10 percent of the original Zoning Certificate application fee charged as per 
+§ 363-4.3.A; or  
+
+(2) 
+
+the hourly rate for examination set out in Chapter 441, Fees and Charges. 
+
+F. 
+
+G. 
+
+If substantial changes are made to a proposal after the review of the Zoning Certificate 
+application has been completed, a new Zoning Certificate application must be made 
+accompanied by the full fees in accordance with § 363-4.2. 
+
+A Zoning Certificate issued by the Chief Building Official pursuant to subsection D may 
+only be filed with a building permit application pursuant to §§ 363-3.2A and 363-3.3A 
+provided: 
+
+(1) 
+
+(2) 
+
+the building permit application is made within one year of the date of the issuance 
+of the Zoning Certificate; and 
+
+there have been no changes to the Building Code or to any applicable law as 
+defined in sentence 1.4.1.3.(1) of Division A of the Building Code which apply to 
+the proposal between the date the Zoning Certificate was issued and the date on 
+which the building permit application is made. 
+
+363-53 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Article 3 
+Permits 
+
+§ 363-3.1. Classes of permits. 
+
+A. 
+
+The classes of required permits and the corresponding permit fees for construction, 
+demolition and change of use of buildings are set out in Chapter 441, Fees and Charges. 
+
+§ 363-3.2. Building permit applications with a Zoning Certificate. 
+
+A.  Where an application for a building permit is made with a Zoning Certificate along with 
+
+all the required information set out in § 363-3.3A, the building permit application shall be 
+deemed by the Chief Building Official to be complete such that the periods within which 
+a building permit shall be issued or refused as prescribed in sentence 1.3.1.3 of Division 
+A of the Building Code shall apply as at the date of the filing of the application. 
+
+B.  Where an application for a building permit is made to the Chief Building Official without 
+a Zoning Certificate or where the drawings submitted with the building permit are not in 
+accordance with the approved Zoning Certificate drawings, the building permit 
+application shall be deemed by the Chief Building Official to be incomplete such that the 
+periods within which a building permit shall be issued or refused as prescribed in 
+sentence 1.3.1.3 of Division A of the Building Code will not apply. 
+
+§ 363-3.3. Building permit application requirements. 
+
+A.  Where an application for a building permit is made with a Zoning Certificate, it shall: 
+
+(1) 
+
+Be in a form prescribed by the Minister; 
+
+(2)  
+
+(3) 
+
+Identify and describe in detail the work, use and occupancy for which the building 
+permit application is made; 
+
+Identify and describe in detail the existing use and the proposed use for the 
+premises; 
+
+(4) 
+
+Identify the subject municipal address and legal description;  
+
+(5) 
+
+Be accompanied by the plans, specifications, documents and other information 
+necessary for the complete review of the building permit submission, as required 
+by the Chief Building Official and in accordance with § 363-3.5 including all 
+architectural, structural, mechanical, plumbing and electrical drawings and details, 
+including shoring drawings and details, where the construction method will 
+require such systems;  
+
+(6)  Where required by the Chief Building Official, be accompanied by a code 
+compliance report prepared by an architect or professional engineer; 
+
+(7)  Where required by the Chief Building Official, be accompanied by a geotechnical 
+
+report prepared by a professional engineer; 
+
+363-54 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(8)  Where required by the Chief Building Official, be accompanied by a report from a 
+
+professional engineer with respect to the impact of vibration from the proposed 
+construction methods and the measures to be employed to mitigate such impacts; 
+
+(9) 
+
+Be accompanied by the full building permit fees required by this article; 
+
+(10)  State the names, addresses, telephone numbers and email addresses of the owner, 
+applicant, architect, engineer, or other designer for the work applied for; 
+
+(11) 
+
+(12) 
+
+If Subsection 1.2.2 of Division C Part 1 of the Building Code applies, be 
+accompanied by a signed acknowledgement of the owner on the form prescribed, 
+that an architect or professional engineer or both have been retained; 
+
+If Subsection 1.2.2 of Division C Part 1 of the Building Code applies, be 
+accompanied by a signed statement from the architect or professional engineer or 
+both on the form prescribed, undertaking to provide a general review; 
+
+(13) 
+
+Include where applicable, the registration number of the builder or vendor as 
+provided in the Ontario New Home Warranties Plan Act; 
+
+(14)  State the estimated valuation of the proposed work, including material, labour and 
+related direct cost associated with the work, exclusive of the cost of the land; 
+
+(15)  State the erection and removal date for all temporary buildings; and 
+
+(16)  Be accompanied by documentation that confirms or demonstrates compliance 
+
+with any required applicable law as set out in sentence 1.4.1.3 of Division A 
+Part 1 of the Building Code. 
+
+B. 
+
+An application for a building permit without a Zoning Certificate will only be accepted 
+by the Chief Building Official provided: 
+
+(1) 
+
+(2) 
+
+It meets the requirements of Subsections A(1), (2), (3), (4), (5), (6), (7), (8), (10), 
+(11), (12), (13) and (14); and 
+
+It is accompanied by a payment equal to the preliminary estimate of the fees 
+required by this chapter, or if the preliminary estimate of the fees required is more 
+than $20,000, the payment shall be the greater of $20,000 or an amount equal to 
+60 percent of the estimated full building permit fees required by this chapter. 
+
+As part of the first building permit application on each lot within a newly created plan of 
+subdivision, in addition to the requirements of Subsection A, the application shall include 
+a lot grading and building siting control plan prepared by a professional engineer. 
+
+As part of a building permit application to construct a new house, in addition to the 
+requirements of Subsection A, the application shall include a lot grading plan prepared 
+by: 
+
+C. 
+
+D. 
+
+(1) 
+
+An Ontario Land Surveyor; 
+
+363-55 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(2) 
+
+An engineer registered as a member of the Professional Engineers of Ontario; 
+
+(3) 
+
+An architect registered as a member of the Ontario Association of Architects; 
+
+(4) 
+
+A member of the Ontario Association of Landscape Architects;  
+
+(5) 
+
+A certified member of Association of Architectural Technologists of Ontario;  
+
+(6) 
+
+(7) 
+
+A certified member of Ontario Association of Certified Engineering Technicians 
+and Technologists; or 
+
+Any other professional deemed qualified by the Chief Building Official to prepare 
+a lot grading plan. 
+
+§ 363-3.4. Demolition permit application requirements.  
+
+A. 
+
+Every building permit application that includes demolition shall: 
+
+(1)  Meet the requirements of § 363-3.3A or B as applicable; 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+Be accompanied by plans, specifications, documents and other information 
+necessary for the complete review of the demolition permit submission; 
+
+Be accompanied by the information set out in Schedule A to this chapter unless 
+the building to be demolished is a house;  
+
+If Article 1.2.2 of Division C Part 1 of the Building Code applies, be accompanied 
+by structural design characteristics of the building and the method and time 
+schedule of demolition; and 
+
+If Sentence 1.2.2.3 of Division C Part 1 of the Building Code applies, be 
+accompanied by confirmation on a form prescribed by the Chief Building Official 
+that a professional engineer has been retained to undertake the general review of 
+the demolition. 
+
+§ 363-3.5. Plans and specifications general requirements. 
+
+A. 
+
+Every application for Preliminary Project Review, Zoning Certificate and permit shall 
+include: 
+
+(1) 
+
+(2) 
+
+Sufficient plans, specifications and documents, as required by the Chief Building 
+Official, to determine whether the proposed construction, demolition or change of 
+use will conform to the Act, the Building Code, and any other applicable law;  
+
+A site plan referenced to an up to date plan of survey certified by an Ontario Land 
+Surveyor, and a copy of the survey shall be filed with the City unless this 
+requirement is waived because the Chief Building Official is able, without having 
+an up to date plan of survey, to determine whether the proposed work conforms to 
+the Act, the Building Code or any other applicable law; and 
+
+363-56 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(3) 
+
+For the purpose of Subsection A(2), an up to date plan of survey means a survey 
+that accurately reflects the property as at the time the application is submitted to 
+the Chief Building Official regardless of when the survey was prepared. 
+
+B. 
+
+The site plan referred to in Subsection A(2) shall include: 
+
+(1) 
+
+(2) 
+
+Lot size and dimensions of the property and setbacks to any existing or proposed 
+buildings; 
+
+Existing and finished ground elevations of the property and the elevations of the 
+streets abutting the property; 
+
+(3) 
+
+Existing rights-of-way, easements and municipal services; 
+
+(4) 
+
+(5) 
+
+Dimensions of setbacks of proposed buildings from buildings located on adjacent 
+lots; and 
+
+Dimensions of setbacks of buildings located on adjacent lots from their respective 
+front property lines. 
+
+Plans and forms submitted under Subsection A and as required by the Chief Building 
+Official shall be legible and be drawn to scale, in an electronic format conforming to all 
+applicable guidelines as prescribed by the Chief Building Official.  
+
+Applications will not be accepted unless the requirements of Subsections A to C have 
+been met and the applicable fees have been paid. 
+
+The Chief Building Official may request the submission of one hard copy of the plans 
+specifications, documents, or other information necessary for the complete review of the 
+permit submission upon paper or other suitable or durable material.  
+
+The original of any approval from another City Division, Board, Agency or other external 
+agency shall be submitted together with an electronic version.  
+
+The Chief Building Official may require additional information to be provided at any 
+time prior to the completion of work.  
+
+On completion of the construction of a building, the Chief Building Official may require 
+a set of as-constructed plans, including a plan of survey showing the location of the 
+building.  
+
+On completion of the construction of a house in a new created plan of subdivision, a site 
+certificate of conformance prepared by a professional engineer shall be provided to the 
+Chief Building Official confirming that the building permit drawings conform to the 
+subdivision grading and building siting control plan and the lot grading and building 
+siting control plan submitted in accordance with § 363-3.3C. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+H. 
+
+I. 
+
+J. 
+
+On completion of the construction of a new house, a lot grading certificate shall be 
+provided to the Chief Building Official from one of the professionals listed in § 363-3.3D 
+
+363-57 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+confirming that the grading was carried out in accordance with the lot grading plan 
+submitted in accordance with § 363-3.3D. 
+
+K. 
+
+Plans and specifications furnished according to this chapter or otherwise required by the 
+Act become the property of the municipality and will be disposed of or retained in 
+accordance with relevant legislation. 
+
+§ 363-3.6. Partial permit. 
+
+A.  Where a building permit application for the construction of a building has been accepted 
+by the Chief Building Official, a building permit application for part of the building may 
+be made. 
+
+B. 
+
+The Chief Building Official's review of a building permit for part of a building shall be 
+based on the plans and specifications submitted with the original building permit 
+application for the building, and no further documentation need be submitted unless 
+required by the Chief Building Official. 
+
+C.  Where a building permit is issued for part of a building, the partial permit does not 
+authorize construction beyond the plans for which the approval is given, nor does it 
+represent or imply that approval will be granted for the entire building. 
+
+§ 363-3.7. Conditional permit. 
+
+A.  Where an application for a conditional permit is made under subsection 8(3) of the Act, 
+
+the application shall: 
+
+(1)  Meet the requirements of § 363-3.3B as applicable; 
+
+(2) 
+
+(3) 
+
+(4) 
+
+State the reasons why the owner believes that unreasonable delays in construction 
+would occur if a conditional permit is not granted; 
+
+Identify the necessary approvals which must be obtained in respect to the 
+proposed building and the time in which such approvals will be obtained; and 
+
+Be subject to the registered owner and such other person as the Chief Building 
+Official determines entering into an agreement as provided in Subsection 8(3) of 
+the Act. 
+
+B. 
+
+The Chief Building Official is authorized to take the following actions with respect to the 
+processing of conditional permit agreements under section 8 of the Act: 
+
+(1) 
+
+(2) 
+
+Approve entering into a conditional permit agreement and executing the 
+agreement on behalf of the City; 
+
+Approve an assignment of a conditional permit agreement and execute the 
+consent to the assignment of the agreement on behalf of the City; and  
+
+363-58 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(3) 
+
+Approve the release of a registered conditional permit agreement when the 
+agreement is no longer necessary and execute the release of the agreement on 
+behalf of the City. 
+
+C.  Where the conditions in subsections 8(3) to 8(5) of the Act and Subsection A have been 
+
+satisfied, the Chief Building Official may issue a conditional permit for a building subject 
+to compliance with the Act, the Building Code and any other applicable law. 
+
+D.  Where a conditional permit is issued for all or part of a building or project, the 
+
+conditional permit does not authorize construction beyond the plans for which approval is 
+given, nor does it represent or imply that approval will be granted for the entire building 
+or project. 
+
+§ 363-3.8. Change of use permit. 
+
+A.  Where an application is made for a change of use permit under subsection 10(1) of the 
+
+Act, the application shall: 
+
+(1)  Meet the requirements of § 363-3.3B or C as applicable; 
+
+(2) 
+
+Describe the building or part of it in which the occupancy is to be changed; 
+
+(3) 
+
+Include plans and specifications which show the current and proposed occupancy 
+of all parts of the building, and include sufficient information to establish 
+compliance with the requirements of the Building Code including but not limited 
+to floor plans, and details of wall, floor and roof assemblies identifying required 
+fire-resistance ratings and load-bearing capacities; and 
+
+(4) 
+
+Shall include any other information which may be required by the Chief Building 
+Official. 
+
+§ 363-3.9. Certified plans application. 
+
+A. 
+
+A certified plans application may be made to the Chief Building Official by: 
+
+(1) 
+
+Filing an application form as prescribed by the Chief Building Official; 
+
+(2) 
+
+Filing the plans proposed to be certified along with any other specifications, 
+documents and information necessary for the review of the submission and as 
+may be required by the Chief Building Official; and 
+
+(3) 
+
+By paying the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+B. 
+
+Plans and forms submitted under Subsection A(2) shall be legible and drawn to scale, in 
+an electronic format conforming to all applicable guidelines as prescribed by the Chief 
+Building Official, and if required by the Chief Building Official, upon paper or other 
+suitable or durable material. 
+
+C. 
+
+All certified plans shall be assigned a certification number by the Chief Building Official. 
+
+363-59 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+D.  Where an application for permit is made to the Chief Building Official in reliance upon 
+
+certified plans, the permit application shall not be accompanied by the certified plans 
+provided the certification number for the certified plans is provided with the permit 
+application, unless otherwise required by the Chief Building Official.  
+
+§ 363-3.10. Authority to approve and execute limiting distance agreements. 
+
+A. 
+
+The authority to approve entering into limiting distance agreements under the Building 
+Code and to execute such agreements on behalf of the City is delegated to the Chief 
+Building Official where the following conditions are met: 
+
+(1) 
+
+No land owned by the City is affected by the agreement; 
+
+(2) 
+
+The agreement does not impose any obligations on the City; and 
+
+(3) 
+
+The agreement is satisfactory to the City Solicitor. 
+
+§ 363-3.11. Alternative solutions. 
+
+A.  Where an alternative solution is being proposed pursuant to section 2.1 of Division C of 
+
+the Building Code in connection with a building permit application or building permit 
+issued, an application for approval of the alternative solution shall be made to the Chief 
+Building Official by: 
+
+(1) 
+
+Filing an application form as prescribed by the Chief Building Official; 
+
+(2) 
+
+Filing the plans, specifications, tests and documents necessary for the review in 
+accordance with sentences 2.1.1.1 and 2.1.1.2 of Division C of the Building Code 
+as applicable and as may be required by the Chief Building Official; and 
+
+(3) 
+
+Paying the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+B. 
+
+After reviewing the documentation filed with the application for approval of an 
+alternative solution, the Chief Building Official may require the applicant to obtain a Peer 
+Review of the application if deemed necessary by the Chief Building Official to evaluate 
+the proposed alternative solution. 
+
+C.  Where the Chief Building Official requires a Peer Review in accordance with 
+
+Subsection B, the Chief Building official may identify specific questions required to be 
+addressed and considered in the Peer Review. 
+
+D.  Where the Chief Building Official requires a Peer Review in accordance with 
+
+Subsection B, the applicant shall file a Peer Review Report with the Chief Building 
+Official. 
+
+E. 
+
+A Peer Review Report filed with the Chief Building Official in accordance with 
+Subsection D shall: 
+
+363-60 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+include a summary of the expert's qualifications, and a copy of the expert's 
+curriculum vitae shall be attached; 
+
+provide comments regarding all questions specifically identified by the Chief 
+Building Official pursuant to Subsection C; 
+
+clearly explain the basis for the expert's opinion and set out what documentation 
+is relied upon by the expert in support of the opinion; and 
+
+be accompanied by a certificate as prescribed by the Chief Building Official 
+signed by the expert acknowledging: 
+
+(a) 
+
+(b) 
+
+the expert's duty to provide an independent opinion regarding the 
+proposed alternative solution; and 
+
+that the Chief Building Official may rely on the Peer Review Report in 
+considering the proposed alternative solution. 
+
+F. 
+
+The cost of obtaining a Peer Review and a Peer Review Report shall be borne by the 
+applicant and shall be paid by the applicant directly to the expert carrying out the Peer 
+Review. 
+
+G.  Where the Chief Building Official requires a Peer Review in accordance with 
+
+Subsection B, the Chief Building Official will not render a decision regarding the 
+proposed alternative solution unless the requirements of Subsections D and E are met. 
+
+§ 363-3.12. Abandoned application. 
+
+A.  Where any application made under this chapter and/or the Act remains inactive or 
+
+incomplete for six months after it is made, the application may be deemed by the Chief 
+Building Official to have been abandoned without notice.  
+
+§ 363-3.13. Transfer of permit. 
+
+A.  Where a property which is the subject of a permit or permit application has been sold, the 
+permit or permit application will be transferred by the Chief Building Official to the new 
+registered owner of the property only upon receipt of: 
+
+(1) 
+
+(2) 
+
+a declaration form, as prescribed by the Chief Building Official, executed by the 
+new registered owner of the property declaring that the transfer of the permit or 
+permit application has been authorized by the previous owner of the property; 
+
+a copy of the transfer deed of land registered in accordance with the provisions of 
+the Land Titles Act; and 
+
+(3) 
+
+the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+B.  Where the holder of a permit issued by the Chief Building Official is a tenant of the 
+
+subject property or where a permit application has been made by or on behalf of a tenant 
+
+363-61 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+of the subject property, and where the subject property is thereafter leased by a new 
+tenant, the permit or permit application will be transferred by the Chief Building Official 
+to the new tenant of the subject property only upon receipt of: 
+
+(1) 
+
+a declaration form, as prescribed by the Chief Building Official, executed by the 
+new tenant declaring that the transfer of the permit or permit application has been 
+authorized by the previous tenant; and  
+
+(2) 
+
+the applicable fee as set out in Chapter 441, Fees and Charges. 
+
+§ 363-3.14. Notice of readiness for inspection. 
+
+A. 
+
+B. 
+
+In addition to the notices of readiness for inspection required pursuant to section 10.2 of 
+the Act at each stage of construction set out in sentence 1.3.5.1 of Division C, Part 1, of 
+the Building Code, notice of readiness for inspection shall be provided to the Chief 
+Building Official at the stages of construction set out in sentence 1.3.5.2.(1)(a), (d), (g) 
+and (j) of Division C, Part 1, of the Building Code.  
+
+All notices of readiness for inspection shall be provided to the Chief Building Official by 
+means specified by the Chief Building Official and posted on the City of Toronto 
+website. 
+
+§ 363-3.15. Revocation of permit. 
+
+A. 
+
+As used in this section, the following terms shall have the meanings indicated: 
+
+Notice of Intention to Revoke - A written notice from the Chief Building Official 
+advising of the Chief Building Official's intention to revoke a permit. 
+
+Notice of Objection to Revocation - A written notice from the permit holder or the 
+authorized agent of the permit holder on a form prescribed by the Chief Building Official 
+objecting to the revocation of a permit and setting out the reasons why the permit should 
+not be revoked. 
+
+Notice of Revocation - A written notice from the Chief Building Official advising that a 
+permit was revoked on the date of this notice. 
+
+B.  Where a permit holder requests in writing that a permit be revoked pursuant to 
+
+subsection 8(10)(e) of the Act, the Chief Building Official may revoke the permit by 
+serving the permit holder with a notice of revocation.  
+
+C. 
+
+Prior to revoking a permit pursuant to subsections 8(10)(a), (b), (c), (d) and/or (f) of the 
+Act, the Chief Building Official shall serve the permit holder with a notice of intention to 
+revoke setting out the date upon which the permit will be revoked and the reasons for the 
+revocation.  
+
+D.  Where a notice of intention to revoke has been served on a permit holder by the Chief 
+
+Building Official in reliance upon subsection 8(10)(b) of the Act: 
+
+363-62 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(1) 
+
+(2) 
+
+(3) 
+
+If no request for inspection has been made to the Chief Building Official by the 
+date of intended revocation set out in the notice of intention to revoke, the Chief 
+Building Official shall revoke the permit and serve the permit holder with a notice 
+of revocation;  
+
+If a request for inspection is made to the Chief Building Official prior to the date 
+of intended revocation set out in the notice of intention to revoke, and if the Chief 
+Building Official is satisfied upon inspection that the construction or demolition 
+in respect of which the permit was issued has been seriously commenced, the 
+permit will not be revoked; and 
+
+If a request for inspection is made to the Chief Building Official prior to the date 
+of intended revocation set out in the notice of intention to revoke but the Chief 
+Building Official is not satisfied upon inspection that the construction or 
+demolition in respect of which the permit was issued has been seriously 
+commenced, the Chief Building Official shall revoke the permit and serve the 
+permit holder with a notice of revocation. 
+
+E. 
+
+Where a notice of intention to revoke has been served on a permit holder by the Chief 
+Building Official in reliance upon subsection 8(10)(c) of the Act: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+If no request for inspection has been made to the Chief Building Official by the 
+date of intended revocation set out in the notice of intention to revoke, the Chief 
+Building Official may revoke the permit and serve the permit holder with a notice 
+of revocation;  
+
+If a request for inspection is made to the Chief Building Official prior to the date 
+of intended revocation set out in the notice of intention to revoke, and if the Chief 
+Building Official is satisfied upon inspection that the construction or demolition 
+in respect of which the permit was issued has seriously resumed, the permit will 
+not be revoked; and 
+
+If a request for inspection is made to the Chief Building Official prior to the date 
+of intended revocation set out in the notice of intention to revoke but the Chief 
+Building Official is not satisfied upon inspection that the construction or 
+demolition in respect of which the permit was issued has seriously resumed, the 
+Chief Building Official shall revoke the permit and serve the permit holder with a 
+notice of revocation. 
+
+F. 
+
+Where a notice of intention to revoke has been served on a permit holder by the Chief 
+Building Official in reliance upon subsection 8(10)(a), (d) and/or (f) of the Act: 
+
+(1) 
+
+If no notice of objection to revocation is served on the Chief Building Official 
+within 20 days of the date of service of the notice of intention to revoke, the Chief 
+Building Official shall revoke the permit and serve the permit holder with a notice 
+of revocation; 
+
+363-63 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(2) 
+
+If a notice of objection to revocation is served on the Chief Building Official 
+within 20 days of the date of service of the notice of intention to revoke, the Chief 
+Building shall consider the reasons for objection and then may:  
+
+(a) 
+
+(b) 
+
+(c) 
+
+determine that no grounds exist to revoke the permit in which case the 
+Chief Building Official shall not revoke the permit;  
+
+determine that there are grounds to revoke the permit, revoke the permit 
+and serve the permit holder with a notice of revocation; or 
+
+determine that there are grounds to revoke the permit but may, where 
+appropriate, provide the permit holder with an opportunity to take the 
+necessary steps to eliminate the grounds of revocation in which case the 
+Chief Building Official: 
+
+[1] 
+
+[2] 
+
+[3] 
+
+shall not revoke the permit if the steps necessary to eliminate the 
+grounds of revocation have been successfully taken by the permit 
+holder;  
+
+shall revoke the permit and serve a notice of revocation if the steps 
+necessary to eliminate the grounds of revocation have not been 
+taken by the permit holder within the time specified by the Chief 
+Building Official or within a reasonable time if no time has been 
+specified; or 
+
+shall revoke the permit and serve a notice of revocation if steps 
+taken by the permit holder have not been successful in eliminating 
+the grounds of revocation. 
+
+(3) 
+
+Notwithstanding Subsections F(1) and (2), the Chief Building Official may 
+revoke a permit at any time following the service of a notice of intention to 
+revoke by serving a notice of revocation on the permit holder where: 
+
+(a) 
+
+the permit authorized the demolition or partial demolition of a building; or 
+
+(b) 
+
+work pursuant to the permit has continued following the service of the 
+notice of intention to revoke on the permit holder and prior to a final 
+determination by the Chief Building Official regarding whether the permit 
+will be revoked in accordance with Subsections F(1) and (2). 
+
+G. 
+
+Notices of intention to revoke and notices of revocation may be served by the Chief 
+Building Official on the permit holder personally, by e-mail, by regular mail, or by 
+registered mail to the permit holder's last known address. When served by e-mail, the 
+notice shall be deemed to have been served on the date the e-mail is sent. When served by 
+regular mail or registered mail, the notice shall be deemed to have been served on the 
+third day after it is mailed. 
+
+363-64 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+Article 4 
+Fees 
+
+§ 363-4.1. General. 
+
+A. 
+
+All fees required by this chapter shall be as set out in Chapter 441, Fees and Charges, 
+subject to the provisions of this chapter. 
+
+§ 363-4.2. Zoning Certificate application fees. 
+
+A. 
+
+The fee for a Zoning Certificate application shall be: 
+
+(1) 
+
+(2) 
+
+25 percent of the total building permit fees applicable to the proposal as 
+calculated in accordance with Chapter 441, Fees and Charges, and this chapter; 
+and 
+
+an additional 10 percent of the amount calculated under (1) for each additional 
+review required prior to the issuance of a Zoning Certificate. 
+
+Notwithstanding Subsection A, the fee for a Zoning Certificate application shall not be 
+less than the minimum hourly rate set out in Chapter 441, Fees and Charges. 
+
+Provided the drawings submitted with a building permit application are in accordance 
+with the approved Zoning Certificate drawings, the Zoning Certificate application fees 
+paid in accordance with Subsection A(1) shall be credited in full to the subsequent 
+building permit application such that the total building permit fees calculated under 
+§ 363-4.3B shall be reduced by these Zoning Certificate application fees. 
+
+B. 
+
+C. 
+
+§ 363-4.3. Permit fees. 
+
+A.  When an application for a permit is made, the permit fees as calculated by the Chief 
+
+Building Official shall be paid. 
+
+B. 
+
+The Chief Building Official shall calculate the required permit fees using the formula 
+below: 
+
+Permit fee = SI x A 
+
+Where: 
+
+SI = Service Index classification of the work proposed. The Service Index is the fee set 
+out in Chapter 441, Fees and Charges. 
+
+A = Floor area in square metres of the proposed work 
+
+C. 
+
+Notwithstanding subsection B, the total permit fees shall not be less than the minimum 
+fee set out in Chapter 441, Fees and Charges. 
+
+363-65 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+H. 
+
+If new, additional or revised information is submitted in connection with a permit 
+application which relates to or revises information which has already been reviewed, the 
+additional review time spent, measured to the nearest whole hour, multiplied by the 
+Hourly Rate outlined in Chapter 441, Fees and Charges, shall be charged in order to 
+compensate the City for the additional plan examination work and expense and shall be 
+paid by the applicant or owner in addition to the fees calculated in Subsection B. 
+
+Where construction has commenced prior to the issuance of a building permit authorizing 
+the construction, in addition to the fees calculated under Subsection B, an additional fee 
+totalling 50 percent of the total permit fees calculated under Subsection B to a maximum 
+amount set out in Chapter 441, Fees and Charges, shall be charged and paid. 
+
+In addition to the fees calculated in Subsection B, there shall be an additional fee for each 
+newly proposed residential unit in accordance with Chapter 441, Fees and Charges. 
+
+No permit shall be issued until the total amount of fees charged and owing has been paid. 
+
+Notwithstanding Subsection G, where the total permit fees are greater than $20,000, a 
+part permit for excavation and shoring may be issued before the total amount of fees 
+charged and owing has been paid provided the payment required by § 363 3.3B(2) has 
+been paid. 
+
+I. 
+
+The following directions shall be followed by the Chief Building Official when 
+calculating permit fees: 
+
+(1) 
+
+(2) 
+
+The floor area of the proposed work shall be measured to the outer face of 
+exterior walls and to the centre line of party walls or demising walls, including 
+attached garages; 
+
+For interior alterations or renovations, the calculated area of work shall be the 
+total area affected by the proposal; 
+
+(3)  Mechanical penthouses and floors, mezzanines, lofts, habitable attics, balconies, 
+
+terraces and exterior amenity areas shall be included in all floor area calculations; 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(7) 
+
+Porches and decks shall be charged the stand-alone rate as outlined in 
+Chapter 441, where there is a proposal for a new single detached, semi-detached, 
+duplex or townhouse dwellings; 
+
+No deductions shall be made for openings within the floor area with the exception 
+of interconnected floor spaces; 
+
+Unfinished basements for new single detached, semi-detached, duplex and 
+townhouse dwellings shall not be included in the floor area; 
+
+Fireplaces proposed within new floor area of a single detached, semi-detached, 
+duplex or townhouse dwelling shall be charged the Group C rate for the area that 
+they occupy; 
+
+363-66 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+(8)  Where interior alterations and renovations require relocation of sprinkler heads or 
+
+fire alarm components, no additional charge shall apply. Where interior 
+alterations and renovations require replacement or extensive modification of 
+sprinkler heads or fire alarm components, the applicable fee rate shall apply; 
+
+(9) 
+
+The Service Index for ceiling shall apply only when stand-alone ceiling 
+alterations occur in existing applications. Minor alterations to existing ceilings to 
+accommodate lighting or HVAC improvements shall not be chargeable; 
+
+(10)  The Service Index for structural floor replacement shall apply only when stand-
+
+alone structural floor replacement occurs; 
+
+(11)  Corridors, circulation space, lobbies, washrooms, and lounges and other such 
+common areas shall be included and classified according to the major 
+classification for the floor area on which they are located;  
+
+(12)  Where it is proposed to replace a pre-engineered fire suppression system, the 
+
+minimum fee shall be charged; 
+
+(13)  Where a sales pavilion is proposed, the fee shall be the new Group D construction 
+
+fee index; 
+
+(14)  Window replacements in existing opening for single detached, semi-detached, 
+
+duplex and townhouse dwellings shall not be charged; 
+
+(15)  No additional fee shall be charged if a green roof is part of permit application for 
+a new building or where a green roof is included as part of an addition to an 
+existing building; and 
+
+(16)  The occupancy categories in Chapter 441, Fees and Charges, correspond with the 
+major occupancy classifications in the Building Code. For mixed occupancy floor 
+areas, the Service Index for any of the applicable occupancy categories may be 
+used except where an occupancy category makes up less than 10 percent of the 
+floor area.  
+
+§ 363-4.4. Purpose built rental fee. 
+
+A.  Where an applicant or owner submits written authorization from Council of the City of 
+Toronto exempting the charge of building permit fees given that the proposed building 
+contains purpose-built rental units, the purpose built rental fee shall be charged in 
+accordance with Chapter 441, Fees and Charges, instead of the permit fees calculated 
+under § 363-4.3. 
+
+§ 363-4.5. Alternative solution request fee. 
+
+A. 
+
+The fee for an application to the Chief Building Official for approval of an alternative 
+solution submission shall be as set out in Chapter 441, Fees and Charges. 
+
+§ 363-4.6. Energy devices and equipment fee. 
+
+363-67 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+A. 
+
+Notwithstanding § 363-4.5, where a fee for energy devices and equipment is charged and 
+paid in accordance with Chapter 441, Fees and Charges, no additional fee shall be 
+payable to evaluate such energy devices and equipment as an alternative solution 
+submission. 
+
+§ 363-4.7. Marijuana grow operation assessment fee. 
+
+A. 
+
+Enforcement charges, as defined in Chapter 565, Marijuana Grow Operations, incurred 
+by the Chief Building Official in respect of a property identified as a marijuana grow 
+operation shall be as prescribed in Chapter 441, Fees and Charges. 
+
+§ 363-4.8. Records disclosure fee. 
+
+A. 
+
+Requests to the Chief Building Official for the disclosure of plans, files, drawings, or any 
+other record shall be accompanied by the payment of a fee for each plan, file, drawing or 
+record requested calculated in accordance with the fees prescribed in Chapter 441, Fees 
+and Charges. 
+
+§ 363-4.9. Fees for other services 
+
+A. 
+
+Applicable fees for classes of permits or services not described or included in this article 
+shall be calculated on the following basis: 
+
+(1) 
+
+A fee per $1,000.00 of prescribed construction value set out in Chapter 441, Fees 
+and Charges; or 
+
+(2)  Where there is no prescribed construction value, the hourly rate shall be charged 
+
+as set out in Chapter 441, Fees and Charges. 
+
+B. 
+
+For the purposes of Subsections A(1) and (2), prescribed construction value will be 
+established by the Chief Building Official on an annual basis. 
+
+§ 363-4.10. Minimum fee exemptions. 
+
+A. 
+
+The minimum fee set out in Chapter 441, Fees and Charges, shall not apply to: 
+
+(1) 
+
+Preliminary Project Reviews; 
+
+(2) 
+
+Zoning Certificate application resubmissions; 
+
+(3) 
+
+Subscription for Building Permit Activity Reports; 
+
+(4) 
+
+Inspection status reports; 
+
+(5) 
+
+Printing, scanning and copying; and 
+
+(6) 
+
+Routine disclosure. 
+
+§ 363-4.11. Refunds. 
+
+363-68 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+A. 
+
+A written request for the refund of fees may be made to the Chief Building Official in the 
+case of and no later than one year after: 
+
+(1) 
+
+The withdrawal or cancellation of an application made under this chapter; 
+
+(2) 
+
+The abandonment of an application pursuant to § 363-3.12; and 
+
+B. 
+
+C. 
+
+(3) 
+
+Revocation of a permit pursuant to subsections 8(10)(b), (d) and (e) of the Act. 
+
+Any written request to the Chief Building Official to cancel or withdraw an application 
+made under this chapter and any written request to the Chief Building Official to revoke a 
+permit pursuant to Subsection 8(10)(e) of the Act shall be deemed to be a written request 
+for the refund of fees for the purposes of Subsection A. 
+
+Notwithstanding Subsection A, no written request for the refund of fees shall be made 
+and no refund of fees is payable in respect of preliminary project reviews, certified plans 
+applications, Subscription for Building Permit Activity Reports, Property Information 
+Reports, Inspection Status Reports and Conditional Permit applications. 
+
+D.  Where a written request for the refund of fees is made to the Chief Building Official in 
+
+accordance with Subsection A, the Chief Building Official shall determine the amount of 
+fees, if any, that may be refunded in accordance with Chapter 441, Fees and Charges, and 
+this chapter. 
+
+E. 
+
+The amount of fees refundable shall be calculated as follows: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+If an application is cancelled prior to carrying out any review, the refund shall be 
+equal to 75 percent of the total required fees for the application; 
+
+If an application is cancelled prior to issuance but the review had started, the 
+refund shall be equal to 50 percent of the total required fees for the application; 
+
+If a permit has been issued, the refund shall be equal to 40 percent of the total 
+required permit fees minus the minimum permit fee for each field inspection 
+carried out up to the date of revocation; 
+
+(4)  Where the amount of the fees paid was less than the total required fees, the 
+amount of the refund shall be reduced by the amount of fees owing;  
+
+(5)  Where the amount of the fees paid exceeded the total required fees, the amount of 
+
+the refund shall equal the difference between the amount paid and total required 
+fees; 
+
+(6)  Where the amount of fees refundable as calculated under this section is less than 
+
+the minimum fee applicable to the work, there shall be no refund; and  
+
+(7) 
+
+Notwithstanding subsections (1) to (6), costs associated with printing, scanning 
+and copying are not refundable. 
+
+363-69 
+
+March 1, 2023 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 363, BUILDING CONSTRUCTION AND DEMOLITION 
+
+F. 
+
+Refunds shall be made payable to the party who paid the fees or to other persons if so 
+authorized in writing by the party who paid the fees. 
+
+363-70 
+
+March 1, 2023 
+
+

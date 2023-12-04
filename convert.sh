@@ -4,7 +4,7 @@
 convert_pdf_to_txt() {
   local pdf_file="$1"
   local output_folder="$2"
-  local txt_file="$output_folder/$(basename "${pdf_file%.pdf}.html")"
+  local txt_file="$output_folder/$(basename "${pdf_file%.pdf}.txt")"
   pdf2txt.py --outfile "$txt_file" "$pdf_file" 
   echo "Converted $pdf_file to $txt_file"
 }

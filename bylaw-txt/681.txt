@@ -1,0 +1,4748 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Chapter 681 
+
+SEWERS 
+
+ARTICLE I 
+Sewage and Land Drainage 
+
+§ 681-1. Definitions. 
+
+§ 681-1.1. Administration. 
+
+§ 681-2. Sanitary and combined sewer requirements. 
+
+§ 681-3. Prohibition of dilution. 
+
+§ 681-4. Storm sewer requirements. 
+
+§ 681-5. Pollution prevention planning. 
+
+§ 681-6. Agreements. 
+
+§ 681-7. Compliance program. 
+
+§ 681-8. Sampling and analytical requirements. 
+
+§ 681-9. Spills. 
+
+§ 681-10. General. 
+
+§ 681-11. Sewer connections. 
+
+§ 681-12. Confidential information. 
+
+§ 681-12.1. Contact information. 
+
+§ 681-12.2. Access. 
+
+§ 681-13. Self-monitoring and sampling. 
+
+§ 681-13.1. Powers and authority of the General Manager or Inspector. 
+
+§ 681-13.2. General prohibitions and liability for damage. 
+
+§ 681-14. Offences. 
+
+§ 681-14.1. Penalties. 
+
+§ 681-14.2. General enforcement powers. 
+
+681-1 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+§ 681-14.3. Document retention. 
+
+§ 681-14.4. Notice. 
+
+§ 681-14.5. Severability. 
+
+§ 681-15. Repealer; impact on existing agreements; effective dates. 
+
+Chapter 681, Article I,  Appendix 1,  Subject Sectors 
+
+Chapter 681, Article I,  Attachment 1,  City of Toronto Combined Sewer Service Area 
+
+Chapter 681, Article I,  Attachment 2,  City of Toronto Basement Flooding Areas (Ouside 
+
+the CSO Areas) 
+
+[History: Adopted by the Council of the City of Toronto as indicated in article histories. 
+Amendments noted where applicable.] 
+
+General References 
+
+Water and sewage services - See Ch. 849. 
+Water supply - See Ch. 851. 
+Building Code Act, 1992, - See S.O. 1992, c. 23. 
+City of Toronto Act, 2006 - See S.O. 2006, c. 11. 
+Condominium Act, 1998 - See S.O. 1998, c. 19. 
+Environmental Protection Act - See R.S.O. 1990, c. E.19. 
+Municipal Freedom of Information and Protection of Privacy Act - See R.S.O. 1990, c. M.56. 
+Ontario Water Resources Act - R.S.O. 1990, c. O.40. 
+
+ARTICLE I 
+Sewage and Land Drainage 
+
+[Adopted 2000-07-06 by By-law 457-20001] 
+
+§ 681-1. Definitions. 
+
+As used in this article, the following terms shall have the meanings indicated:  
+
+ACCREDITED LABORATORY - Any laboratory accredited by an authorized accreditation 
+body in accordance with a standard based on "ISO/IEC/EN 17025: General Requirements for 
+Competence of Calibration and Testing Laboratories" established by the International 
+Organization for Standardization, as amended. [Added 2005-10-28 by By-law 867-2005] 
+
+ACUTE HAZARDOUS WASTE CHEMICALS - Acute hazardous waste chemicals within the 
+meaning of O. Reg. 347, as amended from time to time, made under the Environmental 
+Protection Act, R.S.O. 1990, c. E.19 (EPA). 
+
+1
+
+ Editor's Note: See § 681-15 for by-laws repealed by this by-law and for effective date information. 
+
+681-2 
+
+May 15, 2023 
+
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+BEST MANAGEMENT PRACTICES (BMP) - An integrated plan established by the General 
+Manager or City Council and any amendments thereof. [Added 2005-10-28 by By-law 867-
+2005; amended 2016-02-04 by By-law 100-2016] 
+
+BIOCHEMICAL OXYGEN DEMAND (BOD) - The five-day BOD which is the determination 
+of the molecular oxygen utilized during a five-day incubation period for the biochemical 
+degradation of organic material (carbonaceous demand), and the oxygen used to oxidize 
+inorganic material such as sulphides and ferrous iron, and the amount of oxygen used to oxidize 
+reduced forms of nitrogen (nitrogenous demand). 
+
+BIOMEDICAL WASTE - Biomedical waste as defined in the Ontario Ministry of the 
+Environment Guideline C-4 entitled "The Management of Biomedical Waste in Ontario" dated 
+April 1994, as amended from time to time. [Added 2005-10-28 by By-law 867-2005] 
+
+BIOSOLIDS - Organic solid material recovered from the wastewater treatment process. 
+
+BLOWDOWN WATER - Recirculating water that is discharged from a cooling or heating water 
+system for the purpose of controlling the level of water in the system or for the purpose of 
+discharging from the system materials contained in the system, the further build-up of which 
+would or might impair the operation of the system. 
+
+COMBINED SEWER - A sewer intended to function simultaneously as a storm sewer and a 
+sanitary sewer. 
+
+COMBUSTIBLE LIQUID - A liquid that has a flash point not less than 37.8 degrees Celsius and 
+not greater than 93.3 degrees Celsius.2 
+
+COMPOSITE SAMPLE - A volume of sewage, storm water, uncontaminated water or effluent 
+made up of three or more grab samples that have been combined automatically or manually and 
+taken at intervals during the sampling periods. 
+
+CONNECTION or DRAIN - That part or those parts of any pipe, channel or conduit or system of 
+pipes, channels or conduits, including any appurtenances, leading directly to sewage 
+works.3[Amended 2013-12-18 by By-law 1696-2013] 
+
+DENTAL AMALGAM - A dental filling material consisting of an amalgam of mercury, silver 
+and other materials such as copper, tin or zinc. [Added 2005-10-28 by By-law 867-2005] 
+
+DENTAL AMALGAM SEPARATOR - Any technology, or combination of technologies, 
+designed to separate dental amalgam particles from dental operation wastewater. [Added 2005-
+10-28 by By-law 867-2005] 
+
+DOUBLE MUNICIPAL SEWER CONNECTION - A municipal sewer connection providing 
+service to two or more premises. 
+
+2
+
+ Editor's Note: The definition of "Commissioner," which previously followed this definition, amended October 28, 2005 by By-law 867-
+2005, was repealed June 22, 2007 by By-law 704-2007. In addition, By-law 704-2007 amended this article to change "Commissioner" to 
+"General Manager." 
+3
+
+ Editor's Note: The definition of "cooling water," which immediately followed this definition, was repealed July 8, 2010 by By-law 868-
+
+2010. 
+
+681-3 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+FOUNDATION DRAIN - a perforated pipe installed beneath the foundation of a building or 
+structure for the purpose of collecting flows from groundwater infiltration and conveying the 
+flows to a sump pump for disposal on the surface of the ground or to a private service connection 
+or drainage system for disposal in a municipal sewer. [Added 2016-02-04 by By-law 100-2016] 
+
+FUELS - Alcohol, gasoline, naphtha, diesel fuel, fuel oil or any other ignitable substance 
+intended for use as a fuel. 
+
+GENERAL MANAGER - The person appointed by the City from time to time as General 
+Manager of Toronto Water or the successors to that position and includes that person's 
+designate(s) or any person(s) duly authorized to act in that person's place. [Added 2005-10-28 
+by By-law 867-2005; amended 2013-12-18 by By-law 1696-2013] 
+
+GRAB SAMPLE - A minimum volume of sewage, storm water, uncontaminated water or 
+effluent suitable for analytical testing which is collected over a period not exceeding 15 minutes. 
+[Amended 2009-03-31 by By-law 358-2009] 
+
+GROUNDWATER - Water below the surface of the ground that occupies a zone of the earth's 
+mantle that is saturated with water. [Amended 2016-02-04 by By-law 100-2016] 
+
+HAULED SEWAGE - Waste removed from a sewage system, including a cesspool, a septic tank 
+system, a privy vault or privy pit, a chemical toilet, a portable toilet or a sewage holding tank. 
+
+HAULED WASTE - Any industrial waste which is transported to and deposited into any 
+location in the sewage works, excluding hauled sewage. 
+
+HAZARDOUS INDUSTRIAL WASTE - Hazardous industrial waste within the meaning of 
+O.Reg. 347, as amended from time to time, made under the Environmental Protection Act, 
+R.S.O. 1990, c. E.19 (EPA). 
+
+HAZARDOUS WASTE CHEMICALS - Hazardous waste chemicals within the meaning of 
+O. Reg. 347, as amended from time to time, made under the Environmental Protection Act, 
+R.S.O. 1990, c. E.19 (EPA). 
+
+IGNITABLE WASTE - A substance that: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+Is a liquid, other than an aqueous solution containing less than 24 percent alcohol by 
+volume and has a flash point less than 93 degrees Celsius, as determined by the Tag 
+Closed Cup Tester (ASTM D-56-97a), the Setaflash Closed Cup Tester (ASTM D-3828-
+97 or ASTM D-3278-96e1), the Pensky-Martens Closed Cup Tester (ASTM D-93-97), or 
+as determined by an equivalent test method; 
+
+Is a solid and is capable, under standard temperature and pressure, of causing fire through 
+friction, absorption of moisture or spontaneous chemical changes and, when ignited, 
+burns so vigorously and persistently that it creates a danger; 
+
+Is an ignitable compressed gas (Class 2, Division D) as defined in the regulations under 
+the Transportation of Dangerous Goods Act, 1992, S.C. 1992, as amended; or 
+
+Is an oxidizing substance (Class 5, Divisions 1 and 2) as defined in the regulations under 
+the Transportation of Dangerous Goods Act, 1992, S.C. 1992, as amended. 
+
+681-4 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+INDUSTRIAL - Of or pertaining to manufacturing, commerce, trade, business, non-profit, or 
+institutions as distinguished from domestic or residential. [Amended 2016-02-04 by By-law 
+100-2016] 
+
+INDUSTRY - Any owner or operator of premises which carry on operations or activities of an 
+industrial, commercial, non-profit or institutional nature or purpose and from which there is a 
+discharge of any matter directly or indirectly into a City sanitary sewer, combined sewer or storm 
+sewer. [Amended 2010-07-08 by By-law 868-2010] 
+
+INSPECTOR - A person authorized by the City to carry out observations and inspections and 
+take samples as prescribed by this article. [Added 2005-10-28 by By-law 867-2005] 
+
+INTERCEPTOR - A receptacle that is designed and installed to prevent oil, grease, sand or other 
+materials from passing into a drainage system. [Added 2008-06-24 by By-law 577-2008] 
+
+MAINTENANCE ACCESS HOLE - An access point in a private sewer connection to allow for 
+observation, sampling and flow measurement of the sewage, uncontaminated water or storm 
+water therein. 
+
+MATTER - Includes any solid, liquid or gas. 
+
+MUNICIPAL SEWER CONNECTION - That part of any drain leading from the private sewer 
+connection and connected to the municipal sewer and located within the limits of the public road 
+allowance, or other public lands or public land interests held for sewerage purposes. 
+
+NAICS - North American Industrial Classification System. [Added 2016-02-04 by By-law 100-
+2016] 
+
+NON-CONTACT COOLING WATER - Water which is used to reduce temperature for the 
+purpose of cooling and which does not come into direct contact with any raw material, 
+intermediate product other than heat, or finished product. [Added 2002-10-31 by By-law 855-
+2002] 
+
+OCCUPIER or OCCUPANT - includes: [Added 2016-02-04 by By-law 100-2016] 
+
+A. 
+
+B. 
+
+A person residing at the property; or 
+
+A person entitled to the possession of the property if there is no other person residing on 
+or in the property; or 
+
+C. 
+
+A tenant or leaseholder of the property or a part of the property; 
+
+Where any of the above persons is a corporation, it shall also include the officers, 
+directors and shareholders of that corporation. 
+
+OWNER - A person who has a right, title, estate, or interest in a property, other than that of only 
+an occupant and, where that person is a corporation, shall include the officers, directors and 
+shareholders of that corporation, and shall include any person with authority or power over or 
+control over that property on the behalf of an owner. [Added 2016-02-04 by By-law 100-2016] 
+
+PATHOLOGICAL WASTE - Pathological waste within the meaning of O. Reg. 347, as 
+amended from time to time, made under the Environmental Protection Act, R.S.O. 1990, c. E.19 
+(EPA). 
+
+681-5 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+PCBs - Any monochlorinated or polychlorinated biphenyl or any mixture of them or mixture that 
+contains one or more of them. 
+
+PERSON - A natural person, an association, a partnership or a corporation, municipality and the 
+heirs, executors, administrators or other legal representatives of a person to whom the context 
+can apply according to law. [Amended 2016-02-04 by By-law 100-2016] 
+
+PESTICIDE - A pesticide regulated under the Pesticides Act, R.S.O. 1990, c. P.11 (PA). 
+
+POLLUTION PREVENTION - The use of processes practices, materials, products or energy that 
+avoid or minimize the creation of pollutants and wastes, at the source. 
+
+POLLUTION PREVENTION PLAN or PLAN - A detailed six-year plan that identifies 
+operations or activities of an owner or operator of commercial, institutional or industrial 
+premises identifying specific pollution prevention methods, as described in § 681-5 of this 
+article.4 
+
+PRIVATE SEWER CONNECTION - That part of any drain or system of drains, including 
+drains or subsurface drainage pipe for surface or subsurface drainage of the land in or adjacent to 
+a building, lying within the limits of the private lands and leading to a municipal sewer 
+connection. 
+
+PRIVATE WATER - Water originating from: [Added 2016-02-04 by By-law 100-2016] 
+
+A.  Storm water and/or groundwater accumulating or collected on private lands; or 
+
+B.  A private drainage or waterworks system; or 
+
+C.  A well or any other subsurface extraction of groundwater; or 
+
+D.  A permanent or temporary wastewater pond, water retention site or other area or site of 
+surface water collection, whether natural or man-made, created, used or caused by or for 
+renovation, repair, maintenance, demolition, construction-related or land development 
+activity or activities; or 
+
+E.  A tank, tanker truck, vessel, or other means of water storage and not supplied by the City; 
+
+or 
+
+F.  The permanent or temporary alteration of a natural or pre-existing drainage pattern; or 
+
+G.  Any combination of the above-noted activities, where the water from such activity would 
+be discharged directly or indirectly to a municipal storm sewer or municipal sewer 
+connection thereto and such activity is related to renovation, repair, maintenance, 
+demolition construction or land development activity or activities at a property. 
+
+PRIVATE WATER DRAINAGE SYSTEM - A subsurface drainage system which may consist 
+of but is not limited to weeping tile(s), foundation drain(s), private water collection sump(s), 
+private water pump or any combination thereof for the disposal of private water on the surface of 
+the ground or to a private sewer connection or drainage system for disposal in a municipal sewer. 
+[Added 2016-02-04 by By-law 100-2016] 
+
+4
+
+ Editor's Note: By-law 1718-2013 deleted the definition for "Pollution Prevention Plan Summary or Plan Summary". 
+
+681-6 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+REACTIVE WASTE - A substance that: 
+
+A. 
+
+B. 
+
+C. 
+
+Is normally unstable and readily undergoes violent changes without detonating; 
+
+Reacts violently with water; 
+
+Forms potentially explosive mixtures with water; 
+
+D.  When mixed with water, generates toxic gases, vapours or fumes in a quantity sufficient 
+
+to present danger to human health or the environment; 
+
+E. 
+
+F. 
+
+G. 
+
+H. 
+
+Is a cyanide or sulphide bearing waste which, when exposed to pH conditions between 
+2 and 12.5, can generate toxic gases, vapours or fumes in a quantity sufficient to present 
+danger to human health or the environment; 
+
+Is capable of detonation or explosive reaction if it is subjected to a strong initiating 
+source or if heated under confinement; 
+
+Is readily capable of detonation or explosive decomposition or reaction at standard 
+temperature and pressure; or 
+
+Is an explosive (Class 1) as defined in the regulations under the Transportation of 
+Dangerous Goods Act, 1992, S.C. 1992, as amended. 
+
+SANITARY SEWER - A sewer for the collection and transmission of domestic or industrial 
+sewage or any combination thereof. 
+
+SEVERELY TOXIC WASTE - Waste containing any contaminant listed in Schedule 3 of 
+O. Reg. 347, as amended from time to time, made under the Environmental Protection Act, 
+R.S.O. 1990, c. E.19 (EPA). 
+
+SEWAGE - Any liquid waste containing animal, vegetable, mineral or chemical matter in 
+solution or in suspension but does not include storm water or uncontaminated water. 
+
+SEWAGE WORKS - Any works for the collection, transmission, treatment and disposal of 
+sewage, storm water or uncontaminated water, including a combined sewer, sanitary sewer or 
+storm sewer, or any part of such works, but does not include plumbing or other works to which 
+the Building Code Act, 1992, S.O. 1992, c. 23, applies. 
+
+SEWER - A pipe, conduit, drain, open channel or ditch for the collection and transmission of 
+sewage, storm water or uncontaminated water, or any combination thereof. [Amended 2000-10-
+05 by By-law 869-2000]  
+
+SPILL - A direct or indirect discharge into the municipal sewage works which is abnormal in 
+quantity or quality in light of all the circumstances of the discharge. [Amended 2016-02-04 by 
+By-law 100-2016] 
+
+STANDARD METHODS - A procedure or method set out in Standard Methods for the 
+Examination of Water and Wastewater published jointly by the American Public Health 
+Association, American Water Works Association and the Water Environment Federation, latest 
+edition. 
+
+681-7 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+STANDARDS AND SPECIFICATIONS - City of Toronto's standard construction specifications 
+and drawings for sewers and watermains as prescribed by the General Manager, and amended 
+from time to time. [Added 2010-07-08 by By-law 868-2010] 
+
+STORM SEWER - A sewer for the collection and transmission of uncontaminated water, storm 
+water, drainage from land or from a watercourse or any combination thereof. 
+
+STORM WATER - Water from rainfall, other natural precipitation or the melting of snow or ice 
+or a combination of the foregoing. [Amended 2016-02-04 by By-law 100-2016]  
+
+SUBJECT POLLUTANT - The element, material or compound listed in § 681-5L as Table 3 to 
+this chapter. [Amended 2013-12-18 by By-law 1718-2013; 2016-02-04 by By-law 100-2016] 
+
+SUBJECT SECTOR - Any class of business or activity designated in Appendix 1 to this article, 
+at the end of this chapter. [Amended 2013-12-18 by By-law 1718-2013] 
+
+SUBJECT SECTOR INDUSTRY - Any industry which carries out an activity listed in 
+Appendix 1 to this article, at the end of this chapter, at its premises or at any of its premises, even 
+if the activity is not a primary activity of the industry at any premises. 
+
+SUBSURFACE DRAINAGE PIPE - A pipe that is installed underground to intercept and 
+convey subsurface water, and includes foundation drain pipes. 
+
+SURFACE WATER - Water originating from the release of water vapour from the atmosphere 
+that falls upon and spreads or flows across the land's surface. [Added 2016-02-04 by By-law 
+100-2016] 
+
+TOTAL PAHs - The calculated total of all the polycyclic aromatic hydrocarbons listed under 
+Canada Ontario Agreement Tier I and II Substances Lists, i.e., anthracene, benzo(a)pyrene, 
+benzo(a)anthracene, benzo(e)pyrene, benzo(b)fluoranthene, benzo(j)fluoranthene, 
+benzo(k)fluoranthene, benzo(g,h,i)perylene, chrysene, dibenzo(a,h)anthracene, 
+dibenzo(a,i)pyrene, dibenzo(a,j)acridine, 7Hdibenzo(c,g)carbazole, dinitropyrene, fluoranthene, 
+indeno(1,2,3-c,d)pyrene, perylene, phenanthrene, and pyrene. [Amended 2010-07-08 by By-law 
+868-2010] 
+
+UNCONTAMINATED WATER - Water with a level of quality which is typical of potable water 
+normally supplied by the City or whose quality does not exceed the values in Table 2 – Limits 
+for Storm Sewer Discharge of this article, in § 681-4. [Amended 2010-07-08 by By-law 868-
+2010] 
+
+WASTE DISPOSAL SITE LEACHATE - The liquid containing dissolved or suspended 
+contaminants which emanates from waste and is produced by water percolating through waste or 
+by liquid in waste. 
+
+WASTE RADIOACTIVE PRESCRIBED SUBSTANCES - Uranium, thorium, plutonium, 
+neptunium, deuterium, their respective derivatives and compounds and such other substances as 
+the Atomic Energy Control Board may by regulation designate as being capable of releasing 
+atomic energy or as being requisite for the production, use or application of atomic energy. 
+
+681-8 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+WASTEWATER - Any liquid waste containing animal, vegetable, mineral or chemical matter in 
+solution or in suspension but does not include storm water or uncontaminated water. [Added 
+2010-07-08 by By-law 868-2010] 
+
+WATERCOURSE - An open channel, ditch or depression, either natural or artificial, in which 
+flow of water occurs either continuously or intermittently. 
+
+WEEPING TILE - A perforated pipe installed along the perimeter of a building or structure for 
+the purpose of collecting flows from groundwater and/or surface water infiltration and conveying 
+the flows to a sump pump for disposal on the surface of the ground or to a private service 
+connection or drainage system for disposal in a municipal sewer. [Added 2016-02-04 by By-law 
+100-2016] 
+
+XYLENES - The total calculated sum of meta- and para xylene and ortho xylene. [Added 2010-
+07-08 by By-law 868-2010] 
+
+Any reference to any act, statute, regulation, by-law, rule, standard, specification, policy or to a 
+provision thereof shall be deemed to include a reference to any act, statute, regulation, by-law, 
+rule, standard, specification, policy or provision enacted in substitution or amendment thereof. 
+[Added 2016-02-04 by By-law 100-2016] 
+
+§ 681-1.1. Administration. 
+
+[Added 2007-06-22 by By-law 704-2007; amended 2008-06-24 by By-law 577-2008; 2013-12-
+18 by By-law 1696-2013; 2016-02-04 by By-law 100-2016] 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+The administration of this chapter shall be under the jurisdiction of the General Manager. 
+
+The General Manager shall be authorized to prescribe any City form under this chapter 
+and to amend or revise such forms from time to time. 
+
+The General Manager shall be authorized to prescribe the form of any agreement or 
+permit required or permitted under Chapter 681 and to amend or revise such agreements 
+or permit, from time to time, provided that the agreement or permit, amendment(s) or 
+revision(s), as the case may be, are in a form satisfactory to the City Solicitor. 
+
+The General Manager shall be authorized to enter into and execute any agreements or 
+permits required under this chapter on behalf of the City. 
+
+The General Manager shall be authorized to amend or revise City standards and 
+specifications, Environmental Code of Practices and Best Management Practices relating 
+to this chapter as may be required from time to time. 
+
+§ 681-2. Sanitary and combined sewer requirements. 
+
+A. 
+
+No person shall discharge directly or indirectly or deposit or cause or permit the 
+discharge or deposit of sewage into a sanitary sewer, combined sewer, municipal or 
+private sewer connection to any sanitary sewer or combined sewer in circumstances 
+where: 
+
+681-9 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(1) 
+
+To do so may cause or result in: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+A health or safety hazard to a person authorized by the General Manager 
+to inspect, operate, maintain, repair or otherwise work on a sewage works; 
+[Amended 2007-06-22 by By-law 704-2007] 
+
+An offence under the Ontario Water Resources Act or the Environmental 
+Protection Act, as amended from time to time, or any regulation made 
+thereunder from time to time; 
+
+Biosolids from the municipal sewage works to no longer meet the 
+objectives and criteria as listed in the Nutrient Management Act, 2002, 
+Ontario Regulation 267/03, as amended from time to time; [Amended 
+2016-02-04 by By-law 100-2016] 
+
+Interference with the operation or maintenance of a sewage works, or 
+which may impair or interfere with any sewage treatment process; 
+
+A hazard to any person, animal, property or vegetation; 
+
+An offensive odour to emanate from sewage works, and without limiting 
+the generality of the foregoing, sewage containing hydrogen sulphide, 
+carbon disulphide, other reduced sulphur compounds, amines or ammonia 
+in such quantity as may cause an offensive odour; 
+
+Damage to sewage works; 
+
+An obstruction or restriction to the flow in sewage works. 
+
+(2) 
+
+The sewage has one or more of the following characteristics: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(Reserved5) 
+
+Two or more separate liquid layers; or 
+
+(Reserved) 
+
+(3) 
+
+The sewage contains: 
+
+(a) 
+
+(b) 
+
+Acute hazardous waste chemicals; 
+
+Combustible liquid; 
+
+(b.1)  Biomedical waste, except where: [Added 2005-10-28 by By-law 867-
+
+2005] 
+
+[1] 
+
+The biomedical waste has been discharged in accordance with the 
+Ontario Ministry of the Environment Guideline C-4 entitled "The 
+Management of Biomedical Waste in Ontario" dated April 1994, 
+as amended; and 
+
+5
+
+ Editor's Note: By-law 100-2016 deleted §§ 681-2A(2)(a) and (c). 
+
+681-10 
+
+May 15, 2023 
+
+ 
+ 
+ 
+                                                 
+(c) 
+
+(d) 
+
+(e) 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+[2] 
+
+Any human blood and body fluids known to contain viruses and 
+agents in listed "Risk Group 4" as defined in "Laboratory Biosafety 
+Guidelines" published by Health and Welfare Canada, dated 1996, 
+as amended, are decontaminated prior to discharge. 
+
+Dyes or colouring materials which may or could pass through a sewage 
+works and discolour the sewage works effluent; 
+
+Fuel; 
+
+Hauled sewage, except where: [Amended 2007-06-22 by By-law 704-
+2007; 2008-06-24 by By-law 577-2008] 
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+The carrier enters into a hauled sewage discharge agreement with 
+the City; and 
+
+The carrier of the hauled sewage operating as a waste management 
+system has a certificate of approval or provisional certificate of 
+approval issued under the Environmental Protection Act or is 
+exempt, under the Environmental Protection Act, from the 
+requirement to have a certificate or provisional certificate of 
+approval; and 
+
+The carrier meets all terms and conditions for the discharge of the 
+hauled sewage that are or may be set from time to time by the 
+General Manager or the City; and 
+
+The discharge is in accordance with the hauled sewage discharge 
+agreement and the requirements of § 681-6. 
+
+(f) 
+
+Hauled waste, except where:  
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+The carrier of the hauled waste operating as a waste management 
+system has a certificate of approval or provisional certificate of 
+approval issued under the Environmental Protection Act or is 
+exempt from the requirement to have a certificate or provisional 
+certificate of approval; 
+
+A copy of the most recent certificate or provisional certificate and 
+any amendment of approval is provided to the General Manager; 
+[Amended 2007-06-22 by By-law 704-2007] 
+
+Hauled waste meets the conditions set out in Clauses 23(3)(c) and 
+25(5)(b) of O. Reg. 347, R.R.O. 1990, as amended from time to 
+time; and 
+
+The carrier meets all conditions for discharge that are or may be set 
+from time to time with respect to the haulage of waste by the City. 
+
+(g) 
+
+(h) 
+
+Ignitable waste. 
+
+Hazardous industrial waste. 
+
+681-11 
+
+May 15, 2023 
+
+ 
+ 
+(i) 
+
+(j) 
+
+(k) 
+
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Hazardous waste chemicals. 
+
+Pathological waste. 
+
+PCBs, except where: [Amended 2007-06-22 by By-law 704-2007; 2016-
+02-04 by By-law 100-2016] 
+
+[1] 
+
+[2] 
+
+[3] 
+
+The person has a valid Certificate of Approval or a valid 
+Environmental Compliance Approval for a mobile site or PCB 
+mobile waste disposal system issued under the Environmental 
+Protection Act (EPA) that has been complied with or, where the 
+person is claiming exemption under a regulation, the person has 
+demonstrated to the General Manager that the conditions of the 
+exemption are met; 
+
+A copy of the most recent valid certificate or provisional certificate 
+or valid Environmental Compliance Approval and any amendment 
+is provided to the General Manager; and 
+
+The person has written approval from the General Manager that the 
+person has met a condition for an exemption under the regulations 
+in relation to their discharge of PCBs to the sewage works. 
+
+(l) 
+
+Pesticides, except for those used by the City of Toronto for the following 
+purposes: [Amended 2016-02-04 by By-law 100-2016] 
+
+[1] 
+
+[2] 
+
+[3] 
+
+Health and safety; or 
+
+Protection of the natural environment; or 
+
+Other uses in compliance with the Ontario Ministry of the 
+Environment and Climate Change legislation. 
+
+(m)  Reactive waste. 
+
+(n) 
+
+Severely toxic waste. 
+
+(o)  Waste radioactive prescribed substances, except where:  
+
+[1] 
+
+[2] 
+
+The waste radioactive prescribed substances are being discharged 
+under a valid and current licence issued by the Atomic Energy 
+Control Board or its successor; and 
+
+A copy of the licence has been provided to the General Manager. 
+[Amended 2007-06-22 by By-law 704-2007] 
+
+(p)  Waste disposal site leachate, except where: [Amended 2007-06-22 by By-
+
+law 704-2007] 
+
+[1] 
+
+The person has prior written approval from the General Manager 
+which permits the discharge or deposit of the waste disposal site 
+leachate to the sewage works, in accordance with guidelines 
+adopted by the City from time to time; and 
+
+681-12 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+[2] 
+
+In the case where a certificate of approval or order has been issued 
+which includes a provision for the disposal of waste disposal site 
+leachate to sewage works, a copy of the certificate of approval or 
+order is provided to the General Manager or, where the person is 
+claiming an exemption, the person has received written notice from 
+the General Manager that the conditions of the exemption are 
+being met. 
+
+(q) 
+
+Solid or viscous substances in quantities or of such size to be capable of 
+causing obstruction to the flow in a sewer, including but not limited to 
+ashes, bones, cinders, sand, mud, soil, straw, shaving, metal, glass, rags, 
+feathers, tar, plastics, wood, unground garbage, animal parts or tissues, 
+and paunch manure. [Amended 2000-10-05 by By-law 869-2000]  
+
+(4) 
+
+The sewage contains a concentration in excess of any one or more of the limits in 
+Table 1 entitled Limits for Sanitary and Combined Sewers Discharge, unless: 
+[Amended 2005-10-28 by By-law 867-2005; 2016-02-04 by By-law 100-2016] 
+
+(a) 
+
+(b) 
+
+(c) 
+
+The discharge is expressly authorized in a Best Management Practices 
+(BMP) Plan approved by Council or the General Manager and the 
+discharge is in accordance with such plan; or 
+
+The discharge is in accordance with a valid discharge agreement or permit 
+or compliance agreement entered into in accordance with § 681-6; or 
+
+The person has demonstrated to the General Manager that one or more of 
+the parameter limits contained in Table 1 cannot be met as a result of 
+water conservation measures and the General Manager has exercised 
+discretion to impose mass loading limits in addition to or in place of 
+concentration-based limits. 
+
+(5) 
+
+The City may, from time to time, adopt a BMP plan or plans with respect to any 
+class or classes of industrial sector, and to impose conditions and requirements 
+specific to any such industrial sector that may vary between sectors in any way 
+that the City determines to be appropriate. [Added 2005-10-28 by By-law 867-
+2005] 
+
+B. 
+
+The discharge of non-contact cooling water or uncontaminated water to a sanitary sewer 
+or combined sewer from any new residential properties is prohibited. The discharge of 
+non-contact cooling water or uncontaminated water to a sanitary or combined sewer from 
+industrial, commercial or institutional properties is permissible where: [Amended 2002-
+10-31 by By-law 855-2002] 
+
+(1) 
+
+In the case of a proposed building, no storm sewer exists adjacent to the building; 
+or 
+
+(2) 
+
+In the case of an existing building, no storm connection exists to the building. 
+
+681-13 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+C. 
+
+Discharge of private water. [Amended 2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+The discharge of private water, directly or indirectly to a municipal sanitary sewer 
+or combined sewer is prohibited, unless: 
+
+(a) 
+
+The discharge is in accordance with a sanitary discharge agreement or 
+permit entered into in accordance with § 681-6 which is in good standing; 
+provided, however, that this requirement shall not apply to rainwater used 
+for washroom facilities; and 
+
+(b) 
+
+The discharge either: 
+
+[1] 
+
+[2] 
+
+does not exceed any of the limits set out under Table 1 of § 681-2, 
+with respect to biochemical oxygen demand, phenolics (4AAP), 
+total kjeldahl nitrogen (TKN), total phosphorus or total suspended 
+solids; or 
+
+does exceed a limit set out under Table 1 of § 681-2 with respect to 
+any of biochemical oxygen demand, phenolics (4AAP), total 
+kjeldahl nitrogen, total phosphorus or total suspended solids but 
+the discharge is in accordance with an industrial waste surcharge 
+agreement or permit entered into in accordance with § 681-6 and 
+the discharger is in good standing under that agreement or permit. 
+
+(2) 
+
+The concentration limits set out in Table 1 in § 681-2 do not apply where: 
+
+(a) 
+
+(b) 
+
+A higher concentration of discharge is otherwise permitted under an 
+industrial waste surcharge agreement or permit; and 
+
+The industrial waste surcharge agreement or permit under § 681-2C(a) is 
+in good standing, including without limitation the following: 
+
+[1] 
+
+[2] 
+
+The concentration limits permitted under the industrial waste 
+surcharge agreement or permit issued under § 681-6 have been 
+complied with; and 
+
+No fee, charge or cost, or part thereof, payable to the City under an 
+industrial waste surcharge agreement or permit remains unpaid 30 
+days from the date of issuance of the invoice for same. 
+
+(3) 
+
+For the purposes of § 681-2C, "in good standing" means that the discharger has 
+strictly complied with the terms of the agreement or permit and the General 
+Manager has not issued a notice of default or an order to comply under this 
+Chapter or the applicable agreement or permit to the discharger. 
+
+Table 1 – Limits for Sanitary and Combined Sewers Discharge 
+[Amended 2002-10-31 by By-law 855-2002; 2010-07-08 by By-law 868-2010; 2016-02-
+
+04 by By-law 100-2016] 
+
+Parameter 
+pH 
+
+Limit  
+>6.0 to < 11.5  SU 
+
+Unit  Parameter 
+
+1,1,2,2- tetrachloroethane    1.4 
+
+mg/L3 
+
+Limit  Unit 
+
+681-14 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Parameter 
+Temperature 
+
+Limit  
+< 60 
+
+Biochemical oxygen 
+demand 
+Cyanide (total) 
+Fluoride 
+Total Kjeldahl Nitrogen 
+Oil and grease - animal 
+and vegetable (non-
+mineral)1 
+Oil and grease - mineral 
+and synthetic 
+Phenolics (4AAP) 
+Phosphorus (total) 
+Suspended solids (total) 
+Aluminum (total) 
+Antimony (total) 
+Arsenic (total) 
+Cadmium (total) 
+Chromium (hexavalent) 
+Chromium (total) 
+Cobalt (total) 
+Copper (total) 
+
+300 
+
+2 
+10 
+100 
+150 
+
+15 
+
+1.0 
+10 
+350 
+50 
+5 
+1 
+0.7 
+2 
+4 
+5 
+2 
+
+Unit  Parameter 
+
+Degrees 
+
+1,2-dichlorobenzene 
+
+Celsius 
+mg/L3  1,4-dichlorobenzene 
+
+Limit  Unit 
+0.05  mg/L3 
+
+0.08  mg/L3 
+
+0.002  mg/L3 
+mg/L3  3,3'-dichlorobenzidine 
+0.01  mg/L3 
+mg/L3  Benzene 
+mg/L3  Bis (2-ethylhexyl) phthalate  0.012  mg/L3 
+0.04  mg/L3 
+mg/L3  Chloroform 
+
+mg/L3  Cis-1,2-dichloroethylene 
+
+4 
+
+mg/L3 
+
+mg/L3  Di-n-butyl phthalate 
+mg/L3  Ethyl benzene 
+mg/L3  Methylene chloride 
+mg/L3  Nonylphenols 
+mg/L3  Nonylphenol ethoxylates2 
+mg/L3  PCBs 
+mg/L3  Pentachlorophenol 
+mg/L3  Tetrachloroethylene 
+mg/L3  Toluene 
+mg/L3  Total PAHs2 
+mg/L3  Trans-1,3-
+
+0.08  mg/L3 
+0.16  mg/L3 
+mg/L3 
+2 
+0.02  mg/L3 
+mg/L3 
+0.2 
+0.001  mg/L3 
+0.005  mg/L3 
+mg/L3 
+1 
+0.016  mg/L3 
+0.005  mg/L3 
+0.14  mg/L3 
+
+0.4 
+1.4 
+
+mg/L3 
+mg/L3 
+
+Lead (total) 
+Manganese (total) 
+Mercury (total) 
+Molybdenum (total) 
+Nickel (total) 
+Selenium (total) 
+Silver (total) 
+Tin (total) 
+Titanium (total) 
+Zinc (total) 
+
+dichloropropylene 
+mg/L3  Trichloroethylene 
+1 
+mg/L3  Xylenes (total)2 
+5 
+mg/L3   
+0.01 
+mg/L3   
+5 
+mg/L3   
+2 
+mg/L3   
+1 
+mg/L3   
+5 
+mg/L3   
+5 
+mg/L3   
+5 
+mg/L3   
+2 
+Footnote 1:  The noted parameter is calculated. 
+Footnote 2:  The noted parameters have calculated totals. 
+Footnote 3:  mg/L is expressed in milligrams per litre. 
+
+681-15 
+
+May 15, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+§ 681-3. Prohibition of dilution. 
+
+[Amended 2013-12-18 by By-law 1696-2013] 
+
+No person shall discharge directly or indirectly or deposit or cause or permit the discharge or 
+deposit of sewage directly or indirectly into a sanitary sewer, combined sewer, storm sewer, 
+municipal or private sewer connection to any sanitary sewer, combined sewer or storm sewer in 
+circumstances where water or any chemical, agent or additive has been added to the discharge or 
+deposit for the purposes of dilution to achieve compliance with §§ 681-2 or 681-4 or the 
+consequences of which is dilution, to achieve or result in compliance with §§ 681-2 or 681-4. 
+
+§ 681-4. Storm sewer requirements. 
+
+No person shall discharge or deposit or cause or permit the discharge or deposit of matter of any 
+type into a storm sewer, watercourse, municipal or private sewer connection to any storm sewer 
+which may or could: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+Interfere with proper operation of a storm sewer. 
+
+Obstruct or restrict a storm sewer or the flow therein. 
+
+Damage a storm sewer. 
+
+Result in any hazard or other adverse impact to any person, animal, property or 
+vegetation. 
+
+Contravene or result in the contravention of a certificate of approval or provisional 
+certificate of approval issued under the Ontario Water Resources Act or the 
+Environmental Protection Act (Ontario) with respect to the storm sewer, its discharge, or 
+both the sewer and its discharge. [Amended 2000-10-05 by By-law 869-2000]  
+
+F. 
+
+Have one or more of the following characteristics: 
+
+(1) 
+
+(2) 
+
+Visible film, sheen or discolouration. 
+
+Two or more separate layers6. 
+
+G. 
+
+Contain one or more of the following: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+Acute hazardous waste chemicals. 
+
+Blowdown water. 
+
+Combustible liquids. 
+
+Floating debris. 
+
+Fuel. 
+
+Hauled sewage. 
+
+6
+
+ Editor's Note: By-law 100-2016 deleted §§ 681-4F(3) and (4). 
+
+681-16 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(7) 
+
+(8) 
+
+(9) 
+
+Hauled waste. 
+
+Hazardous industrial waste. 
+
+Hazardous waste chemicals. 
+
+(10) 
+
+Ignitable waste. 
+
+(11)  Pathological waste. 
+
+(12)  PCBs, except where approved by an Ontario Provincial Ministry as part of a legal 
+instrument, such as a valid Environmental Compliance Approval, a valid 
+Certificate of Approval or order, and that legal instrument has been complied 
+with. [Amended 2016-02-04 by By-law 100-2016] 
+
+(13)  Pesticides, except for those used by the City of Toronto for the following 
+
+purposes: [Amended 2016-02-04 by By-law 100-2016] 
+
+(a) 
+
+(b) 
+
+(c) 
+
+health and safety; or 
+
+protection of the natural environment; or  
+
+other uses in compliance with the Ontario Ministry of the Environment 
+and Climate Change legislation.  
+
+(14)  Reactive waste. 
+
+(15)  Severely toxic waste. 
+
+(16)  Sewage. 
+
+(17)  Waste radioactive prescribed substances. 
+
+(18)  Waste disposal site leachate. 
+
+H. 
+
+I. 
+
+J. 
+
+(19)  A substance from raw materials, intermediate or final product, used or produced 
+
+in, through or from an industrial process. 
+
+(20)  A substance used in the operation or maintenance of an industrial site. 
+
+Contain E. coli colonies in excess of 200 per 100 mL. 
+
+Contain contaminants from raw materials, intermediate or final products or wastewater 
+from an industrial operation. 
+
+Contain a concentration in excess of any one or more of the limits in Table 2 of this 
+chapter entitled "Limits for Storm Sewer Discharge." [Amended 2016-02-04 by By-law 
+100-2016] 
+
+Table 2 - Limits for Storm Sewer Discharge 
+[Amended 2010-07-08 by By-law 868-2010; 2016-02-04 by By-law 100-2016] 
+
+Parameter 
+pH 
+
+Limit 
+>6.0 to <9.5  SU 
+
+Unit  Parameter 
+
+1,1,2,2-tetrachloroethane  0.017  mg/L5 
+
+Limit  Unit 
+
+681-17 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Parameter 
+Temperature 
+
+Limit 
+< 40 
+
+Biochemical oxygen demand  15 
+Cyanide (total) 
+Phenolics (4AAP) 
+Phosphorus (total) 
+
+0.02 
+0.008 
+0.4 
+
+Suspended solids (total) 
+Arsenic (total) 
+Cadmium (total) 
+Chromium (total) 
+Chromium (hexavalent) 
+Copper (total) 
+Lead (total) 
+
+Manganese (total) 
+Mercury (total) 
+Nickel (total) 
+Selenium (total) 
+Silver (total) 
+Zinc (total) 
+
+15 
+0.02 
+0.008 
+0.08 
+0.04 
+0.04 
+0.12 
+
+0.05 
+0.0004 
+0.08 
+0.02 
+0.12 
+0.04 
+
+Unit  Parameter 
+
+1,2-dichlorobenzene 
+
+Degrees 
+Celsius 
+mg/L5  1,4-dichlorobenzene 
+mg/L5  3,3'-dichlorobenzidine 
+mg/L5  Benzene 
+mg/L5  Bis (2-ethylhexyl) 
+phthalate 
+
+Limit  Unit 
+0.0056  mg/L5 
+
+0.0068  mg/L5 
+0.0008  mg/L5 
+0.002  mg/L5 
+0.0088  mg/L5 
+
+mg/L5  Chloroform 
+0.002  mg/L5 
+mg/L5  Cis-1,2-dichloroethylene  0.0056  mg/L5 
+0.015  mg/L5 
+mg/L5  Di-n-butyl phthalate 
+0.002  mg/L5 
+mg/L5  Ethyl benzene 
+0.0052  mg/L5 
+mg/L5  Methylene chloride 
+0.001  mg/L5 
+mg/L5  Nonylphenols 
+mg/L5 
+mg/L5  Nonylphenol 
+0.01 
+ethoxylates4 
+
+mg/L5  PCBs 
+mg/L5  Pentachlorophenol 
+mg/L5  Tetrachloroethylene 
+mg/L5  Toluene 
+mg/L5  Total PAHs4 
+mg/L5  Trans-1,3-
+
+dichloropropylene 
+Trichloroethylene 
+Xylenes (total)4 
+
+0.0004  mg/L5 
+0.002  mg/L5 
+0.0044  mg/L5 
+0.002  mg/L5 
+0.002  mg/L5 
+0.0056  mg/L5 
+
+0.0076  mg/L5 
+0.0044  mg/L5 
+
+Footnote 4: The noted parameters are calculated totals. 
+Footnote 5: mg/L is expressed in milligrams per litre. 
+
+K. 
+
+Contain private water, except where, and only to the extent that:  [Added 2013-12-18 by 
+By-law 1696-2013; amended 2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+(2) 
+
+The person discharging has satisfied the General Manager, prior to discharging, 
+that all other requirements of § 681-4 have been met; and 
+
+The General Manager has provided prior written approval by way of a discharge 
+agreement or permit being entered into in accordance with § 681-6 on such terms 
+and conditions as the General Manager deems appropriate to protect the City, the 
+municipal sewage works, other City infrastructure and the natural environment 
+including but not limited to those requirements in § 681-6. 
+
+681-18 
+
+May 15, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+§ 681-5. Pollution prevention planning. 
+
+[Amended 2013-12-18 by By-law 1718-2013; 2016-02-04 by By-law 100-2016] 
+
+A. 
+
+Every subject sector industry and every industry which discharges any amount of a 
+subject pollutant must submit their first plan to the General Manager with respect to the 
+premises from which the discharge occurs within one year of commencing operations. 
+
+B. 
+
+(1) 
+
+Every subject sector industry and every industry which discharges any amount of 
+a subject pollutant shall prepare a new plan and submit it to the General Manager 
+with respect to the premises from which the discharge occurs, every six years, 
+unless such industry continually meets the requirements of and is participating in 
+a Best Management Practices Plan approved by Council. 
+
+(2) 
+
+Notwithstanding Subsection B(1), after submission of the first plan, a subsequent 
+new plan shall not be required where the discharger:  
+
+(a) 
+
+Continually is participating in and is in full compliance with a Best 
+Management Practices Plan approved by Council or the General Manager; 
+or 
+
+(b) 
+
+Is classified as offices of dentists under the NAICS. 
+
+C. 
+
+Form of plan. 
+
+(1) 
+
+(2) 
+
+The plan shall be in the form designated by the City for that purpose from time to 
+time. 
+
+In addition to any other matter or requirement designated by the City, and 
+notwithstanding Subsection C(3), each plan shall include the following: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+A description of the processes at the premises which use or produce 
+subject pollutants. 
+
+A description of those processes at the premises which are to be the 
+subject of pollution prevention planning. 
+
+A list of the subject pollutants present at the premises at any stage of the 
+operations of the premises. 
+
+A description setting out the types, quantities and concentrations of all 
+subject pollutants discharged, directly or indirectly, to a sewer. 
+
+A description of current waste reduction, recycling, waste treatment and 
+pollution prevention activities with respect to sewer discharges at the 
+premises. 
+
+A description of pollution prevention options for subject pollutants and 
+sewer discharge and an evaluation of those options. 
+
+A list of possible three- and six-year targets to reduce or eliminate the 
+discharge of subject pollutants to the City's sewers. 
+
+681-19 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(h) 
+
+A declaration from an authorized person that the content of the plan is, to 
+the best of that person's knowledge, true, accurate and complete. 
+
+(3) 
+
+The City may designate a different form for the plan with respect to any class of 
+industrial, commercial or institutional premises, or with respect to any class of 
+industry. 
+
+All plans must meet the requirements of this article as determined by the General 
+Manager to be approved. 
+
+Unless the General Manager has advised an industry that its plan is not approved within 
+90 days of the date of the General Manager's receipt of such plan, the plan shall be 
+deemed to have been approved by the General Manager. 
+
+Where an industry receives notice from the General Manager that its plan has not been 
+approved, the industry shall have 90 days to amend and re-submit its plan to the General 
+Manager for approval in accordance with this chapter. 
+
+In the event that a plan re-submitted to the General Manager in accordance with 
+Subsection F continues to fail to comply with the requirements of this Section, the 
+General Manager shall so notify the industry, and the industry shall be in contravention 
+of this Section and remain in contravention until such time as a plan acceptable to the 
+General Manager has been received from the discharger. 
+
+Every subject sector industry and every industry discharging a subject pollutant shall 
+submit a plan update incorporating the items set out in § 681-5C(2) for the approval of 
+the General Manager by the end of the third year from the date which the plan was 
+required to be submitted. Such plan update shall, in addition to the requirements 
+otherwise set out in this article, detail and evaluate the progress of the industry to 
+accomplish the objectives set out in its plan and the industry's ability to accomplish those 
+pollution prevention objectives. 
+
+An industry or subject sector industry which discharges a subject pollutant not contained 
+in its approved plan shall update its plan within 90 days of the discharge of the additional 
+subject pollutant to include it unless expressly provided otherwise in this section. This 
+shall not affect the timelines for submitting a plan under § 681-5A and B. 
+
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+H. 
+
+I. 
+
+J.7 
+
+(a) 
+
+Every owner or operator of a premises, from which dental amalgam may be 
+discharged and directly or indirectly enter a municipal sewer connection or 
+municipal sewer, shall submit to the General Manager their first plan, which shall 
+include proof of the most recent maintenance of the amalgam separator in the 
+form of an invoice detailing such service. 
+
+(b) 
+
+Proof of compliance with the manufacturer's recommended maintenance schedule 
+or the dental office maintenance schedule, whichever is performed more 
+frequently, shall be submitted to the General Manager no later than one month 
+after every maintenance on the amalgam separator is performed. 
+
+7
+
+ Editor's Note: By-law 100-2016 enacted amendments to § 681-5J which came into effect May 31, 2016. 
+
+681-20 
+
+May 15, 2023 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(c) 
+
+A new plan for an owner or operator of a premises, from which dental amalgam 
+may be discharged and directly or indirectly enter a municipal sewer connection 
+or municipal sewer, shall be submitted to the General Manager only when there is 
+a change in: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+Ownership; or 
+
+Address; or 
+
+Dental practice; or 
+
+The number of patient chairs; or 
+
+The brand of the amalgam separator; or  
+
+Third party maintenance of the amalgam separator. 
+
+K. 
+
+L. 
+
+A copy of the plan shall be kept at all times at the premises in respect to which it was 
+prepared and shall be available for inspection by the General Manager at any time. 
+
+Table 3 - Subject Pollutants for Pollution Prevention Reporting [Added 2016-02-04 by 
+By-law 100-2016] 
+
+Parameter 
+Arsenic (total) 
+Cadmium (total) 
+Chromium (hexavalent) 
+Chromium (total) 
+Cobalt (total) 
+Copper (total) 
+Lead (total) 
+Mercury (total) 
+Molybdenum (total) 
+Nickel (total) 
+Selenium (total) 
+Zinc (total) 
+
+Parameter 
+1,1,2,2-tetrachloroethane 
+1,2-dichlorobenzene 
+1,4-dichlorobenzene 
+3,3'-dichlorobenzidine 
+Benzene 
+Bis (2-ethylhexyl) phthalate 
+Chloroform 
+Cis-1,2-dichloroethylene 
+Di-n-butyl phthalate 
+Ethyl benzene 
+Methylene chloride 
+Nonylphenols 
+Nonylphenol ethoxylates 
+PCBs 
+Pentachlorophenol 
+Tetrachloroethylene 
+Toluene 
+Total PAHs 
+Trans-1,3-dichloropropylene 
+Trichloroethylene 
+Xylenes (total) 
+
+§ 681-6. Agreements. 
+
+A. 
+
+A person may discharge or deposit sewage into or in any connection to a sanitary or 
+combined sewer, otherwise prohibited by this article, where authorized, and only to the 
+
+681-21 
+
+May 15, 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+extent of such authorization, by: [Amended 2002-10-31 by By-law 855-2002; 2008-06-
+24 by By-law 577-2008] 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+An industrial waste surcharge agreement, subject to Subsection B(1), including 
+conditions for payment of additional costs of operation, repair and maintenance of 
+the sewage works, restrictions on the discharge, and such other terms and 
+conditions as may be deemed appropriate by the General Manager; or 
+
+A sanitary discharge agreement, subject to Subsection B(2), including conditions 
+for payment for water pollution control treatment purposes that otherwise would 
+have been obtained from a surcharge on the water had it been supplied by the 
+City, restrictions on the discharge, and such other terms and conditions as may be 
+deemed appropriate by the General Manager; or 
+
+A hauled sewage discharge agreement, subject to Subsection B(3), including 
+conditions for payment, restrictions on the discharge, and such other terms and 
+conditions as may be deemed appropriate by the General Manager; and 
+
+The industrial waste surcharge rate, the sanitary discharge rate, and the hauled 
+sewage discharge rate will be reviewed and adjusted accordingly from time to 
+time as determined by the City. 
+
+(5) 
+
+(a)  Where, under a proposed industrial waste surcharge agreement, the 
+
+anticipated total fee for a one year or lesser term would be $500 or less 
+calculated in accordance with the rate set out in Chapter 441, Fees and 
+Charges, Appendix D - Schedule 3, Wastewater Services, the General 
+Manager may authorize a discharge or deposit of sewage in accordance 
+with this section by way of an industrial waste surcharge permit in the 
+place of an agreement. [Added 2009-03-31 by By-law 358-2009; 
+amended 2009-12-04 by By-law 1206-20098; 2011-02-24 by By-law 
+335-20119; 2013-12-18 by By-law 1696-2013] 
+
+(b)  Where, under a proposed sanitary discharge agreement, the anticipated 
+
+total fee for a one year or lesser term would be $20,000 or less calculated 
+in accordance with the rate set out in Chapter 441, Fees and Charges, 
+Appendix D - Schedule 3, Wastewater Services, the General Manager may 
+authorize a discharge or deposit of sewage in accordance with this section 
+by way of a sanitary discharge permit in the place of an agreement. 
+[Added 2013-12-18 by By-law 1696-2013] 
+
+(6)  Where a permit is issued by the General Manager in the place of an agreement 
+
+under § 681-6, all requirements and restrictions set out in § 681-6 applicable to an 
+agreement shall apply to the permit and the General Manager may impose such 
+other terms and conditions as may be deemed appropriate. [Added 2009-03-31 by 
+By-law 358-2009] 
+
+8
+
+9
+
+ Editor's Note: By-law 1206-2009 came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+681-22 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(7) 
+
+In the case of an industrial waste surcharge agreement or permit or sanitary 
+discharge agreement or permit, the minimum amount payable under such 
+agreement or permit for the initial term of the agreement or permit, and upon any 
+and each extension or renewal, if any, of such term by the General Manager, shall 
+be as set out in Chapter 441, Fees and Charges, Appendix D - Schedule 3, 
+Wastewater Services. [Added 2009-03-31 by By-law 358-2009; amended 2009-
+12-04 by By-law 1206-200910; amended 2011-02-24 by By-law 335-201111] 
+
+(8) 
+
+Subject to Section 681-6A(7), the industrial waste surcharge fee in an industrial 
+waste surcharge agreement shall be calculated in accordance with the formula set 
+out in Table 4 below [Added 2019-03-28 by By-law 515-201912]: 
+
+Table 4 - Surcharge Fee Calculation Formula 
+
+The formula is based on the cost to treat a unit (kg) of the surchargeable 
+parameters and is applied to additional units (kg) of all parameters discharged 
+above the applicable Chapter 681 parameter limits allowing full cost recovery for 
+the wastewater treatment services provided by the City. However, the surcharge 
+fees for any additional parameters beyond the parameter that exceeds the 
+applicable Chapter 681 parameter limit the most shall be phased in over a six year 
+period using an annual adjustment factor as set out herein. Subject to 
+Section 681-6A(7), the total industrial waste surcharge fee payable 
+(SurchargeTOTAL) shall be calculated as follows: 
+
+1. 
+
+From April 1, 2019 to March 31, 2020 
+
+SurchargeTOTAL = SurchargeHE + [(SurchargeF – SurchargeHE) x 0.16] 
+
+2. 
+
+From April 1, 2020 to March 31, 2021 
+
+SurchargeTOTAL = SurchargeHE + [(SurchargeF – SurchargeHE) x 0.30] 
+
+3. 
+
+From April 1, 2021 to March 31, 2022 
+
+SurchargeTOTAL = SurchargeHE + [(SurchargeF – SurchargeHE) x 0.44] 
+
+4. 
+
+From April 1, 2022 to March 31, 2023 
+
+SurchargeTOTAL = SurchargeHE + [(SurchargeF – SurchargeHE) x 0.58] 
+
+5. 
+
+From April 1, 2023 to March 31, 2024 
+
+SurchargeTOTAL = SurchargeHE + [(SurchargeF – SurchargeHE) x 0.72] 
+
+6. 
+
+From April 1, 2024 to March 31, 2025 
+
+SurchargeTOTAL = SurchargeHE + [(SurchargeF – SurchargeHE) x 0.86] 
+
+10
+
+11
+
+12
+
+ Editor's Note: By-law 1206-2009 came into force April 1, 2009. 
+
+ Editor's Note: By-law 335-2011 came into force March 1, 2011. 
+
+ Editor's Note: By-law 515-2019 came into force April 1, 2019. 
+
+681-23 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+7. 
+
+Effective on or after April 1, 2025: 
+
+SurchargeTOTAL = SurchargeF 
+
+Where SurchargeHE (Surcharge Fee Based on the Highest Excess) is 
+calculated using the parameter that exceeds the applicable Chapter 681 parameter 
+limits the most as follows: 
+
+SurchargeHE = CHE x Volume (m3) x R ($/kg)  
+
+1000 
+
+CHE = (actual average concentration, mg/L - By-law Parameter Limit, mg/L) for 
+the parameter that exceeds the applicable Chapter 681, Sewers, parameter the 
+most 
+
+actual average concentration = the City measured average concentration in the 
+effluent of the discharger, mg/L 
+
+By-law Parameter Limit = Chapter 681 parameter limit, mg/L [see Table 1 of 
+Chapter 681 and Section 681-6B(1)] 
+
+R = unit cost per kilogram of parameter being treated, $/kg, as established under 
+Chapter 441, Fees and Charges, Appendix D - Schedule 3, Wastewater Services, 
+from time to time 
+
+Volume = annual volume discharged in m3 divided quarterly for the invoice 
+period. 
+
+And where SurchargeF (Surcharge Fee Based on Full Cost Recovery for All 
+Parameters) is calculated using all parameters discharged above the applicable 
+Chapter 681 parameter limits as follows: 
+
+SurchargeF = [(CBOD x RBOD) + (CTSS x RTSS) + (CTP x RTP) + (CTKN x 
+RTKN) + (CPHE x RPHE)] x Volume (m3) 
+
+1000  
+
+C = (actual average concentration, mg/L – By-law Parameter Limit, mg/L) 
+
+actual average concentration = the City measured average concentration in the 
+effluent of the discharger, mg/L 
+
+By-law Parameter Limit = Chapter 681 parameter limit, mg/L [see Table 1 of 
+Chapter 681 and Section 681-6B(1)] 
+
+R = unit cost per kilogram of parameter being treated, $/kg, as established under 
+Chapter 441, Fees and Charges, Appendix D - Schedule 3, Wastewater Services, 
+from time to time 
+
+681-24 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Volume = annual volume discharged in m3 divided quarterly for the invoice 
+period. 
+
+(9) 
+
+In the case of an industrial waste surcharge agreement, a fee for the establishment 
+of any new industrial waste surcharge agreement shall be payable to the City as 
+set out in Chapter 441, Fees and Charges, Appendix D - Schedule 3, Wastewater 
+Services. [Added 2012-11-29 by By-law 1636-201213] 
+
+(10)  The fees and charges applicable to an agreement or permit under § 681-6 and 
+
+payable by a discharger shall be in accordance with Chapter 441, Fees and 
+Charges, Appendix D, Schedule 3, Wastewater Services and this Section and 
+subject to Subsection A(7), as applicable. [Added 2016-02-04 by By-law 100-
+2016] 
+
+B. 
+
+Restrictions on agreements. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+An industrial waste surcharge agreement may only be entered into with respect to 
+the discharge of the following treatable parameters in sewage: biochemical 
+oxygen demand, phenolics (4AAP), total kjeldahl nitrogen (TKN), total 
+phosphorus or total suspended solids. [Amended 2012-11-29 by By-law 1636-
+201214] 
+
+A sanitary discharge agreement or permit may be entered with respect to the 
+discharge of sewage which contains private water. [Amended 2016-02-04 by By-
+law 100-2016] 
+
+A hauled sewage discharge agreement may only be entered with respect to the 
+discharge of hauled sewage originating from septic tanks, portable toilets, or 
+holding tanks and household pet waste within the City. [Added 2008-06-24 by 
+By-law 577-2008] 
+
+C. 
+
+D. 
+
+Industrial waste surcharge agreements, sanitary discharge agreements, and hauled sewage 
+discharge agreements shall be in the form prescribed by the General Manager from time 
+to time, provided that the agreement is in a form satisfactory to the City Solicitor. The 
+General Manager shall be authorized to enter into and execute such industrial waste 
+surcharge agreements, sanitary discharge agreements, and hauled sewage discharge 
+agreements on behalf of the City. [Amended 2007-06-22 by By-law 704-2007; 2008-06-
+24 by By-law 577-2008] 
+
+The agreements contemplated by Subsection B(1) and (2) may be terminated by the 
+General Manager by written notice at any time where there is an emergency situation of 
+immediate threat or danger to any person, property, plant or animal life, water or sewage 
+works. [Amended 2007-06-22 by By-law 704-2007] 
+
+13
+
+14
+
+ Editor's Note: By-law 1636-2012 came into force January 1, 2013. 
+
+ Editor's Note: By-law 1636-2012 came into force January 1, 2013. 
+
+681-25 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+E. 
+
+(1)  Where a person has entered into an agreement or permit with the City in respect 
+
+to the discharge or deposit of sewage or private water, that person shall notify the 
+General Manager in writing, within no more than 10 days of the occurrence, of: 
+[Added 2007-06-22 by By-law 704-2007; amended 2016-02-04 by By-law 100-
+2016] 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+Any change in ownership of the property upon or from which the 
+discharge of sewage is occurring; 
+
+In the case where such party is a lessee or licensee of the property upon or 
+from which the discharge of sewage is occurring, the termination of such 
+lease or licence; 
+
+In the case where a corporation is a party to such an agreement, any 
+change in control or majority ownership of such corporation; 
+
+In the case where a partnership is a party to such an agreement, any 
+change in the partnership status or partners; 
+
+Any change in the manner of discharge or deposit of the sewage by such 
+person; 
+
+F. 
+
+G. 
+
+H. 
+
+I. 
+
+(2) 
+
+In the event that a person fails to provide written notice as required by Subsection 
+E, the City may terminate the agreement without further notice on the 11th day 
+following such occurrence. 
+
+An agreement or permit under this chapter shall not be assignable or in any way 
+transferable to any other person without the express written authorization of the City. 
+[Added 2007-06-22 by By-law 704-2007; amended 2016-02-04 by By-law 100-2016] 
+
+Prior to the execution of the agreement with the City in respect to the discharge or deposit 
+of sewage, where the party is a corporation, such party shall deliver to the City a true 
+copy of its letters of incorporation, letters patent or similar instrument of incorporation 
+and any amendments to such instruments of incorporation and, within 10 days of the 
+occurrence of same, shall deliver to the City a true copy of any change in status or name 
+of such corporation since the date of execution of the agreement. [Added 2007-06-22 by 
+By-law 704-2007] 
+
+The requirements, restrictions and limitations contained in § 681-6B, C, D, E, F and G 
+applying to an agreement for the discharge or deposit of sewage shall apply equally to a 
+permit issued under § 681-4K. [Added 2013-12-18 by By-law 1696-2013] 
+
+Prior to the approval of any permit or agreement under § 681-6 or § 681-4K, the General 
+Manager may require the applicant to provide such plans, specifications, reports, studies, 
+data, analytical results, samples, photographs, records, documentation or other 
+information that would enable the General Manager to fully assess whether or not the 
+actual or potential discharge could contravene this chapter or detrimentally affect the 
+City's inhabitants, its sewer infrastructure or the environment. [Added 2013-12-18 by 
+By-law 1696-2013] 
+
+681-26 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+§ 681-7. Compliance program. 
+
+[Amended 2007-06-22 by By-law 704-2007] 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+F15. 
+
+An industry may submit to the General Manager a proposed compliance program setting 
+out activities to be undertaken by the industry that would result in the prevention or 
+reduction and control of the discharge or deposit of matter from the industry's premises 
+into municipal or private sewer connections to any sanitary sewer or combined sewer. 
+
+An industry may submit to the General Manager a proposed compliance program setting 
+out activities to be undertaken by the industry that would result in the prevention or 
+reduction and control of the discharge or deposit of private water or storm water from the 
+industry's premises to eliminate the discharge of matter into municipal or private sewer 
+connections to any storm sewer. [Amended 2016-02-04 by By-law 100-2016] 
+
+Upon receipt of an application pursuant to Subsection A or B above, the General 
+Manager may issue an approval for a compliance program for an industry to discharge an 
+effluent that does not comply with Table 1 (located in § 681-2) and Table 2 (in § 681-4) 
+of this article, such approval to be in accordance with guidelines therefore adopted by the 
+City from time to time. The industry shall be entitled to make non-complying discharges 
+in the amount and only to the extent set out in the General Manager's approval during the 
+planning, design and construction or installation of facilities or works needed to 
+implement the approved compliance program. 
+
+Every proposed compliance program shall be for a specified length of time during which 
+treatment facilities are to be installed and shall be specific as to the remedial actions to be 
+implemented by the industry, the dates of commencement and completion of the activity 
+and the materials or other characteristics of the matter to which it relates. The final 
+activity completion date shall not be later than the final compliance date in the 
+compliance program. 
+
+The industry to which a compliance program has been issued shall submit a compliance 
+program progress report to the General Manager within 14 days after the scheduled 
+completion date of each activity listed in the compliance program. 
+
+The General Manager may terminate any proposed compliance program by written notice 
+at any time to the industry in the event that the industry fails or neglects to carry out or 
+diligently pursue the activities required of it under its approved compliance program. 
+
+§ 681-8. Sampling and analytical requirements. 
+
+A. 
+
+Except as otherwise specifically provided in this chapter, all tests, measurements, 
+analyses and examinations of sewage, stormwater, or private water required pursuant to 
+or referenced in this chapter, shall be carried out by an accredited laboratory in 
+accordance with those methods determined by the General Manager as appropriate for the 
+type of test, measurement, analysis, or examination undertaken, which may include but 
+
+15
+
+ Editor's Note: By-law 100-2016, enacted February 4, 2016, deleted §§ 681-7G and H. 
+
+681-27 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+not limited to: [Amended 2002-10-31 by By-law 855-2002; 2007-06-22 by By-law 704-
+2007; 2008-06-24 by By-law 577-2008; 2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+(2) 
+
+Standard Methods; or 
+
+Established methods developed or approved, or both, by the Ontario Ministry of 
+the Environment; or 
+
+(3)  Methods developed or approved, or both, by Environment Canada; or 
+
+(4)  Methods developed by U.S. Environmental Protection Agency or International 
+
+Standards Organizations.  
+
+B. 
+
+Compliance or non-compliance with this article may be determined by the analysis of a 
+grab sample or a composite sample done in accordance with Subsection A, may contain 
+additives for its preservation and may be collected manually or by using automatic 
+sampling device. 
+
+C.  Where there is no maintenance access hole meeting the requirements of § 681-10 of this 
+article, the General Manager may, by written notice to an industry, make use of an 
+alternate device or facility for the purpose of sampling a discharge to the sewage works. 
+[Amended 2007-06-22 by By-law 704-2007] 
+
+§ 681-9. Spills. 
+
+A. 
+
+B. 
+
+In the event of a spill to a sewage works, the person responsible or the person having the 
+charge, management and control of the spill shall immediately notify the General 
+Manager and provide any information with regard to the spill that is requested. 
+[Amended 2000-10-05 by By-law 869-2000; 2007-06-22 by By-law 704-2007]  
+
+In addition to the requirement under Subsection A, the person responsible for or the 
+person having the charge, management and control of the spill to the municipal sewage 
+works shall provide a detailed written report on the spill to the General Manager, within 
+five days after the spill, containing at a minimum the following information to the best of 
+that person's knowledge after exercising due diligence: [Amended 2000-10-05 by By-
+law 869-2000; 2007-06-22 by By-law 704-2007; 2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+(2) 
+
+Location where spill occurred; 
+
+Name and telephone number of the person who reported the spill and the location 
+and time where they can be contacted; 
+
+(3) 
+
+Date and time of spill; 
+
+(4)  Material spilled; 
+
+(5) 
+
+(6) 
+
+(7) 
+
+Characteristics of material spilled; 
+
+Volume of material spilled; 
+
+Duration of spill event;  
+
+681-28 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+C. 
+
+D. 
+
+(8)  Work completed and any work still in progress in the mitigation of the spill; and  
+
+(9) 
+
+Preventive actions being taken to ensure a similar spill does not occur again. 
+
+The person responsible for the spill to the municipal sewage works and the person having 
+the charge, management and control of the spill shall do everything reasonably possible 
+to contain the spill, protect the health and safety of persons, animals and aquatic life, 
+protect the environment, minimize damage to property, clean up the spill and 
+contaminated residue and restore the affected area to its condition prior to the spill. 
+[Amended 2000-10-05 by By-law 869-2000; 2016-02-04 by By-law 100-2016]  
+
+Industries, at whose premises a spill to the municipal sewage works of a subject pollutant 
+has occurred and who are required to have a pollution prevention plan pursuant to § 681-
+5, shall prepare an updated plan incorporating the information set out in Subsection B and 
+shall submit it, in writing, to the General Manager within 30 days of the spill. [Amended 
+2007-06-22 by By-law 704-2007; 2013-12-18 by By-law 1718-2013; 2016-02-04 by By-
+law 100-2016] 
+
+§ 681-10. General. 
+
+A. 
+
+Maintenance access hole. [Amended 2000-10-05 by By-law 869-2000; 2002-10-31 by 
+By-law 855-2002; 2007-06-22 by By-law 704-2007; 2010-07-08 by By-law 868-2010; 
+2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+(a) 
+
+(b) 
+
+(c) 
+
+The owner or operator of a commercial, institutional or industrial premises 
+or multi-storey residential building(s) with one or more connections to the 
+municipal sewage works shall install and maintain in good repair in each 
+connection a maintenance access hole constructed in accordance with the 
+standards and specifications and suitable to allow the General Manager to 
+observe, sample and measure the flow within that connection. 
+
+Notwithstanding § 681-10A(1)(a), where installation of a maintenance 
+access hole is not physically possible, the General Manager may authorize, 
+in writing, the use of an alternative sampling access point(s) provided that 
+it allows for the same access and achieves the same purpose as the 
+maintenance access hole. 
+
+Upstream of the maintenance access hole(s) required under Subsection 
+(1)(a) or, where authorized, alternative sampling access point(s) under 
+Subsection (1)(b), the owner or operator of a commercial, institutional or 
+industrial premises or multi-storey residential building(s) shall install a 
+sampling port constructed in accordance with the standards and 
+specifications and suitable to allow the General Manager to separately 
+observe, sample and measure the flow from the premises to the municipal 
+sewage works of: 
+
+(i) 
+
+(ii) 
+
+any sewage; 
+
+any private water; 
+
+681-29 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(iii) 
+
+any storm water. 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+The maintenance access hole or alternative sampling access point shall be located 
+on the property of the owner of the premises, as close to the property line as 
+possible, unless the General Manager has given prior written approval for a 
+different location. 
+
+Each maintenance access hole and sampling access point shall be designed, 
+constructed and installed in accordance with good engineering practice and the 
+standards and specifications and shall be constructed and maintained by the owner 
+or operator of the premises at his or her expense. 
+
+The owner or operator of an industrial, commercial or institutional premises or a 
+multi-storey residential building shall at all times ensure that every maintenance 
+access hole or sampling access point required by Subsection A(1) is accessible to 
+the General Manager for the purposes of separately observing, sampling and 
+measuring the flow of the sewage, private water or storm water therein. 
+
+The provisions of Subsections A(1) to (4) inclusive do not apply to those who 
+own or operate dental offices. Dental offices shall provide a sampling port 
+consisting of a valve, tap, or similar device consistent with technical guidelines 
+that the General Manager may establish from time to time. 
+
+B. 
+
+Food-related grease interceptors. [Amended 2002-10-31 by By-law 855-2002; 2016-02-
+04 by By-law 100-2016] 
+
+(1) 
+
+Every owner or operator of an industrial operation where food is cooked, heated, 
+processed or prepared that is connected directly or indirectly to a municipal sewer 
+connection or municipal sewer shall: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+Take all necessary measures to ensure that oil and grease are prevented 
+from entering the municipal sewer connection or municipal sewer; 
+
+Install a grease interceptor in any piping system or private water drainage 
+system at its premises that connects directly or indirectly to a municipal 
+sewer connection or municipal sewer, in compliance with the Building 
+Code; 
+
+Install a new grease interceptor where the General Manager determines 
+that an existing grease interceptor in an industrial operation where food is 
+cooked, heated, processed or prepared is detrimentally affecting the 
+municipal sewage works or any part thereof; and 
+
+Operate and properly maintain a grease interceptor in any piping system or 
+private water drainage system at its premises that connects directly or 
+indirectly to a sewer, according to the requirements of the Food Service 
+Establishment Environmental Code of Practice. 
+
+(2) 
+
+Every owner or operator of a mobile industrial operation where food is cooked, 
+heated, processed or prepared shall follow Section 11 of the Food Service 
+Establishment Environmental Code of Practice. 
+
+681-30 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+C. 
+
+Interceptors for motor oil and lubricating grease. [Amended 2000-10-05 by By-law 869-
+2000; 2002-10-31 by By-law 855-2002] 
+
+(1) 
+
+(2) 
+
+Every owner or operator of a motor vehicle service station, repair shop or garage 
+or of an industrial, commercial or institutional premises or any other 
+establishment where motor vehicles are repaired, lubricated or maintained and 
+where the sanitary discharge is directly or indirectly connected to a sewer shall 
+install and maintain an oil interceptor designed to prevent motor oil and 
+lubricating grease from passing into the drainage piping which is connected 
+directly or indirectly to a sewer. 
+
+The owner or operator of a premises as set out in Subsection C(1) shall install, 
+operate, and properly maintain an oil interceptor in any piping system at its 
+premises that connects directly or indirectly to a sewer. The oil interceptors shall 
+be installed in compliance with the most current requirements of the Ontario 
+Building Code. 
+
+D. 
+
+Sand and grit interceptors. [Amended 2002-10-31 by By-law 855-2002; 2010-07-08 by 
+By-law 868-2010; 2013-12-18 by By-law 1718-2013; 2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+Every owner or operator of a premises from which sand, grit or similar materials 
+may directly or indirectly enter a municipal sewer connection or municipal sewer 
+shall take all necessary measures to ensure that such materials is prevented from 
+entering the drain, a municipal sewer connection or a municipal sewer. 
+
+Catch basins installed on private property for the purposes of collecting storm 
+water and carrying it into the municipal storm sewers shall be equipped with goss 
+traps or an equivalent and the installation of these catch basins on private property 
+shall comply with the Standards and Specifications. 
+
+No combination of a maintenance access hole and catch basin shall be installed on 
+private property. 
+
+Every owner or operator of an industrial vehicle or equipment wash operation or a 
+premise where sand, grit or similar materials is discharged to a municipal sewer 
+connection or a municipal sewer shall install, operate, and properly maintain an 
+interceptor, designed for the purpose of intercepting such discharges, in any 
+piping system at the premises that connects directly or indirectly to a municipal 
+sewer connection or a municipal sewer. The interceptor shall be installed in 
+compliance with the most current requirements of the Building Code. 
+
+E. 
+
+Garbage grinders. [Amended 2002-10-31 by By-law 855-2002] 
+
+(1) 
+
+(2) 
+
+No person shall install or operate within the City any garbage grinding devices for 
+domestic purposes, the effluent from which will discharge directly or indirectly 
+into a storm or combined sewer. 
+
+In the case of industrial, commercial or institutional properties where garbage 
+grinding devices are installed in accordance with the Building Code, the effluent 
+from such garbage grinding devices must comply with § 681-2. 
+
+681-31 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+F. 
+
+Dental waste amalgam separator. [Amended 2005-10-28 by By-law 867-2005; 2007-06-
+22 by By-law 704-200716; 2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+Every owner or operator of a premises, from which dental amalgam may be 
+discharged and may directly or indirectly enter a municipal sewer connection or a 
+municipal sewer, shall install, operate and properly maintain dental amalgam 
+separator(s) in any piping system at its premises that connects directly or 
+indirectly to a municipal sewer connection or a municipal sewer. 
+
+(2) 
+
+Notwithstanding compliance with § 681-10F, all persons operating or carrying on 
+the business of a dental practice shall comply with § 681-2A(4). 
+
+§ 681-11. Sewer connections. 
+
+A. 
+
+No person shall: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+Erect or cause or permit to be erected any new or substantially renovated building 
+unless the building is connected to the sanitary sewer or combined sewer for 
+sanitary drainage purposes, save and except a building not required to contain 
+plumbing or a sewage system by the Building Code Act, 1992, or any other 
+applicable federal or provincial law.[Amended 2002-10-31 by By-law 855-2002; 
+2007-06-22 by By-law  704-2007; 2013-12-18 by By-law 1696-2013] 
+
+Construct, install, maintain or cause or permit to be constructed, installed or 
+maintained, whether installed prior to the date of the passing of this article or any 
+of its predecessors, a direct or indirect connection to the sanitary sewer 
+connection which would permit anything other than domestic and industrial 
+sewage to discharge into the sanitary sewer connection. 
+
+Section 681-11A(1) shall not apply to the City so as to limit the City from 
+erecting or causing or permitting the erection of Class 1 or Class 4 sewage 
+systems, as defined by the Building Code Act, 1992, on City property designated 
+as open space or public park lands. [Added 2007-06-22 by By-law 704-2007] 
+
+(4)  Where no City sanitary sewer exists adjacent to a property, the General Manager 
+
+may exempt such property from the application of § 681-11A(1), provided that 
+the property contains no more than one single-family dwelling and the new 
+building is connected to a septic system or holding system, to contain the sewage, 
+installed and maintained in compliance with all applicable legislation, regulations 
+and by-laws. [Added 2007-06-22 by By-law 704-2007] 
+
+B. 
+
+(1) 
+
+No sewer connection shall be constructed on any road allowance, easement, or 
+other public land, except by the City or, where authorized in writing by the 
+General Manager, under a written agreement satisfactory to the General Manager. 
+[Amended 2002-10-31 by By-law 855-2002; 2007-06-22 by By-law 704-2007; 
+2010-07-08 by By-law 868-2010] 
+
+16
+
+ Editor's Note: This by-law also repealed former § 681-10F, Right of entry, previously amended December 6, 2001 by By-law 1109-
+2001; § 681-10G, Protection from damage; § 681-10H, Damage to the sewage works; and § 681-10I, Unauthorized entry to sewage works. 
+
+681-32 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(2) 
+
+The owner of the property seeking the sewer connection shall make an application 
+in accordance with § 681-11C and shall be responsible for the cost of the sewer 
+connection. [Amended 2002-10-31 by By-law 855-2002; 2007-06-22 by By-law 
+704-2007; 2010-07-08 by By-law 868-2010] 
+
+C. 
+
+The owner or owner's agent shall apply to the City for a new municipal sewer connection 
+or installations and, where necessary, for the disconnection of the existing municipal 
+sewer connections, and pay to the City the cost of such work on an actual cost basis with 
+a minimum charge equal to the applicable flat rate for such works, as determined by the 
+City from time to time, where there is: [Amended 2005-10-28 by By-law 867-2005; 
+2008-06-24 by By-law 577-2008; 2013-12-18 by By-law 1696-2013] 
+
+(1) 
+
+(2) 
+
+A subdivision or severance of a lot or parcel of land or change in location of a 
+building on a lot; or 
+
+A construction of a new or reconstructed building, except to the extent that 
+§ 681-11D applies; or 
+
+(3) 
+
+A disconnection of a dwelling from a septic tank system. 
+
+D.  Reconstructed buildings. 
+
+(1)  Whenever an existing building is substantially demolished, the existing municipal 
+sewer connections shall be disconnected by the City at the municipal sewers at the 
+expense of the owner of the building. The owner applying for the permit to 
+construct the replacement building shall be required to apply and pay the City for 
+the installation of new municipal sewer connections. 
+
+(2) 
+
+(3) 
+
+For the purposes of this section, an existing building is substantially demolished 
+when more than 50 percent of the exterior walls of the first storey above grade are 
+removed, whether or not they are subsequently replaced.17 
+
+Notwithstanding § 681-11D(1), an owner may apply to the General Manager for 
+the reuse of a municipal sewer connection, up to and including 150 mm in 
+diameter, for the purposes of servicing a residential dwelling if municipal sewer 
+connection meets, as determined by the General Manager, all of the following 
+requirements: [Added 2010-07-08 by By-law 868-2010] 
+
+(a) 
+
+(b) 
+
+(c) 
+
+The municipal sewer connection must meet current City standards and 
+specifications; 
+
+The municipal sewer connection must not be a double connection; 
+
+The municipal sewer connection must not have record of history of sewer 
+back-ups in respect to properties serviced by that municipal sewer 
+connection; and 
+
+17
+
+ Editor's Note: Former § 681-11D(3), which previously followed this subsection, which permitted an owner to use an existing municipal 
+
+sewer connection when constructing a replacement building or disconnecting a dwelling from a septic tank, amended October 28, 2005 
+by By-law 867-2005, was repealed June 24, 2008 by By-law 577-2008. 
+
+681-33 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(d) 
+
+The municipal sewer connection is free of structural and operational 
+defects. 
+
+(4) 
+
+(5) 
+
+For the purposes of § 681-11D(3)(d), the City will carry out a closed circuit 
+television sewer inspection along the entire municipal portion of the sewer 
+connection, the results of which must indicate that the sewer connection is free of 
+structural and operational defects. [Added 2010-07-08 by By-law 868-2010] 
+
+The owner, upon making an application under § 681-11D(3), shall pay to the City 
+any fees, charges and costs as may be prescribed or determined by the City from 
+time to time. [Added 2010-07-08 by By-law 868-2010] 
+
+In the event that a sewer connection is installed or operated in contravention of any 
+provision of this article, the General Manager may, until such time as the violations are 
+rectified, order the temporary disconnection of such sewer connection. During any 
+disconnection in accordance with this section, no person shall use or cause or permit the 
+use of such a connection.  The cost of the disconnection and reconnection shall be borne 
+by the property owner and shall be payable to the City before any reconnection is made. 
+[Amended 2007-06-22 by By-law 704-2007; 2016-02-04 by By-law 100-2016] 
+
+The General Manager shall not order such temporary disconnection unless the General 
+Manager has first mailed to the property owner and occupant, if any, a registered letter 
+specifying the nature of the violation or violations of this article and indicating the 
+intention of the General Manager to order temporary disconnection of the sewer 30 days 
+after the date of mailing, unless the General Manager is satisfied that the violation or 
+violations set out in the notice will be rectified within that time. The cost of the 
+disconnection and reconnection shall be borne by the property owner and shall be 
+payable to the City before any reconnection is made. [Amended 2007-06-22 by By-law 
+704-2007] 
+
+E. 
+
+F. 
+
+G. 
+
+(1) 
+
+Any person who requires or desires a new sewer connection to be supplied to a 
+property or a change or alteration to the existing sewer connection in relation to a 
+property shall submit an application for such connection, change or alteration on 
+the prescribed City form to the General Manager accompanied by such 
+investigational studies, reports, drainage plans, grading plans, engineering plans 
+and other detailed documentation and information as may be required by the 
+General Manager to determine if the application is in accordance with the 
+standards and specifications and the requirements of this chapter. [Amended 
+2002-10-31 by By-law 855-2002; 2007-06-22 by By-law 704-2007; 2010-07-08 
+by By-law 868-2010] 
+
+(2) 
+
+The applicant shall pay to the City, at the time of making the application, all 
+applicable fees, charges, deposits and costs, including the cost for disconnection 
+of the existing sewer connection and for the new sewer connection, if one is 
+required. [Amended 2002-10-31 by By-law 855-2002; 2007-06-22 by By-law 
+704-2007; 2010-07-08 by By-law 868-2010] 
+
+(3) 
+
+The owner of the property, or the owner's agent, shall sign the application, and the 
+owner shall be responsible for the completeness and accuracy of the information 
+
+681-34 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+furnished on such application and in the supporting documentation to be provided 
+in accordance with § 681-11G(1). [Amended 2002-10-31 by By-law 855-2002; 
+2007-06-22 by By-law 704-2007; 2010-07-08 by By-law 868-2010] 
+
+H. 
+
+Sewer connections on public or private property. [Amended 2002-10-31 by By-law 855-
+2002; 2005-10-28 by By-law 867-2005; 2007-06-22 by By-law 704-2007; 2008-06-24 
+by By-law 577-2008; 2010-07-08 by By-law 868-2010; 2013-07-19 by By-law 1030-
+2013] 
+
+(1) 
+
+(2) 
+
+Upon approval by the General Manager of an application submitted under 
+§ 681-11G, a sewer connection on public property between the sewer main and 
+private property shall be installed by the City, at the expense of the owner of the 
+property obtaining the sewer connection, in accordance with the standards and 
+specifications and upon such conditions, rates, fees, charges and costs as may be 
+prescribed or determined by the City from time to time. 
+
+Notwithstanding § 681-11H(1), upon approval by the General Manager of an 
+application submitted under § 681-11G, the General Manager may authorize, in 
+writing, the property owner seeking the sewer connection to install the sewer 
+connection provided that: 
+
+(a) 
+
+The owner meets one of the following conditions: 
+
+[1] 
+
+[2] 
+
+[3] 
+
+The installation of a sewer service connection is within a new or 
+existing unassumed subdivision; or 
+
+The installation of a sewer service connection is to be constructed 
+in conjunction with the construction of new sewage works related 
+to the owner's project; or 
+
+The installation of a sewer service connection is approved by the 
+General Manager within an easement; and 
+
+A written agreement between the City and the owner of the property, in 
+respect to the installation, any related work and acceptance of risk by the 
+owner, is first entered into on such terms and conditions as are acceptable 
+to the General Manager and in a form satisfactory to the City Solicitor; 
+and 
+
+The installation is wholly at the expense and risk of the owner including 
+payment by the owner to the City of any rates, fees, charges and costs 
+prescribed or determined by the City from time to time or costs otherwise 
+incurred by the City as a result of or related to the installation and 
+inspection of the work; and 
+
+The installation is in accordance with the City's standards and 
+specifications, the agreement set out in § 681-11H(2)(b) and under a 
+building permit having been issued for such purpose by the Chief Building 
+Official of the City. 
+
+(b) 
+
+(c) 
+
+(d) 
+
+681-35 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(2.1)  The General Manager may exempt, where appropriate, an owner from the 
+
+conditions contained in § 681-11H(2)(a) where the General Manager is satisfied 
+that the service connections can be properly installed by the owner in accordance 
+with the City specifications and other requirements set out in § 681-11H(2)(b), (c) 
+and (d) are met. 
+
+(3) 
+
+The General Manager is authorized to enter into and execute an agreement 
+provided in § 681-11H(2)(b), unless Council has otherwise delegated 
+responsibility to enter and execute the form of agreement to another City division 
+head or official. 
+
+I. 
+
+Methods and materials used in the construction of sewer connections shall resist entry of 
+roots and acid or alkali damage, and otherwise be in accordance with requirements 
+determined by the General Manager from time to time. [Amended 2002-10-31 by By-
+law 855-2002; 2007-06-22 by By-law 704-2007] 
+
+J. 
+
+Separate Connections. [Amended 2013-12-18 by By-law 1696-2013] 
+
+(1) 
+
+(2) 
+
+(3) 
+
+No person shall install or cause the installation of a municipal sewer connection 
+that services more than one building on a property unless otherwise permitted 
+under the Building Code and this section. 
+
+No person shall install or cause the installation of a municipal sewer connection 
+that services more than one property. 
+
+The General Manager may authorize a single service connection to service a 
+single property containing multiple buildings, parcels of tied land, condominiums, 
+and/or freehold parcels, provided that: 
+
+(a) 
+
+(b) 
+
+Such servicing complies with the Building Code; and 
+
+The General Manager is satisfied that: 
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+The proposed servicing meets the Standards and Specifications; 
+
+The owner of the lands upon which the service connection is 
+located is directly responsible for the payment of any fees and 
+charges for the supply of municipal sewer services to the property; 
+
+The owner of the lands upon which the service connection is 
+located is directly responsible for all discharges to municipal 
+sewage works, compliance with this chapter and any enforcement 
+measures and sanctions arising from non-compliance with this 
+chapter; 
+
+The manner of ownership of the property will not impede the 
+City's ability to collect fees or charges or enforce compliance with 
+this chapter or Chapter 441, Fees and Charges, and Chapter 849, 
+Water and Sewage Services and Utility Bill; and 
+
+[5] 
+
+The general intent of this subsection has been met. 
+
+681-36 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(4)  Where an authorization is provided by the General Manager under § 681 11J(3), 
+
+the General Manager may make such authorization conditional on such terms and 
+conditions as the General Manager considers appropriate to meet the requirements 
+of § 681-11J(3)(b). 
+
+(5) 
+
+For the purpose of § 681-J(3), a "parcel of tied land" shall be as defined under 
+section 24(1) of Ontario Regulation 49/01, made under the Condominium Act, 
+1998, as amended from time to time. 
+
+K. 
+
+A private sanitary sewer connection shall not be installed until: [Amended 2002-10-31 
+by By-law 855-2002] 
+
+L. 
+
+M. 
+
+N. 
+
+O. 
+
+(1) 
+
+The municipal sewer to which the municipal sewer connection is made is fully 
+completed and accepted for operation; and 
+
+(2) 
+
+The municipal sewer connection is satisfactorily installed. 
+
+In the event that any person constructs a municipal sewer connection in a manner other 
+than provided for in this section, the General Manager may order the re-excavation of the 
+connection for the purpose of inspection and testing and, if necessary, reconstruction of 
+the work, and the General Manager may have these works performed at the expense of 
+the owner or disconnect the sewer connection, in which case it shall not be reconnected 
+except with the approval of the General Manager. [Amended 2000-10-12 by By-law 
+958-2000; 2002-10-31 by By-law 855-2002; 2007-06-22 by By-law 704-2007]  
+
+The owner of any building erected upon lands that abut on a street which is not serviced 
+by a storm sewer shall construct a down-pipe from the eavestrough that shall discharge 
+the water at grade with provisions to prevent soil erosion and shall conduct the storm 
+water away from the building in such a manner that the storm water will not accumulate 
+at or near the building and will not adversely affect adjacent properties. 
+
+(Reserved)18 
+
+(1)  Where a catch basin or similar drainage collection system has been installed or is 
+proposed to be installed on private property to drain storm water from a driveway 
+sloped downwards towards any residential building located on the property, the 
+storm water from the drainage collection system shall be discharged at grade 
+away from the building in such a manner that the storm water will not accumulate 
+at or near the building and will not adversely affect adjacent properties. 
+[Amended 2000-10-12 by By-law 958-2000; 2002-10-31 by By-law 855-2002; 
+2010-07-08 by By-law 868-2010] 
+
+(2) 
+
+An owner may make an application to the General Manager for an exemption 
+from the provisions of § 681-11O(1) where compliance with that provision would 
+create a hazardous condition or is not technically feasible. [Amended 2000-10-12 
+by By-law 958-2000; 2002-10-31 by By-law 855-2002; 2010-07-08 by By-law 
+868-2010] 
+
+18
+
+ Editor's Note: Former § 681-11N, which contained exceptions from § 681-11D(1) in the case of storm sewers, was repealed October 31, 
+
+2002 by By-law 855-2002. 
+
+681-37 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(3)  Where an owner makes an application to the General Manager for an exemption 
+
+from the provisions of § 681-11O(1) under § 681-11O(2), the catch basin or 
+similar drainage collection system installed or is proposed to be installed shall not 
+be connected to the City storm sewer unless, as determined by the General 
+Manager: [Amended 2000-10-12 by By-law 958-2000; 2002-10-31 by By-law 
+855-2002; 2010-07-08 by By-law 868-2010] 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+(i) 
+
+(j) 
+
+(k) 
+
+Compliance with § 681-11O(1) would create a hazardous condition or is 
+not technically feasible; and 
+
+The owner of the property has made an application in accordance with 
+§ 681-11G for a storm sewer connection in the manner and on the forms 
+prescribed by the General Manager; and 
+
+The driveway sloped downwards towards a residential building is lawfully 
+permitted; and 
+
+A storm sewer is existing immediately adjacent to the subject property and 
+has capacity to handle any additional storm water flow resulting from the 
+connection; and 
+
+The storm sewer connection shall have no detrimental effects to the storm 
+drainage system, either as a whole or in part; and 
+
+A flap gate backwater valve is installed upstream of the public portion of 
+the sewer connection at the streetline, so that no storm water may back up 
+from the City storm sewer into the private catch basin; and 
+
+A sump pump, is located in the overflow sump, to discharge any storm 
+water which has collected in the catch basin while the above flap gate 
+backwater valve has closed to prevent a backup of storm water; and 
+
+The sump pump and any required storage system is appropriately sized to 
+drain the collection area to prevent flooding into the building; and 
+
+A written agreement between the City and the owner of the property, with 
+terms and conditions in respect to the installation, any related work and 
+acceptance of risk by the owner as are acceptable to the General Manager 
+and in a form satisfactory to the City Solicitor, is first entered into; and 
+
+The installation is wholly at the expense and risk of the owner including 
+payment by the owner to the City of any rates, fees, charges and costs 
+prescribed or determined by the City from time to time or costs otherwise 
+incurred by the City as a result of or related to the installation and 
+inspection of the work; and 
+
+The written agreement between the City and the owner of the property as 
+required by Section 681-11O(3)(i) is registered on title to the property at 
+the expense of the owner, where permitted by the applicable land registry 
+legislation and in a form satisfactory to the City Solicitor. [Added 2013-
+12-18 by By-law 1696-2013] 
+
+681-38 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+P. 
+
+Q. 
+
+Flap gate backwater valve and sump pumps required pursuant to Subsection O shall be 
+installed and maintained by the owner or operator of the premises at his or her expense. 
+
+Inflow and infiltration of storm water into sanitary sewer system. [Amended 2002-10-31 
+by By-law 855-2002] 
+
+(1) 
+
+The owner of any building which has a roof water leader discharging storm water, 
+either directly or indirectly, into the sanitary sewer connection shall disconnect 
+the down-pipe from the underground portions at grade and shall conduct the storm 
+water away from the building in such a manner that the storm water will not 
+accumulate at or near the building and will not adversely affect adjacent 
+properties. 
+
+(2) 
+
+For the purposes of this section: 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(a) 
+
+(b) 
+
+"Directly" shall mean by any physical connection or series of connections 
+between the roof water leader and the sanitary sewer system. 
+
+"Indirectly" shall mean in any manner whatsoever whereby storm water 
+enters the sanitary sewer system, and for the greater certainty includes but 
+is not limited to any situation where open joints in underground sewer 
+connections on private property permit storm water to infiltrate the 
+sanitary sewer system. [Amended 2013-12-18 by By-law 1696-2013] 
+
+An owner may request the General Manager to conduct an inspection by means of 
+an excavation or closed circuit television inspection to determine the source of 
+inflow or infiltration into the sanitary sewer system. Upon such request, the owner 
+shall pay to the City any fees, charges and costs as may be prescribed or 
+determined by the City from time to time including, without limitation, any closed 
+circuit television inspection fee. [Amended 2005-10-28 by By-law 867-2005; 
+2010-07-08 by By-law  868-2010] 
+
+If, as a result of the inspection pursuant to Subsection Q(3), the General Manager 
+determines that the infiltration of storm water into the sanitary sewer system 
+occurs solely as a result of a structural problem in the City's portion of the 
+connection, the provisions of Subsection Q(1) will not apply to the owner with 
+respect to the premises in relation to which the inspection was performed. 
+[Amended 2007-06-22 by By-law  704-2007] 
+
+If, as a result of the inspection pursuant to Subsection Q(3), the General Manager 
+determines that the infiltration of storm water into the sanitary sewer system 
+occurs as a result of structural problems in both the City's portion of the 
+connection and the owner's portion of the connection, the provisions of 
+Subsection Q(1) will not apply to the owner with respect to the premises in 
+relation to which the inspection was performed, and the deposit will be refunded 
+if the owner completes repairs to the owner's portion of the connection to correct 
+deficiencies in that portion of the connection identified in the inspection. 
+[Amended 2007-06-22 by By-law 704-2007] 
+
+681-39 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+R. 
+
+Private water drainage system. [Amended 2002-10-31 by By-law 855-2002; 2005-10-28 
+by By-law 867-2005; 2007-06-22 by By-law 704-2007; 2016-02-04 by By-law 100-
+2016] 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+No owner of industrial premises shall do anything which may increase design 
+peak flow rates of storm or sewage or impair the quality of storm or sewage 
+discharged to a municipal storm sewer connection or municipal storm sewer or 
+municipal sanitary sewer connection or municipal sanitary sewer.  
+
+The direct connection of any new private sewer connection to the municipal storm 
+sewer or municipal sanitary sewer is prohibited for any new or reconstructed 
+residential, industrial, commercial or institutional buildings.  
+
+An owner may make an application to the General Manager for an exemption 
+from the provisions of Subsection R(2), and the General Manager may permit a 
+connection that does not comply with Subsection R(2) where there is no practical 
+alternate means of drainage available, and compliance with Subsection R(2) is not 
+feasible.  
+
+Before considering a request for an approval pursuant to Subsection R(3), the 
+owner or operator of multi-unit residential, industrial, commercial or institutional 
+premises shall be required to submit to the General Manager for approval a storm 
+water management report identifying the storm water quantity and quality control 
+measures being proposed for the site.  
+
+No direct connection or indirect interconnection between the private storm 
+drainage system and the private sanitary drainage system is permitted. 
+
+The private water drainage system set out in Subsection R shall be installed and 
+maintained by the owner or operator of the premises, at his or her sole expense. 
+
+S. 
+
+Storm water drainage. [Amended 2002-10-31 by By-law 855-2002; 2005-10-28 by By-
+law 867-2005] 
+
+(1) 
+
+(2) 
+
+An owner shall discharge storm water, unless a connection to a combined or 
+storm sewer is otherwise permitted or authorized by the General Manager in 
+writing under this section or § 681-11O, in a manner that is in compliance with §§ 
+629-11A, 629-11A.1(1) and 629-20 of Chapter 629, Property Standards. 
+[Amended 2010-07-08 by By-law 868-2010; 2013-12-18 by By-law 1696-2013] 
+
+No person shall construct, install or maintain, or cause or permit to be 
+constructed, installed or maintained, drainage from any roof water leader or 
+downspout that conveys storm water from any new or reconstructed residential, 
+industrial, commercial or institutional buildings directly or indirectly to a sanitary, 
+combined or storm sewer connection for the purpose of storm water drainage. 
+[Amended 2007-06-22 by By-law 704-2007; 2010-07-08 by By-law 868-2010] 
+
+(3) 
+
+No person shall permit or maintain the connection of a downspout from any 
+building directly or indirectly to a combined or storm sewer in the combined 
+
+681-40 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(4) 
+
+(5) 
+
+(6) 
+
+sewer area of the City, as identified on the map attached as Attachment 1. [Added 
+2007-11-20 by By-law 1252-200719] 
+
+No person shall permit or maintain the connection of a downspout from any 
+building directly or indirectly to a storm sewer in the Basement Flooding Study 
+Areas of the City, as identified on the map attached as Attachment 2.20 [Added 
+2008-12-03 by By-law 1255-200821] 
+
+No person shall permit or maintain the connection of a downspout from any 
+building directly or indirectly to a storm sewer in any other area of the City not 
+otherwise prohibited under § 681-11S(3) or § 681-11S(4). [Added 2008-12-03 by 
+By-law 1255-200822] 
+
+An owner may make an application to the General Manager for an exemption 
+from the provisions of § 681-11S(2), § 681-11S(3), § 681-11S(4) or § 681-11S(5) 
+where, in the case of § 681-11S(2), compliance with that provision would create a 
+hazardous condition; and where, in the case of § 681-11S(3), § 681-11S(4) or 
+§ 681-11S(5), the disconnection of downspouts, in respect to a property, would 
+create a hazardous condition or is not technically feasible. [Added 2007-11-20 by 
+By-law 1252-2007; amended 2008-12-03 by By-law 1255-2008;23 2010-07-08 
+by By-law 868-2010] 
+
+(7)  Where an owner makes an application for an exemption under § 681-11S(6), the 
+owner shall supply such plans, photographs and other documentation as the 
+General Manager may request and, in each case, the determination of an 
+exemption shall be in the General Manager's sole discretion. [Added 2010-07-08 
+by By-law 868-2010] 
+
+T. 
+
+Private residential conventional non-salt water swimming pools, hot tubs, spas or wading 
+pools. [Amended 2000-10-12 by By-law 958-2000; 2002-10-31 by By-law 855-2002; 
+2008-06-24 by By-law 577-2008; 2010-07-08 by By-law 868-2010; 2016-02-04 by By-
+law 100-2016] 
+
+(1) 
+
+Subject to § 681-11U, no person shall discharge wastewater from a private 
+residential swimming pool or hot tub/spa or wading pool: 
+
+(a) 
+
+(b) 
+
+Into a storm drainage system, unless otherwise permitted under 
+§ 681-11T(3); or 
+
+In a manner that may cause or causes the wastewater to flow onto an 
+adjoining property; or 
+
+19
+
+ Editor's Note: By-law  1255-2008, enacted December 3, 2008, provided that § 681-11S(3) come into force four years from the date of 
+
+enactment of By-law 1252-2007. 
+20
+
+ Editor's Note: Attachment 2 is included at the end of this chapter. 
+
+21
+
+ Editor's Note: This by-law provided for the redesignation of former § 681-11S(4) as § 681-11S(6). This by-law also provided that 
+
+§ 681-11S(4) come into force five years from the date of the enactment of this by-law.  
+22
+
+ Editor's Note: This by-law provided that § 681-11S(5) come into force eight years from the date of the enactment of this by-law.  
+
+23
+
+ Editor's Note: This by-law provided that § 681-11S(6) come into force four years from the date of the enactment of By-law. 1252-2007. 
+
+681-41 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(c) 
+
+Over a valley or ravine wall or slope in a manner that may cause or causes 
+the erosion or instability of the valley or ravine wall or slope; or 
+
+(d) 
+
+In a manner other than is permitted under § 681-11T(2) or (3). 
+
+(2) 
+
+Unless otherwise permitted under § 681-11T(3) and subject to § 681-11U, a 
+person is permitted to discharge wastewater from a private residential swimming 
+pool or hot tub/spa or wading pool either: 
+
+(a) 
+
+(b) 
+
+By way of a temporary connection to the sanitary sewer; or 
+
+By way of a controlled discharge to the owner's property such that the 
+discharge is at all times contained within the owner's property until it 
+evaporates or infiltrates into the ground. 
+
+(3) 
+
+Subject to § 681-11U, a person is permitted to discharge wastewater from a 
+private residential swimming pool or hot tub/spa or wading pool to a storm sewer 
+provided that all of the following conditions are met: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+There are no algaecides in the private residential swimming pool or hot 
+tub/spa or wading pool water; and 
+
+The private residential swimming pool or hot tub/spa or wading pool 
+water is held in the pool for one week after the last dosage of chlorine and 
+the chlorine concentration in the wastewater is at or below 0.01 mg/L; and 
+
+The private residential swimming pool or hot tub/spa or wading pool 
+water is treated with sodium sulphite to achieve the 0.01 total chlorine 
+limit; and 
+
+The copper concentration of the private residential swimming pool or hot 
+tub/spa or wading pool water is at or below 0.04 mg/L; and 
+
+The owner of a private residential swimming pool, hot tub, spa or wading 
+pool, either directly, or through a tenant, operator or service contractor, 
+complies with the City's Environmental Best Management Practices for 
+Swimming Pools. Notwithstanding the foregoing, where there is a 
+discrepancy between the City's Environmental Best Management Practices 
+for Swimming Pools and any provision of this chapter, the provision(s) in 
+this chapter shall supersede. 
+
+(4) 
+
+For the purposes of § 681-11T, "private residential" means a swimming pool 
+serving five or fewer single-family residences. 
+
+U. 
+
+Private swimming pool water or hot tub/spa - private residential salt water swimming 
+pools. [Amended 2008-06-24 by By-law 577-2008; 2010-07-08 by By-law 868-2010] 
+
+(1) 
+
+No person shall discharge wastewater from a private residential salt water 
+swimming pool or hot tub/spa except: 
+
+(a) 
+
+To the sanitary sewer, either by: 
+
+681-42 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+[1] 
+
+[2] 
+
+A permanent connection to the sanitary drain on the owner's 
+property; or 
+
+By way of a temporary connection to the sanitary drain on the 
+owner's property; or 
+
+(b) 
+
+By way of a controlled discharge to the owner's property such that the 
+discharge is at all times contained within the owner's property until it 
+evaporates or infiltrates into the ground provided that it does not migrate 
+onto adjacent lands. 
+
+(2) 
+
+For the purposes of § 681-11U, "private residential" means a salt water swimming 
+pool serving five or fewer single-family residences. 
+
+V. 
+
+Notwithstanding § 681-11T or U: [Added 2008-06-24 by By-law 577-2008; amended 
+2010-07-08 by By-law 868-2010] 
+
+(1) 
+
+(2) 
+
+Rainwater resting on a tarp which covers a swimming pool or hot tub/spa or 
+wading pool may be discharged to a storm sewer, subject to § 681-4. 
+
+Any water or wastewater including rainwater resting on a tarp which covers a 
+swimming pool shall not be discharged to or near a ravine such that it flows to a 
+ravine in a manner that may cause or causes the erosion or instability of the valley 
+or ravine wall or slope or causes injury or destruction of trees and vegetation. 
+
+W. 
+
+Notwithstanding § 681-11T, U or V: [Added 2008-06-24 by By-law 577-2008; 
+amended 2016-02-04 by By-law 100-2016] 
+
+(1) 
+
+(2) 
+
+The backwash water from the swimming pool filter shall be discharged to the 
+sanitary sewer or owner's property in a manner that does not flow on to the street 
+or a neighbouring property; and 
+
+The owner of a swimming pool, hot tub, spa or wading pool, either directly or 
+through a tenant, operator or service contractor, shall comply with the City's 
+Environmental Best Management Practices for Swimming Pools and Hot 
+Tubs/Spas. Notwithstanding the foregoing, where there is a discrepancy between 
+the City's Environmental Best Management Practices for Swimming Pools and 
+any provision of this chapter, the provision(s) in this chapter shall supersede. 
+
+X. 
+
+Sewer investigations. [Added 2013-12-18 by By-law 1696-2013] 
+
+(1)  Where a person disputes the City's determination of the location of a defect in a 
+
+sewer connection, that person may apply in writing to the General Manager to 
+request the City to conduct an inspection of the sewer connection. 
+
+(a) 
+
+The applicant shall set out, in the application, the basis upon which the 
+applicant disputes the City's determination of the location of a defect in 
+the sewer connection and provide any available reports, photographs or 
+other supporting information as may be available. 
+
+(b) 
+
+By submitting an application and as a condition of the City conducting an 
+inspection, the property owner shall be deemed to have consented to the 
+
+681-43 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+City having reasonable access to the property owner's private plumbing 
+and sewer system.  Where the applicant is not the property owner, the 
+application shall include the written consent of the property owner for 
+such reasonable access. 
+
+If the General Manager, in that person's sole discretion, determines that an 
+inspection is necessary to determine the location or cause of the blockage 
+or defect, the person requesting the inspection shall pay to the City the 
+deposit specified in Chapter 441, Fees and Charges, Appendix D - 
+Schedule 3, Wastewater Services, Reference Number 10, Sewers, prior to 
+the commencement of the inspection. 
+
+The method of inspection shall be in the sole discretion of the General 
+Manager and, without limitation, may consist of excavation within the 
+municipal road allowance, closed circuit television inspection of the 
+connection via the sewer or otherwise as the General Manager deems 
+appropriate. 
+
+The deposit shall be in the form of either cash or a certified cheque, or 
+applied to the applicant's water account, as may be determined by the 
+General Manager. 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(2) 
+
+If, upon an inspection under § 681-11X(1), a defect is found by the City on the 
+municipal sewer connection and has not been caused or contributed to by the 
+property owner, the City shall refund the deposit paid. 
+
+(3) 
+
+(a) 
+
+(b) 
+
+(c) 
+
+If, upon an inspection under § 681-11X(1), no defect is found by the City 
+on the municipal sewer connection or the property owner has been 
+determined by the General Manager to have caused or contributed to the 
+defect, the General Manager shall determine the actual cost of the 
+excavation, restoration and any other services and work performed by the 
+City in relation to the inspection and the applicant shall pay those actual 
+costs in addition to any costs or damages which may be payable under 
+Chapter 681 related to the cause of the defect which may be deducted by 
+the City from the deposit required under § 681-11X(1). 
+
+In the event that the actual cost of the work is greater than the deposit, the 
+applicant shall immediately pay to the City the difference between the 
+actual cost and the deposit. 
+
+In the event that the actual cost of the work is less than the amount 
+deposit, the General Manager shall refund the difference between the 
+actual cost and the deposit to the owner. 
+
+§ 681-12. Confidential information. 
+
+A. 
+
+All information submitted to and collected by the City that is contained in plans, reports, 
+surveys, monitoring and inspection and sampling activities will, except as otherwise 
+provided in this section, be available for disclosure to the public in accordance with the 
+
+681-44 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Municipal Freedom of Information and Protection of Privacy Act (MFIPPA). [Amended 
+2013-12-18 by By-law 1718-2013] 
+
+B. 
+
+In the event that any person in submitting information to the City or to the General 
+Manager in any form, as required under this article, where such information is 
+confidential or proprietary or otherwise, may be exempt from disclosure under MFIPPA, 
+the person submitting the information shall so identify that information upon its 
+submission to the City or the General Manager and shall provide sufficient details as to 
+the reason for its purported exemption from disclosure. [Amended 2007-06-22 by By-
+law 704-2007] 
+
+§ 681-12.1. Contact information. 
+
+[Added 2010-07-08 by By-law 868-2010; amended 2013-12-18 by By-law 1696-2013] 
+
+A. 
+
+For administering or enforcing the requirements under this chapter or any other 
+applicable chapter or by-law of the City, the General Manager may require an owner of a 
+property to which sewer services or sewer works are supplied or will be supplied, to 
+provide to the General Manager in writing: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+That owner's full name and telephone number; 
+
+The full name and telephone number of any occupiers of the property; and 
+
+The full name and telephone number of a person authorized by the owner to 
+provide the General Manager with access to the sewer services or sewer works or 
+the location where sewer services or sewer works are to be supplied. 
+
+§ 681-12.2. Access. 
+
+[Added 2010-07-08 by By-law 868-2010] 
+
+A. 
+
+B. 
+
+C. 
+
+No person shall deny access to the General Manager to a property for any purpose as 
+provided for in this chapter. 
+
+No person shall deny access to the General Manager to a property where that person has 
+been given reasonable notice by the General Manager of the intent to exercise a power of 
+entry in accordance with the City of Toronto Act, 2006. 
+
+The General Manager may, in accordance with the requirements of this chapter, enter 
+upon a property to which sewer services or sewer works are used or supplied by the City: 
+
+(1) 
+
+(2) 
+
+To inspect, repair, alter or disconnect the sewer pipe(s), valve(s), machinery, 
+equipment and other works and appurtenances used to supply the sewer services 
+or sewer works; 
+
+To inspect, install, repair, replace, maintain or alter the sewer services or sewer 
+works; or 
+
+(3) 
+
+To shut off or reduce the supply of sewer services. 
+
+681-45 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+D. 
+
+If an owner discontinues the use of sewer services at a property or the General Manager 
+lawfully decides to cease supplying sewer services to a land or property, the General 
+Manager may enter on the land or property: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+To shut off or discontinue the use or supply of sewer services by that land or 
+property; 
+
+To remove any property of the City from the property; or 
+
+To determine whether sewer services have been, or are being, unlawfully used. 
+
+E. 
+
+The powers of entry of the City and General Manager are subject to sections 375 to 379, 
+inclusive, of the City of Toronto Act, 2006. 
+
+§ 681-13. Self-monitoring and sampling. 
+
+[Added 2005-10-28 by By-law 867-200524] 
+
+A. 
+
+B. 
+
+C. 
+
+Every owner of an industrial premises shall carry out any monitoring and sampling of any 
+discharge to a sewer, as may be required in writing by an inspector, and provide the 
+results to the inspector in a format acceptable to the inspector within the time specified by 
+the inspector. 
+
+An inspector may require that samples obtained under Subsection A be submitted by the 
+owner for analysis by an accredited laboratory, at the owner's expense. 
+
+The owner shall supply the results of the analysis in Subsection B to the inspector in a 
+format acceptable to the inspector within the time specified by the inspector. 
+
+§ 681-13.1. Powers and authority of the General Manager or Inspector. 
+
+[Added 2007-06-22 by By-law 704-2007] 
+
+A. 
+
+Power of entry. 
+
+The General Manager may, in accordance with the requirements of this chapter, enter 
+upon a property to which sewage services or sewage works are supplied by the City: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+To install, inspect, maintain, repair, alter, replace or disconnect a sewer, 
+municipal sewer connection, subsurface drainage pipe or other sewage works. 
+
+To shut off or reduce the supply of sewage services or sewage works provided by 
+the City. 
+
+The powers of entry of the General Manager may be exercised by an employee, 
+officer or agent of the City. 
+
+24
+
+ Editor's Note: This by-law also renumbered former §§ 681-13 and 681-14 as §§ 681-14 and 681-15, respectively. 
+
+681-46 
+
+May 15, 2023 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+B. 
+
+Inspection. 
+
+(1) 
+
+The General Manager or an Inspector may enter on a property at any reasonable 
+time for the purpose of carrying out an inspection to determine compliance with 
+this chapter or an order or direction of the City or General Manager or an 
+Inspector issued in accordance with this chapter. 
+
+(2) 
+
+For the purposes of any inspection, the General Manager or an Inspector may: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+Require the production for inspection of documents or things relevant to 
+the inspection; 
+
+Inspect and remove documents or things relevant to the inspection for the 
+purpose of making copies or extracts; 
+
+Require information from any person concerning a matter related to the 
+inspection; and 
+
+Alone or in conjunction with a person possessing special or expert 
+knowledge, make examinations or take tests, samples or photographs 
+necessary for the purposes of the inspection. 
+
+No person shall fail or refuse to comply with a request by the General Manager or 
+an Inspector to produce for inspection any document or thing or information 
+relevant to the inspection carried out by the General Manager or Inspector in 
+accordance with § 681-13.1A or 681-13.1B. [Amended 2014-03-20 by By-law 
+260-2014] 
+
+The City, General Manager or an Inspector may enter upon lands for the purposes 
+of an inspection and the other activities set out in § 681-13.1B pursuant to an 
+order issued in accordance with section 378 of the City of Toronto Act, 2006. 
+Where a provincial court judge or justice of the peace has issued an order 
+authorizing the City to enter on a property for the purpose of carrying out an 
+inspection for the purposes and to exercise the powers set out in this section, no 
+person, when requested to do so by the General Manager or an Inspector, shall 
+neglect or refuse to produce or deliver any information or documents or things 
+required by this chapter. [Amended 2014-03-20 by By-law 260-2014] 
+
+(3) 
+
+(4) 
+
+C. 
+
+Obstruction. 
+
+(1) 
+
+(2) 
+
+No person shall represent or cause to be represented that he or she is an owner or 
+occupier of a property if he or she is not. 
+
+No person shall prevent, hinder, obstruct or interfere, or attempt to prevent, 
+hinder, obstruct or interfere, in any manner, the General Manager, an Inspector or 
+any City personnel, or agents in the exercise of an activity, power or performance 
+of a duty under this chapter or in the administration or enforcement of this 
+chapter. The activities may include, without limitation, the following: 
+
+(a) 
+
+Entering in or upon, at any reasonable time without a warrant, any land, 
+property or premises, except premises being used as a dwelling house in 
+
+681-47 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+which case reasonable notice shall be provided in accordance with this 
+chapter and the City of Toronto Act, 2006; or 
+
+(b)  Making such tests or taking such samples as the General Manager deems 
+
+necessary; or 
+
+(c) 
+
+(d) 
+
+Inspecting or observing any plant, machinery, equipment, work, activity or 
+documents; or 
+
+Repairing, maintaining, altering, disconnecting, removing, replacing, or 
+installing sewage works or any related item. 
+
+(3) 
+
+No person shall furnish any false or misleading information to the General 
+Manager or any City personnel, agents or contractors in the exercise of an 
+activity, power or performance of a duty or administrative function under this 
+chapter, including but not limited to any information provided or submitted on or 
+with any application or in respect to any inspection or enforcement of this chapter. 
+[Added 2013-12-18 by By-law 1696-2013] 
+
+D. 
+
+Limitations on power of entry. 
+
+The powers of entry of the City, General Manager and Inspector are subject to sections 
+375 to 379, inclusive, of the City of Toronto Act, 2006. 
+
+§ 681-13.2. General prohibitions and liability for damage. 
+
+[Added 2007-06-22 by By-law 704-2007] 
+
+A. 
+
+Protection from damage. 
+
+No person shall uncover, make any connection with, or opening into, break, alter, 
+damage, destroy, deface or tamper or cause or permit the breaking, damaging, destroying, 
+defacing or tampering with: 
+
+(1) 
+
+(2) 
+
+Any part of a sewage works; or 
+
+Any permanent or temporary device installed in any part of the sewage works for 
+the purposes of flow measuring, sampling and testing of sewage, uncontaminated 
+water or storm water. 
+
+B. 
+
+Damage to the sewage works. 
+
+Any person discharging sewage, uncontaminated water or storm water to the municipal 
+sewage works shall be responsible for ensuring that such sewage, uncontaminated water 
+or storm water conforms at all times to the provisions of this article and shall be liable for 
+any damage or expense arising out of his or her failure to properly check and control such 
+discharge, including the cost of investigation, repairing or replacing any part of any 
+municipal sewage works damaged thereby and for any damages or injury to any person or 
+property caused by such discharge. 
+
+681-48 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+C. 
+
+Unauthorized entry to sewage works. 
+
+Unless specifically authorized by the General Manager, no person shall enter any sewage 
+works. 
+
+D. 
+
+Pre-construction investigation and construction damage. [Added 2013-12-18 by By-law 
+1696-2013] 
+
+(1) 
+
+Any person constructing works including, without limitation, piles, caissons, 
+boreholes, foundations, tie backs or intrusive below grade works within the 
+vicinity of City municipal sewage works shall be responsible for ensuring that 
+such construction works conform at all times to the provisions of this section and 
+shall be liable for any damage or expense in respect to the City's municipal 
+sewage works or infrastructure caused or contributed to by such person's 
+undertaking of such construction works, including but not limited to the cost of 
+investigation, repairing or replacing any part of any City municipal sewage works 
+or infrastructure damaged thereby and for any damages or injury to any person or 
+property caused by such undertaking, construction or installation. 
+
+(2) 
+
+(a)  Where the General Manager determines that an inspection of the City 
+
+municipal sewage works by closed circuit television or such other method 
+of inspection that the General Manager considers appropriate in the 
+circumstances is necessary to determine the pre and post condition of City 
+municipal sewage works or infrastructure in the vicinity of proposed 
+construction works identified in § 681-13.2D(1), the person constructing 
+such works shall pay to the City the deposit specified in Chapter 441, Fees 
+and Charges, prior to the commencement of the construction works, and 
+the City may deduct the cost of such inspection from the deposit. 
+
+(b) 
+
+(c) 
+
+In the event that the actual cost of the inspection is greater than the 
+deposit, the person shall immediately pay to the City the difference 
+between the actual cost and the deposit. 
+
+In the event that the actual cost of the inspection is less than the amount 
+deposit, upon completion of the post-construction inspection, the General 
+Manager shall refund the difference between the actual cost and the 
+deposit to the person, subject to the City's right to set off any remaining 
+balance of the deposit against any damages to the City's municipal sewage 
+works or infrastructure caused or contributed by the construction works. 
+
+(3) 
+
+The deposit shall be in the form of either cash or a certified cheque, as may be 
+determined by the General Manager.  
+
+681-49 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+§ 681-14. Offences. 
+
+[Amended 2001-02-01 by By-law 81-2001; 2010-07-08 by By-law 868-2010] 
+
+A. 
+
+B. 
+
+Every person who contravenes any provision of this chapter, and every director or officer 
+of a corporation who knowingly concurs in a contravention by the corporation of any 
+provision of this chapter, is guilty of an offence. 
+
+Any fine imposed under § 681-14.1 shall be payable in addition to any fees and charges 
+payable under this chapter, Chapter 849 and Chapter 441, as applicable. 
+
+§ 681-14.1. Penalties. 
+
+[Added 2010-07-08 by By-law 868-2010] 
+
+A. 
+
+Fine - for contravention - person, director, officer. 
+
+(1) 
+
+(2) 
+
+Every person who contravenes a provision of this chapter and every director or 
+officer of a corporation who knowingly concurs in a contravention by the 
+corporation of a provision of this chapter, upon conviction, shall be liable to a fine 
+of not more than $50,000 for a first offence and to a fine of not more than $75,000 
+for any subsequent offence. 
+
+Despite § 681-14.1A(1), every person who contravenes any of the provisions of 
+§ 681-2, 681-3 or 681-4 of this chapter and every director or officer of a 
+corporation who knowingly concurs in a contravention by the corporation of any 
+of those sections, upon conviction, shall be liable to a fine of not more than 
+$50,000 for a first offence and to a fine of not more than $100,000 for any 
+subsequent offence. 
+
+B. 
+
+Fine - for contravention - corporation. 
+
+ Despite § 681-14.1A, if a corporation is convicted of an offence under this chapter, it 
+shall be liable to a fine of not more than $100,000 for a first offence and to a fine of not 
+more than $100,000 for any subsequent offence. 
+
+C. 
+
+Fine - for contravention - continuing offence. 
+
+Despite § 681-14.1A and B, in the case of a continuing offence, every person who 
+contravenes any of the sections in this chapter and every director or officer of a 
+corporation who knowingly concurs in a contravention by the corporation of any of the 
+sections in this chapter, upon conviction, shall be liable to a fine of not more than 
+$10,000 for each day or part day that the offence continues and the total of all of the daily 
+fines for the offence shall not be limited to $100,000. 
+
+D. 
+
+Fine - for contravention - continuing offence - corporation. 
+
+Despite § 681-14.1A, B and C, in the case of a continuing offence, if a corporation is 
+convicted of an offence for any of the sections in this chapter, it shall be liable to a fine of 
+not more than $10,000 for each day or part day that the offence continues and the total of 
+all of the daily fines for the offence shall not be limited to $100,000. 
+
+681-50 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+E. 
+
+Special fine. 
+
+In addition to any other fine under § 681-14.1A, B, C or D or a combination of the 
+foregoing, every person who gains an economic advantage or economic gain from 
+contravening this chapter shall be liable to a special fine in an amount equal to the fair 
+market value of the economic advantage or economic gain so obtained from the 
+contravention. 
+
+§ 681-14.2. General enforcement powers. 
+
+[Added 2010-07-08 by By-law 868-2010] 
+
+A. 
+
+Restraining order. 
+
+If this chapter is contravened, in addition to any other remedy or penalty imposed by this 
+chapter, the contravention may be restrained by application by the City under the 
+provisions of section 380 of the City of Toronto Act, 2006. 
+
+B. 
+
+Order to discontinue activity. 
+
+(1) 
+
+Under the provisions of section 384 of the City of Toronto Act, 2006, the General 
+Manager may order any person who has contravened this chapter or who has 
+caused or permitted the contravention of this chapter or the owner or occupier of 
+the property on which the contravention occurred to discontinue the contravening 
+activity. 
+
+(2) 
+
+Any person who contravenes an order under § 681-14.2B(1) is guilty of an 
+offence. 
+
+C.  Work order. 
+
+(1) 
+
+Under the provisions of section 385 of the City of Toronto Act, 2006, the General 
+Manager may order any person who has contravened this chapter or who has 
+caused or permitted the contravention of this chapter or the owner or occupier of 
+the property on which the contravention occurred to do work to correct the 
+contravention. 
+
+(2) 
+
+Any person who contravenes an order under § 681-14.2C(1) is guilty of an 
+offence. 
+
+D. 
+
+Remedial action. 
+
+(1) 
+
+In accordance with section 386 of the City of Toronto Act, 2006, where any matter 
+or thing is required to be done under this chapter, in default of it being done by 
+the person directed or required to do so, that matter or thing may be done by the 
+City which shall be at that person's expense and the City may recover the costs 
+incurred for doing such matter or thing from the person directed or required to do 
+it by adding the costs to the tax roll and collecting them in the same manner as 
+municipal property taxes. 
+
+681-51 
+
+May 15, 2023 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+(2) 
+
+For the purposes of § 681-14.2D(1), the General Manager may enter upon the 
+subject property at any reasonable time. 
+
+§ 681-14.3. Document retention. 
+
+[Added 2010-07-08 by By-law 868-2010] 
+
+A. 
+
+Any document required to be produced for inspection or approval or retained under this 
+chapter by an owner of a property shall be retained by the owner for a period of seven 
+years. 
+
+§ 681-14.4. Notice. 
+
+[Added 2010-07-08 by By-law 868-2010] 
+
+A.  Where an order is issued by the General Manager, the person to whom the order is made 
+shall be deemed to have received the order on the date it is posted in a conspicuous place 
+at the subject property or delivered in person or three days after being posted by first 
+class prepaid mail to the person at the last known address provided to the General 
+Manager or, where no address for the person has been provided to the General Manager, 
+by first class prepaid mail to the address for the person identified on the tax rolls. 
+
+B. 
+
+The manner of delivery, set out in § 681-14.4A, shall be in the discretion of the General 
+Manager. 
+
+§ 681-14.5. Severability. 
+
+[Added 2010-07-08 by By-law 868-2010] 
+
+Despite that any section or sections of this chapter, or any part or parts thereof, may be found by 
+any court of law to be invalid or illegal or beyond the power of the Council to enact, that section 
+or sections or part or parts thereof shall be deemed to be severable, and all other sections of this 
+chapter, or parts thereof, are separate and independent therefrom and enacted as such. 
+
+§ 681-15. Repealer; impact on existing agreements; effective dates. 
+
+A. 
+
+Former City of Toronto By-law No. 78-91, A By-law Respecting Sewers and the 
+Discharge and Deposit of Sewage and Land Drainage; former City of North York By-law 
+No. 31442, as amended, A By-law regulating the discharge of sewage and land drainage 
+to the municipal sanitary and storm sewer system; former City of Scarborough By-law 
+No. 17777, A By-law to regulate the discharge into public sewers of sewage and storm 
+water, including industrial wastes; former City of Etobicoke By-law No. 1994-23 Sewer 
+Use By-law; former City of York By-law No. 2880-94, To Regulate the discharge of 
+sewage and land drainage in the City of York; former Borough of East York By-law No. 
+100-90, To regulate the discharge and deposit of sewage and land drainage in the 
+Borough of East York; and Chapter 292, Sewers, Article III, of the Municipal Code of the 
+former City of Toronto; former North York By-law No. 10532, A By-law for requiring of 
+
+681-52 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+the connection to be made to sanitary sewer, are hereby repealed. [Amended 2001-02-01 
+by By-law 81-2001; 2008-06-24 by By-law 577-2008] 
+
+Notwithstanding § 681-15A, industrial waste surcharge agreements and sanitary 
+discharge agreements entered into by the former Municipality of Metropolitan Toronto, 
+or a compliance program issued by the General Manager or a compliance program 
+agreement entered into by the City pursuant to the provisions of the former Metro 
+Toronto By-law No. 153-89, as amended, and in effect immediately prior to the passage 
+of this article, remain in force in accordance with their terms and conditions. [Amended 
+2000-10-05 by By-law 869-2000; 2007-06-22 by By-law 704-2007]  
+
+This article, with the exception of §§ 681-2 and 681-4, shall come into force on the 6th 
+day of July, A.D. 2000. Sections 681-2 and 681-4 of this article shall come into force on 
+November 1, 2002. [Amended 2002-06-20 by By-law 547-2002] 
+
+By-law No. 153-89 of the former Municipality of Metropolitan Toronto, a By-law "To 
+regulate the discharge of sewage and land drainage in the Metropolitan Area," with the 
+exception of Sections 2 and Section 3, is hereby repealed. Sections 2 and 3 of By-law No. 
+153-89 of the former Municipality of Metropolitan Toronto shall be deemed to be in 
+force, throughout the City of Toronto until November 1, 2002. Sections 2 and 3 of the 
+former Municipality of Metropolitan Toronto By-law No. 153-89 are repealed as of 
+November 1, 2002. [Amended 2001-02-01 by By-law 81-2001; 2002-06-20 by By-law 
+547-2002] 
+
+Former Metropolitan Toronto By-law No. 96-80, as amended, a by-law to regulate the 
+discharge of water obtained from a private water works system into the Metropolitan 
+sewer system and to charge a rate therefor, is repealed. [Added 2002-10-31 by By-law 
+855-2002] 
+
+681-53 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Chapter 681, Article I,  
+Appendix 125,  
+Subject Sectors 
+
+[Amended 2002-02-15 by By-law 80-200226; 2008-06-24 by By-law 577-2008; 2013-12-18 by 
+By-law 1718-201327; 2023-05-15 by By-law 456-202328] 
+
+Column 1 
+NAICS 
+
+Column 2 
+Industrial Category 
+
+213114 
+213115 
+327999 
+331112 
+331419 
+
+331491 
+
+331492 
+
+332117 
+332311 
+332312 
+332321 
+332322 
+332323 
+332420 
+332431 
+332439 
+332811 
+
+332812 
+
+332813 
+332919 
+332998 
+332999 
+333512 
+333513 
+333518 
+
+Support Activities for Metal Mining 
+Support Activities for Nonmetallic Minerals (except Fuels) 
+All Other Miscellaneous Nonmetallic Mineral Product Manufacturing (pt) 
+Electrometallurgical Ferroalloy Product Manufacturing  
+Primary Smelting and Refining of Nonferrous Metal 
+Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and 
+Extruding (pt) 
+Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except 
+Copper and Aluminum) (pt)  
+Powder Metallurgy Part Manufacturing 
+Prefabricated Metal Building and Component Manufacturing 
+Fabricated Structural Metal Manufacturing 
+Metal Window and Door Manufacturing 
+Sheet Metal Work Manufacturing 
+Ornamental and Architectural Metal Work Manufacturing 
+Metal Tank (Heavy Gauge) Manufacturing 
+Metal Can Manufacturing 
+Other Metal Container Manufacturing 
+Metal Heat Treating 
+Metal Coating, Engraving (except Jewelry and Silverware), and Allied 
+Services 
+to Manufacturers 
+Electroplating, Plating, Polishing, Anodizing, and Coloring 
+Other Metal Valve and Pipe Fitting Manufacturing 
+Enameled Iron and Metal Sanitary Ware Manufacturing 
+All Other Miscellaneous Fabricated Metal Product Manufacturing (pt) 
+Machine Tool (Metal Cutting Types) Manufacturing 
+Machine Tool (Metal Forming Types) Manufacturing 
+Other Metalworking Machinery Manufacturing 
+
+25
+
+26
+
+27
+
+ Editor's Note: Art. I, Appendix 2, Subject Pollutants was deleted February 4, 2016 by By-law 100-2016. 
+
+ Editor's Note: This by-law came into force November 6, 2001. 
+
+ Editor's Note: By-law 1718-2013 deleted "Column 3 - Initial P2Plan Due Date" and "Column 4 - Six Year P2 Plan Due Date" and 
+
+their contents. 
+28
+
+ Editor's Note: By-law 456-2023 replaced Article I, Appendix 1, Subject Sectors, in its entirety. 
+
+681-54 
+
+May 15, 2023 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Column 1 
+NAICS 
+
+Column 2 
+Industrial Category 
+
+334412 
+334416 
+33637 
+337124 
+337125 
+313111 
+313112 
+313113 
+313210 
+313221 
+313230 
+313241 
+313249 
+313311 
+313312 
+313320 
+314110 
+314991 
+314992 
+314999 
+315111 
+315119 
+315191 
+315192 
+323110 
+323111 
+323112 
+323113 
+323114 
+323116 
+323117 
+323119 
+325910 
+339116 
+447110 
+447190 
+481111 
+481112 
+481211 
+481212 
+
+Bare Printed Circuit Board Manufacturing 
+Electronic Coil, Transformer, and Other Inductor Manufacturing 
+Motor Vehicle Metal Stamping 
+Metal Household Furniture Manufacturing 
+Household Furniture (except Wood and Metal) Manufacturing 
+Yarn Spinning Mills 
+Yarn Texturizing, Throwing, and Twisting Mills 
+Thread Mills 
+Broadwoven Fabric Mills 
+Narrow Fabric Mills 
+Nonwoven Fabric Mills 
+Weft Knit Fabric Mills 
+Other Knit Fabric and Lace Mills 
+Broadwoven Fabric Finishing Mills 
+Textile and Fabric Finishing (except Broadwoven Fabric) Mills 
+Fabric Coating Mills 
+Carpet and Rug Mills 
+Rope, Cordage, and Twine M 
+Tire Cord and Tire Fabric Mills 
+All Other Miscellaneous Textile Product Mills 
+Sheer Hosiery Mills 
+Other Hosiery and Sock Mills 
+Outerwear Knitting Mills 
+Underwear and Nightwear Knitting Mills 
+Commercial Lithographic Printing 
+Commercial Gravure Printing 
+Commercial Flexographic Printing 
+Commercial Screen Printing 
+Quick Printing 
+Manifold Business Forms Printing 
+Books Printing 
+Other Commercial Printing 
+Printing Ink Manufacturing 
+Dental Laboratories 
+Gasoline Stations with Convenience Store 
+Other Gasoline Stations 
+Scheduled Passenger Air Transportation 
+Scheduled Freight Air Transportation 
+Nonscheduled Chartered Passenger Air Transportation 
+Nonscheduled Chartered Freight Air Transportation 
+
+681-55 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Column 1 
+NAICS 
+
+Column 2 
+Industrial Category 
+
+485210 
+485410 
+485991 
+485999 
+487110 
+487990 
+488210 
+488490 
+541380 
+621210 
+621511 
+622110 
+622210 
+622310 
+811111 
+811112 
+811113 
+811118 
+811121 
+811191 
+811192 
+811198 
+812320 
+812921 
+812922 
+31611 
+
+316993 
+
+316999 
+324110 
+324121 
+324122 
+324191 
+324199 
+325110 
+325188 
+325191 
+325199 
+325211 
+325320 
+
+Interurban and Rural Bus Transportation 
+School and Employee Bus Transportation 
+Special Needs Transportation 
+All Other Transit and Ground Passenger Transportation 
+Scenic and Sightseeing Transportation, Land 
+Scenic and Sightseeing Transportation, Other 
+Support Activities for Rail Transportation 
+Other Support Activities for Road Transportation 
+Testing Laboratories 
+Offices of Dentists 
+Medical Laboratories 
+General Medical and Surgical Hospital 
+Psychiatric and Substance Abuse Hospitals 
+Specialty (except Psychiatric and Substance Abuse) Hospitals 
+General Automotive Repair 
+Automotive Exhaust System Repair 
+Automotive Transmission Repair 
+Other Automotive Mechanical and Electrical Repair and Maintenance 
+Automotive Body, Paint, and Interior Repair and Maintenance 
+Automotive Oil Change and Lubrication Shops 
+Car Washes 
+All Other Automotive Repair and Maintenance 
+Dry cleaning and Laundry Services (except Coin-Operated) 
+Photofinishing Laboratories (except One-Hour) 
+One-Hour Photofinishing 
+Leather and Hide Tanning and Finishing 
+Personal Leather Good (except Women's Handbag and Purse) 
+Manufacturing 
+All Other Leather Good Manufacturing 
+Petroleum Refineries 
+Asphalt Paving Mixture and Block Manufacturing 
+Asphalt Shingle and Coating Materials Manufacturing 
+Petroleum Lubricating Oil and Grease Manufacturing 
+All Other Petroleum and Coal Products Manufacturing 
+Petrochemical Manufacturing 
+All Other Basic Inorganic Chemical Manufacturing 
+Gum and Wood Chemical Manufacturing 
+All Other Basic Organic Chemical Manufacturing 
+Plastics Material and Resin Manufacturing 
+Pesticide and Other Agricultural Chemical Manufacturing 
+
+681-56 
+
+May 15, 2023 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Column 1 
+NAICS 
+
+Column 2 
+Industrial Category 
+
+325412 
+325510 
+325611 
+325992 
+325998 
+326160 
+326191 
+326199 
+
+Pharmaceutical Preparation Manufacturing 
+Paint and Coating Manufacturing 
+Soap and Other Detergent Manufacturing 
+Photographic Film, Paper, Plate, and Chemical Manufacturing 
+All Other Miscellaneous Chemical Product and Preparation Manufacturing 
+Plastics Bottle Manufacturing 
+Plastics Plumbing Fixture Manufacturing 
+All Other Plastics Product Manufacturing 
+
+NOTES: NAICS = North American Industrial Classification System 
+
+681-57 
+
+May 15, 2023 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Chapter 681, Article I,  
+Attachment 1,  
+City of Toronto Combined Sewer Service Area 
+
+[Added 2007-11-20 by By-law 1252-200729] 
+
+Figure 1.  City of Toronto Combined Sewer Service Area 
+
+29
+
+ Editor's Note: This by-law comes into force three years from the date of its enactment. 
+
+681-58 
+
+May 15, 2023 
+
+  
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 681, SEWERS 
+
+Chapter 681, Article I,  
+Attachment 2,  
+City of Toronto Basement Flooding Areas (Ouside the CSO Areas) 
+
+[Added 2008-12-03 by By-law 1255-200830] 
+
+Figure 2.  City of Toronto Basement Flooding Areas (Ouside the CSO Areas) 
+
+30
+
+ Editor's Note: This by-law comes into force five years from the date of its enactment. 
+
+681-59 
+
+May 15, 2023 
+
+ 
+ 
+ 
+                                                 
+

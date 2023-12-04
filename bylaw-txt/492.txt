@@ -1,0 +1,1419 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+Chapter 492 
+
+GREEN ROOFS 
+
+ARTICLE I 
+General 
+
+§ 492-1. Definitions. 
+
+ARTICLE II 
+Requirement for Green Roofs 
+
+§ 492-2. Green roofs required. 
+
+§ 492-3. Maintenance of green roofs and health of vegetation. 
+
+§ 492-4. Permit required. 
+
+§ 492-5. Exemption. 
+
+§ 492-6. Application for approval. 
+
+§ 492-7. Fees and charges. 
+
+ARTICLE III 
+Application and Fees 
+
+ARTICLE IV 
+Toronto Green Roof Construction Standard 
+
+§ 492-8. Purpose of Toronto Green Roof Construction Standard: relation to Ontario 
+
+Building Code. 
+
+§ 492-9. Toronto Green Roof Construction Standard: mandatory provisions. 
+
+ARTICLE V 
+Approval of Application 
+
+§ 492-10. Approval by Chief Building Official. 
+
+§ 492-11. Exemption or variation of coverage requirement for a green roof by the Chief 
+
+Planner. 
+
+§ 492-12. Cash in lieu of construction of a green roof. 
+
+492-1 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+ARTICLE VI 
+Green Roof Technical Advisory Group 
+
+§ 492-13. Green Roof Technical Advisory Group. 
+
+§ 492-14. Qualifications for Chair and members of the Green Roof Technical Advisory 
+
+Group. 
+
+§ 492-15. Purpose of the Green Roof Technical Advisory Group. 
+
+§ 492-16. Recommendations of the Green Roof Technical Advisory Group. 
+
+§ 492-17. Meetings of the Green Roof Technical Advisory Group. 
+
+ARTICLE VII 
+Changes to the Technical Standards 
+
+§ 492-18. Changes to technical standards. 
+
+ARTICLE VIII 
+Chief Building Official to Publish Guideline 
+
+§ 492-19. Chief Building Official to publish guideline. 
+
+ARTICLE IX 
+Miscellaneous 
+
+§ 492-20. Offences. 
+
+§ 492-21. Penalty. 
+
+[History: Adopted by the Council of the City of Toronto May 27, 2009 by By-law 583-2009.1 
+Amendments noted where applicable.] 
+
+General References 
+
+Building construction and demolition - See Ch. 363. 
+Development of land - See Ch. 415. 
+Building Code Act, 1992 - See S.O. 1992, c. 23. 
+City of Toronto Act, 2006 - See S.O. 2006, c. 11, Sched. A. 
+Nursing Homes Act - See R.S.O. 1990, c. N.7. 
+Planning Act - See R.S.O. 1990, c. P.13. 
+Weed Control Act - See R.S.O. 1990, c. W.5. 
+
+1
+
+ Editor's Note: This by-law was passed under the authority of section 108 of the City of Toronto Act, 2006, S.O. 2006, c. 11.  
+
+492-2 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+ARTICLE I 
+General 
+
+§ 492-1. Definitions. 
+
+As used in this chapter, the following terms shall have the meanings indicated: 
+
+APPLICABLE LAW - Shall have the same meaning as defined in sentence 1.4.1.3(1) of Division 
+A of the Building Code. 
+
+APPLICANT -The owner of a building or property who applies for a permit or any person 
+authorized by the owner to apply for a permit on the owner's behalf. 
+
+AVAILABLE ROOF SPACE - The total roof area of the building or building addition excluding: 
+
+A.  Areas designated for renewable energy devices; 
+
+B.  Private terraces no greater in area than the floor of the abutting residential unit at the roof 
+
+level; and 
+
+C. 
+
+In the case of a residential building or a building addition to a residential building, the 
+Required Outdoor Amenity Space. [Amended 2012-11-29 by By-law 1598-2012] 
+
+AVERAGE GRADE - The average elevation of the ground surface measured at the street 
+property line. 
+
+BASEMENT - The portion of a building between the first floor and any floor below the first 
+floor. 
+
+BUILDING CODE, ONTARIO BUILDING CODE or OBC - Means or refers to Ontario 
+Regulation 350/06 as amended, under the Building Code Act, 1992. 
+
+CHIEF BUILDING OFFICIAL - The Chief Building Official and Executive Director, Toronto 
+Building. 
+
+CHIEF PLANNER - The Chief Planner and Executive Director, City Planning. 
+
+COMPLETE BUILDING PERMIT APPLICATION - An application submitted to the Chief 
+Building Official for an above grade building permit which complies with all technical 
+requirements of the Building Code Act, 1992, and includes the payment of all applicable fees. 
+
+COMPLETE SITE PLAN APPLICATION - An application submitted to the Chief Planner for 
+site plan approval pursuant to section 114 of the City of Toronto Act, 2006, and section 41 of the 
+Planning Act, and includes the payment of all applicable fees and the submission of all 
+supporting documentation as may be required by the Chief Planner or his delegate. 
+
+492-3 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+COOL ROOFING MATERIALS - With reference to an Industrial Building or building addition, 
+means roofing materials with a minimum Solar Reflectance Index ("SRI") of 78. [Added 2011-
+12-01 by By-law 1381-2011; amended 2013-10-11 by By-law 1244-2013] 
+
+FIRST FLOOR - The floor of a building closest to average grade. 
+
+FLOOR PLATE AREA - The total area of a floor of a building, measured from the exterior of the 
+main wall of the floor level, including voids at the level of the floor, such as an atrium, 
+mezzanine, stairwell, escalator, elevator, ventilation duct or utility shaft. 
+
+GRADE - The finished ground level of the land upon which the building is located. 
+
+GREEN ROOF - An extension of an above grade roof, built on top of a human-made structure, 
+that allows vegetation to grow in a growing medium and which is designed, constructed and 
+maintained in accordance with the Toronto Green Roof Construction Standard. 
+
+GROSS FLOOR AREA - The total area of each floor level of a building, above and below 
+average grade, measured from the exterior of the main wall of each floor level, including voids at 
+the level of each floor, such as an atrium, mezzanine, stairwell, escalator, elevator, ventilation 
+duct or utility shaft, but excluding areas used for the purpose of parking or loading 
+
+HEIGHT - The vertical distance measured between a horizontal line drawn from the average 
+grade to the highest point on the building, but shall not include the following elements located on 
+a roof of the building: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+Equipment used for the functional operation of the building, such as electrical, utility, 
+mechanical and ventilation equipment; 
+
+Structures or parts of the building that are used for the functional operation of the 
+building, such as enclosed stairwells, roof access, maintenance equipment storage, 
+elevator shafts, chimneys, vents and water supply facilities;  
+
+Structures that enclose, screen or cover the elements listed in Subsections A and B above; 
+
+A flagpole; 
+
+An antenna; and 
+
+A satellite dish, provided that no part of such element shall exceed a vertical distance of 
+25 metres measured from average grade, and further provided that in the case of the 
+elements listed in Subsections A, B and C above, the total area of all of those elements 
+together shall not cover more than 30 percent of the area of the roof. 
+
+HOTEL - A commercial establishment offering temporary accommodations on a daily or weekly 
+rate to the public, and where all rooms, suites, apartments or similar forms of accommodation are 
+owned by a single owner or entity. 
+
+492-4 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+INDUSTRIAL BUILDING - A building or a building addition exclusively used or designed or 
+intended for use for or in connection exclusively with the manufacturing, producing or 
+processing of goods, warehousing or bulk storage of goods, self-storage facility, distribution 
+centre, truck terminal, research and development in connection with manufacturing, producing or 
+processing of goods, and: 
+
+A. 
+
+Includes office uses and the sale of commodities to the general public where such uses 
+are accessory to and subordinate to an industrial use; 
+
+B. 
+
+Does not include: 
+
+(1) 
+
+A building used exclusively for office or administrative purposes unless it is 
+attached to an industrial building as defined above; or 
+
+(2)  Warehouse clubs and retail warehouses, including commercial establishments 
+which have as their principal use the sale of goods and merchandise in a 
+warehouse format. 
+
+NURSING HOME - A building or portion of a building licensed as a nursing home under the 
+Nursing Homes Act. 
+
+PODIUM - The base of a building consisting of a base and a tower above the base where the 
+base is two storeys or greater.2 
+
+PRIVATE TERRACE - Outdoor amenity area on a roof that is available exclusively for use by 
+the occupants of an abutting residential unit for recreational or social activities. 
+
+RENEWABLE ENERGY - Energy obtained from solar energy or wind energy. 
+
+REQUIRED OUTDOOR AMENITY SPACE - An area located on the roof of a building, 
+intended for recreational use by the residents of the building, but does not exceed the minimum 
+area required under the applicable zoning by-law for the building for outdoor amenity space. 
+[Added 2012-11-29 by By-law 1598-2012] 
+
+RESIDENTIAL BUILDING - A building or building addition where more than 60 percent of the 
+gross floor area of the building or building addition is used, designed or intended to be used for 
+one or more dwelling units, including accessory uses naturally and normally incidental in 
+purpose and exclusively devoted to the residential use, but does not include a nursing home, 
+retirement home or lodge, or hotel. 
+
+RETIREMENT HOME OR LODGE - A building or portion of a building which provides room 
+and board accommodation for senior citizens and is not presently governed under any Provincial 
+Act. 
+
+2
+
+ Editor's Note: The definition for "Outdoor Amenity Space" was deleted November 29, 2012 by By-law 1598-2012. 
+
+492-5 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+ROOF - The overhead structural component of a building or a part of a building supported by 
+walls or columns and which functions primarily to shelter the interior of the building from the 
+effects of weather and the infiltration of water. 
+
+SOLAR ENERGY - Energy from the sun that is converted to produce electrical or thermal 
+energy. 
+
+SOLAR REFLECTANCE INDEX - With reference to an Industrial Building or building 
+addition, is a measurement of a roof's ability to reject solar heat, where a reference black roof 
+(solar reflectance 0.05, thermal emittance 0.90) is 0 and a reference white roof (solar reflectance 
+0.80, thermal emittance 0.90) is 100. [Added 2011-12-01 by By-law 1381-2011] 
+
+STOREY - The portion of a building, other than a basement, between any floor level and the 
+floor, ceiling or roof immediately above it. 
+
+STREET - A public highway. 
+
+TORONTO GREEN ROOF CONSTRUCTION STANDARD - The minimum mandatory 
+standards for construction of a green roof as set out in Article IV of this chapter. 
+
+TOWER - The portion of a building above the podium of the building, where the tower portion 
+of the building is at least 12 storeys. 
+
+TRANSIT BUILDING - The premises or facilities, excluding tracks and tunnels between 
+buildings, for the use and operation of a mass transit system or a transportation system that is 
+provided by, or on behalf of, the City of Toronto, Province of Ontario or Government of Canada, 
+or is privately operated and Federally regulated. [Added 2017-11-09 by By-law 1273-2017] 
+
+TRANSIT LINE - A contiguous, discrete group of Transit Buildings connected by a mass transit 
+system or transportation system that is provided by, or on behalf of, the City of Toronto, 
+Province of Ontario or Government of Canada, or is privately operated and Federally regulated. 
+[Added 2017-11-09 by By-law 1273-2017] 
+
+VEGETATION - Plants selected in accordance with the plant selection criteria of the Toronto 
+Green Roof Construction Standard. 
+
+WIND ENERGY - Energy from the wind that is converted to produce electrical energy. 
+
+ARTICLE II 
+Requirement for Green Roofs 
+
+§ 492-2. Green roofs required. 
+
+A. 
+
+Every building or building addition constructed after January 30, 2010, with a gross floor 
+area of 2,000 square metres or greater shall include a green roof with a coverage of 
+available roof space in accordance with the following chart: 
+
+492-6 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+Gross Floor Area 
+(Size of Building) 
+
+Coverage of Available Roof Space 
+(Size of Green Roof) 
+
+2,000 - 4,999 square metres 
+
+20 percent 
+
+5,000 - 9,999 square metres 
+
+30 percent 
+
+10,000 - 14,999 square metres 
+
+40 percent 
+
+15,000 - 19,999 square metres 
+
+50 percent 
+
+20,000 square metres or greater 
+
+60 percent 
+
+B. 
+
+C. 
+
+and no person shall construct a green roof or cause a green roof to be constructed unless a 
+permit therefor has been issued by the Chief Building Official.  Notwithstanding the 
+foregoing, where a development consists of two or more buildings under a Complete Site 
+Plan Application and the buildings are to be constructed on a phased basis, the first phase 
+of the development shall comply with the Green Roof requirements of this chapter for the 
+building permit being issued and any Green Roof area provided in excess of the 
+minimum Green Roof area required may be applied to subsequent phases of the 
+development. [Amended 2012-11-29 by By-law 1598-2012] 
+
+Every building or building addition consisting of a tower above a podium, where no 
+storey in the tower above the podium level has a floor with a floor plate area exceeding 
+750 square metres, shall be permitted to provide the required green roof area on available 
+roof space at the podium roof level or levels and the roof area of the tower shall not be 
+considered as part of the available roof space for a green roof. 
+
+In the case of an Industrial Building or a building addition to an Industrial Building, 
+constructed after April 29, 2012, with a Gross Floor area of 2,000 square metres or 
+greater, the provisions in Subsection A above shall not apply, but the building or addition 
+shall include: [Amended 2011-02-08 by By-law 182-2011; amended 2011-12-01 by 
+By-law 1381-2011] 
+
+(1) 
+
+(2) 
+
+a Green Roof with a minimum coverage of Available Roof Space that is equal to 
+the lesser of 2,000 square metres or 10 percent of the Available Roof Space of the 
+building or addition; or; [Amended 2012-11-29 by By-law 1598-2012] 
+
+a roof that uses Cool Roofing Materials for 100% of the Available Roof Space and 
+complies with the stormwater management performance measures required 
+through the Site Plan Approval process, pursuant to Section 114 of the City of 
+Toronto Act, 2006, or where Site Plan Approval is not required, retains or collects 
+for re-use at least the first 5 millimetres from each rainfall or 50 percent of annual 
+rainfall volume falling on the roof through systems that incorporate roof surfaces. 
+
+492-7 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+D. 
+
+In the case of a Transit Line, the requirements of Subsection A which would otherwise 
+have applied to each individual Transit Building in the Transit Line may be consolidated 
+such that the total green roof coverage required for all the Transit Buildings in the Transit 
+Line combined may be provided on one or more Transit Buildings in the Transit Line to 
+the satisfaction of the Chief Planner or designate. [Added 2017-11-09 by By-law 1273-
+2017] 
+
+§ 492-3. Maintenance of green roofs and health of vegetation. 
+
+Every green roof required to be constructed pursuant to this chapter shall be maintained in 
+accordance with the maintenance plan required in the Toronto Green Roof Construction 
+Standard. 
+
+§ 492-4. Permit required. 
+
+A. 
+
+B. 
+
+No person shall construct, or cause to be constructed, a green roof required pursuant to 
+this chapter unless a permit has been obtained from the Chief Building Official in 
+accordance with the requirements of this chapter. 
+
+No person shall materially alter, or cause to be materially altered, a green roof required 
+pursuant to this chapter unless a permit has been obtained from the Chief Building 
+Official in accordance with the requirements of this chapter. 
+
+C.  Where a green roof is constructed in conjunction with a building or building addition the 
+
+Chief Building Official may issue a single permit under section 8 of the Building Code 
+Act, 1992, for the building or building addition and for the green roof. 
+
+D.  Where a green roof is proposed although not required under this chapter no person shall 
+
+construct a green roof or cause a green roof to be constructed unless a permit has been 
+obtained from the Chief Building Official in accordance with the Toronto Green Roof 
+Construction Standard. 
+
+§ 492-5. Exemption. 
+
+A. 
+
+Section 492-2 does not apply to a building or building addition if: 
+
+(1) 
+
+A complete building permit application in accordance with section 8 of the 
+Building Code Act, 1992, has been submitted for the building or building addition 
+prior to January 31, 2010; or 
+
+(2) 
+
+A complete site plan application has been submitted for the building or building 
+addition prior to January 31, 2010.  
+
+B. 
+
+Section 492-2 does not apply to a residential building or building addition to a residential 
+building with a height less than or equal to the greater of six storeys or 20 metres. 
+
+492-8 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+C. 
+
+D. 
+
+Section 492-2 does not apply to an industrial building or building addition to an industrial 
+building constructed prior to April 30, 2012. [Amended 2011-02-08 by By-law 
+182-2011] 
+
+Section 492-2 does not apply to commercial greenhouses located at grade, temporary 
+structures and air supported structures. [Added 2012-11-29 by By-law 1598-2012] 
+
+ARTICLE III 
+Application and Fees 
+
+§ 492-6. Application for approval. 
+
+An application for a permit for construction of a green roof shall be made to the Chief Building 
+Official on forms, including a "Green Roof Declaration Form," that may be prescribed by the 
+Chief Building Official from time to time. The "Green Roof Declaration Form" may require 
+information including, but not limited to: structural design; intended use of the roof and whether 
+or not it will be accessible to the public; and fire safety provisions. 
+
+§ 492-7. Fees and charges. 
+
+A.  Where an application for a required green roof is made in conjunction with an application 
+for a permit for construction of a building or building addition under section 8 of the 
+Building Code Act, 1992, there shall be no additional fee for the green roof. 
+
+B.  Where an application for a permit is made for an alteration or renovation to construct a 
+green roof, the fee for the application shall be the same as for the building permit 
+classification "Re-Roofing with structural work, raise roof structure" provided in 
+Chapter 363, Building Construction and Demolition. 
+
+ARTICLE IV 
+Toronto Green Roof Construction Standard 
+
+§ 492-8. Purpose of Toronto Green Roof Construction Standard: relation to Ontario 
+
+Building Code. 
+
+A. 
+
+The purpose of the Toronto Green Roof Construction Standard is to set out minimum 
+requirements for the construction and maintenance of green roofs.  The design and 
+construction of a green roof shall meet the City's minimum requirements for green roof 
+construction while also meeting the Ontario Building Code (OBC) requirements. The 
+Toronto Green Roof Construction Standard does not replace or alter any existing OBC 
+requirements, or define a singular code-compliant green roof design. 
+
+B. 
+
+A designer of a green roof shall apply the measures described in this article with 
+reference to the principles governing the OBC requirements related to each measure. 
+
+492-9 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+C. 
+
+This article is considered an acceptable solution for the design and construction of a 
+green roof in addition to the acceptable solutions contained in parts 3 to 12, Division B, 
+of the OBC.  Designs shall meet the OBC objectives to demonstrate compliance with the 
+OBC; however a design that complies with the provisions of § 492-9 shall be deemed to 
+comply to such objectives. 
+
+D. 
+
+A green roof designed to the Toronto Green Roof Construction Standard may be 
+constructed on both combustible and non-combustible buildings. 
+
+§ 492-9. Toronto Green Roof Construction Standard: mandatory provisions. 
+
+The following standards shall be met in the design and construction of a green roof: 
+
+A. 
+
+Green roof assembly. 
+
+A green roof assembly shall, as a minimum, consist of a root repellent system, a drainage 
+system, a filtering layer, a growing medium and plants, and shall be installed on a 
+waterproof membrane of an applicable roof. 
+
+B. 
+
+Gravity loads. 
+
+(1) 
+
+The applicant shall calculate green roof gravity loads following the protocol 
+provided by the ASTM standard: "ASTM E2397.05 - Standard Practice for 
+Determination of Dead Loads and Live Loads Associated with Green Roof 
+Systems." 
+
+(2) 
+
+The density of the growing media shall be determined: 
+
+(a) 
+
+In accordance with "ASTM E2399.05 - Standard Test Method for 
+Maximum Media Density for Dead Load Analysis of Green Roof 
+Systems"; or alternatively 
+
+(b) 
+
+The designer may use an un-factored, saturated density of the growing 
+media of 2,000 kg/m3. 
+
+(3) 
+
+The applicant shall include design loads definition as part of the "Green Roof 
+Declaration" form which shall be required as part of an application for building 
+permit. 
+
+C. 
+
+Slope stability. 
+
+All roofs with slopes in excess of 10º (17 percent) that support green roof assemblies 
+shall incorporate anti-shear measures. 
+
+D. 
+
+Parapet height and/or overflow scupper locations. 
+
+492-10 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+(1) 
+
+Parapets and scuppers shall be specified in the design, as required, to limit 
+retained rain water loads to within structural limits in the event of obstructed 
+internal drains. 
+
+(2) 
+
+Analysis shall be done in conformance with OBC Division B 4.1.6.4.(4).(3). 
+
+(3) 
+
+The referenced point for the overflow scuppers height must be clearly indicated to 
+avoid the possibility of confusing the overflow scupper height as being measured 
+above the finished green surface or other layer above the waterproofing resulting 
+in higher water load than accounted for by the design as indicated in the sketch 
+below. 
+
+E.  Wind uplift. 
+
+The applicant shall provide a report, stamped by an engineer, providing wind uplift 
+pressures being designed for (including a description of how the pressures were 
+determined), and describing how the design addresses these pressures. 
+
+F. 
+
+Fire safety. 
+
+Where roof penetrations, intersecting walls, parapets, upturns or mechanical equipment are 
+clad with combustible materials the design shall include a vegetation-free border zone 
+abutting such features and the vegetation-free border shall be equal to the vegetation height 
+at maturity but in no case be less than 0.5 metres. 
+
+G.  Occupancy and safety. 
+
+The applicant shall state, in a green roof declaration form and the green roof application, 
+the use of the roof and whether or not it will be accessible to the public. 
+
+492-11 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+H.  Waterproofing. 
+
+(1)  The design and construction shall include the installation of a root barrier in all 
+
+vegetated roofing systems. 
+
+(2) 
+
+Immediately prior to installation of the green roof, the applicant shall cause to be 
+conducted one of the following leakage testing protocols: 
+
+(a) 
+
+Flood test; 
+
+(b) 
+
+Electric field vector mapping; 
+
+(c) 
+
+Impedance test; 
+
+(d) 
+
+Infrared (IR) thermal imaging; 
+
+(e) 
+
+Low voltage testing; 
+
+(f) 
+
+High voltage testing; 
+
+(g)  Moisture sensors; 
+
+and a report documenting a successful test, signed by an architect or engineer, 
+shall be provided to the Chief Building Official. 
+
+I. 
+
+Drainage. 
+
+(1) 
+
+(2) 
+
+The design hydraulic load shall be evaluated assuming that the green roof system 
+is fully saturated prior to the maximum fifteen-minute rainfall. 
+
+Positive slope to drain shall be provided at the level of the waterproofing 
+membrane. 
+
+(3) 
+
+The system shall permit effective drainage beneath the growth media. 
+
+(4) 
+
+Vegetation-free zones shall be provided around all drains. 
+
+J. 
+
+Water retention.  
+
+(1)  Water retention mats or equivalent materials shall be employed as required to 
+
+promote vegetation growth. 
+
+(2) 
+
+The drainage layer shall be appropriate for storm water retention and must be 
+selected following "ASTM E2398-05 Standard Test Method for Water Capture 
+and Media Retention of Geo-composite Drain Layers for Green Roof Systems." 
+
+492-12 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+K. 
+
+Vegetation performance. 
+
+In order to support plant survivability: 
+
+(1)  When structurally possible, the growing media shall be at a minimum 
+
+100 millimetres; or 
+
+(2) 
+
+The applicant shall provide a report confirming that the engineered system as 
+designed provides plant survivability comparable to that of an un-irrigated system 
+with growing media at minimum 100 millimetres. 
+
+L. 
+
+Plant selection. 
+
+(1) 
+
+(2) 
+
+(3) 
+
+Vegetation on a green roof shall not include any noxious weeds as defined in 
+Ontario Regulation 1096 under the Weed Control Act, as may be amended from 
+time to time. 
+
+The plant selection and design shall be such that within three years of the planting 
+date the selected plants shall cover no less than 80 percent of the vegetated roof. 
+
+Compliance with the plant coverage required in the preceding sentence can be 
+satisfied by a design that will provide one or more of the following: 
+
+(a) 
+
+That seeds for groundcover plantings shall be sown at a rate not less than 
+325/m2; 
+
+(b)  That cuttings shall be distributed not less than 12kg/100m2; and 
+
+(c) 
+
+Either that pre-grown plugs shall be installed not less than 11/m2 or a 
+report from the designer that describes how the design fulfills this 
+coverage requirement shall be provided with the application. 
+
+M. 
+
+Irrigation. 
+
+Adequate measures shall be provided to permit irrigation necessary to initiate and sustain 
+the vegetation during the service life of the green roof. 
+
+N. 
+
+Maintenance plan. 
+
+(1) 
+
+The applicant shall develop a maintenance plan for the green roof as per 
+CSA-S478-95 "Guideline on Durability in Buildings" which shall define 
+programs of routine maintenance and inspection sufficient to ensure that the green 
+roof components perform their required functions for the duration of their design 
+service lives. 
+
+492-13 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+(2) 
+
+(3) 
+
+The maintenance plan shall address the requirements of the specified growth 
+media and vegetation for vegetation survival. 
+
+The maintenance plan shall address re-planting, in the event that re-planting 
+should become necessary, and assure that complete coverage at canopy level is 
+achieved within three growing seasons and maintained for the service life of the 
+green roof. 
+
+(4) 
+
+The maintenance plan shall be submitted with the application for a permit for a 
+green roof. 
+
+ARTICLE V 
+Approval of Application 
+
+§ 492-10. Approval by Chief Building Official. 
+
+The Chief Building Official shall approve an application for construction of a green roof that 
+conforms to this chapter by issuing a permit in accordance with section 8 of the Building Code 
+Act, 1992, in conjunction with an application for construction of a building or structure that 
+includes a green roof. 
+
+§ 492-11. Exemption or variation of coverage requirement for a green roof by the Chief 
+
+Planner. 
+
+[Amended 2012-11-29 by By-law 1598-2012] 
+
+A. 
+
+If an applicant is unable to provide the green roof coverage as required in this chapter, 
+application may be made to the Chief Planner for either a complete exemption to the 
+requirement to provide a green roof or to provide a smaller green roof area than would 
+otherwise be required, provided that a cash-in-lieu payment is made in accordance with 
+this chapter, and the Chief Planner shall approve such application and shall notify the 
+local Councillor(s) of the decision. 
+
+B.  Where an application for a reduced green roof requirement is made to the Chief Planner 
+pursuant to subsection A, no alteration or variance to the technical standards for 
+construction of green roofs as provided in the Toronto Green Roofs Construction 
+Standard shall be permitted. 
+
+C.  Where the Chief Planner has approved an exemption or variance and the cash-in-lieu 
+
+payment is made, the Chief Building Official may issue a permit for the related building 
+or building addition as though the applicant was in compliance with this chapter. 
+
+§ 492-12. Cash in lieu of construction of a green roof. 
+
+A.  Where less than the required green roof coverage than otherwise would be required by 
+
+this chapter is provided, either because of a variance or exemption approved by the Chief 
+
+492-14 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+Planner, the applicant shall make a payment of cash-in-lieu of construction of a green 
+roof for the reduced or exempted area based on the average actual cost of construction of 
+a green roof which at the time of the passing of this chapter shall be deemed to be 
+$200.00/m2. [Amended 2012-11-29 by By-law 1598-2012] 
+
+The Chief Planner shall from time to time, and at least bi-annually, report to City Council 
+on the cost of construction for a green roof and shall recommend changes to the base sum 
+in Subsection A to ensure that it reflects the prevailing average actual cost of construction 
+of a green roof. 
+
+All of the funds collected as cash in lieu of construction of a green roof shall be 
+segregated and directed to the Eco-Roof Incentive Program of the City for the provision 
+of green roofs. [Amended 2012-11-29 by By-law 1598-2012] 
+
+B. 
+
+C. 
+
+ARTICLE VI 
+Green Roof Technical Advisory Group 
+
+§ 492-13. Green Roof Technical Advisory Group. 
+
+A. 
+
+B. 
+
+C. 
+
+The Chief Building Official shall appoint a chair and 10 members of the Green Roof 
+Technical Advisory Group. 
+
+The Chair and members of the Green Roof Technical Advisory Group shall be appointed 
+for a term of three years, and may be re-appointed for an additional term of three years. 
+
+The Office of the Chief Building Official shall provide staff support, including secretariat 
+duties, for the Green Roof Technical Advisory Group. 
+
+§ 492-14. Qualifications for Chair and members of the Green Roof Technical Advisory 
+
+Group. 
+
+A. 
+
+B. 
+
+Persons appointed as the Chair or as a member of the Green Roof Technical Advisory 
+Group shall possess expert knowledge and professional qualification concerning green 
+roof technology and have a working familiarity with the building code. 
+
+Membership in the Green Roof Technical Advisory Group shall be representative of 
+various sectors including the following: 
+
+(1) 
+
+Enforcement of regulations and administration of the building code sector 
+including but not limited to members from staff of Toronto Building and the 
+Building and Development Branch of the Ministry of Municipal Affairs; 
+
+(2) 
+
+Design sector; 
+
+(3)  Material and component manufacturers and suppliers sector; 
+
+492-15 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+(4) 
+
+Construction sector; 
+
+(5) 
+
+Research sector including but not limited to persons involved in green roof 
+research and testing in a professional academic institution, school of engineering 
+or architecture; and 
+
+(6) 
+
+Green roof industry sector being individuals working in the green roof industry. 
+
+§ 492-15. Purpose of the Green Roof Technical Advisory Group. 
+
+A. 
+
+The Green Roof Technical Advisory Group shall make recommendations for 
+consideration by the Chief Building Official with respect to: 
+
+(1) 
+
+Technical issues relating to the creation, implementation and development of the 
+City of Toronto Green Roof Construction Standard; 
+
+(2) 
+
+Possible amendments to the Toronto Green Roof Construction Standard; and 
+
+(3) 
+
+Take part in periodic review of the Toronto Green Roof Construction Standard. 
+
+§ 492-16. Recommendations of the Green Roof Technical Advisory Group. 
+
+A. 
+
+The Green Roof Technical Advisory Group shall consider and comment upon the 
+following matters in making recommendations for consideration by the Chief Building 
+Official: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+Policy directions from City Council related to requiring and constructing green 
+roofs; 
+
+The City's green roof strategy as expressed in the document "Making Green Roofs 
+Happen"; 
+
+Consultations with stakeholders from government, industry, and the community at 
+large; 
+
+(4) 
+
+Technical viability of existing or proposed standards for green roofs; 
+
+(5) 
+
+Consistency of the green roof standards with objectives of the building code; 
+
+(6) 
+
+(7) 
+
+Impacts of the green roof standard on the interests of stakeholders and the 
+economic feasibility of the recommendation; and 
+
+The enforceability of the recommendation if implemented as part of the green 
+roof standard. 
+
+492-16 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 492, GREEN ROOFS 
+
+§ 492-17. Meetings of the Green Roof Technical Advisory Group. 
+
+A. 
+
+The Green Roof Technical Advisory Group shall meet at the call of the Chief Building 
+Official and the meeting shall consider the matters set out in a meeting agenda prepared 
+by Toronto Building staff. 
+
+ARTICLE VII 
+Changes to the Technical Standards 
+
+§ 492-18. Changes to technical standards. 
+
+A. 
+
+The Chief Building Official shall periodically review the Toronto Green Roof 
+Construction Standard and, after consultation with the Green Roof Technical Advisory 
+Group, recommend amendments to City Council to reflect the City's experience with 
+green roofs and new construction techniques and materials. 
+
+ARTICLE VIII 
+Chief Building Official to Publish Guideline 
+
+§ 492-19. Chief Building Official to publish guideline. 
+
+A. 
+
+The Chief Building Official shall, after consulting with the Green Roof Technical 
+Advisory Group, periodically develop and publish green roof construction guidelines and 
+best practices to assist designers and others to design and construct green roofs in 
+accordance with the Toronto Green Roof Construction Standard. 
+
+ARTICLE IX 
+Miscellaneous 
+
+§ 492-20. Offences. 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+Every person who contravenes a provision of this chapter is guilty of an offence. 
+
+Every director or officer of a corporation who knowingly concurs in a contravention of 
+this chapter by the corporation is guilty of an offence. 
+
+Every person who fails to comply with a term or condition of a green roof permit under 
+this chapter is guilty of an offence. 
+
+Every person who contravenes an order under subsection 384(1) or 385(1) of the City of 
+Toronto Act, 2006, is guilty of an offence. 
+
+§ 492-21. Penalty. 
+
+Every person convicted of an offence under this chapter is liable to a maximum fine of not more 
+than $100,000. 
+
+492-17 
+
+November 9, 2017 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

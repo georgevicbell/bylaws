@@ -1,0 +1,916 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+Chapter 79 
+
+FIRE SERVICES 
+
+§ 79-1. Definitions. 
+
+§ 79-2. Establishment. 
+
+§ 79-3. Composition. 
+
+§ 79-4. Recommendation for employment. 
+
+§ 79-5. Terms and conditions of employment. 
+
+§ 79-6. Organization. 
+
+§ 79-7. Reporting. 
+
+§ 79-8. Responsibilities and authority of Fire Chief. 
+
+§ 79-9. Deputy Fire Chief. 
+
+§ 79-10. Supervision. 
+
+§ 79-11. General duties and responsibilities. 
+
+§ 79-12. Property of Fire Department. 
+
+§ 79-13. Fire suppression. 
+
+§ 79-14. Unsafe conditions; payment for services. 
+
+§ 79-15. Refusal to assist. 
+
+§ 79-16. Refusal to leave scene of fire. 
+
+§ 79-17. Conduct at fires. 
+
+§ 79-18. Inspection of premises and by-law enforcement. 
+
+§ 79-19. Interference. 
+
+§ 79-20. Responding to rescues and emergencies. 
+
+§ 79-21. Interference with fire alarm. 
+
+§ 79-22. Offences. 
+
+§ 79-23. Fires and emergencies outside city limits; services from outside fire departments. 
+
+95-1 
+
+January 29, 2020 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+§ 79-24. Distinguished service. 
+
+§ 79-25. Conflicting provisions. 
+
+[History: Adopted by the Council of the City of Toronto April 16, 1998 by By-law 132-1998.1 
+Amendments noted where applicable.] 
+
+General References 
+
+Emergency planning - See Ch. 59. 
+False alarms - See Ch. 433. 
+Fees for fire services and inspections - See Ch. 441 
+City of Toronto Act, 1997 (No. 1) - See S.O. 1997, c. 2. 
+City of Toronto Act, 1997 (No. 2) - See S.O. 1997, c. 26. 
+Fire Protection and Prevention Act, 1997 - See S.O. 1997, c. 4. 
+Municipal Act, 1990 - See R.S.O. 1990 c. M.45. 
+Municipal Act, 2001 - See S.O. 2001, c. 25. 
+
+§ 79-1. Definitions. 
+
+In this chapter, unless the context requires otherwise, the following terms shall have the 
+meanings indicated: 
+
+BUDGET COMMITTEE - The Budget Committee established by the Council. 
+
+CHARGES - In relation to § 79-14, include any interest payable pursuant to § 79-14J and any 
+costs incurred by the City pursuant to § 79-14M. 
+
+CITY MANAGER - The person appointed by Council as the City's chief administrative officer 
+under section 229 of the Municipal Act, 2001. [Added 2005-05-04 by By-law 338-2005] 
+
+CITY OF TORONTO ACT, 1997 - The City of Toronto Act, 1997, S.O. 1997, c. 26, c.2. 
+
+DEPUTY FIRE CHIEF - A person appointed as a Deputy Fire Chief by the City Manager under 
+this chapter.2 [Amended 2005-05-04 by By-law 338-2005] 
+
+DIVISION - A Division of the Fire Department as provided for in this chapter. 
+
+1
+
+ Editor's Note: This by-law was passed under the authority of paragraph 31 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+This by-law also repealed former by-laws, as follows: (1) By-law 4-88 of The Corporation of the Borough of East York, By-laws 222, 
+1981-125 and 1981-126 of The Corporation of the City of Etobicoke, By-law 31662 of The Corporation of the City of North York, By-law 
+22098 of The Corporation of the City of Scarborough, By-law 1994-0715 of The Corporation of the former City of Toronto, By-law 1222-
+87 of The Corporation of the City of York, and any amendments thereto, all of which were passed by the councils of the old area 
+municipalities of the former Metropolitan Toronto and all of which were in force immediately before the coming into force of the City of 
+Toronto Act, 1997 (No. 1) and, by virtue of section 2(7) of the Act, are deemed to be by-laws of the Council and remain in force in respect 
+of the part of the urban area to which they applied immediately before the coming into force of the Act, are repealed. (2) Any other by-
+law (or part of it) and any resolution of any of the six old area municipalities of the former Metropolitan Toronto relating to the 
+establishment of a fire department (and any amendments thereto) and not expressly mentioned in subsection (1) are also repealed. (3) 
+This by-law does not repeal Metropolitan Toronto By-law 31-96, which remains in force until expressly repealed or replaced by the 
+Council. (4) This by-law supersedes By-law 6-1998 of the City of Toronto adopted by the Council on January 6, 1998. 
+2
+
+ Editor's Note: The definition of "Chief Administrative Officer," which previously preceded this definition, was repealed May 4, 2005 
+
+by By-law 338-2005. 
+
+95-2 
+
+January 29, 2020 
+
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+ECONOMIC AND COMMUNITY DEVELOPMENT COMMITTEE - The City's Economic and 
+Community Development Committee or any successor committee responsible for fire services 
+issues. [Added 2019-01-31 by By-law 255-20193] 
+
+FEE or FEE FOR SERVICES - In relation to § 79-14, means any fee imposed for services under 
+and billed pursuant to § 79-14E.4 
+
+FIRE CHIEF - The person appointed by Council (on the recommendation of the City Manager) 
+as the Fire Chief under the Fire Protection and Prevention Act, 1997. [Amended 2005-05-04 by 
+By-law 338-2005] 
+
+FIRE DEPARTMENT - The City's Fire Services division that is the City's "fire department" 
+under the Fire Protection and Prevention Act, 1997 and includes the fire-fighters and 
+administrative support staff that comprise it, but, in §§ 79-12 to 79-21 and § 79-23, "Fire 
+Department" does not include administrative support staff. [Amended 2005-05-04 by By-law 
+338-2005] 
+
+FIRE-FIGHTER - A person employed in, or appointed to, the Fire Department and assigned to 
+undertake fire protection services and includes an officer, but does not include a volunteer fire-
+fighter and administrative support staff. 
+
+FIRE PROTECTION AND PREVENTION ACT, 1997 - The Fire Protection and Prevention Act, 
+1997, S.O. 1997, c. 4, and any regulation made under it. 
+
+FIRE PROTECTION SERVICES - Include fire suppression, fire prevention, fire safety 
+education, communication, training of persons involved in the provision of fire protection 
+services, rescue and emergency services and the delivery of all those services. 
+
+MEMBER - A fire-fighter other than an officer. 
+
+MUNICIPAL ACT - The Municipal Act, 2001, and any regulation made under it. [Amended 
+2005-05-04 by By-law 338-2005] 
+
+OFFICER - The Fire Chief, a Deputy Fire Chief, division chief, senior divisional chief, platoon 
+chief, district chief, captain and such other person as may be designated as an officer from time 
+to time by the Council. 
+
+OWNER - In relation to § 79-14, means a person who is shown as the assessed owner or tenant 
+of the building or yard in the assessment rolls for the City and includes the registered owner or 
+mortgagee in possession of such property and includes a person in actual occupation of the land 
+on which the building is situated or that constitutes the yard: 
+
+A. 
+
+B. 
+
+Under an agreement with the assessed owner for the purchase of it; or 
+
+Sold by the Director in accordance with the Veterans' Land Act (Canada), R.S.C. 1970, c. 
+V-4 (as may be amended or replaced from time to time); but 
+
+3
+
+ Editor's Note: By-law 255-2019 also deleted a previous definition for "Community Services Committee". By-law 255-2019 is deemed to 
+
+have come into effect on December 13, 2018. 
+4
+
+ Editor's Note: The definition of "Emergency and Protective Services Committee," which previously preceded this definition, was 
+
+repealed May 4, 2005 by By-law 338-2005. 
+
+95-3 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+C. 
+
+In the case of a condominium building, means the condominium corporation having 
+control of the common elements of the building. 
+
+RESCUE AND EMERGENCY SERVICES - Include any life- or property-saving activity that is 
+unrelated to fire suppression and fire prevention. 
+
+§ 79-2. Establishment. 
+
+The Fire Department is established under the direction of the Fire Chief to provide fire protection 
+services for the City and replaces the Fire Departments of the old area municipalities of the 
+former Metropolitan Toronto, to wit, The Corporation of the Borough of East York, The 
+Corporation of the City of Etobicoke, The Corporation of the City of North York, The 
+Corporation of the City of Scarborough, The Corporation of the City of Toronto and The 
+Corporation of the City of York. 
+
+§ 79-3. Composition. 
+
+[Amended 2005-05-04 by By-law 338-2005] 
+
+The Fire Department shall consist of the Fire Chief and such number of Deputy Fire Chiefs, 
+senior divisional chiefs, platoon chiefs, division chiefs, district chiefs, captains and other officers, 
+members and clerical staff, including an executive assistant to the Fire Chief, as may be 
+authorized or considered necessary from time to time by the Council or by the City Manager, for 
+the Fire Department to perform fire protection services for the City efficiently and effectively. 
+
+§ 79-4. Recommendation for employment. 
+
+[Amended 2005-05-04 by By-law 338-2005] 
+
+The Fire Chief may recommend to the City Manager the employment in, or the appointment to, 
+the Fire Department, as the case may be, of any person, as an officer or member or as 
+administrative support staff, who meets the qualifications and, if applicable, completes 
+successfully criteria (including without limitation training courses and physical, skills and other 
+examinations) and otherwise satisfies any hiring policies, practices or procedures established or 
+approved by the Council for such employment or appointment. 
+
+§ 79-5. Terms and conditions of employment. 
+
+[Amended 2005-05-04 by By-law 338-2005] 
+
+Subject to the Fire Protection and Prevention Act, 1997, the remuneration and other terms and 
+conditions of employment or appointment of the officers, members and administrative support 
+staff that comprise the Fire Department shall be determined by the Council or by the City 
+Manager acting in accordance with policies and programs established or approved by the 
+Council. 
+
+95-4 
+
+January 29, 2020 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+§ 79-6. Organization. 
+
+A. 
+
+The Fire Department shall be organized into Divisions such as: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+Fire Prevention and Public Safety. 
+
+Fire Suppression. 
+
+Training. 
+
+(4)  Mechanical and Maintenance. 
+
+(5) 
+
+(6) 
+
+Communications. 
+
+Administrative Services. 
+
+B. 
+
+The Fire Chief, with the prior approval of the City Manager, may reorganize or eliminate 
+divisions or establish other divisions or may do all or any of these things or any 
+combination of them as may be required to ensure the proper administration and efficient 
+operation of the Fire Department and the effective management of fire protection services 
+for the City. [Amended 2005-05-04 by By-law 338-2005] 
+
+C. 
+
+The Fire Chief may assign or reassign such officers to a division to assist him or her in 
+the administration and operation of that division. 
+
+§ 79-7. Reporting. 
+
+[Amended 2005-05-04 by By-law 338-2005; 2019-01-31 by By-law 255-20195] 
+
+The Fire Chief shall report to the Economic and Community Development Committee on matters 
+pertaining to the Fire Department unless otherwise directed by the Council or provided for in this 
+chapter. 
+
+§ 79-8. Responsibilities and authority of Fire Chief. 
+
+A. 
+
+B. 
+
+The Fire Chief shall be the head of the Fire Department and shall be responsible for its 
+proper administration and efficient operation. 
+
+The Fire Chief shall be authorized to make such general orders, policies, procedures, 
+rules and regulations and to take such other measures as the Fire Chief may consider 
+necessary for the proper administration and efficient operation of the Fire Department 
+and the effective management of the fire protection services for the City and for the 
+prevention, control and extinguishment of fires, the protection of life and property and 
+the management of emergencies within the territorial jurisdiction of the City, provided 
+that such general orders, policies, procedures, rules, regulations and other measures do 
+not conflict with the provisions of this chapter or any other by-law of the City, including 
+without limitation those requiring the prior approval of or prior notice to the Council or 
+the satisfaction of certain conditions (general or otherwise) specified by the Council 
+before such measures can be implemented, or with the provisions of the Fire Protection 
+
+5
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+95-5 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+and Prevention Act, 1997 or with the provisions of any collective agreement or other 
+written agreement that may be applicable, and, without restricting the generality of the 
+foregoing: [Amended 2000-10-05 by By-law 869-2000] 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(7) 
+
+(8) 
+
+(9) 
+
+For the care and protection of all property belonging to the Fire Department. 
+
+For arranging for the provision of necessary and proper facilities, apparatus, 
+equipment, materials, services and supplies for the Fire Department. 
+
+For determining and establishing the qualifications and criteria for employment or 
+appointment and the duties of all officers, members and administrative support 
+staff of the Fire Department. 
+
+For the conduct and the discipline of officers, members and administrative 
+support staff of the Fire Department. 
+
+For preparing and, upon approval by the Council, implementing and maintaining 
+an emergency fire service plan and program for the City. 
+
+For co-ordinating any emergency fire service plan and program adopted or to be 
+adopted by the Council with (and assisting in the preparation, implementation and 
+maintenance of) any emergency plans, organizations, services or measures 
+established or to be established by the City, alone or with others, and, if so 
+requested or required, any emergency plan established or to be established by the 
+Province of Ontario or the Government of Canada and for co-ordinating with and 
+assisting any other public official in an emergency declared by the Mayor of the 
+City, the Premier of Ontario or the Governor in Council. 
+
+For reporting to the appropriate crown attorney or other prosecutor or law 
+enforcement or other officer the facts upon the evidence in any case in which 
+there is reason to believe that a fire has been the result of criminal intent or 
+negligence or in which there is reason to believe an offence has been committed 
+under the Fire Protection and Prevention Act, 1997. 
+
+For keeping an accurate record, in convenient form for reference, of all fires, 
+rescues and emergencies responded to by the Fire Department. 
+
+For keeping a record to be available to the general public concerning the Fire 
+Department's inspection and enforcement activities with respect to fire safety 
+containing such particulars of the Fire Department's inspection and enforcement 
+activities as the Fire Chief believes suitable for the proper administration and 
+efficient operation of the Fire Department and the effective management of the 
+fire protection services for the City, along with such other records as may be 
+required by the Council. [Added 2020-01-29 by By-law 104-20206] 
+
+6
+
+ Editor's Note: By-law 104-2020 came into effect June 30, 2020. 
+
+95-6 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+(10)  For preparing and presenting the annual report of the Fire Department to the 
+
+Economic and Community Development Committee and the Council. [Amended 
+2005-05-04 by By-law 338-2005; 2019-01-31 by By-law 255-20197] 
+
+(11) 
+
+For preparing and presenting the annual estimates of the Fire Department to the 
+Economic and Community Development Committee, the Budget Committee and 
+the Council and for exercising control over the budget approved by the Council 
+for the Fire Department. [Amended 2005-05-04 by By-law 338-2005; 2019-01-
+31 by By-law 255-20198] 
+
+The Fire Chief shall be responsible for the enforcement of this chapter and all general 
+orders, policies, procedures, rules and regulations made under this chapter and for the 
+enforcement of any other by-laws of the City respecting fire protection services, and shall 
+review periodically such laws [and may, for this purpose, establish an advisory committee 
+consisting of such officers and other persons (including members of the general public) as 
+the Fire Chief may determine from time to time to assist him or her in the discharge of 
+this duty] and, in the case of such by-laws (including this chapter), recommend to the 
+Council such amendments as the Fire Chief considers appropriate and, in the case of 
+general orders, policies, procedures, rules and regulations made under this chapter, revise 
+or terminate any of them if the Fire Chief considers it appropriate. 
+
+The Fire Chief shall have all powers, rights and duties assigned to a fire chief under the 
+Fire Protection and Prevention Act, 1997, including without limitation the authority to 
+enforce compliance with the fire code made under the Act.9 
+
+The Fire Chief shall provide liaison with any union representing officers, members or 
+administrative support staff of the Fire Department or any of them. 
+
+The Fire Chief shall provide liaison with the Office of the Fire Marshal of Ontario and 
+any other office or organization as required by the Council or as considered necessary or 
+advisable by the Fire Chief for the proper administration and efficient operation of the 
+Fire Department and the effective management of the fire protection services for the City. 
+
+The Fire Chief may utilize such officers, members and administrative support staff of the 
+Fire Department as the Fire Chief may determine, from time to time, to assist in the 
+performance of his or her duties. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+7
+
+8
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+ Editor's Note: By-law 255-2019 is deemed to have come into effect on December 13, 2018. 
+
+9
+
+ Editor's Note: Original Subsection (5), which followed this subsection, regarding the duties of the Metropolitan Toronto Fire Co-
+ordinator under Metropolitan Toronto By-law 31-96, was deleted October 5, 2000 by By-law 869-2000, as By-law 31-96 was repealed 
+March 6, 1998 by By-law 47-1998. 
+
+95-7 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+§ 79-9. Deputy Fire Chief. 
+
+A. 
+
+The Deputy Fire Chief shall be the second ranking officer of the Fire Department and 
+shall be subject to and shall obey all orders of the Fire Chief and shall perform such 
+duties as are assigned to him or her by the Fire Chief and shall, when the Fire Chief is not 
+on duty, have the powers and perform the duties of the Fire Chief. 
+
+B.  Where more than one Deputy Fire Chief has been appointed, when the Fire Chief is not 
+
+on duty, the duties of the Fire Chief shall be performed by each of the Deputy Fire Chiefs 
+from time to time on a rotating basis or such other basis as may be determined by the Fire 
+Chief. 
+
+§ 79-10. Supervision. 
+
+The officers, members and administrative support staff of the Fire Department while on duty 
+shall be under the direction and control of the Fire Chief or the next ranking officer present in 
+any place. 
+
+§ 79-11. General duties and responsibilities. 
+
+Every officer, member and administrative support staff person shall conduct himself or herself in 
+accordance with general orders, policies, procedures, rules and regulations made by the Fire 
+Chief under § 79-8B and shall give his or her other whole and undivided attention while on duty 
+to the efficient operation of the Fire Department (and, in particular, shall use best efforts to see 
+that all fires are extinguished with the least possible injury to persons and damage to property 
+and to prevent unnecessary damage to property by water and other fire suppression methods) and 
+shall diligently, cheerfully and faithfully perform the duties assigned to him or her to the best of 
+his or her ability and in accordance with the Fire Protection and Prevention Act, 1997 and any 
+collective agreement or other written agreement that may be applicable. 
+
+§ 79-12. Property of Fire Department.10 
+
+A. 
+
+B. 
+
+No person shall apply any apparatus, equipment or other property of the Fire Department 
+to any personal or private use. 
+
+No person shall wilfully damage or render ineffective or inoperative any apparatus, 
+equipment or other property belonging to the Fire Department. 
+
+§ 79-13. Fire suppression. 
+
+A. 
+
+The Fire Department may suppress any fire or other hazardous condition by 
+extinguishing it or by other reasonable action and, for this purpose, may enter private 
+property, if necessary, to do so. 
+
+10
+
+ Editor's Note: This section was passed under the authority of paragraphs 31 and 48 of section 210 of the Municipal Act, R.S.O. 1990, 
+
+c. M.45. 
+
+95-8 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+B. 
+
+The Fire Department may pull down or demolish any building or structure when 
+considered necessary to prevent the spread of fire.11 
+
+C. 
+
+The Fire Department may require other persons present at a fire to assist in:12 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+Extinguishing fires; 
+
+Pulling down or demolishing buildings or structures to prevent the spread of fire; 
+
+Crowd and traffic control; or 
+
+Other reasonable ways. 
+
+§ 79-14. Unsafe conditions; payment for services. 
+
+A. 
+
+No person shall permit any building or yard to be kept in an unsafe condition that may 
+result in fire or other dangerous risk or accident.13 
+
+B.  Where the Fire Department finds that a building or a yard is in an unsafe condition as 
+
+described in Subsection A, it may give the owner of the building or yard an order in 
+writing specifying the unsafe condition and directing remedial action within such time as 
+is specified in the order. 
+
+C. 
+
+In the event of an emergency, the order under Subsection B may specify immediate 
+compliance, and, where the owner is not available to receive the order, it shall be 
+sufficient notice if the order is posted on the premises, but, in all other cases, notice of the 
+order shall be sufficiently given to the owner by personal service on the owner or the 
+occupant of the building or yard or by regular letter mail, in which event service shall be 
+deemed to have been made on the third day after the day of mailing, or by electronic 
+transmission or telephone transmission of a facsimile, in which event service shall be 
+deemed to have been made on the first day after the day of transmission, or by some other 
+method that allows proof of receipt. 
+
+D.  Where the owner does not comply with the order made under Subsection B within the 
+time specified in the order, or immediately in the event of an emergency, in addition to 
+the City prosecuting the contravention of this order as an offence, the Fire Department on 
+behalf of the City may take such action as may be considered necessary to guard against 
+fire or other dangerous risk or accident, which may include without limitation the 
+boarding up or barricading of the building or yard. [Amended 2000-10-05 by By-law 
+869-2000] 
+
+E. 
+
+Any expense incurred by the Fire Department for any action taken under Subsection D 
+shall be considered a fee imposed for services provided or done by or on behalf of the 
+
+11
+
+12
+
+13
+
+ Editor's Note: This section was passed under the authority of paragraph 47 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+ Editor's Note: This section was passed under the authority of paragraph 48 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+ Editor's Note: This section was passed under the authority of paragraph 44 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+95-9 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+City under the Municipal Act and shall be billed as a fee for services to the owner of the 
+building or yard, as the case may be.14 
+
+F. 
+
+The methods of service provided for in Subsection C for "all other cases" have equal 
+application to the service of invoices for services billed under Subsection E. 
+
+G.  Where there is more than one owner, their liability for payment under Subsection E shall 
+
+be joint and several. 
+
+H. 
+
+I. 
+
+J. 
+
+K. 
+
+L. 
+
+M. 
+
+Any invoice for services billed pursuant to Subsection E shall describe the service 
+provided or done by the Fire Department, when and where the service was provided or 
+done, the reason for the service, the fee for the service, the terms of payment of the fee 
+prescribed in this section and the consequences of failing to pay the fee for the service as 
+provided for in this section. 
+
+The fee for services shall be payable to the City, by cash, money order, cheque or credit 
+card, no later than 30 days from the date of the invoice for the service. 
+
+Where the fee for services remains unpaid, in whole or in part, for a period in excess of 
+30 days from the date of the invoice for the service, the owner shall pay, in addition to the 
+outstanding balance of the fee, interest on the outstanding balance, such interest to be 
+calculated at a rate equal to the prime lending rate charged to the City by its banker from 
+time to time plus 1 percent per annum. 
+
+The fee for services, plus any interest that may have accrued on the outstanding balance 
+under Subsection J, shall constitute a debt of the owner to the City. 
+
+The City may take such action as it considers necessary and as is permitted by law to 
+collect the debt constituted under Subsection K. 
+
+The owner shall be liable to pay to the City any costs incurred by the City in collecting 
+the debt constituted under Subsection K; and such costs shall also constitute a debt of the 
+owner to the City; and Subsection L shall apply to the recovery of such costs, with 
+necessary modifications. 
+
+N.  Without restricting the generality of Subsections L and M, where the fee for services or 
+
+charges or all or any of them remains unpaid, in whole or in part, for a period in excess of 
+90 days, such fee or charges or all or any of them shall be added to the tax roll for any 
+real property within the territorial limits of the City owned, in whole or in part, by the 
+owner and shall be collected in a like manner as municipal taxes. 
+
+O. 
+
+P. 
+
+All of the owners of the real property to which tax roll the fee for services or charges or 
+any or all of them were added pursuant to Subsection N shall be liable jointly and 
+severally for paying such fee and charges, and such fee and charges shall be collected in a 
+like manner as municipal taxes. 
+
+Subsections N and O do not apply to a fee or charge for services provided or done to a 
+condominium building, which fee or charge may be recovered by action. 
+
+14
+
+ Editor's Note: This section was passed under the authority of section 220.1 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+95-10 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+Q. 
+
+R. 
+
+Nothing in this section prevents the City from prosecuting a contravention of 
+Subsection A or a contravention of an order made under Subsection B as an offence. 
+
+Nothing in this section derogates from any powers, rights or duties of the Fire Chief or 
+his or her delegate under the Fire Protection and Prevention Act, 1997. 
+
+§ 79-15. Refusal to assist.15 
+
+[Amended 2000-10-05 by By-law 869-2000] 
+
+If required to do so by the Fire Department, no person present at a fire shall refuse to assist in: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+Extinguishing fires; 
+
+Pulling down or demolishing buildings or structures to prevent the spread of fires; 
+
+Crowd and traffic control; or 
+
+Other reasonable ways. 
+
+§ 79-16. Refusal to leave scene of fire.16 
+
+Despite § 79-17, no person present at a fire shall refuse to leave the immediate vicinity when 
+required to do so by the Fire Department. 
+
+§ 79-17. Conduct at fires. 
+
+A. 
+
+During a fire and for the time after it has been extinguished that is required to remove the 
+apparatus and equipment of the Fire Department and render the location and vicinity safe 
+from fire, no person, either on foot or with a vehicle of any kind, shall enter or remain 
+upon or within: 
+
+(1) 
+
+(2) 
+
+The portion of any street or lane upon which the site of the fire abuts or upon any 
+street or lane for a distance of 15 metres on each side of the property damaged by 
+fire; or 
+
+Any additional street or lane or part of a street or lane or any additional limits in 
+the vicinity of the fire as may be prescribed by the Fire Chief or the next ranking 
+officer present at the fire. 
+
+B. 
+
+The provisions of Subsection A shall not apply to a resident of any street or lane or within 
+any prescribed additional limit or to any person so authorized to enter or remain by an 
+officer of the Fire Department or by a police officer. 
+
+15
+
+16
+
+ Editor's Note: This section was passed under the authority of paragraph 48 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+ Editor's Note: This section was passed under the authority of paragraph 48 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+95-11 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+§ 79-18. Inspection of premises and by-law enforcement.17 
+
+Such officers and fire-fighters of the Fire Department who have been appointed for this purpose 
+shall be authorized to enter at all reasonable times upon any property to ascertain whether this 
+chapter or any other by-law of the City respecting fire protection services is being obeyed and to 
+enforce or carry into effect such by-laws. 
+
+§ 79-19. Interference.18 
+
+No person shall impede or interfere with or hinder the Fire Department in the performance of its 
+duties. 
+
+§ 79-20. Responding to rescues and emergencies. 
+
+A. 
+
+The Fire Department may respond to rescues and emergencies other than fires with the 
+approval of the Fire Chief or, when the Fire Chief is not on duty, the next ranking officer. 
+
+B.  Where the Fire Department responds to rescues or emergencies as provided for under 
+Subsection A, §§ 79-12 to 79-19, inclusive, apply with necessary modifications. 
+
+§ 79-21. Interference with fire alarm.19 
+
+No person shall prevent, obstruct or interfere in any manner whatsoever with the communication 
+of a fire alarm to the Fire Department or with the Fire Department responding to a fire alarm that 
+has been activated.20 
+
+§ 79-22. Offences.21 
+
+Every person who contravenes any of §§ 79-12 and 79-13, 79-14A, 79-15 and 79-16, 79-17A 
+and 79-19 to 79-21, inclusive, or who contravenes an order made under § 79-14B is guilty of an 
+offence and on conviction is liable to the penalty established by the Provincial Offences Act, 
+R.S.O. 1990, c. P.33 (as may be amended or replaced from time to time), being on the date of 
+enactment of this chapter, a fine not exceeding $5,000 exclusive of costs. 
+
+§ 79-23. Fires and emergencies outside city limits; services from outside fire departments. 
+
+Subject to any agreement entered into by the City of Toronto under the Fire Protection and 
+Prevention Act, 1997 or by any of the six old area municipalities of the former Metropolitan 
+Toronto under this Act or any predecessor legislation and still in force, and subject to any mutual 
+aid plan established under the Fire Protection and Prevention Act, 1997 or any predecessor 
+legislation and still in force, and subject to any procedures established by the Fire Chief to deal 
+with such situations, the Fire Department may respond to fires and rescues and emergencies 
+
+17
+
+18
+
+19
+
+20
+
+21
+
+ Editor's Note: This section was passed under the authority of paragraph 46 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+ Editor's Note: This section was passed under the authority of paragraph 48 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+ Editor's Note: This section was passed under the authority of paragraph 49 of section 210 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+ Editor's Note: See also Ch. 433, Art. I, Reward for Information Leading to False Fire Alarm Conviction. 
+
+ Editor's Note: This section was passed under the authority of section 320 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+95-12 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 79, FIRE SERVICES 
+
+outside of the territorial limits of the City of Toronto or receive fire protection services from a 
+fire department situated outside of the territorial limits of the City of Toronto. 
+
+§ 79-24. Distinguished service.22 
+
+A person who distinguishes himself or herself at a fire, rescue or emergency by performing a 
+gallant or heroic act shall be eligible to receive a medal or other reward as the Council may direct 
+on the recommendation of the Fire Chief. 
+
+§ 79-25. Conflicting provisions. 
+
+Where this chapter may conflict with any other by-law setting out the powers and duties of a 
+municipal officer or a municipal department, this chapter shall supersede and prevail over that 
+other by-law to the extent of the conflict. 
+
+22
+
+ Editor's Note: This section was passed under the authority of section 114 of the Municipal Act, R.S.O. 1990, c. M.45. 
+
+95-13 
+
+January 29, 2020 
+
+ 
+ 
+                                                 
+

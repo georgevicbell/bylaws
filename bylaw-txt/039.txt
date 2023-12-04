@@ -1,0 +1,306 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 39, DEFENCE AND INDEMNIFICATION 
+
+Chapter 39 
+
+DEFENCE AND INDEMNIFICATION 
+
+ARTICLE I 
+Y2K Employee Indemnification 
+
+§ 39-1. Definitions. 
+
+§ 39-2. Condition precedent. 
+
+§ 39-3. Employee to notify city of action or threatened action. 
+
+§ 39-4. Legal defence; damages and costs. 
+
+§ 39-5. Conflicts. 
+
+§ 39-6. Investigation, negotiation and settlement. 
+
+§ 39-7. Counterclaims and third-party actions. 
+
+§ 39-8. Appeals by the employee. 
+
+§ 39-9. Assessment of accounts. 
+
+§ 39-10. Without prejudice. 
+
+[HISTORY: Adopted by the Council of the City of Toronto as indicated in article histories. 
+Amendments noted where applicable.] 
+
+General References 
+
+Arbitration Act, 1991 - See S.O. 1991, c. 17. 
+Municipal Act, - See R.S.O. 1990, c. M. 45. 
+
+ARTICLE I 
+Y2K Employee Indemnification 
+[Adopted 1999-11-25 by By-law No. 808-19991] 
+
+§ 39-1. Definitions. 
+
+As used in this article, the following terms shall have the meanings indicated:  
+
+ACTION - A civil action or claim commenced or threatened to be commenced after the passing 
+of this article containing allegations that a person or persons have suffered damages, or seeking 
+some other remedy, arising out of an alleged act or omission of one or more employees of the 
+City of Toronto and relating, directly or indirectly, to the Year 2000 problem (as defined below). 
+An "action" includes the appeal of any final judgement in the action where the employee is a 
+respondent in the appeal. 
+
+1
+
+ Editor's Note: This by-law was passed under the authority of clause 50 of section 207 and section 252 of the Municipal Act, R.S.O. 1990, 
+c. M.45. 
+
+39-1 
+
+December 30, 2000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 39, DEFENCE AND INDEMNIFICATION 
+
+EMPLOYEE - An employee, former employee, salaried officer or former salaried officer of the 
+City (including any of its predecessor municipalities) who, during his or her term of employment 
+or office with the City, works or has worked for the City, directly or indirectly, or makes or has 
+made a decision for or on behalf of the City while acting in his or her capacity as an employee or 
+officer of the City or gives or has given advice of any kind to the City or any of its local boards 
+on matters relating to the Year 2000 problem and includes a member or former member of 
+Council of the City (including any of its predecessor municipalities) who, during his or her term 
+of office on Council, works or has worked for the City, directly or indirectly, or makes or has 
+made a decision while acting in his or her capacity as a member of Council or an officer of the 
+City on matters relating to the Year 2000 problem. 
+
+YEAR 2000 PROBLEM - The failure of computer software, hardware or devices containing 
+embedded chips to accept, calculate, compare, sort, extract, sequence or process accurately date 
+inputs or date values or the failure to accurately return, generate, process or display accurately 
+date output or date values, as a result, directly or indirectly, of the transition up to, during and 
+beyond the date January 1, 2000. 
+
+§ 39-2. Condition precedent. 
+
+The provision of coverage under this article shall be subject to and conditional upon any rights, 
+obligations and duties of any insurer of the City that may respond to an action under an insurance 
+policy issued to the City and is subject to any rights, obligations and duties of the City and its 
+employees in respect of such insurance. By virtue of the Municipal Act, this article does not 
+apply to an act or omission of an employee that occurred prior to June 20, 1978, but, if the 
+employee (as defined above) is a member or former member of Council, it does not apply to an 
+act or omission that occurred prior to December 15, 1978. 
+
+§ 39-3. Employee to notify city of action or threatened action. 
+
+Where an employee becomes aware that an action has been commenced or threatened against the 
+employee, the employee shall forthwith provide the City with notice of the same.  
+
+§ 39-4. Legal defence; damages and costs. 
+
+A. 
+
+B. 
+
+After receiving notice of an action, the City shall, as soon as is reasonably possible, 
+determine the factual background to the action and shall determine whether the employee 
+will be afforded coverage under this article. The employee will co-operate with the City 
+to permit the City to determine the factual background to the action and provide all 
+necessary assistance that the City requests. 
+
+Provided that the City determines that the employee's connection, if any, with the 
+allegations related to the action involves the employee's attempted performance in good 
+faith of his or her duties and subject to compliance by the employee with the provisions 
+of this article, in an action, the City will: 
+
+(1) 
+
+Represent the employee in the name of, and on behalf of, the employee through 
+counsel employed by the City or through the payment of all legal costs of the 
+
+39-2 
+
+December 30, 2000 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 39, DEFENCE AND INDEMNIFICATION 
+
+employee, from time to time and as they are incurred, in defending the action 
+through the use of outside counsel retained by the City. 
+
+(2) 
+
+(3) 
+
+Pay all damages and legal costs, including interest, awarded against an employee. 
+
+Pay all sums required in connection with the settlement of the action, provided 
+that the City approves of the terms of the settlement. 
+
+C. 
+
+Subject only to § 39-5, the City shall, in its sole discretion, determine whether to 
+represent the employee in the action through the use of counsel employed by the City or 
+through the use of outside counsel retained by the City. [Amended 2000-10-05 by By-
+law No. 869-2000] 
+
+D.  Where the City represents the employee in the action, whether through the use of counsel 
+
+employed by the City or through the use of outside counsel, the City and the employee 
+shall co-operate and consult with one another. However, all decisions to be made in the 
+defence of the action (including decisions in respect of any counterclaim by the employee 
+or in the prosecution of a third-party claim) shall be made by the City, in its sole 
+discretion, after having taken into account the consultations with the employee. 
+
+E. 
+
+F. 
+
+G. 
+
+The City may, in its sole discretion, determine that an employee is not entitled to 
+coverage pursuant to this article because the City has determined that the employee has 
+not acted in good faith in the attempted performance of his or her duties or has not 
+otherwise complied with the terms of this article. In such circumstances, that employee 
+shall be responsible for all costs in connection with his or her defence of the action, and 
+the employee shall be responsible for the payment of any damages or costs awarded 
+against him or her in the action. In addition, in such circumstances, the City reserves the 
+right to claim indemnity from the employee for any damages or costs which may be 
+suffered by the City. 
+
+Where the City has paid for the legal costs associated with the defence by an employee of 
+an action in the reasonable belief that the employee had acted in good faith in the 
+attempted performance of his or her duties and it is later determined by a court of 
+competent jurisdiction or the City that the employee did not act in good faith in the 
+attempted performance of his or her duties, then in such circumstances that employee 
+shall be responsible for all costs in connection with his or her defence of the action and 
+the employee shall be responsible for the payment of any damages or costs awarded 
+against him or her in the action. In addition, such an employee shall be liable to repay to 
+the City upon written demand all costs incurred by the City in the defence on behalf of 
+the employee of the action. In addition, in such circumstances, the City reserves the right 
+to claim indemnity from the employee for any damages or costs which may be suffered 
+by the City. 
+
+Where an employee's employment has been terminated by the City and the City has 
+alleged that it had just cause for termination, the City may, in its sole discretion and 
+whether or not just cause has been determined by a court of law, decide that it will not 
+provide coverage under this article or may cease to provide coverage previously afforded 
+under this article. In such circumstances that employee shall be responsible for all costs 
+in connection with his or her defence of the action, and the employee shall be responsible 
+
+39-3 
+
+December 30, 2000 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 39, DEFENCE AND INDEMNIFICATION 
+
+for the payment of any damages or costs awarded against him or her in the action. Where 
+coverage has already been provided and the City thereafter terminates the employee and 
+alleges just cause, then the employee shall be liable to repay to the City all legal costs 
+incurred by the City in the defence on behalf of the employee of the action. In addition, in 
+such circumstances, the City reserves the right to claim indemnity from the employee for 
+any damages which may be suffered by the City. Under no circumstances will an 
+employee's termination and the allegation by the City of just cause for the termination 
+together with the decision by the City to refuse to afford coverage or to terminate 
+coverage constitute a conflict for the purposes of § 39-5. [Amended 2000-10-05 by By-
+law No. 869-2000] 
+
+H.  Where the City represents an employee or pays for the legal costs the employee incurs in 
+
+defending an action, such representation or payment shall take into account any association 
+sponsored or prepaid legal assistance plan or available insurance personal to the employee 
+and shall be reduced or repaid to the City to the extent that any such costs are received by 
+the employee. In addition, if the employee receives and collects upon an order of costs in 
+the action, those costs shall be paid to the City. 
+
+I. 
+
+In order to receive the benefit of this article, the employee must agree to execute any and 
+all documents required by the City to enable the City to subrogate itself to the position of 
+the employee as concerns the action. 
+
+§ 39-5. Conflicts. 
+
+A.  Where the employee has been afforded coverage under this article and where in connection 
+with an action there exists or arises a conflict between the City and an employee, the 
+employee may, subject to the provisions of this article, retain his or her own legal counsel 
+for his or her defence of the action. 
+
+B.  The City shall not be obliged to pay for the legal costs of an employee's own counsel 
+
+unless, in addition to the other provisions of this article being met, the City, through the 
+City, has approved of the legal counsel retained by the employee. 
+
+C. 
+
+In connection with an action, where there is a dispute between the City and an employee as 
+to whether or not a conflict exists as between them, that dispute shall be resolved by 
+discussion between the City and the employee or, failing the success of such discussions, 
+by an arbitrator appointed pursuant to the Arbitration Act 1991 (Ontario) who shall 
+summarily determine the question as to whether or not a conflict exists. Such determination 
+shall be final and shall not be appealable on any ground. 
+
+§ 39-6. Investigation, negotiation and settlement. 
+
+In any action, whether the employee is separately represented or not, the City may make such 
+investigation, negotiation or settlement on behalf of the City and the employee, or either one of 
+them, as may be deemed appropriate by the City. 
+
+39-4 
+
+December 30, 2000 
+
+ 
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 39, DEFENCE AND INDEMNIFICATION 
+
+§ 39-7. Counterclaims and third-party actions. 
+
+An employee may not commence either a counterclaim or a third-party proceeding as part of an 
+action unless the commencement of such proceedings has been approved, in advance, by the 
+City. 
+
+§ 39-8. Appeals by the employee. 
+
+Where an employee seeks to appeal a judgement in an action, the City shall, in its sole discretion, 
+determine whether to represent the employee in the appeal and whether the costs of the appeal 
+will be paid for by the City. Where the City determines that it will not represent the employee on 
+an appeal or pay the legal costs associated with such an appeal by an employee, the employee 
+may nevertheless proceed with the appeal at his or her own expense. If this occurs and the 
+employee is successful in the appeal, the City may, in its sole discretion, determine whether it 
+will reimburse the employee for his or her costs of the appeal. 
+
+§ 39-9. Assessment of accounts. 
+
+The City shall have the right to assess any account rendered by counsel acting for any employee 
+in the defence of an action. 
+
+§ 39-10. Without prejudice. 
+
+Nothing in this article shall prejudice the City in any claim, action or proceeding that the City has 
+or might have against the employee in connection with the Year 2000 problem or otherwise. 
+
+39-5 
+
+December 30, 2000 
+
+ 
+ 
+ 
+ 
+

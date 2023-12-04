@@ -1,0 +1,1114 @@
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+Chapter 658 
+
+RAVINE AND NATURAL FEATURE PROTECTION1 
+
+§ 658-1. Definitions. 
+
+§ 658-2. Permit required for prohibited activities. 
+
+§ 658-3. Interpretation. 
+
+§ 658-4. Exceptions. 
+
+§ 658-5. Filing of applications; form and content. 
+
+§ 658-6. Issuance of permits; conditions. 
+
+§ 658-7. Council approval required. 
+
+§ 658-8. Permit appeals. 
+
+§ 658-9. Enforcement; power of entry; inspection powers. 
+
+§ 658-10. Orders to comply. 
+
+§ 658-10.1. Reserved. 
+
+§ 658-11. Restoration of site. 
+
+§ 658-12. Offences; additional remedies. 
+
+§ 658-13. Remedial action. 
+
+§ 658-14. Conflicting provisions. 
+
+Schedule A-1, Index Maps, 1-4 
+
+Schedule A-2, Data Maps 
+
+[History: Adopted by the Council of the City of Toronto October 3, 2002 by By-law No. 
+
+838-2002.2 Amendments noted where applicable.] 
+
+1
+
+ Editor's Note: The title of this chapter was revised from "Ravine Protection" to "Ravine and Natural Feature Protection" May 27, 
+
+2008 by By-law No. 513-2008. 
+2
+
+ Editor's Note: This by-law was passed under the authority of sections 223.1 and 223.2 of the Municipal Act, R.S.O. 1990, c. M.45. This 
+by-law repealed Chapter 455, Filling and Grading, of the City of Toronto Municipal Code; Chapter 276, Ravines, of the Municipal Code 
+of the former City of Toronto; former Borough of East York By-law No. 117-97, "A by-law respecting the protection of trees and other 
+vegetation in ravine," as amended; and former City of Scarborough By-law No. 23626, "A by-law respecting the protection of ravines," 
+as amended. 
+
+658-1 
+
+May 12, 2022 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+General References 
+
+Heritage - See Ch. 103. 
+Fences - See Ch. 447. 
+Trees - See Ch. 813 
+City of Toronto Act, 2006 - See S.O. 2006, c.11, Sched. A. 
+Ontario Heritage Act - See R.S.O. 1990, c. O.18 
+Planning Act - See R.S.O. 1990, c. P.13. 
+
+§ 658-1. Definitions. 
+
+As used in this chapter, the following terms shall have the meanings indicated, and any 
+abbreviation of a term as noted in brackets shall have a corresponding meaning: 
+
+APPLICANT - The registered owner of the property that is the subject of an application under 
+this chapter or the registered owner's authorized agent. [Amended 2008-05-27 by By-law No. 
+513-2008] 
+
+APPLICATION - A completed permit application form with supporting documentation as 
+identified in the application package or requested by Urban Forestry for permission to injure or 
+destroy trees, to place or dump fill or refuse, or to alter the grade of land within a protected area. 
+[Amended 2008-05-27 by By-law No. 513-2008] 
+
+ARBORIST - An expert in the care and maintenance of trees and includes an arborist qualified 
+by the Ontario Training and Adjustment Board Apprenticeship and Client Services Branch, a 
+certified arborist qualified by the International Society of Arboriculture, a consulting arborist 
+registered with the American Society of Consulting Arborists, a registered professional forester 
+or a person with other similar qualifications as approved by the General Manager.3 [Amended 
+2008-05-27 by By-law No. 513-2008; 2013-02-21 by By-law No. 248-2013] 
+
+BOUNDARY TREE - A tree, any part of whose trunk is growing across one or more property 
+lines. [Added 2016-02-04 by By-law No. 99-2016] 
+
+DESTROY - To remove, cut down or in any other way injure a tree to such an extent that it is 
+deemed by the General Manager to be an imminently hazardous tree or is no longer viable and it 
+becomes necessary to remove the tree. [Amended 2008-05-27 by By-law No. 513-2008; 2013-
+02-21 by By-law No. 248-2013] 
+
+EMERGENCY WORK – Work of an urgent nature, including but not limited to work associated 
+with drain repairs, utility repairs or structural repairs to a building, and work required to prevent 
+soil erosion, slipping of soil or damage to trees. [Amended 2008-05-27 by By-law No. 513-
+2008; 2013-02-21 by By-law No. 248-2013] 
+
+FILL - Earth, sand, gravel, rubble, rubbish, garbage, or any other material whether similar to or 
+different from any of these materials, whether originating on the site or elsewhere, used or 
+capable of being used to raise, lower, or in any way effect the contours of the ground. 
+
+3
+
+ Editor's Note: The former definition of "Commissioner," which immediately followed this definition, was repealed May 27, 2008 by 
+
+By-law No. 513-2008. 
+
+658-2 
+
+May 12, 2022 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+GENERAL MANAGER - The General Manager of Parks, Forestry and Recreation. [Added 
+2008-05-27 by By-law No. 513-2008] 
+
+GRADE - A defined elevation of land that has been established as a result of geologic, 
+hydrologic, or other natural processes or by human alteration; that defines ravines, depressions, 
+hills, stream channels, eskers or steepness of terrain. [Amended 2008-05-27 by By-law No. 513-
+2008] 
+
+HERITAGE TREE - A tree that has been designated under Part IV of the Ontario Heritage Act 
+or trees recognized as heritage trees by the Ontario Heritage Tree Program of Trees Ontario. 
+[Amended 2013-02-21 by By-law No. 248-2013] 
+
+IMMINENTLY HAZARDOUS TREE - A destabilized or structurally compromised tree that is 
+in imminent danger of causing damage or injury to life or property. [Amended 2008-05-27 by 
+By-law No. 513-2008; 2013-02-21 by By-law No. 248-2013] 
+
+INJURE: [Amended 2008-05-27 by By-law No. 513-2008] 
+
+A. 
+
+Not protecting trees in accordance with the City's "Tree Protection Policy and 
+Specifications for Construction Near Trees" or other standards set by the General 
+Manager. 
+
+B. 
+
+Any act or omission that will harm a tree's health in any manner. 
+
+NEIGHBOUR TREE - A tree whose trunk is growing wholly on one property and that is the 
+subject of an application to injure or destroy by an adjacent property owner. [Added 2016-02-04 
+by By-law No. 99-2016] 
+
+OFFICER - A City employee whose duties include the enforcement of this chapter, including but 
+not limited to those persons holding the positions of:  General Manager, City Forester, Urban 
+Forestry Supervisor, Urban Forestry Co-ordinator, Urban Forestry Planner, Urban Forestry 
+Planning Assistant, Urban Forestry Manager, Arborist Inspector, Arborist Foreperson, students 
+and City contractors working for Urban Forestry.4 [Amended 2013-02-21 by By-law No. 248-
+2013; 2016-02-04 by By-law No. 99-2016] 
+
+OWNER: 
+
+A. 
+
+B. 
+
+The registered owner of the property that is the subject of an application under this 
+chapter. 
+
+For purposes of making an application involving trees, "owner" shall include the owner 
+of either property where the base of a tree straddles a property line or whose property is 
+physically impacted by the roots or crown of a tree on adjacent property. 
+
+4
+
+ Editor's Note: The former definition of "ornamental trees," which immediately followed this definition, was repealed May 27, 2008 by 
+
+By-law No. 513-2008. 
+
+658-3 
+
+May 12, 2022 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+PERMIT - A permit to: [Amended 2013-02-21 by By-law No. 248-2013] 
+
+A. 
+
+B. 
+
+C. 
+
+Injure, destroy or remove trees; 
+
+Place or dump fill or refuse; and 
+
+Alter the grade of land. 
+
+PROTECTED AREA - A shaded area on any Data Map in Schedule A-2 at the end of this 
+chapter. [Amended 2004-07-22 by By-law No. 729-2004] 
+
+PROTECTED FEATURE - Any tree, woodland vegetation or slope in a protected area 
+including: [Added 2008-05-27 by By-law No. 513-2008] 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+Ravines. 
+
+Tableland forests. 
+
+Treed portions of the Lake Iroquois shoreline. 
+
+Rouge Park. 
+
+Publicly owned parks and golf courses located in valleys. 
+
+RAVINE: [Amended 2008-05-27 by By-law No. 513-2008] 
+
+A. 
+
+B. 
+
+A discernable land form with a minimum two-metre change in grade between the highest 
+and lowest points of elevation that may have vegetation cover and that has or once had 
+water flowing through, adjacent to, or standing on, for some period of the year; 
+
+Contiguous buffer areas, areas of tree canopy and environmentally significant areas that 
+contribute to the ecological function of a ravine. 
+
+REFUSE - Includes leaves, branches and logs that have not fallen naturally, roots, construction 
+material, debris and household garbage. [Amended 2008-05-27 by By-law No. 513-2008] 
+
+ROOFTOP GARDEN - Does not include the rooftops of parking garages or other structures at 
+grade. 
+
+ROUGE PARK - The urban wilderness park as defined in the Rouge Park Management Plan, 
+1994, as amended from time to time. 
+
+STANDARDS - Minimum requirements or guidelines established by the General Manager 
+pertaining to the protection and preservation of trees and ravines or slopes. [Amended 2008-05-
+27 by By-law No. 513-2008] 
+
+TABLELAND FOREST - Woodland areas that are not contiguous with ravines, including small 
+non-wooded openings that contribute to the ecological function of the tableland forest. [Added 
+2008-05-27 by By-law No. 513-2008] 
+
+658-4 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+TERMINALLY DISEASED - Advanced and irreversible decline in tree health, that has resulted 
+in the majority of crown die back or failure, due to a severe insect infestation or infection by a 
+pathogen. [Added 2013-02-21 by By-law No. 248-2013] 
+
+TREE - A tree of any species and any size. [Added 2008-05-27 by By-law No. 513-2008] 
+
+TREE PROTECTION POLICY AND SPECIFICATIONS FOR CONSTRUCTION NEAR 
+TREES - The most recent version of the City's "Tree Protection Policy and Specifications for 
+Construction Near City Trees." [Amended 2013-02-21 by By-law No. 248-2013] 
+
+TREED PORTIONS OF THE LAKE IROQUOIS SHORELINE — Woodland portions of the 
+shoreline of glacial Lake Iroquois and contiguous slopes with a minimum two-metre change in 
+grade between the highest and lowest points of elevation, and contiguous buffer areas. [Added 
+2008-05-27 by By-law No. 513-2008] 
+
+TRUNK - The entire trunk of a tree from its point of growth away from the roots up to its top 
+where it branches out to limbs and foliage.[Added 2016-02-04 by By-law No. 99-2016] 
+
+WOODLAND - A treed area that provides environmental benefits, including erosion prevention, 
+water retention, provision of habitat or recreation. [Amended 2008-05-27 by By-law No. 513-
+2008] 
+
+§ 658-2. Permit required for prohibited activities. 
+
+A.  No person shall injure, destroy, remove or permit the injury, destruction or removal of any 
+tree on any land in a protected area, unless authorized by permit to do so. [Amended 2013-
+02-21 by By-law No. 248-2013] 
+
+B.  No person shall place or dump fill or refuse or alter the grade of land or permit the placing 
+or dumping of fill or refuse or alteration of grade on any land in a protected area unless 
+authorized by permit to do so. [Amended 2013-02-21 by By-law No. 248-2013] 
+
+§ 658-3. Interpretation. 
+
+[Amended 2004-07-22 by By-law No. 729-2004; 2008-05-27 by By-law No. 513-2008] 
+
+A.  The City Surveyor may plot the boundary line defining a protected area on a plan or map 
+
+drawn to a suitable scale, upon request, at the expense of the requestor. 
+
+§ 658-4. Exceptions.  
+
+[Amended 2003-02-07 by By-law No. 123-2003; 2008-05-27 by By-law No. 513-2008; 2013-
+02-21 by By-law No. 248-2013; 2016-02-04 by By-law No. 99-20165] 
+
+A. 
+
+Despite § 658-2A, a permit is not required in the following circumstances: 
+
+5
+
+ Editor's Note: By-law No. 99-2016 deleted § 658-4A(10) respecting the erection of fences. 
+
+658-5 
+
+May 12, 2022 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+(1) 
+
+(2) 
+
+(3) 
+
+Removal of a terminally diseased, dead or imminently hazardous tree, certified as 
+such by the General Manager. 
+
+Pruning of a tree in accordance with good arboricultural practice to maintain the 
+health of the tree. 
+
+Pruning of tree branches that interfere with utility conductors as certified by the 
+General Manager. 
+
+(4) 
+
+Pruning or removal of fruit trees maintained for fruit production. 
+
+(5) 
+
+Injury or destruction of trees having a soil depth of less than 1.5 metres above a 
+built substructure on rooftop gardens or in interior courtyards, solariums, raised 
+podiums or planters. 
+
+(6) 
+
+Emergency work as certified by the General Manager. 
+
+(7) 
+
+(8) 
+
+Normal maintenance and play enhancement activities within manicured areas of 
+turf of an existing golf course as certified by the General Manager. 
+
+Farming, maintenance and management activities associated with Agricultural 
+Heritage Reserve Zones located within the Rouge Park. 
+
+(9)  Maintenance or management activities or improvement of recreational 
+
+opportunities or infrastructure associated with Special Management Zones within 
+the Rouge Park. 
+
+B. 
+
+Despite § 658-2B, a permit is not required in the following circumstances: 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+Cultivation or tilling of garden beds as long as such work does not alter or create slopes 
+at greater than 10 percent. 
+
+Placing of soil involving an amount of less than five cubic metres for the purposes of 
+maintaining existing manicured areas. 
+
+Placing or dumping of fill or refuse or alteration of the grade of land on rooftop gardens 
+or in interior courtyards, solariums, raised podiums or planters. [Amended 2008-05-27 
+by By-law No. 513-2008] 
+
+Emergency work as certified by the General Manager. [Amended 2008-05-27 by By-law 
+No. 513-2008] 
+
+Grade changes within areas that are regulated by the Toronto and Region Conservation 
+Authority. [Amended 2008-05-27 by By-law No. 513-2008] 
+
+Normal maintenance and play enhancement activities within manicured areas of turf of 
+an existing golf course as certified by the General Manager. [Amended 2008-05-27 by 
+By-law No. 513-2008] 
+
+658-6 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+(7) 
+
+Farming, maintenance and management activities associated with Agricultural Heritage 
+Reserve Zones located within the Rouge Park. 
+
+(8)  Maintenance or management activities or improvement of recreation opportunities or 
+
+infrastructure associated with Special Management Zones within the Rouge Park. 
+[Amended 2008-05-27 by By-law No. 513-2008] 
+
+(9) 
+
+The erection of any fence if the fence is erected in accordance with the applicable 
+provisions of any zoning by-law or fence by-law, provided that the fence is maintained 
+such that the uphill side of the fence is kept clear of refuse and fill. [Amended 2008-05-
+27 by By-law No. 513-2008] 
+
+§ 658-5. Filing of applications; form and content. 
+
+[Amended 2008-05-27 by By-law No. 513-2008] 
+
+A. 
+
+An owner who wishes to do any of the following within a protected area shall submit a 
+completed application to the General Manager: 
+
+(1) 
+
+Injure or destroy a tree. 
+
+(2) 
+
+Place or dump fill or refuse. 
+
+(3) 
+
+Alter the grade of land. 
+
+B. 
+
+A completed application shall consist of the following: 
+
+(1) 
+
+The applicant's name, address and telephone number. 
+
+(2) 
+
+The purpose for which the permit is required. 
+
+(3) 
+
+In the case of an application to injure or destroy a tree: 
+
+(a) 
+
+An inventory of trees and other vegetation. 
+
+(b) 
+
+A tree protection plan. 
+
+(c) 
+
+A tree removal plan. 
+
+(d) 
+
+A tree replacement, woodland management, stewardship, or rehabilitation 
+plan. 
+
+(4) 
+
+In the case of an application to dump fill or refuse or to alter the grade of land: 
+
+(a) 
+
+A grading plan showing existing and proposed conditions. 
+
+(b) 
+
+A drainage plan. 
+
+(c) 
+
+A geotechnical report. 
+
+658-7 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+§ 658-6. Issuance of permits; conditions. 
+
+[Amended 2008-05-27 by By-law No. 513-2008; 2013-02-21 by By-law No. 248-2013] 
+
+A. 
+
+Issuance of permits. 
+
+The General Manager is authorized to issue permits: 
+
+(1)  When trees cause or are likely to cause structural damage to load-bearing 
+
+structures. 
+
+(2)  Where site plan approval, subdivision approval, consent or Committee of 
+
+Adjustment approval under the Planning Act has been obtained, and:  
+
+(a) 
+
+(b) 
+
+Tree injury or destruction is required based on plans approved by the 
+Ontario Municipal Board, City Council, or a final and binding decision of 
+the Committee of Adjustment. 
+
+The placing or dumping of fill or the alteration of the grade of land is 
+required based on plans approved by the Ontario Municipal Board, City 
+Council, or a final and binding decision of the Committee of Adjustment. 
+
+(3)  Where a building permit, front yard or boulevard parking permit or permission for 
+
+driveway widening has been obtained, and: 
+
+(a) 
+
+(b) 
+
+Tree injury or destruction is required to facilitate construction in 
+accordance with an approved permit or permission. 
+
+The placing or dumping of fill or the alteration of the grade of land is 
+required in order to facilitate construction in accordance with an approved 
+permit or permission. 
+
+(4) 
+
+For the pruning of tree roots in accordance with good arboricultural practice 
+causing minimal damage to the trees, provided that the pruning takes place under 
+the direction of an arborist approved by the General Manager. 
+
+(5)  Where a plan has been prepared for ravine restoration or forest stewardship, 
+management or enhancement and the plan has been approved by the General 
+Manager. 
+
+(6)  Where tree injury, destruction or removal is in accordance with plans approved by 
+
+the General Manager. 
+
+(7)  Where the placing or dumping of fill or the alteration of grade is outside of the 
+
+Toronto Region Conservation Authority's regulated area and is in accordance with 
+plans approved by the General Manager. 
+
+658-8 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+(8)  Where the injury, destruction or removal of trees has been ordered or approved by 
+the General Manager for arboricultural management, pest management, or 
+otherwise for purposes of dealing with trees affected by disease or infestations. 
+
+(9) 
+
+In protected areas that have undergone a Schedule B or C Municipal Class 
+Environmental Assessment process. 
+
+(10)  Where injury or destruction of trees is required to remediate contaminated soil. 
+
+(11)  Where placement of fill or alteration of grade is required to remediate 
+
+contaminated soil. 
+
+(12)  For lands owned by the City, its agencies boards or commissions provided that: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Council has approved the work that will impact trees or alter the grade of 
+land; and 
+
+The General Manager is satisfied that there is no reasonable alternative to 
+tree injury, destruction or removal or the alteration of grade in order to 
+complete the work; and 
+
+The General Manger is satisfied that the applicant has undertaken to 
+implement satisfactory replanting and site restoration, as applicable. 
+
+(13)  Where City work is required within a right-of-way in a protected area provided 
+
+that: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Council has approved the work that will impact trees or alter the grade of 
+land; and 
+
+The General Manger is satisfied that there is no reasonable alternative to 
+tree injury, destruction or removal or alteration of grade in order to 
+complete the work; and 
+
+The General Manager is satisfied that the applicant has undertaken to 
+implement satisfactory replanting and site restoration, as applicable. 
+
+(14)  Where a utility easement is located within a protected area and repair or 
+
+replacement of the utility is required for the provision of such utilities; provided 
+that: 
+
+(a) 
+
+(b) 
+
+The General Manager is satisfied that there is no reasonable alternative to 
+tree injury, destruction or removal or alteration of grade in order to 
+complete the work; and 
+
+The General Manager is satisfied that the applicant has undertaken to 
+implement satisfactory replanting and site restoration, as applicable. 
+
+658-9 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+B. 
+
+Conditions; replacement trees and site restoration. 
+
+(1)  Where a tree is to be injured or destroyed, the issuance of a permit shall be subject 
+
+to conditions ensuring that replacement trees are planted to the satisfaction of the 
+General Manager in accordance with the approved tree removal or replacement 
+plan or woodland management or rehabilitation plan submitted by the applicant. 
+
+(2)  Where replacement planting is not physically possible on site, the General 
+
+Manager may: 
+
+(a) 
+
+Require replacement planting at another suitable location; or 
+
+(b) 
+
+Accept a cash in lieu payment in an amount equal to 120 percent of the 
+City's cost of replanting and maintaining the required trees for a period of 
+two years. 
+
+(3) 
+
+The General Manager shall obtain a guarantee from the applicant to ensure that 
+the tree removal or replacement plan or woodland management or rehabilitation 
+plan is carried out, and where substantial replanting or site restoration is required 
+or where the applicant has previously violated conditions to a permit, the General 
+Manager may require an applicant to post security acceptable to the General 
+Manager in an amount equal to 120 percent of the total cost of replanting and 
+maintaining the trees for a period of two years or restoring the lands, or both. 
+
+(4)  Where a tree is to be injured, the issuance of a permit shall be subject to 
+conditions that ensure that the tree is protected in accordance with good 
+arboricultural practices. 
+
+C. 
+
+Expiry of permits and applications. 
+
+The General Manager is authorized to establish expiry dates for permits and applications. 
+[Amended 2016-02-04 by By-law No. 99-2016] 
+
+D. 
+
+Transfer of permits. 
+
+The General Manager is authorized to approve or refuse the transfer of an application or 
+permit. 
+
+E. 
+
+Permit replacement. 
+
+(1) 
+
+The General Manager is authorized to require the submission of a new application 
+where: 
+
+(a) 
+
+A permit or application has expired; [Amended 2016-02-04 by By-law 
+No. 99-2016] 
+
+(b) 
+
+A request to transfer a permit or application has been refused; 
+
+658-10 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+(c) 
+
+Additional trees are required to be injured, destroyed or removed. 
+
+(2) 
+
+The General Manager may refuse to issue a replacement permit or may issue a 
+replacement permit subject to additional or alternative conditions as provided for 
+in this article. 
+
+F. 
+
+Posting of permits. [Added 2016-02-04 by By-law No. 99-2016] 
+
+Permits to injure or destroy shall be posted in a conspicuous location visible from the 
+street, for a period of one day prior to the commencement of the approved tree injury or, 
+dumping of fill or refuse, or alteration of grade and until such time as the approved tree 
+injury or destruction, dumping of fill or refuse, or alteration of grade has been completed 
+in accordance with the permit. 
+
+G. 
+
+Boundary and neighbour trees; notice. [Added 2016-02-04 by By-law No. 99-2016] 
+
+Upon receipt of an application to injure or destroy a boundary tree or neighbour tree, the 
+General Manager shall: 
+
+(1) 
+
+Provide notice of the application in writing to all boundary tree co-owners. 
+
+(2) 
+
+Provide notice of the application in writing to the neighbour tree owner. 
+
+(3) 
+
+Advise the applicant that all arborist reports, tree protection plans, landscaping 
+and replanting plans, surveys and other supporting documentation submitted as 
+part of the application will be provided to the boundary tree co-owners or 
+neighbour tree owner. 
+
+§ 658-7. Council approval required. 
+
+[Amended 2008-05-27 by By-law No. 513-2008; 2013-02-21 by By-law No. 248-2013] 
+
+The injury or destruction of trees, the placing or dumping of fill or refuse or the alteration of the 
+grade of land must be authorized by City Council in the following circumstances: 
+
+A. 
+
+B. 
+
+The tree is a heritage tree. 
+
+The tree is healthy and the management of the tree or forest cover has not been addressed 
+through submission of plans to the satisfaction of the General Manager. 
+
+§ 658-8. Permit appeals. 
+
+[Amended 2008-05-27 by By-law No. 513-2008] 
+
+A.  Where the General Manager refuses to issue a permit, an applicant may within 30 days of 
+
+the date of refusal appeal to the community council having jurisdiction over the area in 
+which the subject property is located, by written notice delivered to the General Manager 
+setting out the reasons why the applicant believes a permit should be issued and 
+
+658-11 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+requesting to be heard by the community council. [Amended 2022-05-12 by By-law 
+480-2022] 
+
+B.  Where an applicant has filed an appeal, the General Manager shall prepare and forward a 
+report on the application to the next community council meeting, setting out the grounds 
+for refusal of the application. 
+
+C. 
+
+Upon consideration of the application, the appropriate community council may uphold 
+the decision of the General Manager or may direct the General Manager to issue a permit, 
+subject to any conditions the community council may deem appropriate. [Amended 
+2022-05-12 by By-law 480-2022] 
+
+§ 658-9. Enforcement; power of entry; inspection powers.6 
+
+[Amended 2008-05-27 by By-law No. 513-2008] 
+
+A. 
+
+An employee or officer of the City may enter upon on any lands at any reasonable time 
+for the purpose of carrying out an inspection to determine whether: 
+
+(1) 
+
+This chapter is being complied with. 
+
+(2) 
+
+The conditions of any permit issued under this chapter are being complied with. 
+
+B. 
+
+A person carrying out an inspection under § 658-9A may: 
+
+(1) 
+
+Require the production of documents relevant to the inspection. 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+Inspect and remove documents or things relevant to the inspection for the purpose 
+of making copies. 
+
+Require information from any person concerning a matter related to the 
+inspection. 
+
+Alone or in conjunction with a person possessing special or expert knowledge, 
+make examinations and take tests, samples and photographs necessary for the 
+purposes of the inspection. 
+
+Impose contravention inspection fees in accordance with Chapter 441, Fees and 
+Charges, Appendix "E", Schedule 1, where an inspection is undertaken in order to 
+determine compliance with this chapter or the conditions of a permit. [Added 
+2016-02-04 by By-law No. 99-2016] 
+
+6
+
+ Editor's Note: The title of this section was revised from "Power of entry; inspection powers" February 21, 2013 by By-law No. 248-
+
+2013. 
+
+658-12 
+
+May 12, 2022 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+§ 658-10. Orders to comply. 
+
+[Added 2013-02-21 by By-law No. 248-20137] 
+
+A. 
+
+An officer who finds a contravention of this chapter may make one or more orders 
+requiring: 
+
+(1) 
+
+The contravening activity to be discontinued (under section 384 of the City of 
+Toronto Act, 2006); and [Amended 2016-02-04 by By-law No. 99-2016] 
+
+(2)  Work to be done to correct the contravention (under section 385 of the City of 
+
+Toronto Act, 2006). 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+F. 
+
+The order may be served personally on the person to who it is directed or by registered 
+mail to the last known address of that person and, where the order is served by mail, the 
+service shall be deemed to have been made on the third day after the day of mailing. 
+
+If there is evidence that the occupant of the property is not the registered property owner, 
+the notice shall be served on both the registered property owner and the occupant of the 
+property. [Amended 2016-02-04 by By-law No. 99-2016] 
+
+If the address of the owner is unknown or the City is unable to effect service on the 
+owner or occupant under Subsection B, a placard stating the terms of the order and placed 
+in a conspicuous place upon the land on or near the property shall be deemed to be 
+sufficient service on the owner. 
+
+No person shall deface, cover up or remove a placard placed under § 658-10D. 
+
+If the delay necessary to serve an order under the preceding subsections would result in 
+an immediate danger to the health or safety of any person, the order may be served 
+personally on the person to whom it is directed or by a placard stating the terms of the 
+order and placed in a conspicuous place upon land on or near the property. 
+
+§ 658-10.1. Reserved. 
+
+§ 658-11. Restoration of site. 
+
+[Amended 2008-05-27 by By-law No. 513-2008] 
+
+A person who injures or destroys a tree or places or dumps fill or refuse, or alters the grade of 
+land in a protected area without a permit or in contravention of a condition of a permit, shall 
+replace the tree and remove the fill, or refuse, regrade the area and take any other steps required 
+to restore the site to its original condition to the satisfaction of the General Manager. 
+
+7
+
+ Editor's Note: By-law No. 248-2013 added a new Section 658-10 "Orders to comply", renumbered previous §§ 658-10, 658-11, 658-12 
+
+and 658-13 to 658-11, 658-12, 658-13 and 658-14 respectively and deleted § 658-10.1 "Removal of dangerous trees". 
+
+658-13 
+
+May 12, 2022 
+
+ 
+ 
+                                                 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+§ 658-12. Offences; additional remedies. 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+A person who contravenes any provision of this chapter is guilty of an offence. 
+
+A director or officer of a corporation who knowingly concurs in the contravention of this 
+chapter is guilty of an offence. [Amended 2004-07-22 by By-law No. 729-2004; 2008-
+05-27 by By-law No. 513-2008] 
+
+A person convicted of an offence under this chapter is liable: [Added 2004-07-22 by By-
+law No. 729-2004; amended 2008-05-27 by By-law No. 513-2008] 
+
+(1) 
+
+(2) 
+
+To a minimum fine of $500 per tree and a maximum fine of $100,000 for the 
+injury or destruction of any tree in a protected area. 
+
+To a minimum fine of $500 and maximum fine of $100,000 for any other offence 
+under this chapter. 
+
+(3) 
+
+To a special fine of $100,000. 
+
+Despite § 658-12C, an offence under § 658-2B of this chapter is a continuing offence and 
+subject to a minimum fine of $500 and a maximum fine of $10,000 for each day or part 
+of a day that the offence continues. [Added 2004-07-22 by By-law No. 729-2004; 
+amended 2008-05-27 by By-law No. 513-2008] 
+
+Despite § 658-12C, failure to comply with permit conditions in accordance with § 658-
+6B is a continuing offence and subject to a minimum fine of $500 and a maximum fine of 
+$10,000 for each day or part of a day that the offence continues. [Added 2004-07-22 by 
+By-law No. 729-2004; amended 2008-05-27 by By-law No. 513-2008] 
+
+§ 658-13. Remedial action. 
+
+[Amended 2002-11-28 by By-law No. 1081-2002; 2008-05-27 by By-law No. 513-2008] 
+
+Wherever this chapter directs or requires any matter or thing to be done by a person, in default of 
+its being done by the person directed or required to do it, the matter or thing may be done under 
+the direction of the General Manager, and the City may recover the costs incurred, from the 
+person directed or required to do it by action or by adding the costs to the tax roll and collecting 
+them in the same manner as property taxes. 
+
+§ 658-14. Conflicting provisions. 
+
+To the extent of any conflict between the provisions of this chapter and any by-laws of the 
+former municipalities respecting ravines, fill and grading and injury or destruction of trees, the 
+provisions of this chapter shall prevail. 
+
+658-14 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+Schedule A-1, Index Maps, 1-4 
+
+[Amended 2002-11-28 by By-law No. 1081-2002; 2003-02-07 by By-law No. 123-2003; 2003-
+09-24 by By-law No. 940-2003; 2004-07-22 by By-law No. 729-2004; 2004-09-30 by By-law 
+No. 803-2004; 2008-05-27 by By-law No. 513-2008] 
+
+Index Maps 1-4 
+
+658-15 
+
+May 12, 2022 
+
+ 
+ 
+TORONTO MUNICIPAL CODE 
+CHAPTER 658, RAVINE AND NATURAL FEATURE PROTECTION 
+
+Schedule A-2, Data Maps 
+
+[Amended 2004-07-22 by By-law No. 729-2004; 2004-09-30 by By-law No. 803-2004; 2008-
+05-27 by By-law No. 513-2008] 
+
+Data Maps 41 
+Data Maps 42 
+Data Maps 43 
+Data Maps 44 
+Data Maps 45 (part 1) 
+Data Maps 45 (part 2) 
+Data Maps 46 (part 1) 
+Data Maps 46 (part 2) 
+Data Maps 47 (part 1) 
+Data Maps 47 (part 2) 
+Data Maps 48 
+Data Maps 49 
+Data Maps 50 
+Data Maps 51 (part 1) 
+Data Maps 51 (part 2) 
+Data Maps 52 (part 1) 
+Data Maps 52 (part 2) 
+Data Maps 53 
+Data Maps 54 
+Data Maps 55 
+Data Maps 56 (part 1) 
+Data Maps 56 (part 2) 
+Data Maps 57 (part 1) 
+Data Maps 57 (part 2) 
+Data Maps 58 
+Data Maps 59 
+Data Maps 60 
+Data Maps 61 
+
+658-16 
+
+May 12, 2022 
+
+ 
+ 
+
