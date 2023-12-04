@@ -5,3 +5,4 @@ mkdir pdfs
 for i in $(seq -w 1 999);do
     curl -L -f http://www.toronto.ca/legdocs/municode/1184_$i.pdf --output pdfs/$i.pdf
 done
+./convert.sh pdfs bylaw-txt 
